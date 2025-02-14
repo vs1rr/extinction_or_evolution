@@ -1,7 +1,7 @@
 # Domain Specificity Benchmark
 
 This anonymised repository accompanies our submission to ACL ARR 2025 (February) for the paper 
-### ``Extinction or Evolution? An Evaluation Framework for Linguistic Nuance, Historical Variation, and Domain-Specificity in the age of LLMs''
+### Extinction or Evolution? An Evaluation Framework for Linguistic Nuance, Historical Variation, and Domain-Specificity in the age of LLMs
 
 ## Table of Contents
 
