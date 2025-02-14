@@ -1,0 +1,288 @@
+original_word	synonyms	score	time_elapsed
+conditionnement	['emballage', 'packaging', 'préparation', 'mise en boîte', 'mise en conditionnement']	0.1011351500260559	0.4914078712463379
+jaloux	['envieux', 'possessif', 'suspicieux', 'méfiant', 'vigilant']	0.1009689459997189	1.5776290893554688
+foulard	['écharpe', 'châle', 'bandana', 'cache-col', 'col', 'étole.']	0.1008860486713119	0.561636209487915
+simplification	['abstraction', 'réduction', 'clarification', 'facilitation', 'allègement']	0.1003915092170408	0.44882798194885254
+impression	['empreinte', 'impact', 'sensation', 'perception', 'effet', 'ressenti', 'marque']	0.0981819771989713	0.4407470226287842
+sentiment	['émotion', 'sensation', 'ressenti', 'impression', 'affectivité', 'perception', 'pensée', 'opinion.']	0.0979674773316179	0.5246200561523438
+notation	['évaluation', 'annotation', 'signe', 'marque', 'cotation', 'mention', 'appréciation']	0.0977559326027509	0.5318057537078857
+taux	['pourcentage', 'coefficient', 'proportion', 'ratio', 'pourcent', 'index']	0.0974809808234702	0.465587854385376
+fonctionnaire	['employé', 'agent', 'bureaucrate', 'serviteur', 'officiel']	0.0974072194067839	0.6216838359832764
+habit	['costume', 'tenue', 'accoutrement', 'vêtement', 'uniforme', 'équipement']	0.0970609852145797	0.6109340190887451
+prodigue	['dépensier', 'dissipateur', 'gaspilleur', 'extravagant', 'libéral', 'munificent', 'magnifique', 'magnanime.']	0.0966031503786619	0.72617506980896
+capitaine	['commandant', 'chef', 'officier', 'skipper', 'patron', 'pilote']	0.0958309278858709	0.4927091598510742
+accueil	['bienvenue', 'réception', 'hospitalité', 'prise en charge', 'entrée']	0.09575624958633	0.48954081535339355
+perspective	['vue', 'point de vue', 'optique', 'angle', 'vision', 'approche']	0.0955886482159922	0.6262907981872559
+ethnographie	['anthropologie', 'étude des cultures', 'sociologie comparative', 'observation des peuples']	0.0955886482159922	0.47855687141418457
+messager	['courrier', 'courrier électronique', 'envoyé', 'envoyeur', 'porteur', 'dépositaire', 'intermédiaire', 'transmetteur', 'commissionnaire', 'agent.']	0.0952551994431457	0.8659281730651855
+insomnie	['veille', 'nuit blanche', 'sommeil agité', 'insomnolence']	0.093944348074662	0.7392840385437012
+indulgence	['tolérance', 'tolérance', 'clémence', 'clémence', 'complaisance', 'complaisance', 'permissivité', 'permissivité', 'conciliation', 'conciliation', 'pardon', 'pardon.']	0.0938367371375776	0.698073148727417
+aigle	['rapace', 'oiseau', 'prédateur', 'aiglon', 'faucon']	0.0931962133345908	0.5005602836608887
+ravier	['plat', 'coupe', 'récipient', 'assiette']	0.0924599001366877	0.7728030681610107
+soi	['moi', 'même', 'personne', 'individu', 'ego']	0.0922436665027604	0.4825170040130615
+invitation	['convocation', 'réception', 'convite', 'sollicitation', 'demande', 'appel.']	0.0921478869753715	0.5200061798095703
+expiration	['fin', 'terme', 'échéance', 'clôture', 'cessation', 'caducité', 'échéance']	0.0918379725572929	0.5051639080047607
+exploit	['réalisation', 'réussite', 'performance', 'exploitation', 'accomplissement', 'trouvaille', 'action', 'faire', 'valoir.']	0.0918379725572929	0.8558828830718994
+exploration	['recherche', 'reconnaissance', 'étude', 'découverte', 'investigation', 'sondage', 'prospection', 'inspection', 'examen.']	0.0915301357777713	0.6317753791809082
+boyau	['intestin', 'gros intestin', 'entrailles', 'tripe', 'viscère', 'boyauderie.']	0.0912243558141484	0.5358080863952637
+respiration	['halètement', 'souffle', 'inspiration', 'exhalation', 'puff', 'soupir', 'soufflement', 'respir', 'reprise', 'pulsion.']	0.0911837394491377	0.654926061630249
+chaos	['désordre', 'tumulte', 'confusion', 'anarchie', 'désorganisation', 'pagaille']	0.090819813216303	0.5541162490844727
+froissement	['pli', 'plissement', 'frémissement', 'bruissement', 'froissure', 'chiffonnage', 'crispation', 'craquement']	0.0906188844260014	0.5629620552062988
+ralliement	['attroupement', 'réunion', 'rassemblement', 'congrégation', 'groupe']	0.0906188844260014	0.5486531257629395
+sottise	['bêtise', 'idiotie', 'ânerie', 'ineptie', 'imbécillité', 'stupidité', 'fadaise', 'foutaise', 'bourde.']	0.0898239819310365	0.659146785736084
+intersection	['croisement', 'crossing', 'confluence', 'intersect', 'connexion', 'meeting']	0.0898239819310365	0.5190458297729492
+pistolet	['revolver', 'arme à feu', 'fusil', 'calibre', 'pistolet automatique', 'révolver', 'arme', 'flingue']	0.0893342110371922	0.6350910663604736
+centralisation	['concentration', 'regroupement', 'centralisme', 'unification', 'consolidation']	0.0886574367111529	0.4503791332244873
+insurrection	['mutinerie', 'rébellion', 'révolte', 'soulèvement', 'émeute', 'barricade', 'insubordination', 'conflit', 'échauffourée']	0.0880854532485003	0.6631069183349609
+renfort	['soutien', 'renfort', 'renforts', 'support', 'appui', 'renfort supplémentaire', 'assistance']	0.0880854532485003	0.6447610855102539
+inscription	['graffiti', 'mention', 'écriture', 'annotation', 'légende', 'texte', 'message']	0.0877551917740817	0.5164852142333984
+carnet	['registre', 'calepin', 'cahier', 'journal']	0.0876456542665178	0.46561527252197266
+mariage	['union', 'noces', 'alliance', 'épousailles', 'hyménée', 'mariage civil', 'mariage religieux']	0.087401957975961	0.6077117919921875
+hurlement	['cri', 'glapissement', 'clameur', 'rugissement', 'jappement']	0.086231022653795	0.4756128787994385
+cahier	['carnet', 'bloc-notes', 'registre', 'journal']	0.0861101662800686	0.41773009300231934
+souplesse	['flexibilité', 'agilité', 'aisance', 'souplesse', 'plasticité']	0.0856898237668465	0.5386168956756592
+gouvernement	['autorité', 'régime', 'pouvoir', 'administration', 'dirigeant', 'État', 'administration', 'gestion.']	0.0853191099002058	0.5402140617370605
+autel	"['sanctuaire', 'piédestal', 'podium', 'estrade', 'autel', ""table d'autel""]"	0.0851553758015647	0.4850449562072754
+souffrance	['douleur', 'détresse', 'mal', 'peine', 'angoisse', 'agonie', 'affliction', 'calvaire', 'tourment', 'amertume.']	0.0849082416263529	0.5912010669708252
+florence	['ville', 'cité', 'métropole', 'capitale', 'bourg']	0.0846275532242823	0.49770498275756836
+poignard	['couteau', 'dague', 'stylet', 'poignardin', 'lame.']	0.0846275532242823	0.4851207733154297
+sergent	['adjudant', 'maréchal des logis', 'sous-officier', 'caporal']	0.0840487053910109	0.4768402576446533
+ange	['divinité', 'céleste', 'esprit', 'être céleste', 'créature céleste', 'être surnaturel', 'esprit céleste.']	0.0838479749448365	0.6309430599212646
+langage	['parole', 'discours', 'idiome', 'dialecte', 'jargon', 'expression']	0.0837394079880455	0.47468113899230957
+particule	['atome', 'molécule', 'corpuscule', 'élément', 'grain', 'fragment', 'portion', 'élémentaire', 'partie', 'parcelle.']	0.0835060871774773	0.6412341594696045
+rivage	['bord', 'plage', 'littoral', 'côte', 'rive']	0.0835060871774773	0.5998678207397461
+collaboration	['coopération', 'partenariat', 'association', 'entente', 'alliance']	0.0834890659611754	0.5162971019744873
+bouleversement	['perturbation', 'chambardement', 'ébranlement', 'renversement', 'désordre', 'dislocation', 'dérangement', 'trouble', 'bouleversement.']	0.0829144448594183	0.6000001430511475
+municipale	['communal', 'local', 'urbain', 'citadin']	0.082413955252621	0.7683169841766357
+abstraction	['concept', 'idée', 'notion', 'pensée', 'réflexion']	0.0819194715211053	3.6958999633789062
+pouls	['battement', 'palpitation', 'rythme']	0.0819194715211053	0.41681480407714844
+navigation	['exploration', 'direction', 'orientation', 'cheminement', 'conduite', 'manœuvre', 'parcours', 'trajet.']	0.0808415837379328	0.5525491237640381
+relai	['rebondir', 'transfert', 'transmission', 'transmission', 'passage', 'transfert', 'liaison']	0.0805237269211389	0.43506932258605957
+oppression	['domination', 'soumission', 'tyrannie', 'contrainte', 'abus', 'pression', 'asservissement', 'dictature', 'injustice.']	0.0803132073736326	0.518096923828125
+cuiller	['cuillère', 'cuillier', 'cuillère à soupe']	0.0803132073736326	0.4445772171020508
+dentelle	['guipure', 'broderie', 'tulle', 'ajouré', 'macramé', 'crochet']	0.0800776847713639	0.44300007820129395
+crayon	['stylo', 'feutre', 'mine', 'bic', 'porte-mine']	0.0799994839073294	0.4649991989135742
+colonel	['commandant', 'chef de bataillon', 'lieutenant-colonel']	0.0799682463111141	0.48423290252685547
+liquidation	['fermeture', 'dissolution', 'clôture', 'liquidation', 'cessation']	0.0798435394942547	0.4108259677886963
+convention	['assemblée', 'congrès', 'congrès', 'conférence', 'entente', 'accord', 'pacte', 'traité', 'règle', 'pratique']	0.0784068448708894	0.5301358699798584
+illusion	"['apparence', 'mirage', 'chimère', 'leurre', 'fantasme', ""illusion d'optique"", 'vision trompeuse']"	0.0783168943796418	0.47509098052978516
+pleine	['complète', 'entière', 'totale', 'entière', 'intégrale']	0.0778093091886685	0.49384593963623047
+entente	['accord', 'concorde', 'harmonie', 'entente', 'consensus', 'alliance']	0.0777224587486767	0.4444410800933838
+acharnement	['opiniâtreté', 'ténacité', 'obstination', 'persévérance', 'endurance', 'fermeté', 'entêtement', 'inflexibilité.']	0.077428612023729	0.6140730381011963
+observatoire	"['guet', ""tour d'observation"", ""poste d'observation"", 'observatoire astronomique']"	0.077428612023729	0.4337308406829834
+man	['mec', 'gars', 'individu', 'homme', 'type', 'bourreau', 'bonhomme', 'garçon', 'mâle', 'personne.']	0.0765602537580423	0.506403923034668
+biologie	['étude', 'science', 'vie', 'naturalisme']	0.0762751131481427	0.4214131832122803
+hollande	['pays-bas', 'pays bas', 'néerlande', 'nederland']	0.0756412479419255	0.3823728561401367
+retentissement	['résonance', 'répercussion', 'écho', 'impact', 'influence', 'effet']	0.0743370884946509	0.48636484146118164
+levier	['moyen', 'outil', 'dispositif', 'mécanisme', 'instrument']	0.0743370884946509	0.5360639095306396
+expansion	['croissance', 'développement', 'extension', 'élargissement', 'dilatation', 'essor', 'progression', 'amplification', 'agrandissement.']	0.0743101156758938	0.5667169094085693
+consolation	['réconfort', 'soulagement', 'apaisement', 'conforte', 'encouragement', 'assurance', 'appui', 'secours', 'calme']	0.07393454108403	0.5661249160766602
+nerf	['tendon', 'sinew', 'brin', 'filament', 'tripe', 'corde', 'fibre.']	0.0738678733283186	0.461698055267334
+averse	['ondée', 'giboulée', 'pluie torrentielle', 'averse de pluie', 'averse de grêle', 'averse de neige']	0.0734045443737503	0.5246329307556152
+impatient	['agité', 'fébrile', 'pressé', 'impatienté', 'nerveux', 'agacé']	0.0722393928757542	0.4360010623931885
+redressement	['rectification', 'redresse', 'redressement', 'réparation', 'rétablissement', 'correction']	0.0722393928757542	0.4996170997619629
+poursuite	['chasse', 'chasse à courre', 'chasse à la trace', 'traque', 'perquisition', 'suivi', 'quête', 'recherche', 'quête incessante', 'traque implacable', 'harcellement.']	0.0720487876175068	0.6613240242004395
+wagon	['chariot', 'carriole', 'véhicule', 'charrette', 'wagonnet']	0.0718591855448292	0.43616795539855957
+flux	['afflux', 'courant', 'écoulement', 'flot', 'mouvement']	0.0718171871897475	0.409451961517334
+ballon	['sphère', 'globe', 'boule', 'orbe', 'bulle.']	0.0714413995823593	0.4888472557067871
+sympathie	['affection', 'bienveillance', 'compassion', 'compréhension', 'empathie', 'soutien']	0.0711518281885686	0.42928409576416016
+ambition	['désir', 'but', 'objectif', 'aspiration', 'rêve', 'dessein']	0.0710284435154092	0.4878809452056885
+explosion	['éclatement', 'détonation', 'blast', 'fulmination', 'déflagration', 'boum']	0.0709054860251921	0.468994140625
+traction	['traction', 'force', 'adhérence', 'attrait', 'emprise']	0.0706202340699183	0.41150903701782227
+bagage	['valise', 'valisette', 'cabas', 'sac à dos', 'sac de voyage', 'sac de toile', 'sacoche', 'sac en bandoulière', 'paquetage.']	0.0706202340699183	0.6358718872070312
+malheur	['infortune', 'calamité', 'désastre', 'adversité', 'souffrance', 'épreuve', 'détresse', 'misère', 'infortun', 'sinistre']	0.0704077967521317	0.6160342693328857
+jouet	['joujou', 'babiole', 'divertissement', 'gadget', 'jeu']	0.0698971600009431	0.4775269031524658
+orientation	['direction', 'cap', 'tendance', 'positionnement', 'alignement', 'pointage']	0.069659414558763	0.48752403259277344
+avancement	['progression', 'progrès', 'développement', 'évolution', 'amélioration', 'promotion']	0.069659414558763	0.4647557735443115
+constatation	['observation', 'constat', 'constatation', 'constance', 'vérification', 'découverte', 'constatation', 'affirmation', 'affirmation']	0.0691303557140129	0.566950798034668
+touriste	['visiteur', 'voyageur', 'vacancier', 'étranger', 'pèlerin', 'badaud', 'excursionniste', 'bourlingueur']	0.0687243888599876	0.5761480331420898
+estrade	['plateforme', 'podium', 'tribune', 'estrade', 'scène']	0.0687243888599876	0.4516448974609375
+information	['renseignement', 'donnée', 'indication', 'connaissance', 'renseignements', 'élément', 'document', 'info.']	0.0685996970169758	0.6005260944366455
+cognac	['brandy', 'eau-de-vie', 'armagnac', 'spiritueux']	0.0680394281736755	0.4703972339630127
+irritation	['colère', 'agacement', 'exaspération', 'énervement', 'contrariété', 'fâcherie']	0.0680394281736755	0.6735212802886963
+torse	['buste', 'bassin', 'tronc', 'poitrine', 'corps.']	0.0671471078041846	0.45734500885009766
+concentration	['attention', 'focalisation', 'intensité', 'application', 'vigilance']	0.0668730379764125	0.43110013008117676
+tailleur	['couturier', 'modiste', 'créateur', 'styliste', 'confectionneur']	0.0667640354695235	0.5276551246643066
+coalition	['alliance', 'entente', 'union', 'regroupement', 'association', 'coalition']	0.0666011963586222	0.47324323654174805
+animation	['vitalité', 'dynamisme', 'énergie', 'entrain', 'animation', 'activité', 'effervescence.']	0.0666011963586222	0.5675039291381836
+stock	['inventaire', 'réserve', 'provision', 'fourniture', 'matériel', 'approvisionnement', 'disponibilité', 'quantité.']	0.0656406021803728	0.5924060344696045
+malice	['malignité', 'perfidie', 'fourberie', 'méchanceté', 'ruse', 'perfidie']	0.0652225091728545	0.5575449466705322
+buste	['torse', 'poitrine', 'buste', 'thorax', 'tronc']	0.0646052614519758	0.5371761322021484
+facteur	['courrier', 'postier', 'agent', 'élément', 'variable']	0.0645441786330801	0.4433481693267822
+audace	['courage', 'témérité', 'hardiesse', 'intrépidité', 'bravoure']	0.0644527706696344	0.4917607307434082
+prison	['bagne', 'cachot', 'carcéral', 'cachotterie', 'cachot', 'cachot', 'cellule', 'geôle', 'mitard', 'pénitencier', 'cachot', 'cachot', 'prisonnier.']	0.064233772755702	0.7409219741821289
+illustration	['dessin', 'schéma', 'figure', 'image', 'représentation']	0.0636020741623488	0.4198801517486572
+instinct	['intuition', 'flair', 'pressentiment', 'réflexe', 'impulsion']	0.0630149780931579	0.4478268623352051
+carrelage	['tuiles', 'pavage', 'revêtement', 'céramique', 'dallage']	0.0630149780931579	0.42652130126953125
+pasteur	['prêtre', 'cure', 'abbé', 'ecclésiastique', 'clerc', 'religieux', 'prédicateur']	0.0623910674189682	0.5749599933624268
+recensement	['dénombrement', 'décompte', 'enquête', 'recueillement.']	0.0609519877389176	0.5757722854614258
+velours	['soyeux', 'doux', 'chatoyant', 'côtelé']	0.060561462435514	0.3759129047393799
+tristesse	['chagrin', 'peine', 'mélancolie', 'affliction', 'désolation', 'abattement']	0.0604348738628589	0.4867558479309082
+perception	['connaissance', 'compréhension', 'discernement', 'saisie', 'appréhension']	0.0601023268680156	0.46019983291625977
+cancer	['tumeur', 'maladie maligne', 'néoplasme', 'carcinome', 'métastase']	0.0601023268680156	0.4861431121826172
+union	['association', 'coalition', 'alliance', 'fusion', 'regroupement', 'accord', 'convergence', 'solidarité']	0.059882654620691	0.7852752208709717
+constance	['fidélité', 'persévérance', 'stabilité', 'régularité', 'fermeté', 'continuité']	0.0597952346869381	0.5908777713775635
+maudit	['détesté', 'exécré', 'fichu', 'sacré', 'foutu', 'satané']	0.059534499651966	0.5361032485961914
+sanction	['approbation', 'autorisation', 'aval', 'permission', 'accord', 'consentement', 'confirmation', 'soutien', 'bénédiction']	0.059534499651966	0.5259778499603271
+monture	['cadre', 'armature', 'châssis', 'support', 'structure']	0.0590197921621796	0.3948230743408203
+assassinat	['meurtre', 'homicide', 'crime', 'attentat', 'élimination', 'liquidation', 'exécution', 'assassinage', 'crime passionnel.']	0.0584304361776785	0.6028177738189697
+urgence	['crise', 'pression', 'nécessité', 'impératif', 'urgence']	0.0584304361776785	0.4525790214538574
+imagination	['créativité', 'fantaisie', 'inspiration', 'fiction', 'vision', 'conception', 'pensée']	0.0578410632083656	0.48318982124328613
+concierge	['gardien', 'portier', 'intendant', 'régisseur', 'surveillant']	0.0574067775200457	0.5199358463287354
+hebdomadaire	['hebdomadaire', 'hebdo', 'journal', 'périodique']	0.0573665766954519	0.5095081329345703
+manteau	['blouson', 'pardessus', 'veste', 'pèlerine', 'caban', 'trench-coat', 'surcoat']	0.0571424885052352	0.559133768081665
+brasserie	['taverne', 'estaminet', 'bistrot', 'débit de boisson', 'café', 'bar']	0.0566524699316081	0.7284049987792969
+peuplement	['colonisation', 'population', 'habitants', 'résidents', 'communauté', 'citoyens']	0.0564183688161882	0.5545969009399414
+permanence	['durable', 'constance', 'continuité', 'stabilité', 'persistance']	0.0563795399319375	0.5461699962615967
+infection	['contagion', 'maladie', 'mal', 'affection']	0.0558795849393624	0.46264195442199707
+rectiligne	['direct', 'droit', 'linéaire', 'droit-fil', 'en ligne droite']	0.0558795849393624	0.5482947826385498
+langouste	['homard', 'écrevisse', 'asticot', 'cigale de mer']	0.0554258941279467	0.485764741897583
+drapeau	['étendard', 'pavillon', 'bannière', 'fanion', 'étendue']	0.0547224258658018	0.4649689197540283
+ambassade	['legation', 'représentation', 'consulat', 'mission']	0.0527152326390639	0.4202561378479004
+haine	['aversion', 'détestation', 'antipathie', 'répulsion', 'animosité']	0.0525798918620701	0.5148379802703857
+minuscule	['petit', 'modeste', 'minime', 'insignifiant', 'menu']	0.0524676376095892	0.4571099281311035
+sculpture	['modelage', 'modelé', 'statue', 'figurine', 'œuvre', 'effigie', 'statuaire', 'modelé', 'modèle', 'modeler', 'modelage', 'façonnage', 'figure', 'grès', 'buste.']	0.0524452442516679	0.6938991546630859
+contradiction	['opposition', 'incohérence', 'désaccord', 'antinomie', 'paradoxe']	0.0523781787219343	0.5711390972137451
+servante	['domestique', 'femme de chambre', 'employée de maison', 'aide ménagère', 'femme de ménage', 'femme de service.']	0.0522445609190722	0.7510390281677246
+interrogation	['question', 'enquête', 'interrogation', 'requête', 'demande', 'sondage', 'examen']	0.0520454075737644	0.509990930557251
+roulement	['rotation', 'tour', 'rotation', 'rotation', 'tour', 'tourbillon', 'rotation', 'tourbillon.']	0.0520454075737644	0.5146100521087646
+nez	['pif', 'bidet', 'trompe', 'tronche', 'museau', 'mufle', 'bec', 'face']	0.0518806026099463	0.4799070358276367
+ignorant	['inculte', 'analphabète', 'béotien', 'illettré', 'incultivé', 'ignorant', 'incompétent', 'incompétente', 'inintelligent', 'insensible']	0.0518477667855096	0.7308599948883057
+moto	['motocyclette', 'motocycle', 'cyclo', 'mobile', 'scooter', 'bécane.']	0.0516516213878343	0.49950218200683594
+aristocratie	['élite', 'noblesse', 'haute société', 'classe dirigeante', 'gouvernance aristocratique']	0.0511996697006908	0.5438530445098877
+battue	['exploration', 'recherche', 'quête', 'traque', 'chasse']	0.0511996697006908	0.4857511520385742
+fraction	['part', 'portion', 'segment', 'fragment', 'morceau', 'section', 'élément', 'partage']	0.0507241309728206	0.4986708164215088
+agitation	['turbulence', 'tumulte', 'émoi', 'excitation', 'frénésie', 'fougue', 'trouble', 'trépidation.']	0.0507241309728206	0.6063380241394043
+approximation	['estimation', 'évaluation', 'conjecture', 'supposition', 'évaluation', 'proximité']	0.0506300812862208	0.40789294242858887
+barque	['chaloupe', 'embarcation', 'esquif', 'navire', 'bateau']	0.0493490792295815	0.5137231349945068
+contraction	['rétrécissement', 'réduction', 'compression', 'resserrement', 'rétrécissement', 'resserrement']	0.0490535757611409	0.4799840450286865
+conception	['idée', 'planification', 'création', 'pensée', 'projet', 'élaboration']	0.0489753715749932	0.5190551280975342
+refrain	"['rester', ""s'abstenir"", 'se retenir', ""s'empêcher"", 'résister']"	0.0488779663013754	0.5268101692199707
+loup	['canidé', 'chien-loup', 'garou', 'lobo', 'canis lupus.']	0.0481595952505028	0.5470659732818604
+neveu	['fils', 'descendant', 'héritier', 'rejeton', 'parenté']	0.0477943241079961	0.47420215606689453
+institut	['établissement', 'organisme', 'centre', 'société', 'académie', 'fondation']	0.0473340551932426	0.459151029586792
+tennis	['raquette', 'balle', 'court', 'service', 'volée', 'match', 'jeu', 'terre battue', 'service', 'échange', 'adversaire', 'smash.']	0.0472430631609604	0.5616989135742188
+courage	['hardiesse', 'bravoure', 'audace', 'détermination', 'intrépidité', 'vaillance', 'résolution']	0.0465557351222467	0.6204490661621094
+maillot	['jersey', 'chemisette', 'débardeur', 'tee-shirt', 'haut']	0.046439609705842	2.614521026611328
+ivoire	['blanc', 'écru', 'crème', 'perle', 'nacre']	0.0460739434876857	0.5485010147094727
+identification	['authentification', 'reconnaissance', 'certification', 'vérification', 'validation', 'authentification']	0.0459189862786464	0.5064170360565186
+testament	['héritage', 'legs', 'volonté', 'disposition', 'acte de dernière volonté']	0.0454099066081515	0.4861578941345215
+carrefour	['intersection', 'croisement', 'jonction', 'embranchement', 'nœud']	0.0451844851191976	0.5023419857025146
+faite	['accomplie', 'réalisée', 'terminée', 'achevée', 'exécutée', 'parachevée', 'aboutie', 'finie', 'façonnée', 'mise en œuvre.']	0.0449722608082193	0.6258108615875244
+horizon	['ligne', 'perspective', 'vue', 'panorama', 'étendue']	0.0446476299984223	0.53839111328125
+faim	['affamé', 'appétit', 'vorace', 'faim', 'besoin', 'appétence']	0.0444248760960441	0.485795259475708
+sensation	['sentiment', 'sentimentation', 'impression', 'perception', 'émotion', 'ressenti', 'perceptibilité', 'expérience', 'perception', 'excitation']	0.0443927771971307	0.5557858943939209
+flot	['flux', 'courant', 'onde', 'vague', 'marée']	0.0443287183555764	0.5741231441497803
+signification	['sens', 'définition', 'interprétation', 'compréhension', 'implication']	0.0442568727828769	0.4635326862335205
+soumission	['obéissance', 'servilité', 'docilité', 'soumissionnaire', 'allégeance', 'conformité', 'domination.']	0.0441852597201215	0.6006150245666504
+entourage	['cercle', 'groupe', 'proximité', 'ensemble', 'ambiance', 'foule', 'entité', 'bande', 'cohorte', 'assis.']	0.0435741869793113	0.624553918838501
+sympathique	['agréable', 'aimable', 'charmant', 'agréable', 'gentil', 'plaisant', 'amical']	0.0434355628425797	0.5354390144348145
+falaise	['escarpement', 'précipice', 'rocher', 'paroi']	0.0429797856878831	0.4469728469848633
+fillette	['petite', 'gamine', 'enfant', 'demoiselle', 'môme']	0.0428449118834232	0.4851949214935303
+pantalon	['pantalon', 'pantacourt', 'pant', 'jean', 'pantalons', 'pantalons', 'pantalon', 'pantalons']	0.0425776879007823	0.5823948383331299
+futaie	['forêt', 'bois', 'taillis', 'massif', 'bosquet']	0.0424453220316607	0.7569222450256348
+gain	['profit', 'bénéfice', 'avantage', 'progrès', 'acquisition', 'rendement.']	0.0421396458441899	0.5377330780029297
+etc	['ainsi', 'pareillement', 'de même', 'idem', 'entre autres']	0.041881120409563	0.42931580543518066
+regard	['observer', 'contempler', 'voir', 'regarder', 'examiner', 'scruter', 'inspecter', 'surveiller']	0.0416802079261329	0.5537858009338379
+batterie	['piles', 'accumulateur', 'énergie', 'réserve', 'source', 'cellule', 'accu']	0.0414572224297091	0.48642802238464355
+pseudo	['faux', 'fictif', 'faux-semblant', 'simulé', 'prétendu']	0.041331721251819	0.43120288848876953
+chant	['psalmodie', 'mélodie', 'air', 'hymne', 'cantique', 'refrain', 'chanson', 'vocalise', 'aria', 'hymne']	0.0412069776263105	0.6732909679412842
+assistance	['aide', 'soutien', 'support', 'secours', 'accompagnement', 'appui', 'dépannage', 'service', 'conseil', 'encadrement.']	0.0412069776263105	0.5837979316711426
+diffusion	['dispersion', 'propagation', 'dissémination', 'diffusion', 'répandage', 'dissipation', 'dissipation']	0.0410829847146967	0.48452115058898926
+insistance	['persévérance', 'persistance', 'opiniâtreté', 'entêtement', 'obstination', 'endurance', 'respect', 'fermeté.']	0.0407965495623034	0.6333980560302734
+prestige	['gloire', 'renommée', 'réputation', 'distinction', 'crédit', 'aura']	0.0407559559806494	0.48589086532592773
+consultation	['discussion', 'entrevue', 'entretien', 'rendez-vous', 'séance']	0.040314700551725	0.4438960552215576
+attraction	['magnétisme', 'charme', 'séduction', 'fascination', 'attrait', 'engouement', 'intérêt', 'passion', 'penchant', 'fascination', 'attirance']	0.0389721558140367	0.626708984375
+exil	['bannissement', 'déportation', 'éloignement', 'émigration', 'relégation']	0.0381375565740713	0.6694979667663574
+corpuscule	['cellule', 'particule', 'élément', 'grain', 'élément cellulaire', 'élément sanguin', 'microscopique', 'particule microscopique']	0.0380313238259541	0.6942248344421387
+attitude	['posture', 'comportement', 'disposition', 'position', 'perspective', 'mentalité', 'point de vue', 'approche']	0.0362603893064382	0.4749031066894531
+offensive	['agressive', 'attaque', 'agressif', 'agression', 'provocante', 'agressant']	0.0362155046512401	0.5095620155334473
+armoire	['placard', 'buffet', 'commode', 'meuble']	0.0354169786083464	0.47772908210754395
+inventaire	['recensement', 'dénombrement', 'décompte', 'enregistrement', 'enquête', 'liste', 'registre.']	0.0346529067348161	0.8136019706726074
+communion	['union', 'harmonie', 'accord', 'concorde', 'cohésion']	0.0343910459786336	0.819040060043335
+commercial	['mercantile', 'professionnel', 'marchand', 'lucratif', 'économique']	0.0342759295067386	0.4864029884338379
+fonctionnement	['marche', 'fonction', 'activité', 'opération', 'exécution', 'travail.']	0.0342615941117128	0.5338521003723145
+participation	['implication', 'contribution', 'engagement', 'collaboration', 'coopération', 'adhésion', 'association']	0.0322263853348172	0.5116381645202637
+impuissance	['incapacité', 'incompétence', 'faiblesse', 'incertitude', 'défaillance', 'inertie', 'faiblesse', 'inefficacité', 'faiblesse.']	0.0316780632332193	0.6287519931793213
+contribution	['don', 'apport', 'participation', 'collaboration', 'soutien', 'aide', 'versement', 'investissement', 'donatif', 'cotisation']	0.0315803668161547	0.539344072341919
+triste	['affligé', 'chagriné', 'mélancolique', 'désolé', 'abattu', 'déprimé', 'morose']	0.031338741974409	0.7187840938568115
+royaume	['empire', 'domaine', 'territoire', 'contrée', 'souveraineté', 'nation', 'état']	0.0312789123791925	0.6235699653625488
+tir	['lancer', 'coup', 'coup de feu', 'décharge', 'projectile', 'fusillade', 'salve', 'détonation', 'balle', 'projectile', 'munition']	0.0311244192709366	0.5998561382293701
+bond	['sauter', 'rebondir', 'saut', 'rebondissement', 'bondir']	0.0310536283249072	0.4789738655090332
+gestion	['direction', 'administration', 'conduite', 'organisation', 'supervision']	0.0310183534725881	0.43024110794067383
+chevelure	['cheveux', 'crinière', 'tignasse', 'chevelure']	0.0303855606532289	0.43543577194213867
+fusion	['union', 'mariage', 'fusionnement', 'combinaison', 'intégration', 'amalgamation']	0.0302509126739679	0.4722001552581787
+cirque	['piste', 'arène', 'manège', 'chapiteau', 'amphithéâtre']	0.0301174527651122	0.4836311340332031
+veste	['blouson', 'manteau', 'blazer', 'saharienne', 'parka', 'surveste', 'tailleur', 'redingote.']	0.0299741937508618	0.615915060043335
+escalier	['marche', 'échelle', 'escalade', 'montée', 'rampe', 'ascension']	0.0298845292284785	0.6044292449951172
+quinze	['quinze', 'quinzième', 'quinzième', 'quinzième']	0.0297629238196139	0.512840986251831
+couloir	['passage', 'corridor', 'galerie', 'hall']	0.0296953135045089	0.46381187438964844
+philosophie	['réflexion', 'réflexivité', 'doctrine', 'sagesse', 'pensée', 'théorie']	0.0296023144499296	0.4899172782897949
+enfance	['jeunesse', 'prime jeunesse', 'petite enfance', 'tendre enfance', 'enfance tendre', 'enfance innocente', 'jeunes années']	0.0295311721417106	0.7205040454864502
+familier	['commun', 'courant', 'habituel', 'usuel', 'connu']	0.0288855682373432	0.45247983932495117
+tentation	['appel', 'séduction', 'attirance', 'tentation', 'incitation']	0.0281316866487312	0.6362419128417969
+innocence	['pureté', 'candeur', 'naïveté', 'intégrité', 'sincérité', 'simplicité']	0.0271796521304264	0.5946049690246582
+violent	['sauvage', 'brutal', 'agressif', 'féroce', 'extrême', 'impétueux', 'intense', 'violent', 'rude', 'violent']	0.027018295356565	0.6583800315856934
+vision	['vue', 'regard', 'perspective', 'perception', 'visualisation', 'image', 'conception', 'idée']	0.0268412423070463	0.451570987701416
+tablier	['blouse', 'sarrau', 'cotte', 'chasuble']	0.0260227037868822	0.41337084770202637
+courrier	['messagerie', 'poste', 'dépêche', 'correspondance', 'missive', 'transmission']	0.0257608401009765	0.43250584602355957
+mouchoir	['sopalin', 'essuie-tout', 'papier', 'mouchette']	0.0252059912372631	0.4319171905517578
+treize	['treize', '13', 'treizième']	0.0247192128910999	0.3928220272064209
+avion	['aéronef', 'aéroplane', 'aérodyne', 'aérobus', 'zinc', 'coucou']	0.023897162053998	0.49045729637145996
+morale	['éthique', 'conduite', 'principes', 'valeurs', 'normes', 'déontologie']	0.0230975953536951	0.5061628818511963
+vaste	['immense', 'étendu', 'large', 'spacieux', 'gigantesque', 'colossal', 'énorme', 'grand']	0.0225177216935418	0.5253748893737793
+froide	['gelée', 'glaciale', 'frisquette', 'frigorifique', 'glacée']	0.0224007305225882	0.4636390209197998
+furieux	['enragé', 'colérique', 'irrité', 'fâché', 'indigné', 'ire', 'emporté', 'exaspéré', 'furibond']	0.0223213818858597	0.6104409694671631
+cadeau	['présent', 'don', 'offrande', 'souvenir', 'présentation', 'offre', 'présage', 'gracieuseté', 'gratification.']	0.0222486343077418	0.6876068115234375
+coordination	['harmonie', 'synchronisation', 'concordance', 'cohérence', 'concordance']	0.0220569390202222	0.5605292320251465
+vingt	['dix-neuf', 'trente moins dix', 'deux fois dix', 'une dizaine', 'deux dizaines']	0.0218358757653015	0.53816819190979
+concert	['spectacle', 'représentation', 'récital', 'performance', 'show']	0.0214673667508137	0.42770814895629883
+conscience	['connaissance', 'perception', 'sensibilité', 'moralité', 'responsabilité']	0.0213165421600586	0.4213142395019531
+sagesse	['connaissance', 'savoir', 'intelligence', 'prudence', 'discernement', 'raisonnement', 'équilibre', 'philosophie.']	0.0212888439503911	0.5160279273986816
+inspiration	['élan', 'motivation', 'idée', 'incitation', 'impulsion', 'souffle', 'suggestion']	0.0211132658559549	0.7048239707946777
+allure	['apparence', 'charme', 'élégance', 'prestance', 'style', 'façon.']	0.0209566312410092	0.5158581733703613
+symbole	['signe', 'emblème', 'représentation', 'figure', 'icône']	0.0209405602047815	0.45392298698425293
+papa	['père', 'papounet', 'géniteur', 'daron', 'pater', 'father', 'paternel', 'pops', 'daddy.']	0.0199738633422721	0.527385950088501
+heureux	['joyeux', 'content', 'satisfait', 'radieux', 'comblé', 'enchanté']	0.0198881941056337	0.5249788761138916
+plage	['rivage', 'rive', 'bord', 'brise', 'littoral', 'grève', 'mer.']	0.0196449571993058	0.5669620037078857
+discours	['allocution', 'harangue', 'oraison', 'parole', 'propos', 'récit', 'allocution', 'déclaration']	0.0190200769726271	0.510732889175415
+obscur	['ténébreux', 'sombre', 'sombre', 'obscure', 'opaque', 'caché', 'confus', 'indistinct', 'incompréhensible', 'inconnu', 'ignoré', 'secret', 'furtif', 'occulte', 'voilé']	0.0184503314236723	0.7639269828796387
+fier	['orgueilleux', 'arrogant', 'satisfait', 'glorieux', 'vaniteux', 'altier', 'fier-à-bras']	0.0182855963216752	0.5575940608978271
+solitude	['isolement', 'retrait', 'séparation', 'solitude', 'abandon', 'solitarité']	0.0177815219277415	0.5189151763916016
+tendre	['doux', 'délicat', 'douceâtre', 'affectueux', 'souple', 'sensuel', 'câlin', 'aimant', 'tendre', 'amoureux']	0.0177353261574161	0.8877968788146973
+rit	"['rire', 'sourire', 'éclater de rire', 'se marrer', ""s'éclater.""]"	0.0170310751603129	0.6054999828338623
+visage	['figure', 'faciès', 'physionomie', 'visnomy', 'minois', 'frimousse', 'trogne']	0.0168508150709132	0.5042097568511963
+refus	['rejet', 'refus', 'dénégation', 'déni', 'refus', 'déclin', 'désapprobation', 'rebut', 'opposition', 'répudiation']	0.0167387559299357	0.643916130065918
+longue	['étirée', 'allongée', 'prolongée', 'étendue', 'interminable', 'infinie', 'continue', 'perpétuelle', 'ininterrompue', 'étale']	0.0166624911563553	0.6774797439575195
+conflit	['dispute', 'querelle', 'altercation', 'bagarre', 'désaccord']	0.016397011913752	0.48186278343200684
+onze	['dix', 'un plus dix', 'neuf plus un']	0.0162152556455077	0.4130239486694336
+rupture	['séparation', 'cassure', 'interruption', 'discontinuité', 'fissure', 'division', 'brisure']	0.0158943483742928	0.47564005851745605
+portrait	['reproduction', 'effigie', 'image', 'représentation', 'peinture', 'tableau']	0.0153235075797054	0.47555088996887207
+message	['communication', 'avis', 'information', 'note', 'communiqué', 'missive', 'texte', 'déclaration']	0.0152720864133305	0.4498789310455322
+dossier	['registre', 'classeur', 'dossier', 'chemise']	0.014493890927301	0.38721418380737305
+crime	['délit', 'infraction', 'méfait', 'forfait', 'délit', 'transgression', 'méfaits', 'forfaits']	0.0142716849339904	0.6040878295898438
+commandement	['ordre', 'injonction', 'directive', 'décret', 'consigne', 'mandat', 'ordre', 'précepte.']	0.013974662490806	0.5668761730194092
+rayonnement	['brillance', 'lumière', 'éclat', 'rayon', 'lueur', 'irradiation', 'émission.']	0.013662353489177	0.5440981388092041
+stade	['arène', 'colisée', 'enceinte', 'terrain.']	0.0135046936236573	0.41842222213745117
+budget	['allocation', 'finance', 'dépense', 'ressources', 'crédits']	0.0133636984536876	0.4240458011627197
+train	['chemin de fer', 'convoi', 'locomotive', 'wagon', 'rame', 'voie ferrée', 'express', 'TGV', 'métro', 'tramway']	0.0128368232921376	0.5521790981292725
+dite	['mentionnée', 'nommée', 'citée', 'énoncée', 'formulée', 'exprimée']	0.0125450951793423	0.48641514778137207
+univers	['cosmos', 'monde', 'création', 'espace', 'cosmosmos']	0.0116944284826702	0.41285085678100586
+libres	['gratuits', 'dégagés', 'disponibles', 'non occupés', 'vacants']	0.0106085821705653	0.45971202850341797
+sale	['impur', 'souillé', 'impoli', 'dégoûtant', 'malpropre', 'dégueulasse']	0.0103017444065776	0.5116682052612305
+liaison	['relation', 'connexion', 'association', 'rapport', 'liaison', 'lien', 'attache']	0.0098674381499765	0.3896348476409912
+seule	['unique', 'solitaire', 'isolée', 'unique', 'solitaire', 'isolée']	0.009024618631144	0.4616572856903076
+douce	['suave', 'doux', 'tendre', 'gentil', 'chaleureux', 'agréable', 'calme', 'apaisant', 'tranquille', 'aimable']	0.0088313358690281	0.6380290985107422
+conversation	['dialogue', 'discussion', 'échange', 'bavardage', 'entretien', 'causerie', 'commérage', 'chuchotement', 'parlotte.']	0.0088180270743923	0.6158499717712402
+huit	['sept', 'neuf', 'huitième', 'octante']	0.0071489197592377	0.4585418701171875
+oncle	['frère', 'père', 'frangin', 'papy', 'tonton.']	0.0063810150740851	0.450747013092041
+forte	['puissant', 'potent', 'robuste', 'solide', 'puissant', 'vigoureux.']	0.0062258300289637	0.6132452487945557
+humaine	['humain', 'personnel', 'individuel', 'civilisé', 'terrestre', 'terrien', 'terrestre']	0.0051658135654625	0.5580809116363525
+quatre	['quatre', '4', 'quatre-vingts', 'quatre-vingt', 'quatre-vingt-dix', '80', '90', 'quatre-vingt-dix-neuf', '84']	0.0041748787850935	0.6865129470825195
+difficile	['ardus', 'compliqué', 'pénible', 'laborieux', 'délicat', 'corsé', 'épineux']	0.0037030770961533	0.5271921157836914
+toi	['tu', 'toi-même', 'vous', 'toi-même', 'te', 'toi-même']	0.0036935046824869	0.5976169109344482
+madame	['dame', 'femme', 'mademoiselle', 'mère', 'épouse', 'compagne', 'partenaire', 'madame.']	0.003475877101201	0.5241200923919678
+aime	['adore', 'apprécie', 'affectionne', 'est passionné par', 'est épris de', 'est amoureux de']	0.0025324431656085	0.6460559368133545
+leurs	['leur', 'ses', 'sa', 'leurs', 'son']	0.0015015483262865	0.40462589263916016
+moi	['je', 'soi-même', 'personnellement', 'ego', 'individu', 'personne']	0.0006405563580719	0.5842628479003906
+par	['auprès', 'envers', 'parmi', 'à travers', 'grâce à', 'via']	0.0003475759118881	0.5098738670349121

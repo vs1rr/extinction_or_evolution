@@ -1,0 +1,93 @@
+original_word	synonyms	score	time_elapsed
+rameux	['brindille', 'tige', 'rameau', 'branchu', 'ramifié']	1119.5661107884391	0.993901252746582
+bisannuel	['semestriel', 'biennal', 'tous les deux ans', 'bihebdomadaire']	750.9284889434655	0.4553499221801758
+bulbeux	['ampoulé', 'gonflé', 'bosselé', 'protubérant', 'enflé.']	682.6622626758776	0.5591051578521729
+paysager	['aménager', 'décorer', 'embellir', 'améliorer.']	450.5570933660792	0.5264880657196045
+officinal	['apothicaire', 'pharmaceutique', 'pharmacologique', 'médicinal', 'herboriste']	436.9038481125617	0.5165760517120361
+axillaire	['sous-axillaire', 'aisselle', 'axillairement', 'axile']	395.94411235200903	0.4785802364349365
+tourbeux	['marécageux', 'tourbeuse', 'fangeux', 'vaseux']	204.7986788027633	0.6759982109069824
+promotionnel	['publicitaire', 'marketing', 'commercial', 'promotionnaire', 'publicité']	150.1856977886931	0.3738372325897217
+comestible	['nourriture', 'aliment', 'mangeable', 'consommable', 'viande', 'plat']	120.14855823095446	0.48772716522216797
+intertropical	['tropical', 'équatorial', 'intertropicale']	109.22596202814044	0.5820000171661377
+fermentescible	['fermentable', 'digérable', 'assimilable', 'transformable']	95.57271677462288	0.4554727077484131
+distique	['couplet', 'rhétorique', 'vers', 'doublet', 'couplet.']	95.57271677462288	0.48447418212890625
+uniflore	['solitaire', 'simple', 'unique', 'isolé', 'isolée']	95.57271677462288	0.4868350028991699
+septentrional	['nordique', 'arctique', 'septentrion', 'boréal']	87.91357919338134	0.47397613525390625
+sessile	['fixe', 'adhérent', 'immobile', 'attaché', 'statique']	86.01544509716058	0.5161659717559814
+mangeable	['comestible', 'comible', 'délectable', 'savoureux', 'appétissant']	85.19625038194954	0.4563307762145996
+charnu	['charnu', 'pulpeux', 'corpulent', 'gras', 'épais', 'juteux', 'succulent.']	80.69679284168583	0.4884941577911377
+aromatique	['parfumé', 'odorant', 'parfumé', 'parfumé', 'parfumé', 'parfumé']	79.76369595476045	0.4937021732330322
+vineux	['alcoolisé', 'alcoolique', 'alcoolisé', 'alcoolisée', 'alcooliques', 'alcoolisées', 'enivré', 'enivrée', 'enivrés', 'enivrées']	76.06808069816923	0.629817008972168
+tubuleux	['canaliforme', 'tubulaire', 'tubé', 'tubéracé', 'tubéreux']	68.26622626758777	0.4229919910430908
+ligneux	['boisé', 'arboré', 'ligneux']	67.85866670778128	0.40813708305358887
+horticole	['agricole', 'jardinier', 'floral', 'botanique', 'paysan']	65.53557721688426	0.42786598205566406
+quinzain	['quinzaine', 'strophe de quinze vers', 'poème de quinze vers']	63.897187786462155	0.45273709297180176
+aqueux	['liquide', 'hydrique', 'aqueux', 'fluide', 'liquoreux']	51.02002173682876	0.49341487884521484
+successif	['consécutif', 'séquentiel', 'continu', 'ensuite', 'suivant', 'série.']	45.81023078482863	0.47406601905822754
+sableux	['granuleux', 'sablonneux', 'poudreux', 'gréseux', 'crayeux']	40.95973576055266	0.4720282554626465
+subtropical	['tropical', 'tempéré', 'semi-tropical', 'méditerranéen', 'sous-tropical.']	40.95973576055266	0.41556692123413086
+arrosable	['irrigable', 'irriguable', 'arrosé', 'arrosable']	40.95973576055266	0.6610622406005859
+cristallisable	['cristallisant', 'cristallin', 'cristallisable.']	40.95973576055266	2.004225969314575
+unicolore	['monochrome', 'simple', 'uni', 'uniforme', 'homogène', 'uni-ton.']	40.95973576055266	0.44283390045166016
+cruciforme	['en croix', 'croisé', 'en forme de croix', 'cruciforme']	36.86376218449739	0.4801149368286133
+fistuleux	['ulcèreux', 'canalaire', 'canalisé', 'canalisable']	36.86376218449739	0.41051816940307617
+fertile	['productif', 'fécond', 'prolifique', 'fructueux', 'généreux', 'luxuriant', 'riche']	35.33498331456128	0.684171199798584
+floral	['fleuri', 'végétal', 'botanique', 'champêtre']	34.516631258892694	0.49340009689331055
+originaire	['autochtone', 'natif', 'indigène', 'local', 'origine']	34.35032385373621	0.5198090076446533
+longitudinal	['long', 'lengthwise', 'linear', 'elongated', 'running']	33.35292769073574	0.4760270118713379
+recommandable	['conseillé', 'suggéré', 'préconisé', 'valable', 'bienvenu', 'adéquat', 'opportun.']	33.329981060057555	0.5498218536376953
+argileux	['limoneux', 'marneux', 'terreux', 'glaiseux', 'boueux']	32.29967734260724	0.7568209171295166
+succulent	['juteux', 'savoureux', 'appétissant', 'délicieux', 'goûteux']	29.34428830606758	0.470674991607666
+orbiculaire	['rond', 'circulaire', 'sphérique', 'globulaire', 'arrondi', 'cylindrique']	28.671815032386863	0.49632978439331055
+cultivable	['fertile', 'exploitable', 'arable', 'labourable', 'cultivable']	27.85262031717581	0.40683889389038086
+flexueux	['sinueux', 'sinueuse', 'sinueuse', 'ondulé', 'ondulée', 'ondulé', 'traversé', 'traversée', 'traversé', 'sinueusement', 'ondulément', 'ondulé', 'sinueusement']	27.306490507035107	0.682934045791626
+sauvageon	['barbare', 'indompté', 'rebelle', 'sauvage.']	27.306490507035107	0.4420030117034912
+pectique	['gélatineux', 'mucilagineux', 'visqueux', 'collant', 'glutineux']	27.306490507035107	0.5128109455108643
+tannique	['amer', 'astringent', 'corsé', 'rugueux', 'âpre']	27.306490507035107	0.4310472011566162
+bivalve	['mollusque', 'coquillage', 'bivalve']	27.306490507035107	0.41733312606811523
+celte	['gaulois', 'breton', 'irlandais', 'écossais', 'gallois']	26.87982659286268	0.5878491401672363
+nain	['lilliputien', 'racorni', 'pygmée', 'bas', 'petit', 'titulaire', 'titulaire', 'infime', 'fraîche', 'petit', 'petit', 'petit', 'petit']	25.4479335615301	0.7276859283447266
+fromental	['roseau', 'jonc', 'herbe', 'plante']	24.575841456331595	0.4351840019226074
+stomacal	['ventral', 'abdominal', 'gastrique', 'digestif']	22.05524233260528	0.5254600048065186
+pyramidal	['conique', 'en forme de cône', 'pointu', 'triangulaire', 'en forme de pyramide']	21.996895130667166	0.5968961715698242
+aquatique	['marin', 'fluvial', 'nautique', 'hydrique']	21.572127500557738	0.5061378479003906
+immangeable	['dégoûtant', 'infect', 'repoussant', 'répugnant', 'détestable']	21.186070220975516	0.5949497222900391
+labourable	['cultivable', 'arable', 'exploitable', 'fécond', 'fertile']	20.47986788027633	0.4178030490875244
+vendable	['commercialisable', 'négociable', 'monnayable', 'échangeable']	20.47986788027633	0.47370481491088867
+cultural	['éducatif', 'social', 'intellectuel', 'artistique', 'civilisationnel']	20.17419821042146	0.49904799461364746
+filandreux	['fibreuse', 'tendre', 'filamenteux', 'fibreux']	19.77366553957715	0.49692606925964355
+distant	['éloigné', 'lointain', 'écarté', 'distant', 'isolé', 'retiré', 'éloignée', 'lointaine', 'écartée', 'isolée', 'retirée']	18.305014654052297	0.8738949298858643
+audiovisuel	['visuel', 'sonore', 'multimédia', 'cinématographique', 'vidéographique', 'médiatique']	18.02228373464317	0.48651695251464844
+membraneux	['filmacé', 'pelliculaire', 'tissulaire', 'tégumentaire', 'cutané']	17.919884395241787	0.4546940326690674
+confit	['conservé', 'cuit', 'mariné', 'mijoté', 'braisé']	17.40788769823488	0.5927350521087646
+terminal	['extrémité', 'pointe', 'aboutissement', 'fin', 'ultime', 'final', 'gare', 'aéroport', 'station', 'borne']	17.133484239708302	0.6573851108551025
+inodore	['inodore', 'sans odeur', 'insipide', 'neutre', 'sans parfum']	16.63989265272452	0.4511299133300781
+montueux	['escarpé', 'accidenté', 'vallonné', 'rocheux', 'cahoteux']	16.383894304221062	0.46569085121154785
+sain	['salubre', 'santé', 'sain', 'robuste', 'vigoureux', 'équilibré', 'en forme', 'bonne santé', 'physique', 'fortifiant.']	15.753744523289486	0.588939905166626
+indigeste	['lourd', 'difficile', 'incomestible', 'écœurant', 'repoussant', 'mauvais']	15.359900910207248	0.43688011169433594
+pluvial	['pluvieux', 'humide', 'pluie']	15.09042896441414	0.385875940322876
+arable	['cultivable', 'fertile', 'exploitable', 'labourable.']	14.894449367473696	0.4099600315093994
+intercalaire	['insertion', 'inclusion', 'ajout', 'interposition', 'intercalation.']	14.894449367473696	0.47271203994750977
+maraicher	['cultivateur', 'légumier', 'horticulteur', 'paysan.']	14.74550487379896	0.4431741237640381
+livrable	['faisable', 'réalisable', 'possible', 'exécutable', 'atteignable', 'balisable', 'exécutoire.']	13.653245253517554	0.5286908149719238
+muriatique	['chlorhydrique', 'chlorure', 'acide marin', 'esprit de sel']	13.653245253517554	0.6686298847198486
+bachique	['alcoolique', 'éthylique', 'vinique', 'ivrogne', 'alcoolo', 'soûlard']	13.653245253517554	0.5145459175109863
+vinicole	['oenologique', 'cépage', 'vinifié', 'œnologique.']	13.653245253517554	0.44184017181396484
+supposable	['présumable', 'conjecturable', 'envisageable', 'pensable', 'admissible']	13.653245253517554	0.4305076599121094
+aratoire	['laboure', 'agricole', 'culturale', 'labourable', 'labouré']	13.653245253517554	0.4532649517059326
+givreux	['gelé', 'froissé', 'glacial', 'frigorifié', 'glacé', 'frileux.']	13.653245253517554	0.4917309284210205
+pulmonique	['respiratoire', 'bronchique', 'thoracique', 'pulmonaire']	13.653245253517554	0.47271203994750977
+circonvoisin	['voisin', 'contigu', 'limitrophe', 'attenant', 'proche']	13.653245253517554	0.36396193504333496
+lactescent	['lactifère', 'lactique', 'laiteux', 'blanc', 'crémeux']	13.653245253517554	0.4148900508880615
+mutique	['silencieux', 'muet', 'taciturne', 'silencieuse', 'muette', 'renfermé', 'renfermée']	13.653245253517554	0.6032860279083252
+stercoraire	['fécal', 'coprolithe', 'coprolitique', 'fécaloïde']	13.653245253517554	0.4498598575592041
+villeux	['pilifère', 'pubescent', 'cilié', 'hirsute']	13.653245253517554	0.49067187309265137
+salicole	['halophile', 'halophyte', 'halophile', 'halophyte']	13.653245253517554	0.42593979835510254
+gypseux	['crayeux', 'marneux', 'argileux', 'plâtreux']	13.653245253517554	0.44008803367614746
+atonique	['inerte', 'mou', 'faible', 'affaibli', 'épuisé', 'sans tonus']	13.653245253517554	0.4518892765045166
+superfin	['fin', 'délicat', 'délié', 'mince', 'élégant', 'raffiné', 'délicieux', 'exquis']	13.653245253517554	0.8100371360778809
+ovipare	['vivipare', 'ovovivipare']	13.653245253517554	0.3676168918609619
+piriforme	['poire', 'en forme de poire', 'piriforme', 'en forme de poire']	13.107115443376852	0.6917009353637695
+tropical	['exotique', 'équatorial', 'subtropical', 'chaud', 'torride']	13.097589923432537	0.49665188789367676
+pectoral	['thoracique', 'thoracal', 'thoracique']	13.032643196539484	0.4285581111907959
+pubescent	['adolescent', 'juvénile', 'jeune', 'prépubère']	13.032643196539484	0.4638209342956543

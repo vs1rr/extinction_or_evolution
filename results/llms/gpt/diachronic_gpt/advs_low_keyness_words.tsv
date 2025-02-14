@@ -1,0 +1,30 @@
+original_word	synonyms	score	time_elapsed
+sourdement	['secrètement', 'furtivement', 'discrètement', 'silencieusement', 'tacitement', 'clandestinement', 'subrepticement', 'en sourdine.']	0.1063889240533835	0.6925539970397949
+politiquement	['gouvernementalement', 'administrativement', 'civiquement', 'officiellement', 'réglementairement']	0.1029139089461122	2.6343510150909424
+brusquement	['soudainement', 'soudain', 'subitement', 'rapidement', 'brutalement', 'violemment', 'foudroyamment']	0.0935955115922368	0.5091860294342041
+quotidiennement	['journalièrement', 'tous les jours', 'chaque jour', 'au quotidien', 'journellement', 'régulièrement']	0.0924599001366877	0.5213367938995361
+solennellement	['gravement', 'sérieusement', 'formellement', 'officiellement', 'dignement']	0.0912243558141484	0.5211460590362549
+gravement	['sérieusement', 'sévèrement', 'sérieusement', 'gravement', 'sérieusement', 'sévèrement', 'sérieusement', 'sérieusement', 'profondément', 'gravement.']	0.0907527380219039	0.6511051654815674
+apparemment	['semblablement', 'visiblement', 'manifestement', 'vraisemblablement', 'de toute évidence']	0.0675903230372156	0.47014284133911133
+inversement	['au contraire', 'contrairement', 'inversément', 'de manière opposée', 'en sens inverse']	0.0662778895801823	0.3940091133117676
+inconsciemment	['subconsciemment', 'involontairement', 'automatiquement', 'machinalement', 'instinctivement']	0.0662778895801823	0.5461962223052979
+outre	['au-delà', 'par ailleurs', 'également', 'de plus']	0.0631607336323094	0.41809582710266113
+ensemble	['total', 'global', 'complet', 'tout', 'entier', 'unité', 'collection', 'groupe', 'série', 'assortiment']	0.0607117525169047	0.5364589691162109
+insensiblement	['graduellement', 'imperceptiblement', 'progressivement', 'lentement', 'doucement', 'subrepticement', 'discrètement', 'furtivement']	0.0600582635785229	0.6223938465118408
+vraiment	['véritablement', 'véritable', 'authentiquement', 'réellement', 'sérieusement', 'en vérité', 'en réalité', 'en effet', 'assurément', 'certes', 'sans aucun doute', 'sûrement', 'simplement', 'naturellement', 'positivement']	0.0598658232488824	0.757479190826416
+tendrement	['délicatement', 'doucement', 'affectueusement', 'douceur', 'avec tendresse', 'câlinement', 'avec douceur', 'amoureusement', 'avec affection', 'avec amour']	0.0576897686768347	0.7683169841766357
+patiemment	['calmement', 'doucement', 'tranquillement', 'sereinement', 'sagement']	0.0542513056431161	0.48218226432800293
+durement	['sévère', 'rigoureusement', 'rudement', 'péniblement', 'difficilement', 'strictement', 'durement', 'violemment', 'cruellement', 'ardemment']	0.0469183685687888	0.9021730422973633
+doux	['tendre', 'délicat', 'suave', 'agréable', 'gentil', 'souple', 'calme', 'soyeux', 'mou', 'aimable', 'amène.']	0.0390837173287716	0.8960859775543213
+volontiers	['bien', 'aisément', 'facilement', 'de bon cœur', 'volontairement', 'avec plaisir']	0.0342281914433587	0.5445759296417236
+jadis	['autrefois', 'autrement', 'naguère', 'anciennement']	0.0296237240312579	0.48017024993896484
+respectivement	['chacun', 'individuellement', 'séparément', 'respectueusement']	0.0296165840640294	0.45166826248168945
+vaguement	['faiblement', 'légèrement', 'imparfaitement', 'approximativement', 'grossièrement']	0.0295205302778757	0.5295801162719727
+visiblement	['évidemment', 'clairement', 'manifestement', 'apparemment', 'ostensiblement']	0.0265111558320729	0.5611529350280762
+que	['qui', 'lequel', 'dont', 'auquel', 'duquel', 'ce que', 'ce dont', 'ce à quoi', 'ce pour quoi', 'ce avec quoi', 'ceci', 'cela']	0.0224308816429361	0.8061110973358154
+vrai	['authentique', 'authentique', 'véridique', 'exact', 'réel', 'sincère', 'fidèle', 'honnête', 'correct', 'juste']	0.0114944736338946	0.5520870685577393
+plat	['assiette', 'mets', 'recette', 'spécialité', 'cuisine', 'menu', 'marmite', 'service']	0.008746473576885	0.4159092903137207
+soudain	['improviste', 'sur-le-champ', 'brusque', 'subit', 'imprévu', 'insoupçonné', 'inattendu', 'inopiné', 'instantané', 'foudroyant']	0.0087086610405143	0.7036499977111816
+voir	['apercevoir', 'contempler', 'percevoir', 'regarder', 'constater']	0.0051920060540692	0.440993070602417
+long	['étendu', 'prolongé', 'étiré', 'interminable', 'durée', 'durable', 'interminable', 'infini', 'vaste']	0.0034990377379593	0.610605001449585
+contre	['anti', 'envers', 'opposé', 'sur', 'vis-à-vis']	0.0007962159236543	0.40486907958984375

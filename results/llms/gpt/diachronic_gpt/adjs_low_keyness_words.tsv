@@ -1,0 +1,93 @@
+original_word	synonyms	score	time_elapsed
+picard	['patois', 'dialecte', 'régionalisme', 'parler régional', 'langage local']	0.0945952327033548	0.52091383934021
+brique	['bloc', 'pavé', 'parpaing', 'agglo', 'moellon']	0.0941603120932245	0.5694949626922607
+hospitalier	['accueillant', 'chaleureux', 'généreux', 'hospitalité', 'ouvert', 'convivial']	0.0924599001366877	0.528419017791748
+volontaire	['altruiste', 'bénévole', 'engagé', 'désintéressé', 'dévoué', 'spontané', 'délibéré', 'consentant', 'affranchi', 'libre.']	0.0909542614964159	0.6582908630371094
+pathologique	['anormal', 'morbide', 'maladif', 'anormal', 'malsain', 'déviant']	0.0906188844260014	0.5082652568817139
+lamentable	['désolant', 'déplorable', 'triste', 'pitoyable', 'affligeant']	0.086963345563806	0.586043119430542
+insaisissable	['fugitif', 'évasif', 'impalpable', 'insaisissable', 'insaisonnement']	0.0856898237668465	0.5309429168701172
+courtois	['aimable', 'poli', 'gentil', 'serviable', 'obligeant', 'affable', 'sympathique', 'gracieux', 'prévenant.']	0.0851553758015647	0.5703780651092529
+improbable	['impossible', 'invraisemblable', 'inimaginable', 'incroyable', 'peu probable']	0.0846275532242823	0.5097846984863281
+subit	['soudain', 'brusque', 'imprévu', 'inattendu', 'rapide']	0.0831388411919201	0.4385089874267578
+unanime	['unanime', 'accordé', 'unanime', 'unisson', 'un', 'commun', 'unifié']	0.0819194715211053	0.5335061550140381
+abominable	['détestable', 'déplorable', 'horrible', 'odieux', 'repoussant', 'ignoble.']	0.0807884334527665	0.5110101699829102
+rigide	['dur', 'inflexible', 'raide', 'rigoureux', 'sévère']	0.0800776847713639	0.5010712146759033
+assistant	['aide', 'serviteur', 'soutien', 'compagnon', 'adjoint', 'associé', 'acolyte', 'auxiliaire', 'partenaire', 'apprenti.']	0.0793793328692881	0.7116320133209229
+gothique	['médiéval', 'sombre', 'noir', 'macabre', 'sinistre', 'ténébreux', 'funèbre', 'torturé.']	0.0751554784597296	0.5124962329864502
+tiers	['fraction', 'part', 'section', 'segment', 'portion', 'partie']	0.0734045443737503	0.40085697174072266
+clos	['enclos', 'enclave', 'enceinte', 'fermé', 'limité', 'restreint', 'isolé', 'entouré', 'clôturé', 'confidentiel.']	0.073378243927898	0.7225069999694824
+chanteur	['vocaliste', 'interprète', 'artiste', 'crooner', 'chanteuse']	0.0730120067033024	0.5046639442443848
+neutre	['impartial', 'équitable', 'objectif', 'impartial', 'indifférent', 'détaché', 'désintéressé', 'neutre']	0.0720487876175068	0.6592261791229248
+hostile	['antagoniste', 'agressif', 'belliqueux', 'inamical', 'hostile']	0.0714206377690543	0.4274129867553711
+illusoire	['factice', 'fantaisiste', 'fictif', 'fugace', 'imaginaire', 'irréel', 'utopique']	0.0709874103302472	0.5371708869934082
+impitoyable	['cruel', 'sans pitié', 'sans merci', 'sévère', 'inflexible', 'implacable', 'endurci', 'rigoureux', 'insensible', 'sans cœur']	0.0698971600009431	0.6150579452514648
+amiral	['amiral', 'commandant de la flotte', 'vice-amiral', 'haut-amiral']	0.069659414558763	0.4867842197418213
+optimum	['meilleur', 'idéal', 'parfait', 'ultime', 'suprême', 'optimal']	0.0695411473014476	0.4360620975494385
+formidable	['impressionnant', 'redoutable', 'extraordinaire', 'exceptionnel', 'incroyable', 'fantastique']	0.0666011963586222	1.6572959423065186
+classique	['traditionnel', 'standard', 'habituel', 'typique', 'usuel', 'conventionnel', 'commun']	0.0658634307387839	0.5605740547180176
+protecteur	['gardien', 'tuteur', 'défenseur', 'garant', 'sauveur', 'prévenant', 'patron', 'ange gardien', 'guide.']	0.0627254758967115	0.6220440864562988
+timide	['timoré', 'réservé', 'introverti', 'discret', 'craintif', 'peureux']	0.062581720031402	0.5658679008483887
+technique	['méthode', 'moyen', 'procédé', 'manière', 'approche', 'astuce', 'pratique', 'savoir-faire', 'habileté', 'truc.']	0.0622533437773471	0.6893103122711182
+soufre	['sulfur', 'élément 16', 'jaune', 'minéral', 'brimstone']	0.0621543789993211	0.4472849369049072
+inaccessible	['impraticable', 'inabordable', 'irrécupérable', 'impossible', 'inaccessible', 'infranchissable', 'insurmontable', 'inatteignable.']	0.0606810900156335	0.641977071762085
+implacable	['inflexible', 'inexorable', 'impitoyable', 'intransigeant', 'irréconciliable']	0.0606810900156335	0.5162069797515869
+sable	['gravier', 'gravillon', 'silice', 'granulat', 'poussière']	0.0605216913224386	0.46456074714660645
+auguste	['majestueux', 'majestic', 'pompeux', 'grandiose', 'solennel', 'solennelle', 'splendide', 'noble', 'imposant', 'imposante.']	0.0603532452267475	0.6866171360015869
+absent	['parti', 'disparu', 'manquant', 'éloigné', 'absent', 'disparu', 'ailleurs']	0.0602349055302245	0.4696488380432129
+paysan	['agriculteur', 'fermier', 'laboureur', 'cultivateur']	0.0592474480625159	0.4593849182128906
+mondial	['international', 'planétaire', 'universel', 'global', 'terrestre']	0.0588501950582653	0.4860110282897949
+imperceptible	['invisible', 'inaperçu', 'indétectable', 'insaisissable', 'inaudible', 'minuscule', 'négligeable', 'furtif', 'fugace', 'impalpable', 'insensible', 'fantôme', 'secret.']	0.0558795849393624	0.7243149280548096
+bourbon	['whiskey', 'whisky', 'scotch', 'spiritueux']	0.0549795110879901	0.4916212558746338
+fondu	['détrempé', 'liquide', 'dissous', 'fondu', 'liquéfié', 'fusionné', 'coulé']	0.0514569544730561	0.5674781799316406
+nerval	['nerveux', 'excitant', 'tendu', 'agité', 'stressé']	0.0508185307202886	0.5511400699615479
+plan	['programme', 'projet', 'dessein', 'dessein', 'dessein', 'dessein', 'dessein']	0.0498627253765325	1.7272050380706787
+conservatoire	['école', 'académie', 'institution', 'établissement']	0.0490535757611409	0.4289379119873047
+adjoint	['assistant', 'collaborateur', 'associé', 'adjutant', 'suppléant']	0.0490535757611409	0.5010292530059814
+lucide	['clair', 'compréhensif', 'perspicace', 'conscient', 'avisé', 'éveillé']	0.0462299500683438	0.5445852279663086
+poussant	['pressant', 'promoteur', 'incitatif', 'stimulant', 'encourageant', 'insistant', 'soutenant.']	0.0461778306206907	0.5152609348297119
+septième	['7e', 'septième', 'septième.']	0.0457650678888856	0.4256739616394043
+capitaliste	['magnat', 'financier', 'entrepreneur', 'investisseur', 'bourgeois']	0.0439011101399278	0.4370722770690918
+patient	['endurant', 'résistant', 'tolérant', 'calme', 'souffrant', 'attentif', 'endurci', 'endurance', 'endurci']	0.0416257477241388	0.6396160125732422
+lointain	['distant', 'éloigné', 'éloignée', 'écarté', 'écartée', 'reculé', 'reculée']	0.041028115953809	0.5599920749664307
+cavalier	['chevaleresque', 'preux', 'écuyer', 'cavalier servant', 'jouteur', 'chavalier']	0.0399217697471273	0.5258550643920898
+spirituel	['religieux', 'mystique', 'sacré', 'divin', 'céleste', 'transcendant', 'éthéré', 'métaphysique']	0.0395746239232392	0.6726179122924805
+mobilier	['ameublement', 'mobilier', 'meubles', 'ameubli']	0.0373720216793363	0.5075578689575195
+aurore	['pointe', 'aube', 'lever', 'matin', 'aurore', 'crépuscule']	0.0371685442473254	0.5674889087677002
+absurde	['ridicule', 'insensé', 'loufoque', 'extravagant', 'illogique', 'inepte', 'saugrenu', 'aberrant', 'farfelu']	0.0365222788769974	0.7338919639587402
+extra	['supplémentaire', 'additionnel', 'en plus', 'bonus', 'accessoire', 'complémentaire']	0.0356171615309153	0.527198314666748
+esclave	['serviteur', 'soumis', 'domestique', 'asservi', 'subordonné', 'valet', 'serf', 'travailleur', 'dominé.']	0.035524488951043	0.5203640460968018
+horrible	['atroce', 'affreux', 'épouvantable', 'odieux', 'monstrueux']	0.0352190333280762	0.5419178009033203
+catholique	['universel', 'général', 'commun', 'total', 'global', 'complet', 'absolu']	0.0341046925566633	0.4318370819091797
+logique	['raisonnement', 'cohérence', 'raisonnement', 'déduction', 'bon sens', 'intelligence']	0.0328400366891582	0.6441826820373535
+interminable	['incessant', 'infini', 'sans fin', 'interminé', 'interminée', 'continuel', 'continuelle', 'perpétuel', 'perpétuelle', 'éternel', 'éternelle', 'interminablement']	0.0323026307259879	0.6226711273193359
+immobile	['fixe', 'statique', 'figé', 'inerte', 'stable', 'stagnant']	0.0322263853348172	0.504889726638794
+abstrait	['conceptuel', 'théorique', 'intellectuel', 'idéal', 'spéculatif']	0.0322263853348172	0.5289018154144287
+silencieux	['calme', 'muet', 'paisible', 'silencieux', 'tranquille']	0.0312074177223258	0.5786309242248535
+philosophique	['réfléchi', 'intellectuel', 'théorique', 'spéculatif', 'conceptuel']	0.0307505523727872	0.5072681903839111
+biologique	['naturel', 'organique', 'physiologique', 'végétal', 'animal', 'écologique']	0.0280162351303369	0.527446985244751
+financier	['monétaire', 'économique', 'fiscal', 'pécuniaire', 'budgétaire', 'financier']	0.0279588640003772	0.544856071472168
+responsable	['chargé', 'coupable', 'obligé', 'impliqué', 'redevable']	0.0266491449320446	0.7406320571899414
+imaginaire	['fictif', 'réel', 'illusoire', 'irréel', 'imagéinaire', 'fabuleux', 'hypothétique']	0.0265627339562598	0.5490479469299316
+mystique	['occulte', 'ésotérique', 'surnaturel', 'spirituel', 'transcendantal']	0.0264085981692796	0.4674408435821533
+symbolique	['allégorique', 'représentatif', 'figuratif', 'emblématique', 'signifiant', 'évocateur']	0.0259731995945165	0.5309829711914062
+fleur	['bourgeon', 'bouton', 'épanouissement', 'efflorescence', 'plante.']	0.0251595428504623	0.5056171417236328
+germain	['frère', 'parent', 'cousin', 'proche', 'apparent', 'allié']	0.0251132653344896	0.5112218856811523
+enceint	['enceinte', 'grossesse', 'enceintée', 'enceinter', 'attendre un enfant', 'être enceinte.']	0.0243084485225831	0.4936237335205078
+plat	['assiette', 'mets', 'cuisine', 'recette', 'spécialité']	0.0243084485225831	0.48788905143737793
+britannique	['anglais', 'anglais', 'rosbif', 'anglais', 'anglo-saxon']	0.0230824095579333	0.5226869583129883
+artiste	['créateur', 'peintre', 'sculpteur', 'musicien', 'interprète', 'artisan', 'plasticien', 'dessinateur', 'compositeur']	0.02050549975497	0.6452133655548096
+optique	['visuel', 'perspective', 'point de vue', 'vue', 'regard']	0.0193663053241383	0.4457240104675293
+faisant	['accomplissant', 'exécutant', 'effectuant', 'pratiquant', 'réalisant']	0.0167524481638252	0.5550172328948975
+ouvrier	['travailleur', 'employé', 'artisan', 'ouvrière', 'manœuvre']	0.0151815180728512	0.510887861251831
+atteint	['touché', 'touchée', 'frappé', 'frappée', 'affecté', 'affectée', 'impacté', 'impactée', 'atteint par.']	0.0137149625851507	0.65920090675354
+amoureux	['enchanté', 'passionné', 'épris', 'ému', 'éperdu', 'sentimental', 'affectueux', 'romantique', 'énamouré']	0.0135898260652132	0.6400818824768066
+atomique	['nucléaire', 'élémentaire', 'fondamental', 'essentiel', 'primordial']	0.0132256169714409	0.5335831642150879
+aise	['confort', 'bien-être', 'tranquillité', 'détente', 'aisance', 'sérénité']	0.0131872941920646	0.49069714546203613
+envers	"['contre', ""à l'encontre"", 'en opposition']"	0.0116131941481578	0.4272582530975342
+revenu	['provenu', 'gain', 'bénéfice', 'ressource', 'profit', 'salaire', 'revenu disponible', 'rente', 'émolument', 'perception']	0.0073509934961508	0.6172692775726318
+secret	['caché', 'crypté', 'confidentiel', 'énigmatique', 'privé', 'silencieux', 'souterrain', 'trouvé', 'non divulgué', 'hors de vue.']	0.005582627199203	0.6803860664367676
+debout	['éveillé', 'réveillé', 'levé', 'debout', 'éveillée', 'réveillée', 'levée']	0.0046821828715766	0.6003551483154297
+chaque	"['tous', 'tout', ""chaqu'un"", 'chacun', 'ensemble', 'individuellement']"	0.0042894267211805	0.4760100841522217
+avant	['précédemment', 'auparavant', 'auparavant', 'auparavant', 'auparavant', 'auparavant', 'auparavant', 'auparavant', 'auparavant', 'auparavant']	0.0041167632303686	0.756234884262085
+chef	['leader', 'patron', 'directeur', 'superviseur', 'manager', 'dirigeant']	0.0024341674547187	0.44615769386291504
+enfant	['bébé', 'bambin', 'jeune', 'petit', 'minot', 'gosse', 'poupon', 'pitchoun', 'enfantin', 'enfantillage.']	0.0013916262616978	0.6001479625701904

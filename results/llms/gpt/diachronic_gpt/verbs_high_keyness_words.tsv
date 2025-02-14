@@ -1,0 +1,102 @@
+original_word	synonyms	score	time_elapsed
+ameublir	['meubler', 'garnir', 'meublant', 'meublée', 'meublées', 'meublés.']	846.5012057180883	0.6986289024353027
+confire	['mariner', 'conserver', 'préserver', 'confiturer', 'sucrer']	826.021337837812	0.4134788513183594
+pommer	['fruitier', 'cultiver', 'pommeraie', 'verger', 'planter', 'pomme', 'fruit', 'pommer.']	812.3680925842945	0.5522079467773438
+repiquer	['transplanter', 'replanter', 'déplacer', 'réimplanter', 'bouturer']	552.1372380522499	0.4426577091217041
+stratifier	['échelonner', 'coucher', 'couvrir', 'superposer', 'empiler', 'ordonner', 'disposer', 'arranger.']	532.4765648871846	0.5065970420837402
+pailler	['paille', 'recouvrir', 'couvrir', 'garnir']	395.94411235200903	0.3814990520477295
+replanter	['transplanter', 'replacer', 'réinstaller', 'réimplanter', 'remettre']	342.572335451895	0.5119860172271729
+ressuyer	['sécher', 'assécher', 'essuyer', 'éponger', 'absorber', 'éliminer']	245.75841456331597	0.4677891731262207
+biner	['labourer', 'fouir', 'houe', 'gratter', 'becher']	228.51221003255696	0.4485199451446533
+hiverner	"['hiberner', ""passer l'hiver"", 'se mettre en hiver', 'séjourner en hiver']"	186.1806170934212	0.439129114151001
+falloir	"['convenir', 'devoir', 'nécessiter', 'falloir', ""s'imposer""]"	177.78716581663753	0.39469194412231445
+environner	['circonscrire', 'entourer', 'encercler', 'enclore', 'cerner']	177.4921882957282	0.44895100593566895
+destiner	['prévoir', 'déterminer', 'décréter', 'décider', 'projeter', 'prédestiner', 'prédire', 'désigner', 'concevoir', 'préparer.']	161.2789595571761	0.6961867809295654
+jaunir	['dorer', 'décolorer', 'pâlir', 'blanchir', 'bronzer.']	159.15783038386178	0.40768909454345703
+carder	['peigner', 'ébouriffer', 'démêler', 'épiler']	138.63295180494748	0.4020259380340576
+marcotter	['bouturer', 'greffer', 'reproduire']	122.87920728165798	0.39760804176330566
+consister	['reposer', 'résider', 'consister en', 'dépendre de', 'demeurer dans', 'être fondé sur.']	119.50340488381023	0.557053804397583
+recouvrir	['couvrir', 'envelopper', 'protéger', 'revêtir', 'habiller', 'endosser', 'masquer', 'cacher.']	101.76500721039965	0.5064969062805176
+avoisiner	['approcher', 'toucher', 'frôler', 'côtoyer', 'border']	90.11141867321584	0.4446139335632324
+ramifier	['diviser', 'étendre', 'bifurquer', 'se propager', 'se séparer']	87.50489003390797	0.47444605827331543
+sarcler	['désherber', 'arracher', 'éliminer', 'nettoyer', 'faucher']	86.18611066282955	0.5019791126251221
+empailler	['taxidermiser', 'naturaliser', 'conserver', 'momifier']	81.91947152110532	0.42043209075927734
+exhausser	['élever', 'rehausser', 'hausser', 'élever', 'amplifier', 'gonfler.']	81.91947152110532	0.5022199153900146
+fleurir	"['éclore', ""s'épanouir"", 'embellir', 'orner', 'agrémenter']"	75.95891295893534	0.44542407989501953
+ouvrer	['travailler', 'bosser', 'œuvrer', 'agir', 'opérer', 'exécuter', 'accomplir', 'fabriquer', 'produire', 'façonner', 'créer', 'élaborer', 'fournir', 'faire']	68.26622626758777	0.8036258220672607
+ombrager	"['abriter', 'cacher', 'protéger', 'voiler', 'protéger du soleil', ""mettre à l'ombre"", ""mettre à l'abri"", 'mettre à couvert', 'protéger du rayonnement solaire', 'met']"	66.16572699781584	0.8287360668182373
+munir	['pourvoir', 'équiper', 'armer', 'approvisionner', 'fournir']	65.35148851683682	0.49797797203063965
+planter	['semer', 'enraciner', 'cultiver', 'implantation', 'enfoncer']	57.959034961668735	0.4814739227294922
+enter	['penetrate', 'pierce', 'access', 'gain', 'join', 'participate', 'submit', 'record', 'register.']	54.612981014070215	0.5062911510467529
+blanchir	['éclaircir', 'pâlir', 'décolorer', 'déblanchir', 'blêmir']	51.94439216906451	0.6093060970306396
+larder	['embrocher', 'piquer', 'enfoncer', 'perforer', 'transpercer']	49.15168291266319	0.49326515197753906
+amonceler	['accumuler', 'empiler', 'entasser', 'amasser', 'agglomérer']	49.15168291266319	0.5314037799835205
+endommager	['abîmer', 'détériorer', 'nuire', 'altérer', 'dégrader', 'déteriorer']	48.63968621565628	0.586266040802002
+renfoncer	['enfoncer', 'enfoncer', 'enfoncer', 'enfoncer', 'enfoncer', 'enfoncer', 'enfoncer', 'enfoncer', 'enfoncer', 'enfoncer', 'enfoncer.']	47.78635838731144	0.5736899375915527
+saupoudrer	['éparpiller', 'disperser', 'parsemer', 'jeter', 'répandre']	43.78454512334939	0.535851001739502
+avoyer	['aiguiser', 'affûter', 'aplanir', 'dresser', 'polir']	40.95973576055266	0.46472597122192383
+recourber	['courber', 'plier', 'tordre', 'fléchir', 'incurver']	36.86376218449739	0.4331960678100586
+fructifier	"['prospérer', 'pousser', 'se développer', ""s'épanouir"", 'croître', 'se multiplier', 'porter ses fruits.']"	34.512369946391594	0.5689530372619629
+darder	['lancer', 'projeter', 'expédier', 'jeter', 'envoyer']	34.133113133793884	0.4043738842010498
+multiplier	['accroître', 'augmenter', 'décupler', 'étendre', 'accélérer', 'amplifier', 'élever', 'potentier.']	33.485940958168435	0.6197290420532227
+remanier	['réviser', 'réformer', 'réorganiser', 'modifier', 'améliorer', 'transformer', 'remodeler', 'refondre', 'corriger', 'ajuster']	31.559140667966805	0.5517921447753906
+ramollir	['adoucir', 'affaiblir', 'amollir', 'assouplir', 'détendre', 'relâcher']	30.18085792882828	0.618588924407959
+pincer	['pincer', 'presser', 'saisir', 'attraper', 'agripper']	29.53320003335986	0.5107710361480713
+espacer	['éloigner', 'écarteler', 'distancer', 'dilater', 'étaler']	28.823517757425943	0.4300050735473633
+empresser	['se presser', 'dépêcher', 'précipiter', 'hâter', 'presser', 'se hâter', 'se hâter']	28.0250823624834	0.6657779216766357
+suffire	"['satisfaire', 'suffisant', 'être à la hauteur', 'être satisfaisant', 'aller', ""faire l'affaire"", 'contenter', 'arriver', 'convenir.']"	27.53969811229705	0.636833667755127
+suppurer	['écouler', 'sécréter', 'exsuder', 'provoquer un écoulement.']	27.306490507035107	0.48147010803222656
+raire	['rugir', 'hurler', 'crier', 'pousser un cri']	27.306490507035107	0.4182252883911133
+grainer	['texturer', 'strier', 'marquer', 'granuler', 'rugueux', 'côtelé', 'nervuré', 'rainurer', 'sculpter', 'structurer']	27.306490507035107	0.6554839611053467
+ailer	"['voler', 'planer', 'battre des ailes', ""s'envoler""]"	27.306490507035107	0.4342339038848877
+accoter	"['soutenir', ""s'appuyer"", 'appuyer', 'placer près de.']"	27.306490507035107	0.4716758728027344
+conster	['surprendre', 'étonner', 'stupéfier', 'choquer', 'ébahir']	27.306490507035107	0.45673322677612305
+pourrir	['gâter', 'corrompre', 'altérer', 'détériorer', 'abîmer', 'dégrader']	27.26714397892699	0.5435938835144043
+plomber	['souder', 'réparer', 'boucher', 'colmater', 'reboucher', 'obturer', 'sceller']	26.214230886753704	0.5273070335388184
+traire	['tirer', 'tirer', 'extraire', 'extirper', 'pull', 'sortir', 'tirer', 'retirer', 'tirer', 'tirer', 'tirer', 'tirer', 'tirer', 'tirer', 'tirer', 'tirer', 't']	26.000527917568213	0.8163731098175049
+ensuivre	"['poursuivre', 'suivre', 'procéder', 'advenir', 'découler', 'résulter', 'arriver', ""s'enchaîner"", 'succéder', 'enchaîner']"	25.974466579862668	0.5892150402069092
+effeuiller	['éplucher', 'égrener', 'dépouiller', 'émonder', 'peler', 'décortiquer']	25.599834850345413	0.4360158443450928
+occasionner	['causer', 'provoquer', 'entraîner', 'engendrer', 'occasionner']	24.688059910470095	0.75858473777771
+fermenter	['barboter', 'bouillonner', 'buller', 'fermentir', 'macérer', 'mijoter', 'mûrir', 'travailler.']	24.093962212089803	0.5560369491577148
+importer	['introduire', 'intégrer', 'acheminer', 'amener', 'apporter', 'débarquer', 'déverser', 'acheter', 'faire venir.']	23.247417593827187	0.6349718570709229
+pourvoir	['fournir', 'doter', 'équiper', 'procurer', 'attribuer', 'offrir', 'subvenir', 'garantir', 'assurer', 'alimenter']	23.126371681902494	0.6132650375366211
+enterrer	['inhumer', 'ensevelir', 'mettre en terre', 'enfouir', 'ensevelir', 'interrer']	22.63564344662121	0.44510912895202637
+cueillir	['récolter', 'cueillir', 'capturer', 'prendre', 'ramasser', 'arracher收集', '採集', '收割', '摘', '摘取', '摘要', '取得', '取出', '拾']	22.461790578367587	0.6678481101989746
+rabattre	['replier', 'baisser', 'abaisser', 'diminuer', 'rabaisser']	22.1052542199808	0.4371500015258789
+employer	['utiliser', 'engager', 'recruter', 'embaucher', 'faire appel à', 'user de']	22.06719639349016	0.5004010200500488
+amincir	['mincir', 'maigrir', 'affiner', 'réduire', 'diminuer']	21.55775566344877	0.41658997535705566
+consommer	['absorber', 'ingérer', 'utiliser', 'dépenser', 'manger', 'boire', 'acquérir']	20.58025938949337	0.446260929107666
+recommander	"['préconiser', 'suggérer', 'conseiller', 'prôner', 'approuver', 'soutenir', ""s'engager"", 'soutenir', 'endorser', 'recommander.']"	20.54488333386451	0.598797082901001
+rancir	"['amollir', 'aigrir', 'gâter', ""s'aigrir"", 'pourrir']"	20.47986788027633	0.45693182945251465
+sulfater	['maudire', 'jurer', 'invectiver', 'insulter', 'blasphémer']	20.47986788027633	0.41918420791625977
+entrecroiser	['entrelacer', 'tresser', 'imbriquer', 'entremêler', 'enlacer', 'entrelarder', 'emmêler', 'nouer', 'entremêler.']	20.47986788027633	0.5706629753112793
+raviner	['creuser', 'entailler', 'éroder', 'excaver', 'tailler']	20.47986788027633	0.41292595863342285
+bonifier	['améliorer', 'enrichir', 'perfectionner', 'valoriser', 'optimiser']	20.47986788027633	0.4165072441101074
+infuser	['imbiber', 'transmettre', 'instiller', 'diffuser', 'introduire', 'inculquer']	19.19987613775906	0.414567232131958
+tasser	['compacter', 'comprimer', 'presser', 'enfoncer', 'écraser', 'aplatir']	18.773212223586636	0.4402439594268799
+ensemencer	['semer', 'planter', 'ensemencer', 'ensemencer', 'ensemencer']	18.724450633395502	0.4545271396636963
+enfouir	['enterrer', 'cacher', 'enfoncer', 'immerger', 'enraciner', 'ensevelir', 'sous-enterrer.']	18.51902946620732	0.6481468677520752
+cuire	['chauffer', 'cuire', 'torréfier', 'griller', 'rôtir', 'faire cuire', 'faire rôtir', 'faire griller', 'faire bouillir', 'faire mijoter', 'faire cuire à la vape']	17.868684725541097	0.7039339542388916
+produire	['créer', 'fabriquer', 'générer', 'engendrer', 'provoquer', 'occasionner']	17.693446486465817	0.46359801292419434
+chapitrer	['sectionner', 'diviser', 'découper', 'segmenter', 'fractionner']	16.75625553840791	0.3669869899749756
+colorer	['teinter', 'tinter', 'nuancer', 'peindre', 'enluminer', 'maquiller', 'rehausser', 'barbouiller', 'colorier.']	16.687299754299232	0.4962759017944336
+durcir	['endurcir', 'endurcissement', 'fortifier', 'renforcer', 'consolider', 'raffermir', 'cristalliser', 'stabiliser', 'endurcissement', 'robustesse.']	16.549388186081885	0.5881879329681396
+exiger	['requérir', 'nécessiter', 'réclamer', 'imposer', 'demander', 'solliciter', 'commander', 'ordonner', 'dicter', 'exiger']	16.54721748983502	0.6250641345977783
+fortifier	['renforcer', 'consolider', 'consolider', 'solidifier', 'affermir', 'consolider']	16.53194154190981	0.4432048797607422
+imbiber	['absorber', 'saturer', 'imprégner', 'tremper', 'gorger', 'infuser']	16.383894304221066	0.41063499450683594
+commencer	['démarrer', 'débuter', 'entamer', 'lancer', 'initier', 'déclencher', 'enclencher', 'entraîner', 'inaugurer', 'ouvrir.']	16.1876800011765	0.6596419811248779
+convenir	"['convenir', 'convenable', ""s'accorder"", 'correspondre', 'adéquat', 'être approprié', 'aller', 'être en accord', 'être conforme']"	15.969420787596423	0.49333715438842773
+humecter	['arroser', 'mouiller', 'humidifier', 'mouiller', 'baigner', 'tremper']	15.92878612910381	0.5406508445739746
+engraisser	['graisser', 'engraisser', 'engraissage', 'engraissé']	15.809020819862432	0.4251570701599121
+grossir	"['enfler', 'gagner du poids', 'prendre du poids', 'épaissir', ""s'épaissir"", ""s'élargir"", ""prendre de l'embonpoint"", ""s'étoffer.""]"	15.7345326397245	0.6820201873779297
+fertiliser	['enrichir', 'nourrir', 'féconder', 'engraisser', 'amender']	15.47367795398656	0.4073221683502197
+nuire	['préjudicier', 'léser', 'porter atteinte', 'causer du tort', 'nuire', 'endommager', 'détruire']	15.44080332282685	0.5195257663726807
+subdiviser	['découper', 'disséquer', 'séparer', 'segmenter', 'diviser.']	15.359900910207248	0.49117016792297363
+exhaler	['émettre', 'dégager', 'expirer', 'souffler', 'rejeter']	15.14949130869756	0.4835360050201416
+valoir	['meriter', 'couter', 'avoir', 'signifier', 'equivaux', 'compter', 'peser', 'rapporter']	15.127409978165767	0.4690060615539551
+appartenir	['dépendre', 'concerner', 'être propriété de', 'être de', 'relever de']	14.853530550530088	0.43665003776550293
+raccourcir	['abréger', 'réduire', 'tronquer', 'écourter', 'amputer', 'courcir', 'brièvement']	14.608017648868431	0.4932279586791992
+concerner	['toucher', 'impliquer', 'intéresser', 'affecter', 'porter sur', 'être en rapport avec']	14.534099786002558	0.39510297775268555
+assaisonner	['épicer', 'aromatiser', 'parfumer', 'relever', 'pimenter']	14.45637732725388	0.4163651466369629
+excepter	['exclure', 'soustraire', 'ôter', 'omettre', 'rejeter', 'retrancher.']	14.079909167689976	0.4319140911102295
+propager	['diffuser', 'répandre', 'transmettre', 'disséminer', 'propager']	13.96354628200659	0.39217495918273926

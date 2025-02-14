@@ -1,0 +1,832 @@
+original_word	synonyms	score	time_elapsed
+testament	['testament', 'will', 'legacy', 'bequest', 'inheritance', 'estate', 'document']	4.1429	0.3879570960998535
+integration	['fusion', 'combination', 'unification', 'blending', 'merging', 'incorporation', 'assimilation', 'amalgamation', 'unity']	3.8333	0.5015170574188232
+condemn	['blame', 'denounce', 'criticize', 'censure', 'reproach', 'rebuke', 'reprimand', 'reprove', 'chastise', 'disapprove']	4.0	0.6477768421173096
+compilation	['collection', 'anthology', 'selection', 'aggregation', 'assemblage', 'assortment']	3.83335	0.3887941837310791
+bufe	['counter', 'sideboard', 'buffet', 'server', 'credenza']	4.2	0.4288458824157715
+chattanooga	['noog', 'the noog', 'cha', 'chatty', 'chat', 'nooga']	4.8	0.4705479145050049
+gourmet	['epicurean', 'connoisseur', 'gastronome', 'foodie', 'epicure']	4.0	0.5430917739868164
+thesaurus	['lexicon', 'wordbook', 'vocabulary', 'dictionary', 'reference book']	4.1429	0.5210602283477783
+plantronic	['telephonic', 'telephonical', 'aural', 'audio', 'auditory']	4.6667	0.5128030776977539
+hispanic	['latino', 'Latin-American', 'Spanish-speaking']	3.8571	0.4091918468475342
+procurement	['acquisition', 'obtaining', 'purchase', 'buying', 'sourcing', 'acquisition', 'obtaining', 'purchase', 'buying', 'sourcing']	4.4286	0.5110569000244141
+lipitor	['atorvastatin', 'statin']	5.0	0.4083538055419922
+ejaculation	['discharge', 'emission', 'release', 'excretion', 'expulsion']	3.8333	0.5131330490112305
+amnesty	['pardon', 'forgiveness', 'reprieve', 'absolution', 'immunity', 'clemency']	4.5	0.6151461601257324
+diazepam	['Valium', 'lorazepam', 'alprazolam', 'clonazepam', 'Xanax']	5.8	0.6128511428833008
+shropshire	['county', 'region', 'area', 'district', 'territory']	5.1667	0.40882372856140137
+probation	['trial', 'testing', 'evaluation', 'assessment', 'probationary period', 'trial period']	4.2	0.5116097927093506
+cardiovascular	['heart', 'circulatory', 'vascular', 'blood vessel', 'cardiac']	3.8333	0.4691886901855469
+etiquette	['manners', 'decorum', 'protocol', 'propriety', 'civility', 'courtesy', 'convention']	4.5714	0.5368351936340332
+malignant	['malevolent', 'malicious', 'evil', 'wicked', 'harmful', 'injurious', 'maleficent', 'baleful']	4.3333	0.5284271240234375
+specimen	['example', 'sample', 'model', 'representative', 'instance', 'demonstration']	3.8571	0.4699997901916504
+bizjournal	['business journal', 'trade publication', 'commercial magazine', 'corporate periodical']	4.3333	0.4498939514160156
+ramada	['arbor', 'pergola', 'shelter', 'gazebo', 'pavilion', 'canopy']	4.8	0.5124471187591553
+torque	['force', 'power', 'strength', 'energy', 'twist', 'moment']	4.2857	0.5115869045257568
+hypothesis	['theory', 'supposition', 'assumption', 'premise', 'proposition', 'conjecture', 'speculation']	3.85715	0.5117790699005127
+contingency	['eventuality', 'possibility', 'likelihood', 'chance', 'circumstance', 'situation', 'occurrence', 'incident', 'emergency']	4.3333	0.3968467712402344
+equity	['fairness', 'justice', 'impartiality', 'equality', 'righteousness']	4.1667	0.3450002670288086
+demographic	['population', 'group', 'category', 'sector', 'segment', 'division']	3.86905	0.43154382705688477
+coalition	['alliance', 'partnership', 'union', 'federation', 'confederation', 'collaboration', 'affiliation', 'combination', 'merger']	4.5	0.48947691917419434
+excerpt	['extract', 'selection', 'passage', 'snippet', 'quotation', 'fragment', 'portion']	4.083349999999999	0.427459716796875
+letras	['characters', 'symbols', 'signs', 'letters', 'glyphs']	4.6667	0.46692919731140137
+seneca	['philosopher', 'stoic', 'roman', 'writer', 'statesman', 'tutor']	4.6	0.41016387939453125
+covenant	['agreement', 'contract', 'pact', 'deal', 'promise']	4.3333	0.39609289169311523
+salisbury	['casserole', 'steakhouse', 'steak', 'dish', 'beef']	4.4	2.1282520294189453
+quasi	['sort of', 'kind of', 'somewhat', 'like', 'pseudo']	4.8333	0.44483113288879395
+genomic	['genetic', 'hereditary', 'chromosomal', 'DNA-based', 'heritable', 'genetic code']	4.3333	0.4763050079345703
+embroider	['sew', 'stitch', 'adorn', 'decorate', 'embellish', 'trim', 'thread', 'beautify']	3.8333	0.46378421783447266
+lincolnshire	['shire', 'county', 'region', 'area', 'district']	4.8	0.5948128700256348
+dimm	['faint', 'dull', 'muted', 'subdued', 'soft', 'weak']	4.6	0.48665332794189453
+physician	['doctor', 'MD', 'medico', 'surgeon', 'GP', 'general practitioner']	3.83335	0.37073493003845215
+astronomical	['huge', 'immense', 'enormous', 'vast', 'colossal']	4.1429	0.3640940189361572
+orchid	['flower', 'bloom', 'blossom', 'plant', 'exotic flower', 'tropical flower']	4.2	0.4757969379425049
+scsi	['small computer system interface', 'scuzzy']	4.4	0.3144569396972656
+imprint	['imprint', 'mark', 'stamp', 'impression', 'seal', 'brand', 'engraving', 'indentation', 'embossment']	4.0	0.5357890129089355
+websphere	['sphere', 'globe', 'orb', 'circle']	5.0	0.4297330379486084
+amendment	['revision', 'alteration', 'modification', 'change', 'adjustment', 'improvement']	3.9286	0.3990051746368408
+providence	['foresight', 'care', 'caution', 'prudence', 'forethought', 'provision']	4.1429	0.44953489303588867
+blogshare	['post', 'share', 'publish', 'write', 'contribute', 'disseminate', 'distribute', 'communicate']	4.3333	3.039398193359375
+zen	['calm', 'peaceful', 'serene', 'tranquil', 'untroubled']	4.0	0.4615950584411621
+cardiology	['heart study', 'heart specialist', 'heart doctor', 'heart expert', 'heart care', 'heart treatment', 'heart medicine', 'heart health']	4.0	0.5535690784454346
+vaughn	['actor', 'performer', 'artist', 'player', 'entertainer']	4.4	0.6137521266937256
+programming	['coding', 'scripting', 'developing', 'software development', 'computer programming', 'coding', 'writing code', 'software engineering', 'software design']	3.8333	0.4561281204223633
+parliamentary	['legislative', 'congressional', 'governmental', 'senatorial', 'lawmaking', 'deliberative', 'assembly', 'council']	4.4	0.46370887756347656
+vicodin	['painkiller', 'opioid', 'analgesic', 'medication', 'prescription drug']	3.8571	0.5127639770507812
+filipino	['pinoy', 'Philippine', 'Pilipino', 'citizen of the Philippines', 'Filipino people', 'people of the Philippines']	4.0	0.4710538387298584
+genealogy	['ancestry', 'lineage', 'family tree', 'descent', 'pedigree', 'bloodline', 'heritage']	4.2857	0.759437084197998
+apa	['bad', 'wicked', 'evil', 'wrong', 'incorrect', 'erroneous']	5.2	0.49130988121032715
+pediatric	['child', 'juvenile', 'infant', 'young', 'youthful', 'baby', 'minor']	4.416650000000001	0.528008222579956
+wwf	['world wildlife fund', 'world wide fund for nature', 'wwf']	4.4	0.7160801887512207
+coldfusion	['chill', 'frigidity', 'frost', 'gelidity', 'iciness', 'refrigeration']	4.3333	0.513275146484375
+persecution	['oppression', 'mistreatment', 'discrimination', 'harassment', 'abuse', 'injustice', 'tyranny', 'hostility', 'torment', 'opprobrium']	4.4	0.59208083152771
+celexa	['Citalopram', 'Cipramil']	4.8333	0.4294919967651367
+transexuale	['transgender', 'trans', 'genderqueer', 'gender nonconforming', 'nonbinary']	4.1667	0.5115981101989746
+statute	['law', 'act', 'regulation', 'rule', 'decree']	4.1667	0.4113888740539551
+capitalism	['market economy', 'free enterprise', 'free market system', 'private enterprise', 'laissez-faire economics', 'neoliberalism']	4.1667	0.5093059539794922
+doctrine	['belief', 'creed', 'dogma', 'teaching', 'principle', 'tenet']	4.0	0.6152791976928711
+conviction	['certainty', 'belief', 'faith', 'confidence', 'assurance', 'firmness', 'dedication', 'resolve']	4.083349999999999	0.6127691268920898
+snyder	['director', 'supervisor', 'manager', 'administrator', 'overseer']	4.6	0.40880417823791504
+respondent	['answerer', 'replier', 'respondent', 'responser']	3.98335	0.40961313247680664
+judicial	['legal', 'juridical', 'judiciary', 'court', 'juridic', 'judicatory']	3.8333	0.5150721073150635
+plaque	['sign', 'marker', 'tablet', 'plate', 'panel', 'badge']	3.8333	0.40694594383239746
+federally	['nationally', 'centrally', 'governmentally']	3.8333	0.3370838165283203
+outrageous	['scandalous', 'shocking', 'appalling', 'offensive', 'excessive', 'extreme', 'flagrant', 'outrageous']	4.2	0.5821213722229004
+municipality	['city', 'town', 'district', 'borough', 'community', 'local government']	4.1429	0.5134310722351074
+sioux	['Dakota', 'Lakota', 'Nakota']	5.4	0.3737490177154541
+differentiation	['variation', 'distinction', 'diversity', 'contrast', 'discrepancy', 'disparity', 'uniqueness']	4.1429	0.545011043548584
+abnormality	['irregularity', 'anomaly', 'deviation', 'aberration', 'oddity']	3.8571	0.40906214714050293
+lesion	['injury', 'wound', 'sore', 'ulcer', 'cut', 'abrasion', 'damage', 'trauma']	4.8333	0.511652946472168
+beastiality	['bestiality', 'zoophilia']	4.1667	0.511483907699585
+sovereignty	['supremacy', 'dominion', 'power', 'authority', 'control', 'rule']	4.0	0.5880482196807861
+metacritic	['review aggregator', 'critic', 'rating site', 'evaluation platform', 'assessment tool']	4.3333	0.44417405128479004
+perception	['awareness', 'understanding', 'insight', 'observation', 'viewpoint', 'perspective', 'cognition', 'recognition', 'apprehension', 'discernment']	4.1548	0.46833109855651855
+bibtex	['bibliography', 'citation', 'reference', 'source']	4.7143	0.44697999954223633
+centennial	['centenary', 'hundredth', '100th anniversary', 'centennial celebration', 'centennial year', 'centennial event', '100th year anniversary', 'centennial commemoration', 'centennial observance', 'centennial milestone']	4.2	0.6684520244598389
+mandrake	"['mandrake', 'mayapple', ""devil's apple"", 'love apple']"	5.1667	0.43894505500793457
+quo	['status', 'situation', 'condition', 'position', 'circumstance', 'state', 'standing']	4.0	0.49407410621643066
+transient	['fleeting', 'temporary', 'passing', 'short-lived', 'momentary', 'ephemeral', 'brief', 'transient']	4.2857	0.5436079502105713
+sapien	['human', 'person', 'individual', 'being', 'mortal']	4.8	0.4279501438140869
+aperture	['opening', 'hole', 'gap', 'orifice', 'slot', 'crevice', 'fissure', 'cleft', 'rift', 'space']	4.3333	0.5354616641998291
+regiment	['brigade', 'division', 'troop', 'company', 'unit', 'battalion', 'squad', 'formation', 'force']	4.5	0.6731629371643066
+parity	['equality', 'equivalence', 'similarity', 'sameness', 'uniformity', 'balance']	4.2	0.3963768482208252
+equitable	['fair', 'just', 'impartial', 'unbiased', 'even-handed', 'right', 'honest', 'ethical', 'moral']	4.0	0.5243620872497559
+telecommunication	['telecom', 'telephony', 'communication', 'connection', 'teletransmission', 'telecasting']	3.91665	0.6136620044708252
+manifold	['diverse', 'numerous', 'varied', 'multifaceted', 'multiple', 'various', 'many', 'assorted']	4.0	0.6136331558227539
+reciprocal	['mutual', 'shared', 'reciprocal', 'corresponding', 'equivalent', 'matching', 'interchangeable', 'give-and-take']	3.8571	0.6144278049468994
+vonage	['voice over internet protocol', 'VoIP', 'internet telephony', 'digital phone service']	5.2	0.41559815406799316
+mccormick	['spice', 'flavoring', 'seasoning', 'condiment']	4.0	0.5044541358947754
+reconciliation	['agreement', 'harmony', 'conciliation', 'settlement', 'resolution', 'understanding']	4.2857	0.49027204513549805
+anthology	['collection', 'compilation', 'assortment', 'selection', 'compendium', 'treasury']	4.7143	0.5333130359649658
+partisan	['biased', 'prejudiced', 'partial', 'one-sided', 'sectarian', 'factional']	4.1667	0.47054195404052734
+concession	['compromise', 'agreement', 'settlement', 'arrangement', 'deal']	3.8333	0.5525698661804199
+spectral	['ghostly', 'eerie', 'phantom', 'ethereal', 'otherworldly', 'spooky', 'supernatural', 'unearthly', 'eerie']	4.4286	1.0231878757476807
+bilateral	['two-sided', 'double-sided', 'mutual', 'reciprocal', 'two-way']	4.1429	0.7189550399780273
+antigen	['antibody', 'immunogen', 'antigenic determinant', 'immunizing agent', 'agglutinogen']	4.2857	0.7050771713256836
+remediation	['correction', 'improvement', 'restoration', 'rehabilitation', 'rectification']	4.2	0.8292038440704346
+decal	['sticker', 'label', 'transfer', 'emblem', 'badge']	4.4	0.4838740825653076
+travelocity	['roam', 'journey', 'voyage', 'excursion', 'trek', 'trip', 'tour', 'jaunt', 'expedition', 'passage', 'pilgrimage', 'adventure']	5.0	0.6402740478515625
+polytechnic	['technical school', 'vocational school', 'trade school', 'institute']	4.1667	0.6253280639648438
+png	['portable network graphics', 'image file format', 'png file', 'png image', 'png picture', 'png format']	3.8333	0.6024758815765381
+shalt	['will', 'must', 'ought to', 'should']	4.8	0.409102201461792
+accountancy	['bookkeeping', 'accounting', 'auditing', 'finance', 'reckoning']	4.1667	0.40973687171936035
+interim	['temporary', 'provisional', 'transitional', 'stopgap', 'acting', 'makeshift', 'short-term', 'in-between']	3.8571	0.4442939758300781
+consolidation	['integration', 'merging', 'unification', 'amalgamation', 'fusion', 'combination', 'blending', 'consolidation']	4.0	0.4773237705230713
+expedition	['journey', 'tour', 'trip', 'excursion', 'outing', 'voyage', 'travel']	3.8571	0.5136260986328125
+remedial	['corrective', 'therapeutic', 'healing', 'curative', 'restorative', 'medicinal']	4.0	0.5081689357757568
+substantive	['meaningful', 'significant', 'important', 'substantial', 'considerable', 'material', 'essential', 'key']	4.0	0.5041849613189697
+acoustic	['sonic', 'sound', 'auditory', 'aural', 'hearing', 'audio']	3.9286	0.5186760425567627
+xml	['markup language', 'extensible markup language']	4.0	0.4440181255340576
+goblet	['chalice', 'cup', 'glass', 'vessel']	4.4	0.3569612503051758
+regent	['ruler', 'monarch', 'sovereign', 'leader', 'governor', 'head', 'chief', 'commander']	4.0	0.5286378860473633
+newfoundland	['terranova', 'dog breed']	4.2	0.4107668399810791
+imminent	['impending', 'forthcoming', 'approaching', 'looming', 'close', 'near']	3.8571	0.4398469924926758
+clarion	['loud', 'clear', 'piercing', 'shrill', 'resounding', 'ringing']	4.4	0.3936011791229248
+discrepancy	['difference', 'variation', 'inconsistency', 'disparity', 'divergence', 'incongruity']	4.0	0.465191125869751
+deviant	['aberrant', 'unconventional', 'atypical', 'unusual', 'nonconformist', 'eccentric', 'divergent', 'wayward', 'anomalous', 'perverse']	4.4	0.6083159446716309
+ulster	['overcoat', 'topcoat', 'greatcoat', 'paletot', 'mackintosh']	5.1667	0.4317901134490967
+dentistry	['dental care', 'odontology', 'stomatology']	3.8333	0.35991597175598145
+tft	['display', 'screen', 'monitor', 'panel']	4.4	0.41481804847717285
+depreciation	['devaluation', 'decline', 'decrease', 'loss', 'reduction', 'deterioration']	4.1429	0.41817188262939453
+capri	['cropped', 'trousers', 'pants', 'slacks']	4.8	0.45595312118530273
+semantic	['meaningful', 'significant', 'relevant', 'symbolic', 'expressive', 'interpretive', 'connotative', 'denotative']	3.85715	1.2296369075775146
+refinance	['renew', 'restructure', 'renegotiate', 'reorganize', 'change terms']	3.9881	0.5117402076721191
+miniature	['small', 'tiny', 'little', 'minuscule', 'compact', 'petite', 'diminutive']	4.0714500000000005	0.4883239269256592
+bordeaux	['claret', 'wine', 'burgundy', 'maroon']	4.8333	0.5383622646331787
+proprietary	['exclusive', 'confidential', 'patented', 'private', 'privileged', 'secret']	4.5714	0.40456295013427734
+synopsis	['summary', 'abstract', 'outline', 'digest', 'recap', 'brief', 'overview', 'sketch']	5.0	0.589993953704834
+grange	['farmhouse', 'homestead', 'manor', 'estate', 'farmyard', 'ranch']	4.6	0.39765095710754395
+physiopathology	['pathophysiology', 'pathobiology', 'etiopathology']	5.1667	0.4690380096435547
+rationale	['reason', 'justification', 'explanation', 'logic', 'grounds']	3.8571	0.3637869358062744
+fraternity	['brotherhood', 'society', 'club', 'association', 'guild', 'order']	4.0	0.5336940288543701
+accolade	['praise', 'honor', 'award', 'recognition', 'tribute', 'commendation', 'laurels']	4.3333	0.47482872009277344
+tariff	['duty', 'toll', 'levy', 'tax', 'charge', 'fee']	3.85715	0.5484311580657959
+hasting	['accelerating', 'hurrying', 'quickening', 'hastening', 'speeding', 'rushing']	4.1667	0.5138719081878662
+impressum	['colophon', 'imprint', 'title page', 'copyright page']	5.0	0.5091383457183838
+fluctuation	['variation', 'change', 'oscillation', 'inconsistency', 'instability', 'volatility']	4.1667	0.40924692153930664
+thessalonian	['Thessalonian', 'Macedonian', 'Greek']	5.6	0.374417781829834
+archaeological	['historic', 'ancient', 'prehistoric', 'antique', 'old', 'classical', 'traditional']	4.4	0.44237709045410156
+kyocera	['ceramic knife', 'kitchen knife', 'blade', 'cutlery', 'sharp tool']	4.8	0.5114791393280029
+preliminary	['introductory', 'initial', 'opening', 'preparatory', 'primary', 'preliminary']	4.1667	0.44461584091186523
+middlesex	['central', 'midland', 'midway']	4.1667	0.31494808197021484
+protocol	['code', 'procedure', 'custom', 'rule', 'convention', 'practice']	4.0	0.4679391384124756
+sundance	['festival', 'celebration', 'event', 'gathering', 'party']	4.2	0.41066813468933105
+wlan	['wifi', 'wireless network', 'wireless local area network', 'wireless LAN']	4.0	0.4037020206451416
+subsidiary	['auxiliary', 'secondary', 'subordinate', 'ancillary', 'supplementary']	3.89285	0.3860468864440918
+ern	['err', 'commit', 'transgress', 'violate', 'infract']	4.2	0.4183359146118164
+ecology	['environment', 'surroundings', 'habitat', 'ecosystem', 'nature', 'biosphere']	3.8333	0.41791272163391113
+modulation	['variation', 'adjustment', 'change', 'alteration', 'shift', 'modification']	4.4	0.42370104789733887
+peripheral	['outer', 'edge', 'surrounding', 'external', 'marginal', 'secondary']	4.39285	0.40538501739501953
+applegate	['applegate', 'orchard', 'apple farm', 'apple grove']	3.8571	0.6428759098052979
+adler	['eagle', 'bird of prey', 'raptor']	4.2	0.42610907554626465
+bridgeport	['connecticut', 'city', 'town', 'municipality', 'urban area', 'settlement', 'metropolis']	3.8333	0.7731728553771973
+leukemia	['cancer', 'blood cancer', 'leukaemia']	4.6667	0.5109140872955322
+pablo	['Paul', 'Paulie', 'Paolo', 'Paulinho']	4.4	0.407900333404541
+traumatic	['distressing', 'harrowing', 'painful', 'upsetting', 'shocking', 'disturbing', 'terrifying', 'horrifying']	4.8333	0.5139820575714111
+mobility	['flexibility', 'freedom', 'movement', 'agility', 'versatility']	4.0	0.6152629852294922
+hepatitis	['liver inflammation', 'liver disease', 'liver infection', 'hepatic disease', 'hepatic inflammation', 'hepatic infection']	4.0	0.6100020408630371
+substrate	['base', 'foundation', 'ground', 'material', 'medium', 'surface']	4.5	0.4116249084472656
+moine	['monk', 'friar', 'brother', 'religious', 'celibate']	4.8	0.5232489109039307
+contingent	['dependent', 'conditional', 'provisional', 'circumstantial', 'incidental', 'accidental']	4.1667	0.4994771480560303
+incest	['interbreeding', 'inbreeding', 'consanguinity', 'close kinship', 'intimate relations', 'sexual relations within the family']	4.1429	0.44509077072143555
+tuscany	['Tuscany', 'Italy', 'region', 'province', 'district', 'area', 'territory', 'zone']	4.4	0.47368717193603516
+dermatology	['skin care', 'skin treatment', 'skin medicine', 'skin therapy', 'skin health', 'skin science']	4.5	0.9186570644378662
+gonzale	['Gonzales', 'Gonzalo', 'Gonzalez']	4.5	0.41303515434265137
+dispersion	['distribution', 'scattering', 'diffusion', 'dissemination', 'spread', 'disbandment']	3.8571	0.4606778621673584
+practitioner	['professional', 'specialist', 'expert', 'professional', 'doctor', 'physician', 'clinician', 'therapist', 'healer', 'caregiver']	3.9405	0.4586608409881592
+johanne	['Jane', 'Joan', 'Jean', 'Jeanne']	4.0	0.5151560306549072
+sata	['sata', 'attached', 'linked', 'connected', 'affiliated', 'associated', 'combined', 'joined', 'united', 'related']	5.4	0.9077639579772949
+esteem	['admire', 'respect', 'value', 'appreciate', 'regard', 'honor', 'venerate']	3.8571	0.5235450267791748
+levitra	['vardenafil', 'erectile dysfunction medication', 'PDE-5 inhibitor']	5.6	0.5094180107116699
+percussion	['drumming', 'beating', 'striking', 'hitting', 'thumping']	4.7143	0.4411740303039551
+redundant	['unnecessary', 'superfluous', 'surplus', 'extra', 'excessive', 'redundant', 'unneeded', 'expendable', 'inessential']	3.8333	0.6852989196777344
+marietta	['Georgia', 'Peach State', 'Atlanta suburbs', 'Cobb County']	4.4	0.8172390460968018
+schwartz	['black', 'dark', 'sable', 'ebony', 'jet']	4.6	0.5131378173828125
+arbitration	['mediation', 'negotiation', 'conciliation', 'settlement', 'resolution', 'adjudication']	4.1429	0.40807294845581055
+imperial	['regal', 'royal', 'kingly', 'majestic', 'sovereign', 'monarchical']	4.1667	0.44028306007385254
+lynx	['catamount', 'wildcat', 'bobcat', 'mountain cat']	4.5	0.5824658870697021
+ricoh	['copier', 'printer', 'scanner', 'multifunction device', 'office machine']	4.0	0.4461030960083008
+pornography	['smut', 'erotica', 'adult content', 'indecency', 'obscenity', 'X-rated material', 'adult entertainment', 'lewd material', 'explicit content', 'blue movies']	4.3333	0.6807599067687988
+congressional	['legislative', 'parliamentary', 'governmental', 'lawmaking', 'legislative branch']	3.8571	0.4297029972076416
+placebo	['dummy', 'pill', 'sugar pill', 'inactive substance', 'fake medication']	4.0	0.4895439147949219
+chateau	['castle', 'mansion', 'estate', 'manor', 'palace', 'fort', 'stronghold']	4.6	0.37662625312805176
+danville	['town', 'city', 'municipality', 'urban area']	4.2	0.44170403480529785
+immunology	['serology', 'bacteriology', 'virology', 'immunobiology', 'immunopathology', 'immunogenetics']	4.4286	0.5116190910339355
+ziff	['sneak', 'skulk', 'slink', 'lurk']	5.0	0.512725830078125
+disclosure	['divulgence', 'revelation', 'exposure', 'unveiling', 'declaration', 'announcement']	3.91665	0.49947118759155273
+competitiveness	['rivalry', 'ambition', 'drive', 'zeal', 'determination', 'aggressiveness', 'competitiveness', 'eagerness', 'hunger', 'motivation']	3.8333	0.6255760192871094
+differential	['distinctive', 'varying', 'differing', 'diverse', 'dissimilar', 'distinct', 'contrastive', 'discriminative']	4.1667	0.8219280242919922
+enzyme	['catalyst', 'protein', 'biocatalyst', 'ferment', 'biochemical', 'biocatalyst']	4.0595	0.5904541015625
+ethnic	['cultural', 'traditional', 'native', 'indigenous', 'racial', 'tribal', 'folk', 'national', 'ethnic', 'minority']	3.8333	0.6351668834686279
+inception	['beginning', 'start', 'commencement', 'onset', 'initiation', 'launch', 'origin', 'genesis', 'creation', 'inauguration', 'establishment', 'instigation']	4.6	0.6260080337524414
+roulette	['wheel', 'game of chance', 'gambling game', 'betting game', 'casino game']	3.8333	0.5989501476287842
+discretionary	['optional', 'elective', 'voluntary', 'flexible', 'unrestricted', 'open-ended', 'arbitrary', 'judgmental']	3.8333	0.4228208065032959
+stp	['stop', 'halt', 'cease', 'end', 'finish', 'terminate', 'pause', 'break', 'standstill', 'stand', 'freeze']	5.4	0.47142910957336426
+liposuction	['suction lipectomy', 'lipoplasty', 'fat removal', 'body contouring']	4.8	0.5432400703430176
+mahogany	['burgundy', 'cherry', 'chestnut', 'maroon', 'reddish-brown']	4.6	0.40720486640930176
+evanescence	['disappearance', 'vanishing', 'fading', 'fleeting', 'ephemeral', 'transient']	4.4286	0.4166102409362793
+pursuant	['according', 'in accordance with', 'in compliance with', 'following', 'as per']	4.3333	0.40888500213623047
+influenza	['flu', 'grippe', 'viral infection', 'respiratory illness', 'bug']	4.1667	0.4660499095916748
+semiconductor	['chip', 'microchip', 'transistor', 'diode', 'integrated circuit']	4.083349999999999	0.476269006729126
+cache	['hoard', 'stockpile', 'store', 'reserve', 'stash', 'supply', 'deposit', 'collection', 'accumulation', 'repository']	4.1785499999999995	0.4840209484100342
+brunswick	['brownish', 'chestnut', 'sepia', 'hazel']	4.0	0.5189399719238281
+bibliographic	['citational', 'referential', 'documental', 'scholarly', 'academic']	4.2857	0.39527201652526855
+litigation	['lawsuit', 'legal action', 'legal proceedings', 'legal dispute', 'legal case', 'court case']	4.5714	0.482393741607666
+yate	['mansion', 'manor', 'estate', 'villa', 'chateau', 'castle']	4.4	0.5460309982299805
+curriculum	['program', 'course of study', 'syllabus', 'course', 'schedule']	3.8571	0.4161567687988281
+solicitation	['appeal', 'request', 'entreaty', 'petition', 'plea', 'invitation', 'call', 'supplication']	4.5	0.5179359912872314
+authoritative	['official', 'commanding', 'powerful', 'convincing', 'trustworthy', 'reliable', 'definitive', 'influential', 'strong']	3.8571	0.4259510040283203
+poly	['multi', 'many', 'several', 'multiple', 'numerous']	4.2	0.4814109802246094
+pharmaceutical	['medicinal', 'drug', 'medication', 'remedy', 'medicine', 'pharmaceuticals']	3.8571	0.5083451271057129
+supervisory	['managerial', 'oversight', 'directive', 'controlling', 'administrative', 'guiding']	4.1667	0.5136687755584717
+polymerase	['enzyme', 'catalyst', 'activator', 'protein']	5.6667	0.5130758285522461
+advent	['arrival', 'beginning', 'emergence', 'onset', 'start']	3.8571	0.5088949203491211
+appropriation	['allocation', 'assignment', 'allotment', 'apportionment', 'distribution', 'earmarking', 'setting aside', 'appropriation']	3.9762	0.4916107654571533
+spire	['steeple', 'pinnacle', 'turret', 'tower', 'minaret']	4.2	1.1473147869110107
+citation	['mention', 'reference', 'quotation', 'source', 'acknowledgment', 'allusion', 'credit']	3.9048	0.5090608596801758
+porcelain	['china', 'ceramic', 'pottery']	4.0	0.38127613067626953
+federate	['allied', 'united', 'joined', 'affiliated', 'associated', 'amalgamated', 'merged', 'combined']	4.4	0.5417351722717285
+malicious	['spiteful', 'malevolent', 'hostile', 'venomous', 'malignant', 'vindictive', 'wicked', 'mean', 'cruel', 'evil']	3.8571	0.5774188041687012
+tawnee	['tan', 'beige', 'camel', 'fawn', 'sand', 'buff']	4.7143	0.3924717903137207
+shopzilla	['store', 'shop', 'boutique', 'emporium', 'market', 'outlet', 'establishment']	4.6	0.5641977787017822
+oasis	['haven', 'retreat', 'refuge', 'sanctuary', 'shelter', 'haven']	4.1667	0.5119178295135498
+chemotherapy	['cancer treatment', 'chemo', 'radiation therapy', 'radiotherapy', 'anticancer treatment', 'antineoplastic therapy', 'cancer therapy']	4.8333	0.5586299896240234
+commission	['fee', 'compensation', 'payment', 'remuneration', 'allowance', 'charge', 'percentage', 'brokerage']	3.8571	0.5430059432983398
+sleazydream	['disreputable', 'seedy', 'shady', 'sordid', 'unsavory', 'untrustworthy']	3.8333	0.5364930629730225
+dioxide	['carbon dioxide', 'carbonic acid gas', 'carbonic anhydride']	4.2857	0.3871419429779053
+xanax	['alprazolam', 'benzodiazepine', 'tranquilizer', 'sedative']	4.5	0.4480440616607666
+parole	['freedom', 'release', 'liberation', 'discharge', 'probation', 'license']	4.5714	0.40700793266296387
+transvestite	['cross-dresser', 'drag queen', 'gender bender', 'trans person', 'transvestite']	4.01665	0.4978067874908447
+imperative	['essential', 'crucial', 'vital', 'necessary', 'important', 'mandatory', 'required', 'urgent']	4.1667	0.6182329654693604
+llc	['limited liability company', 'limited liability corporation']	4.2857	0.4056391716003418
+sip	['taste', 'drink', 'sample', 'sup', 'nip', 'swallow']	4.6	0.4224131107330322
+roosevelt	['Theodore', 'Franklin', 'FDR']	4.2	0.5003352165222168
+proliferation	['growth', 'increase', 'expansion', 'spread', 'propagation', 'escalation', 'proliferation', 'abundance', 'multiplication', 'prolificacy']	4.4286	0.5438098907470703
+hondura	['depth', 'profundity', 'intensity', 'seriousness', 'strength', 'weight']	4.1667	0.3706960678100586
+professionalism	['expertise', 'competence', 'skill', 'proficiency', 'capability', 'adeptness', 'mastery', 'professionalism']	4.1667	0.5101168155670166
+psychological	['mental', 'emotional', 'cognitive', 'intellectual', 'cerebral']	3.8333	0.3626220226287842
+avail	['benefit', 'help', 'use', 'advantage', 'gain', 'profit', 'assistance', 'support', 'aid']	3.8571	0.9546291828155518
+gonzalez	['Gonzales', 'Garcia', 'Rodriguez', 'Martinez', 'Hernandez']	4.8	2.392193078994751
+epidemiology	['medical statistics', 'population health', 'disease control', 'health surveillance', 'public health research']	4.8571	0.49742794036865234
+patron	['sponsor', 'supporter', 'backer', 'benefactor', 'donor', 'subscriber', 'benefactress', 'protector']	3.8333	0.5119187831878662
+objectionable	['offensive', 'unacceptable', 'distasteful', 'disagreeable', 'repugnant', 'undesirable']	3.8333	0.4718472957611084
+ieee	['institute of electrical and electronics engineers', 'i triple e']	3.8333	0.5519311428070068
+argus	['watchful', 'vigilant', 'observant', 'alert', 'attentive', 'wary', 'cautious', 'vigilant', 'sharp-eyed']	4.3333	0.5794491767883301
+psychiatry	['psychology', 'psychiatry', 'mental health', 'psych', 'mental illness', 'mental disorder']	4.5714	0.5798559188842773
+esp	['notice', 'observe', 'perceive', 'discern', 'see', 'detect']	5.0	0.5837898254394531
+squadron	['group', 'team', 'unit', 'troop', 'formation', 'company', 'battalion', 'brigade']	4.1667	0.5082578659057617
+maltese	['Maltese', 'Maltese dog', 'Maltese terrier']	4.6667	0.5139021873474121
+telecom	['telecommunications', 'telecommunication', 'telephony', 'phone company', 'telephone company']	3.8333	0.5110950469970703
+portfolio	['collection', 'selection', 'assortment', 'range', 'compilation', 'anthology', 'set', 'series']	4.13095	0.9284729957580566
+symantec	['antivirus', 'software', 'protection', 'security', 'program', 'suite', 'safeguard', 'defense', 'shield']	4.2	0.41112685203552246
+contradiction	['conflict', 'inconsistency', 'discrepancy', 'paradox', 'opposition', 'incongruity']	4.2	0.396453857421875
+trojan	['spyware', 'malware', 'virus', 'worm', 'ransomware', 'backdoor']	4.2	0.515174150466919
+empowerment	['authority', 'enablement', 'permission', 'authorization', 'empowerment', 'freedom', 'capability']	4.1667	0.7168960571289062
+secretion	['discharge', 'excretion', 'emission', 'release', 'flow', 'effusion', 'outflow']	3.8333	0.4097421169281006
+apnic	['breathless', 'panting', 'winded', 'gasping', 'out of breath']	5.4	0.5112929344177246
+carlisle	['citadel', 'stronghold', 'fortress', 'bastion']	4.8	0.5133461952209473
+liaison	['connection', 'link', 'relationship', 'contact', 'intermediary', 'go-between', 'middleman', 'association', 'collaboration']	4.0	0.4700901508331299
+cymru	['Wales', 'Cambria', 'Principality']	4.4	0.4496941566467285
+entrepreneur	['businessperson', 'founder', 'industrialist', 'tycoon', 'magnate', 'executive', 'capitalist', 'innovator', 'mogul', 'tycoon']	4.5	0.5124280452728271
+assort	['classify', 'categorize', 'group', 'sort', 'arrange', 'organize', 'range', 'order']	4.0	0.5117528438568115
+nanotechnology	['nanotech', 'molecular engineering', 'microtechnology', 'atomic scale engineering', 'molecular manufacturing', 'nanoengineering']	4.4286	0.513340950012207
+autonomous	['independent', 'self-governing', 'self-ruling', 'self-determining', 'self-regulating', 'sovereign', 'free', 'uncontrolled', 'unrestricted', 'self-sufficient', 'self-contained', 'self-standing', 'self-reliant', 'self-supporting', 'self-dependent']	3.8333	0.819965124130249
+seychelle	['archipelago', 'group of islands', 'island chain', 'island cluster']	5.6	0.40732574462890625
+lithuanian	['baltic', 'lithuanic']	4.2	0.716505765914917
+fprintf	['print', 'output', 'write', 'display']	4.2	1.025364875793457
+vascular	['circulatory', 'blood vessel', 'vein', 'artery', 'capillary']	4.3333	0.5104749202728271
+kinase	['phosphotransferase', 'enzyme', 'protein kinase']	5.4	0.36766695976257324
+schultz	['shuffle', 'jumble', 'mix', 'rearrange', 'disarrange', 'disorder']	4.6	0.4514601230621338
+columnist	['journalist', 'writer', 'author', 'correspondent', 'reporter']	3.85	0.5129859447479248
+mitigation	['alleviation', 'reduction', 'moderation', 'easing', 'abatement']	4.2857	0.5109238624572754
+resolution	['answer', 'solution', 'determination', 'decision', 'resolve', 'conclusion', 'settlement', 'commitment']	3.93335	0.4127380847930908
+wichita	['kansas', 'city']	4.3333	0.4948139190673828
+culinary	['cookery', 'cooking', 'gastronomic', 'epicurean', 'culinary arts']	3.8333	0.4479360580444336
+dysfunction	['malfunction', 'disorder', 'problem', 'issue', 'anomaly', 'irregularity']	4.0	0.48720693588256836
+parfum	['fragrance', 'scent', 'aroma', 'perfume', 'cologne', 'eau de toilette']	4.8333	0.5119271278381348
+mrna	['messenger RNA', 'messenger ribonucleic acid', 'transcript RNA', 'transcript ribonucleic acid']	4.5	0.5119891166687012
+interference	['intervention', 'intrusion', 'obstruction', 'hindrance', 'disruption', 'impedance']	4.1667	0.4947638511657715
+intriguing	['fascinating', 'captivating', 'interesting', 'engaging', 'compelling', 'absorbing', 'alluring', 'enticing', 'thought-provoking', 'stimulating']	4.1429	0.49401378631591797
+dns	['domain name system', 'domain name service', 'domain name server', 'domain name resolution']	4.3333	0.41313886642456055
+proximity	['closeness', 'nearness', 'adjacency', 'immediacy', 'propinquity']	3.8571	0.5435397624969482
+chronicle	['account', 'narrative', 'record', 'history', 'story', 'tale', 'report', 'description']	3.83335	0.4596879482269287
+oahu	['Hawaii', 'island', 'paradise', 'destination', 'Oahu']	4.8	0.5654408931732178
+directorate	['board', 'committee', 'council', 'panel', 'group', 'administration', 'management']	4.7143	0.38884711265563965
+informatic	['computational', 'data-related', 'informational', 'technological', 'digital']	3.8571	0.39975595474243164
+subunit	['component', 'element', 'part', 'segment', 'division', 'fragment', 'piece']	4.8333	0.5407741069793701
+elsevier	['publishing', 'academic', 'scholarly', 'journal', 'periodical']	5.0	0.48479795455932617
+bizjournalshire	['business', 'commerce', 'trade', 'industry', 'enterprise', 'company', 'corporation', 'firm', 'organization', 'company']	5.2	0.45587992668151855
+fringe	['periphery', 'margin', 'edge', 'border', 'brink', 'outskirts']	3.8333	0.48037099838256836
+hawthorne	['mayhaw', 'thornapple', 'whitethorn']	4.8	0.3619840145111084
+malpractice	['negligence', 'misconduct', 'wrongdoing', 'misbehavior', 'error', 'fault', 'offense', 'violation', 'transgression', 'breach']	3.8333	0.5371139049530029
+gail	['delight', 'joy', 'merriment', 'happiness', 'gladness', 'pleasure', 'cheerfulness', 'contentment']	4.4	0.5468258857727051
+accession	['attainment', 'acquisition', 'addition', 'arrival', 'increase', 'rise', 'elevation', 'promotion']	5.4	0.5130512714385986
+classified	['confidential', 'private', 'secret', 'restricted', 'privileged', 'exclusive', 'sensitive']	4.1667	0.4095790386199951
+conception	['fertilization', 'inception', 'creation', 'formation', 'origination', 'start', 'beginning']	4.1667	0.5105152130126953
+fioricet	['analgesic', 'headache medicine', 'pain reliever']	5.2	0.513869047164917
+syndicate	['association', 'consortium', 'group', 'organization', 'alliance', 'cartel', 'union']	4.5714	0.49083590507507324
+roanoke	['Virginia', 'colony', 'lost colony', 'settlement', 'mystery']	5.0	0.5311422348022461
+sanction	['approve', 'authorize', 'endorse', 'permit', 'allow', 'support', 'ratify', 'validate', 'confirm', 'accredit']	4.4286	0.6143670082092285
+blanca	['white', 'pale', 'fair', 'light', 'ivory', 'snowy']	4.0	0.38387203216552734
+formulation	['preparation', 'composition', 'creation', 'development', 'design', 'arrangement', 'concoction', 'structure', 'fabrication']	3.8333	0.461292028427124
+apocalypse	['catastrophe', 'disaster', 'doomsday', 'Armageddon', 'end of the world', 'calamity']	4.4	0.5882217884063721
+costello	['expense', 'charge', 'fee', 'price', 'amount', 'outlay']	4.6	0.5132269859313965
+symposium	['conference', 'seminar', 'workshop', 'colloquium', 'congress']	5.0	0.41225528717041016
+schneider	['tailor', 'seamstress', 'dressmaker', 'couturier', 'garment-maker', 'fashion designer']	4.4	0.7126219272613525
+redemption	['salvation', 'deliverance', 'absolution', 'reclamation', 'rescue', 'recovery', 'liberation', 'restoration']	4.1429	0.4205598831176758
+ciali	['drug', 'medicine', 'medication', 'pharmaceutical', 'remedy']	5.0	0.350722074508667
+forego	['sacrifice', 'relinquish', 'give up', 'abandon', 'renounce']	3.8571	0.3918771743774414
+aforementione	['aforementioned', 'previously stated', 'earlier mentioned', 'previously mentioned', 'previously cited', 'earlier noted', 'previously noted']	3.8333	0.6796469688415527
+correspondence	['communication', 'exchange', 'interaction', 'connection', 'dialogue', 'conversation', 'correspondence']	3.8571	0.8719742298126221
+bankruptcy	['insolvency', 'failure', 'collapse', 'ruin', 'liquidation', 'impoverishment']	4.11665	0.44243907928466797
+timor	['anxiety', 'fear', 'apprehension', 'dread', 'unease']	5.0	0.5284910202026367
+fraudulent	['deceitful', 'dishonest', 'deceptive', 'underhanded', 'unscrupulous', 'corrupt', 'deceitful', 'false', 'fake', 'phony']	4.1429	0.516732931137085
+obligation	['duty', 'responsibility', 'commitment', 'promise', 'requirement', 'task', 'charge', 'compulsion', 'constraint', 'obligatory', 'imperative', 'must', 'need', 'obligate', 'bind', 'liability', 'accountability', 'devoir.']	3.85715	0.8157651424407959
+assay	['analyze', 'examine', 'test', 'evaluate', 'assess', 'check', 'probe', 'investigate', 'scrutinize', 'survey']	5.8	0.466616153717041
+infringement	['violation', 'breach', 'transgression', 'trespass', 'encroachment', 'disregard', 'infraction', 'invasion', 'contravention', 'defiance']	4.5	0.6595520973205566
+comprehension	['understanding', 'grasp', 'perception', 'apprehension', 'discernment', 'insight', 'awareness', 'knowledge']	3.8333	0.44245290756225586
+sauvignon	['savignon', 'blanc', 'fume']	5.2	0.3765990734100342
+incumbent	['current', 'present', 'existing', 'reigning', 'occupying', 'holding office', 'in office']	4.2857	0.5128300189971924
+claimant	['plaintiff', 'applicant', 'petitioner', 'suitor', 'candidate']	5.0	0.5110599994659424
+dividend	['bonus', 'extra', 'profit', 'share', 'earnings', 'return']	3.8452	0.4083678722381592
+fra	['swindle', 'deception', 'cheat', 'scam', 'trick', 'deceit', 'hoax', 'con', 'racket', 'fraud']	4.4	0.5132548809051514
+delegation	['assignment', 'entrustment', 'transfer', 'consignment', 'devolution', 'deputation', 'commission', 'proxy']	3.8571	0.6167550086975098
+plaintiff	['complainant', 'claimant', 'accuser', 'litigant', 'suer']	4.2857	0.426285982131958
+rehabilitation	['recovery', 'restoration', 'renewal', 'reclamation', 'reparation', 'revitalization', 'regaining', 'therapy']	4.3333	0.5960021018981934
+denon	['hideaway', 'hideout', 'retreat', 'lair', 'refuge', 'sanctuary', 'haven']	4.5	0.5096650123596191
+kyoto	['capital', 'city', 'metropolis', 'municipality', 'urban area']	4.8	0.4139738082885742
+affiliate	['partner', 'associate', 'collaborator', 'ally', 'colleague', 'counterpart', 'member', 'participant', 'supporter', 'accomplice']	3.982533333333334	0.5088138580322266
+exeter	['center', 'midpoint', 'focus', 'heart', 'core', 'nucleus']	4.5	0.40947675704956055
+compliance	['obedience', 'conformity', 'agreement', 'adherence', 'submission', 'acquiescence', 'observance', 'consent', 'cooperation']	4.2	0.46792173385620117
+slashdot	['slash', 'cut', 'gash', 'slice', 'hack']	5.0	0.5547211170196533
+adherence	['loyalty', 'fidelity', 'commitment', 'dedication', 'obedience', 'observance', 'conformity', 'allegiance']	4.2	0.51180100440979
+sanitation	['cleanliness', 'hygiene', 'sterility', 'purity', 'disinfection', 'cleanliness', 'tidiness']	4.2857	0.4008829593658447
+aromatherapy	['scent therapy', 'fragrance therapy', 'essential oil therapy', 'aromatic treatment', 'aroma healing']	4.7143	0.5207309722900391
+concordia	['harmony', 'agreement', 'unity', 'peace', 'concurrence']	4.4	0.5117290019989014
+regency	['sovereignty', 'authority', 'control', 'rule', 'power', 'governance', 'leadership', 'dominion', 'command']	4.0	0.5119109153747559
+formulate	['create', 'devise', 'develop', 'compose', 'contrive', 'conceive', 'craft']	4.0	0.4181997776031494
+precedence	['priority', 'preference', 'superiority', 'precedence', 'primacy', 'preeminence', 'antecedence']	3.8571	0.5043890476226807
+lorraine	['region', 'area', 'province', 'territory', 'district']	4.6	0.34188413619995117
+susceptibility	['vulnerability', 'proneness', 'openness', 'liability', 'sensitivity']	4.1667	0.4774439334869385
+howell	['sophisticated', 'elegant', 'refined', 'stylish', 'chic', 'classy', 'tasteful', 'fashionable']	4.2	0.48549818992614746
+dhcp	['dynamic host configuration protocol', 'dynamic host control protocol', 'automatic ip address assignment']	4.6667	0.43219685554504395
+prix	['cost', 'price', 'charge', 'fee', 'rate', 'amount']	5.0	0.5142209529876709
+polyphonic	['multivoice', 'many-voiced', 'multipart', 'multichoral', 'harmonious', 'contrapuntal', 'polyphonic']	4.6667	0.614271879196167
+horoscope	['forecast', 'prediction', 'prophecy', 'prognostication', 'outlook']	4.2	3.1312613487243652
+bistro	['eatery', 'cafe', 'brasserie', 'restaurant', 'diner', 'tavern']	4.0	0.5550651550292969
+nic	['pleasant', 'enjoyable', 'agreeable', 'delightful', 'pleasing', 'charming', 'amiable', 'likeable']	4.6	0.5141739845275879
+multilateral	['many-sided', 'multifaceted', 'versatile', 'varied', 'diverse']	4.1667	0.4115419387817383
+cultivate	['farm', 'till', 'tend', 'nurture', 'raise', 'grow', 'cultivate']	3.8333	0.45361900329589844
+expectancy	['anticipation', 'hope', 'prospect', 'outlook', 'expectation', 'foresight', 'likelihood']	4.0	0.3761138916015625
+archaeology	['paleontology', 'anthropology', 'antiquities', 'excavation', 'study', 'research']	4.2857	0.498201847076416
+tactical	['strategic', 'calculated', 'planned', 'systematic', 'organized', 'methodical']	3.8571	0.5105488300323486
+facsimile	['copy', 'replica', 'reproduction', 'duplicate', 'imitation']	5.1667	0.5119330883026123
+ferdinand	['Francis', 'Frank', 'Fred', 'Freddy']	4.8	0.32801198959350586
+trong	['powerful', 'robust', 'sturdy', 'potent', 'forceful', 'solid', 'firm', 'tough', 'resilient', 'durable']	4.8	0.5933911800384521
+phantom	['apparition', 'specter', 'ghost', 'spirit', 'wraith', 'shadow', 'vision', 'hallucination']	4.2	0.48130011558532715
+standalone	['independent', 'self-contained', 'separate', 'autonomous', 'detached', 'isolated', 'solitary', 'singular']	3.8333	0.5454809665679932
+prostate	['gland', 'organ', 'testis', 'gonad']	4.1429	0.40885400772094727
+alleviate	['ease', 'relieve', 'mitigate', 'lessen', 'soothe', 'diminish', 'reduce']	4.2	1.1242270469665527
+referendum	['plebiscite', 'ballot', 'vote', 'poll', 'election', 'survey']	4.5714	0.43915796279907227
+atari	['space invader', 'video game console', 'retro gaming system', 'game cartridge', 'joystick']	4.6	0.6028690338134766
+governance	['rule', 'administration', 'management', 'direction', 'control', 'leadership', 'supervision', 'authority']	3.8571	0.4936659336090088
+cobalt	['blue', 'azure', 'sapphire', 'indigo']	4.0	0.39907002449035645
+conformance	['compliance', 'adherence', 'conformity', 'agreement', 'obedience', 'observance']	3.8333	0.523277997970581
+winchester	['rifle', 'firearm', 'gun', 'weapon', 'shooter']	4.0	0.3421030044555664
+meridia	['slim', 'slender', 'trim', 'svelte', 'lean', 'skinny', 'graceful', 'lithe', 'lissome', 'lissom']	5.2	0.4798550605773926
+cardinal	['chief', 'main', 'primary', 'principal', 'key', 'fundamental']	3.83335	0.5080182552337646
+righteousness	['virtue', 'goodness', 'morality', 'integrity', 'uprightness', 'honor', 'decency', 'probity']	3.8571	0.5133368968963623
+radial	['circular', 'radiating', 'spreading', 'diverging', 'centrifugal']	4.0	0.5139648914337158
+enactment	['passage', 'establishment', 'implementation', 'execution', 'enforcement', 'adoption', 'promulgation', 'legislation']	4.1667	0.6122992038726807
+supplement	['addition', 'extra', 'complement', 'adjunct', 'extension', 'bonus', 'enhancement', 'boost', 'increase', 'appendage']	3.944433333333333	0.47603797912597656
+seether	['boiler', 'hothead', 'hotheaded', 'hotspur', 'incendiary', 'inciter', 'inflamer', 'instigator', 'kindler', 'provocateur', 'provoker', 'stirrer']	4.6667	0.6487429141998291
+westminster	['abbey', 'parliament', 'palace', 'London', 'government']	4.6667	0.38762712478637695
+nortel	['northwards', 'northward', 'northerly', 'northerly', 'northbound']	4.3333	0.40602588653564453
+bild	['picture', 'image', 'representation', 'illustration', 'depiction', 'portrayal']	4.7143	0.4526679515838623
+oxidation	['rusting', 'corrosion', 'tarnishing', 'burning', 'weathering', 'erosion', 'decay']	4.5	0.8014178276062012
+ocr	['optical character recognition', 'text recognition', 'document scanning', 'image to text', 'machine transcription']	4.0	0.6147646903991699
+telnet	['connect', 'log on', 'access']	4.3333	0.4090399742126465
+underoath	['underpromise', 'swear', 'pledge', 'vow', 'avow', 'assure', 'guarantee']	3.8571	0.4707050323486328
+canonical	['accepted', 'authorized', 'approved', 'standard', 'recognized', 'established', 'traditional', 'customary', 'official', 'orthodox']	4.2857	0.5464386940002441
+terrestrial	['earthly', 'land-based', 'ground-based', 'earthbound', 'landlocked', 'non-aquatic']	4.0	0.5209178924560547
+northamptonshire	"['Northants', ""N'hants"", 'Northants', 'Nhants', ""N'ton"", 'Nhants', 'Northampton', 'Northamptonshire']"	4.1667	0.509692907333374
+ideology	['belief', 'doctrine', 'creed', 'dogma', 'philosophy', 'principle', 'theory', 'tenet']	4.1667	0.5160720348358154
+contaminant	['pollutant', 'impurity', 'adulterant', 'toxin', 'contaminator', 'foreign matter']	4.0	0.732996940612793
+bestiality	['brutality', 'depravity', 'inhumanity', 'savagery', 'barbarity']	4.4286	2.7442591190338135
+constituency	['electorate', 'district', 'voters', 'constituency', 'body of voters', 'population', 'public', 'citizens']	3.8333	0.5132310390472412
+charset	['character set', 'character encoding', 'character map', 'code page']	4.5	0.510591983795166
+chesapeake	['bay', 'estuary', 'inlet', 'lagoon', 'sound']	4.8333	0.6918148994445801
+contiguous	['adjacent', 'neighboring', 'adjoining', 'bordering', 'proximate']	4.1667	0.5719630718231201
+putative	['presumed', 'alleged', 'supposed', 'reputed', 'purported']	5.2857	0.4191281795501709
+orthodox	['traditional', 'conventional', 'strict', 'customary', 'established', 'accepted', 'standard']	3.8333	0.5708827972412109
+anthropology	['ethnology', 'social science', 'human science']	4.1429	0.3954958915710449
+odyssey	['journey', 'adventure', 'voyage', 'expedition', 'quest', 'trip', 'trek']	4.0	0.5267739295959473
+deborah	['debby', 'deborah', 'debra']	4.2	0.4573798179626465
+instrumentation	['equipment', 'apparatus', 'tools', 'gear', 'machinery', 'devices', 'implements', 'gadgets']	4.1429	0.6666719913482666
+equilibrium	['balance', 'stability', 'symmetry', 'harmony', 'steadiness', 'poise']	4.1667	0.6156980991363525
+eternity	['forever', 'infinity', 'perpetuity', 'timelessness', 'everlastingness', 'endlessness', 'immortality', 'ceaselessness']	4.0	0.6129312515258789
+conservation	['preservation', 'protection', 'safeguarding', 'care', 'maintenance']	3.8333	0.5132319927215576
+garrison	['fort', 'stronghold', 'citadel', 'bastion', 'fortification']	4.4	0.44551587104797363
+valium	['tranquilizer', 'sedative', 'sedative-hypnotic', 'anxiolytic']	4.6667	0.576962947845459
+gloucestershire	['county', 'region', 'shire', 'district', 'area', 'locality']	5.0	0.4094550609588623
+ordinance	['law', 'regulation', 'rule', 'statute', 'act', 'decree']	4.2857	0.5113663673400879
+principe	['ruler', 'leader', 'monarch', 'sovereign', 'king', 'emperor', 'potentate', 'despot', 'autocrat']	4.8	0.45148706436157227
+hierarchical	['graded', 'ranked', 'tiered', 'stratified', 'pyramidal']	3.8333	0.47201013565063477
+customization	['tailoring', 'personalization', 'adaptation', 'modification', 'adjustment', 'customization']	4.1429	0.5104308128356934
+encryption	['encoding', 'scrambling', 'ciphering', 'cryptogram', 'cryptograph', 'encoding', 'secret writing']	4.5	0.5119740962982178
+sarbane	['dishonest', 'deceitful', 'fraudulent', 'underhanded', 'untrustworthy']	4.5	0.4684779644012451
+therapeutic	['healing', 'curative', 'remedial', 'restorative', 'beneficial', 'salutary', 'medicinal', 'soothing']	3.8333	0.556530237197876
+cms	['content management system', 'content manager system', 'content managing system']	4.4	0.4083380699157715
+pertain	['relate', 'concern', 'apply', 'pertain to', 'have to do with', 'be relevant to']	3.8571	2.874023914337158
+outpatient	['ambulatory', 'nonresident', 'day patient', 'walk-in', 'visiting']	4.6	0.3943789005279541
+morality	['ethics', 'principles', 'values', 'standards', 'righteousness', 'integrity', 'virtue', 'goodness']	4.1667	0.5202829837799072
+turquoise	['aqua', 'teal', 'cyan', 'blue-green']	4.6	0.40949106216430664
+fabrication	['falsification', 'invention', 'concoction', 'falsehood', 'fiction', 'lie', 'untruth']	4.1667	0.5230779647827148
+phylli	['leaf', 'foliage', 'frond', 'blade']	4.4	0.398270845413208
+renovation	['restoration', 'renewal', 'refurbishment', 'remodeling', 'refitting', 'overhaul', 'redevelopment', 'improvement', 'revamp', 'upgrade']	4.0	0.591655969619751
+taxonomy	['classification', 'categorization', 'systematics', 'arrangement', 'organization', 'structure']	4.0	0.43224406242370605
+salvation	['redemption', 'deliverance', 'rescue', 'liberation', 'saving', 'freedom', 'absolution', 'emancipation', 'release']	4.1429	0.5144329071044922
+cortex	['outer layer', 'covering', 'shell', 'husk', 'peel', 'rind', 'skin', 'surface']	4.2	0.5093560218811035
+verisign	['truthful', 'genuine', 'authentic', 'accurate', 'reliable', 'valid', 'bona fide']	4.1667	0.4619331359863281
+storesshop	['boutique', 'store', 'shop', 'emporium', 'outlet', 'market', 'mart', 'bazaar']	4.2	0.460862398147583
+authenticate	['verify', 'confirm', 'validate', 'certify', 'prove', 'substantiate']	4.6	0.5564229488372803
+amplitude	['magnitude', 'extent', 'size', 'breadth', 'range', 'scale', 'scope', 'dimension']	4.4286	0.7746028900146484
+techrepublic	['technology', 'republic', 'computer', 'network', 'IT', 'digital', 'cyber', 'information', 'system']	3.8333	0.8177170753479004
+vitro	['glass', 'container', 'vessel', 'receptacle', 'jar', 'bowl']	4.0	0.4095630645751953
+homogeneous	['uniform', 'consistent', 'identical', 'alike', 'similar', 'even']	4.0	0.5115518569946289
+precipitation	['rain', 'drizzle', 'shower', 'downpour', 'rainfall', 'sleet', 'snowfall', 'hail']	4.4286	0.43651509284973145
+polymer	['macromolecule', 'compound', 'copolymer', 'plastic', 'resin']	4.1667	0.701434850692749
+mosaic	['collage', 'montage', 'patchwork', 'medley', 'assemblage']	4.1667	0.5028276443481445
+cerevisiae	"['yeast', ""baker's yeast"", ""brewer's yeast"", 'Saccharomyces cerevisiae']"	5.6667	0.5109739303588867
+conformity	['compliance', 'agreement', 'adherence', 'obedience', 'harmony', 'consistency']	4.0	0.5143921375274658
+peterborough	['borough', 'town', 'city']	4.2	0.4056839942932129
+chatham	['dockyard', 'naval port', 'seaport', 'shipyard', 'harbor']	4.6667	0.46125125885009766
+lieutenant	['deputy', 'assistant', 'second-in-command', 'aide', 'subordinate', 'adjutant']	4.0	0.38805317878723145
+invision	['envision', 'imagine', 'visualize', 'picture', 'conceive', 'dream', 'anticipate']	4.6667	0.4829258918762207
+bedfordshire	['English county', 'Bedfordshire', 'Bedford', 'county']	5.2	0.7810268402099609
+svn	['version control system', 'software versioning', 'revision control system', 'source control', 'source code management']	4.0	0.9613921642303467
+leicestershire	['county', 'region', 'shire', 'area', 'district']	5.2	0.5090901851654053
+lutheran	['protestant', 'evangelical', 'reformed', 'calvinist', 'christian', 'churchgoing']	4.6667	0.44960713386535645
+analogous	['similar', 'akin', 'like', 'comparable', 'equivalent', 'parallel']	3.8571	0.881176233291626
+aboriginal	['native', 'indigenous', 'original', 'autochthonous', 'primal']	4.8	0.5118558406829834
+biomass	['fuel', 'organic matter', 'biofuel', 'renewable energy', 'biodegradable', 'vegetation', 'waste', 'residue']	4.0	0.6066408157348633
+roswell	['alien', 'spaceship', 'UFO', 'extraterrestrial', 'conspiracy', 'mysterious', 'unidentified', 'phenomenon']	3.8333	0.4959127902984619
+spectrum	['range', 'variety', 'gamut', 'scope', 'scale', 'array', 'diversity', 'assortment', 'selection']	3.8333	0.4445359706878662
+concord	['agreement', 'harmony', 'unity', 'accord', 'consensus']	3.8571	0.3819162845611572
+cle	['clear', 'transparent', 'evident', 'obvious', 'apparent', 'unmistakable', 'plain', 'understandable', 'comprehensible']	4.8	0.42369890213012695
+callaway	['phone', 'telephone', 'ring', 'dial', 'contact', 'reach', 'communicate']	4.6	0.39997315406799316
+weezer	['rocker', 'band', 'group', 'ensemble', 'musician', 'artist', 'performer', 'player']	3.8333	0.5250418186187744
+entrepreneurship	['enterprise', 'business', 'venturesomeness', 'initiative', 'innovativeness', 'resourcefulness', 'creativity', 'ingenuity', 'farsightedness', 'leadership']	4.0	0.6141619682312012
+celtic	['Celtic', 'Gaelic', 'Hibernian', 'Irish', 'Scottish', 'Welsh']	3.8571	0.4033350944519043
+incense	['perfume', 'fragrance', 'aroma', 'scent', 'odor', 'spice', 'redolence', 'bouquet']	3.8333	0.4412081241607666
+entrepreneurial	['innovative', 'enterprising', 'resourceful', 'pioneering', 'creative']	4.2857	0.4034261703491211
+adipex	['phentermine', 'phentermine hydrochloride', 'appetite suppressant']	4.6667	0.3962290287017822
+christchurch	['canterbury', 'cathedral city']	4.2	0.31917405128479004
+collaboration	['cooperation', 'teamwork', 'partnership', 'alliance', 'unity', 'synergy', 'joint effort', 'coordination', 'association']	3.8571	0.5969748497009277
+tramadol	['painkiller', 'analgesic', 'opioid', 'medication', 'pain reliever']	5.6	0.611954927444458
+ascertain	['determine', 'discover', 'find out', 'establish', 'verify', 'learn', 'confirm', 'figure out']	4.0	0.40169525146484375
+pesticide	['insecticide', 'herbicide', 'fungicide', 'rodenticide', 'chemical', 'spray']	3.83335	0.464677095413208
+advocacy	['support', 'backing', 'promotion', 'championing', 'endorsement', 'defense']	4.1667	0.46796107292175293
+westchester	['White Plains', 'Yonkers', 'Mount Vernon', 'New Rochelle', 'Peekskill']	4.8	0.5099267959594727
+solaris	['solar', 'celestial', 'astral', 'heavenly', 'stellar']	4.0	0.46840596199035645
+lattice	['grid', 'mesh', 'network', 'reticulation', 'trellis', 'crisscross']	4.0	0.5555629730224609
+renaissance	['rebirth', 'revival', 'renewal', 'resurgence', 'rejuvenation']	4.2857	0.6150369644165039
+foreclosure	['seizure', 'repossession', 'confiscation', 'takeover', 'expropriation']	4.0	0.5106542110443115
+legislation	['law', 'statute', 'act', 'regulation', 'rule']	3.8571	0.33090782165527344
+hogtie	['truss', 'bind', 'tie up', 'immobilize', 'restrain']	5.1667	0.48699212074279785
+ethereal	['delicate', 'airy', 'light', 'celestial', 'otherworldly', 'divine', 'spiritual']	4.1667	0.5118331909179688
+paxil	['paroxetine', 'seroxat']	5.6	0.4097096920013428
+judiciary	['bench', 'courts', 'judicature', 'legal profession', 'magistracy']	3.8571	0.5119240283966064
+watershe	['basin', 'catchment', 'watershed', 'drainage area', 'river basin', 'water parting']	4.2857	0.5120017528533936
+astronomy	['stargazing', 'astrophysics', 'celestial science', 'cosmology']	3.8333	0.5117299556732178
+defer	['postpone', 'delay', 'put off', 'hold off', 'suspend', 'shelve', 'table', 'reschedule']	4.0	0.6149070262908936
+heterogeneous	['varied', 'diverse', 'mixed', 'assorted', 'different', 'dissimilar', 'eclectic', 'manifold', 'motley', 'sundry']	3.8571	0.4965817928314209
+merriam	['merry', 'cheerful', 'joyful', 'jolly', 'lighthearted', 'festive']	4.3333	0.6287100315093994
+vanuatu	['New Hebrides', 'country', 'archipelago']	5.4	0.5136451721191406
+bout	['combat', 'encounter', 'skirmish', 'scuffle', 'tussle', 'clash', 'fight', 'contest', 'match', 'round', 'duel']	4.1667	0.7162129878997803
+contractual	['formal', 'legal', 'binding', 'agreed', 'stipulated', 'obligatory']	4.0	0.4910740852355957
+predominantly	['mainly', 'chiefly', 'mostly', 'primarily', 'largely']	4.3333	0.4044332504272461
+prevalence	['commonness', 'frequency', 'occurrence', 'incidence', 'prevalence', 'predominance']	4.1667	0.5391747951507568
+testimonial	['endorsement', 'recommendation', 'reference', 'tribute', 'approval', 'praise', 'accolade']	3.8333	0.6133670806884766
+collegiate	['academic', 'scholastic', 'university', 'school', 'higher education']	4.4286	0.5102231502532959
+colt	['foal', 'filly', 'young horse', 'yearling']	4.3333	0.5121488571166992
+interdisciplinary	['cross-disciplinary', 'multidisciplinary', 'transdisciplinary']	4.5714	0.41348695755004883
+acquisition	['purchase', 'obtaining', 'buying', 'procurement', 'gain', 'possession', 'takeover']	4.1667	0.5079870223999023
+cameroon	['African country', 'central African country', 'republic of cameroon']	4.2	0.40946292877197266
+pulmonary	['lung', 'respiratory', 'thoracic']	4.7143	0.40952301025390625
+oblique	['slanting', 'diagonal', 'angled', 'inclined', 'sloping', 'askew']	3.8333	0.5118980407714844
+solvent	['dissolvent', 'dissolving agent', 'thinner', 'diluent', 'dilutant', 'liquid', 'solution']	3.8571	0.5116610527038574
+swansea	['Abertawe', 'Abertawy']	4.6667	0.409743070602417
+timeshare	['interval ownership', 'vacation ownership', 'shared vacation ownership', 'fractional ownership']	4.0	0.5133509635925293
+deliberate	['calculate', 'intentional', 'purposeful', 'planned', 'thoughtful', 'careful', 'cautious', 'considered', 'intentional', 'premeditated']	3.8571	0.51053786277771
+stuttgart	['stuttgart', 'capital of baden-wurttemberg', 'stuttgart', 'baden-wurttemberg', 'stuttgart']	4.8	0.5846021175384521
+vancouver	['British Columbia', 'BC', 'YVR', 'Rain City', 'Hollywood North']	4.2	0.4401891231536865
+fluorescent	['luminous', 'bright', 'radiant', 'glowing', 'vivid', 'colorful', 'shining', 'brilliant']	4.1429	0.6147880554199219
+dilute	['weaken', 'thin', 'water down', 'reduce', 'attenuate', 'lessen', 'temper']	3.8333	0.510552167892456
+walsh	['Irish', 'surname', 'last name', 'family name', 'patronymic']	4.4	0.5119009017944336
+petitioner	['applicant', 'suitor', 'claimant', 'candidate', 'plaintiff', 'seeker']	4.2857	0.5119519233703613
+deutschland	['Germany', 'Federal Republic of Germany', 'FRG', 'Bundesrepublik Deutschland']	5.2	0.5119271278381348
+doppler	['radar', 'sonar', 'detector']	3.8333	1.132162094116211
+oncology	['cancerology', 'cancer treatment', 'oncological therapy', 'cancer care']	4.5	0.6108448505401611
+pursuit	['quest', 'chase', 'search', 'hunt', 'exploration', 'endeavor', 'pursuit', 'hunt']	3.8333	0.5094461441040039
+asterisk	['star', 'mark', 'sign', 'symbol', 'character', 'dagger']	3.8571	0.3609049320220947
+pertinent	['relevant', 'applicable', 'appropriate', 'germane', 'related', 'connected', 'material', 'fitting']	4.5	0.56203293800354
+gainesville	['Gainesville', 'GNV']	4.3333	0.4100799560546875
+indictment	['accusation', 'charge', 'allegation', 'complaint', 'imputation', 'prosecution']	4.4286	0.5114560127258301
+rhetoric	['eloquence', 'oratory', 'speech', 'language', 'expression', 'articulation', 'persuasion', 'discourse']	4.3333	0.6395540237426758
+albuquerque	['Duke City', 'ABQ', 'The Q']	5.2	0.7309060096740723
+pundit	['expert', 'authority', 'commentator', 'analyst', 'specialist', 'guru']	4.0	0.4012179374694824
+carcinoma	['cancer', 'malignancy', 'tumor', 'neoplasm', 'growth']	5.2857	0.48056793212890625
+scottsdale	['Scottsdale', 'AZ', 'Scottsdale', 'Arizona']	4.8	0.40827488899230957
+cohort	['group', 'team', 'band', 'squad', 'unit', 'party', 'bunch', 'company']	4.0	0.614246129989624
+premiership	['championship', 'leadership', 'dominion', 'authority', 'supremacy', 'top spot', 'top position']	3.8333	0.6159601211547852
+vulnerability	['weakness', 'susceptibility', 'fragility', 'insecurity', 'defenselessness', 'exposure']	4.2619	0.5102159976959229
+lolita	['nymphette', 'seductress', 'coquette', 'siren', 'femme fatale']	4.6667	0.51210618019104
+swivel	['rotate', 'pivot', 'turn', 'revolve', 'spin', 'twist', 'whirl']	5.4	0.5116689205169678
+sussex	['county', 'region', 'area', 'district', 'shire']	3.8333	0.7168760299682617
+psalm	['hymn', 'song', 'chant', 'ode', 'anthem']	3.8333	0.5126430988311768
+almanac	['annual', 'calendar', 'chronicle', 'diary', 'journal', 'register']	4.5	0.4512209892272949
+prentice	['apprentice', 'trainee', 'learner', 'novice', 'beginner', 'pupil', 'protege']	5.0	1.1459898948669434
+blizzard	['snowstorm', 'whiteout', 'tempest', 'squall', 'flurry']	3.8333	0.5523629188537598
+bueno	['good', 'excellent', 'fine', 'great', 'superior', 'admirable', 'superb', 'first-rate', 'top-notch', 'quality']	4.6	0.5180568695068359
+bizrate	['evaluate', 'assess', 'appraise', 'rate', 'gauge', 'judge']	5.3333	0.45151591300964355
+longitudinal	['lengthwise', 'along the length', 'longitudinal', 'in the lengthways', 'longwise', 'running lengthwise']	4.3333	0.47800230979919434
+aphrodite	['Venus', 'goddess of love', 'beauty', 'desire', 'attraction', 'fertility', 'grace', 'romance', 'passion', 'sex', 'pleasure']	5.2	0.4987771511077881
+phentermine	['adipex', 'fastin', 'ionamin', 'suprenza']	5.8571	0.4377768039703369
+localization	['regionalization', 'decentralization', 'domestication', 'provincialization']	3.8571	0.33411192893981934
+malaga	['Malaga', 'antique', 'beige', 'cream', 'ecru', 'fawn', 'neutral', 'off-white', 'pale', 'sand', 'tan.']	4.0	0.6618301868438721
+vicinity	['vicinity', 'nearness', 'proximity', 'closeness', 'neighborhood', 'surrounding area']	4.1429	0.4393439292907715
+provincial	['rural', 'rustic', 'country', 'small-town', 'local', 'regional', 'traditional']	4.1667	0.48047614097595215
+cumming	['arriving', 'reaching', 'attaining', 'achieving', 'coming', 'showing up', 'making it', 'getting there']	4.2	0.6161079406738281
+diecast	['model', 'miniature', 'replica', 'scale model']	4.6667	0.5101678371429443
+endowment	['bequest', 'grant', 'donation', 'gift', 'bestowal', 'present', 'contribution', 'award', 'subsidy', 'funding']	4.1667	0.6146407127380371
+burgess	['citizen', 'inhabitant', 'resident', 'denizen', 'voter', 'freeman']	4.2	0.5119321346282959
+holocaust	['catastrophe', 'devastation', 'annihilation', 'disaster', 'tragedy', 'apocalypse', 'genocide']	4.5	0.7191009521484375
+anchorage	['mooring', 'berth', 'harbor', 'port', 'dock', 'haven']	5.2	0.37731170654296875
+mda	['ecstasy', 'Adam', 'XTC']	4.3333	1.1592621803283691
+accreditation	['validation', 'certification', 'endorsement', 'recognition', 'approval']	4.5	0.40779900550842285
+stringent	['strict', 'rigorous', 'severe', 'tough', 'exacting', 'stringent', 'demanding', 'inflexible', 'uncompromising', 'harsh']	3.8571	0.6144580841064453
+expenditure	['outlay', 'spending', 'disbursement', 'cost', 'expense']	4.083349999999999	0.43049120903015137
+acrylic	['synthetic', 'plastic', 'polymer', 'resin', 'latex']	4.2857	0.4908430576324463
+saunder	['amble', 'stroll', 'walk', 'hike', 'wander', 'roam', 'meander', 'traipse']	4.1667	0.4629790782928467
+belize	['British Honduras', 'Central America', 'country', 'Belize City']	5.0	0.45912718772888184
+nottinghamshire	['county', 'shire', 'region', 'area', 'district', 'territory']	5.4	0.3666386604309082
+pantera	['cougar', 'puma', 'mountain lion', 'catamount']	5.2	0.4161398410797119
+counselling	['advice', 'guidance', 'therapy', 'support', 'help', 'consultation', 'coaching']	4.0	0.5449130535125732
+engadget	['gadget', 'device', 'contraption', 'tool', 'appliance', 'implement']	4.5	0.5133779048919678
+competency	['ability', 'capability', 'proficiency', 'skill', 'expertise', 'aptitude']	4.0	0.4537637233734131
+mla	['Modern Language Association', 'Modern Language Association of America']	4.4	5.381577253341675
+comptroller	['controller', 'treasurer', 'auditor', 'accountant', 'overseer']	5.3333	0.4109530448913574
+intranet	['corporate network', 'private network', 'internal network', 'closed network']	4.2857	0.5118458271026611
+geile	['exciting', 'thrilling', 'exhilarating', 'arousing', 'stimulating', 'provocative', 'titillating', 'sexy', 'enticing', 'alluring']	5.3333	0.6128830909729004
+asbestos	['chrysotile', 'amosite', 'crocidolite', 'tremolite', 'actinolite', 'anthophyllite']	4.4	0.7191789150238037
+atreyu	['protagonist', 'hero', 'lead', 'main character', 'central figure']	5.3333	0.5094258785247803
+alkaline	['basic', 'caustic', 'alkaloid', 'alkalifying', 'alkalified']	4.8333	0.4095449447631836
+mutation	['alteration', 'variation', 'change', 'modification', 'transformation', 'deviation', 'anomaly']	4.0	3.176593780517578
+prudent	['wise', 'sensible', 'judicious', 'cautious', 'careful', 'discreet', 'circumspect', 'thoughtful']	3.8333	0.6120750904083252
+octet	['eight', 'group of eight', 'ensemble', 'set of eight', 'collection of eight', 'series of eight']	4.0	0.5119249820709229
+pueblo	['town', 'village', 'community', 'settlement', 'hamlet']	5.0	0.42830705642700195
+pastor	['minister', 'clergyman', 'priest', 'reverend', 'parson', 'preacher', 'chaplain']	4.3333	0.46781277656555176
+llp	['partnership', 'firm', 'company', 'business', 'corporation']	4.3333	0.4348328113555908
+sovereign	['supreme', 'independent', 'autonomous', 'self-governing', 'ruler', 'monarch', 'potentate', 'king', 'queen', 'emperor', 'empress', 'head of state']	4.3333	0.6166326999664307
+viability	['feasibility', 'practicability', 'workability', 'possibility', 'capability', 'potential']	4.0	0.40714406967163086
+legislature	['congress', 'parliament', 'assembly', 'senate', 'chamber']	4.7143	0.4092440605163574
+plush	['luxurious', 'lavish', 'opulent', 'sumptuous', 'rich', 'deluxe', 'elegant', 'plushy']	4.4286	0.8037419319152832
+nabble	['dabble', 'fiddle', 'tinker', 'toy', 'meddle', 'mess around']	4.3333	0.46503710746765137
+tome	['book', 'volume', 'work', 'publication', 'opus']	4.5	1.1185040473937988
+eligibility	['suitability', 'qualification', 'fitness', 'capability', 'entitlement']	3.8571	0.34359097480773926
+gratuit	['free', 'complimentary', 'costless', 'unpaid', 'gratis']	5.2	0.7520241737365723
+saturation	['saturation', 'fullness', 'capacity', 'abundance', 'intensity', 'richness', 'depth', 'completeness', 'suffusion', 'permeation']	3.8333	0.6128418445587158
+influential	['dominant', 'powerful', 'significant', 'impactful', 'prominent', 'effective', 'authoritative', 'persuasive', 'important', 'instrumental']	3.8333	0.47212982177734375
+fresno	['California', 'city', 'metropolis', 'urban center', 'municipality']	5.2	0.6169672012329102
+microscopy	['magnifying', 'magnification', 'inspection', 'examination', 'scrutiny', 'analysis']	4.4286	1.0612878799438477
+optimization	['enhancement', 'improvement', 'refinement', 'perfecting', 'fine-tuning', 'enhancement', 'fine-tuning', 'modification']	3.8571	0.8203210830688477
+antille	['island', 'isle', 'atoll', 'cay', 'key', 'reef']	5.0	0.46952390670776367
+genocide	['massacre', 'annihilation', 'extermination', 'holocaust', 'slaughter', 'ethnic cleansing']	4.6667	0.45295000076293945
+buckinghamshire	['Bucks', 'county', 'region', 'shire']	4.8333	0.4093599319458008
+saratoga	['battle', 'campaign', 'struggle', 'conflict', 'combat']	5.2	0.4072730541229248
+pharmacology	['therapeutics', 'pharmacy', 'pharmacotherapy', 'pharmaceutics']	4.6667	0.40426087379455566
+sanctuary	['refuge', 'shelter', 'haven', 'retreat', 'oasis', 'safe haven', 'hideaway', 'asylum', 'harbor']	4.0	0.517035961151123
+cgi	['computer-generated imagery', 'computer graphics', 'digital effects', 'computer animation']	4.4	0.5134637355804443
+snmp	['trap', 'protocol', 'monitoring', 'management', 'network']	5.0	0.375856876373291
+attributable	['traceable', 'ascribable', 'imputable', 'assignable', 'attributable']	4.8	0.9551119804382324
+lingere	['loiter', 'dawdle', 'dally', 'delay', 'tarry', 'procrastinate']	3.8571	0.5105078220367432
+constitutional	['basic', 'essential', 'inherent', 'fundamental', 'structural', 'organic']	3.8333	0.3577148914337158
+versace	['couture', 'fashion', 'designer', 'label', 'brand', 'haute couture']	4.4	0.5637238025665283
+susceptible	['vulnerable', 'open', 'exposed', 'sensitive', 'receptive']	4.4	0.5142028331756592
+dissemination	['spread', 'circulation', 'diffusion', 'distribution', 'propagation', 'transmission']	4.2857	0.37280797958374023
+aclu	['American Civil Liberties Union', 'civil liberties organization', 'civil rights organization', 'ACLU']	4.8	1.034226894378662
+ordination	['investiture', 'induction', 'consecration', 'appointment', 'installation', 'ordainment', 'initiation']	4.8	0.4335911273956299
+townsend	['town', 'city', 'metropolis', 'municipality', 'village', 'urban area']	4.4	0.4915649890899658
+embroidery	['needlework', 'stitching', 'sewing', 'needlecraft', 'needlepoint', 'tapestry']	4.5	0.36228489875793457
+provisional	['tentative', 'temporary', 'interim', 'makeshift', 'stopgap']	4.1429	0.4786207675933838
+gigantic	['huge', 'enormous', 'immense', 'monstrous', 'colossal', 'massive', 'tremendous', 'vast', 'ginormous', 'elephantine', 'oversized', 'prodigious', 'monumental', 'substantial', 'humongous', 'brobding']	3.8333	0.7153809070587158
+glitter	['sparkle', 'shimmer', 'glisten', 'twinkle', 'gleam']	4.0	0.44413185119628906
+usenet	['newsgroup', 'forum', 'discussion board', 'message board', 'online community']	4.2	0.43160390853881836
+fischer	['angler', 'fisherman', 'fisher', 'angling', 'piscator']	4.2	0.45606017112731934
+invasive	['intrusive', 'encroaching', 'trespassing', 'obtrusive', 'unwanted', 'unwelcome']	3.8571	0.5110516548156738
+guatemala	['Central America', 'Guate']	4.6667	0.5120058059692383
+mortality	['death', 'fatality', 'perishability', 'destructibility', 'extinction', 'end', 'lifelessness', 'carnality']	4.0	0.5120718479156494
+intervention	['interference', 'involvement', 'intrusion', 'mediation', 'intercession', 'interposition', 'action', 'arbitration', 'stepping in']	3.92855	0.5150778293609619
+provost	['warden', 'supervisor', 'administrator', 'director', 'head', 'overseer']	5.5	0.5086078643798828
+grievance	['complaint', 'objection', 'protest', 'grumble', 'dissatisfaction', 'issue']	4.0	0.43027400970458984
+tuvalu	['island nation', 'South Pacific', 'Oceania', 'Polynesia', 'Funafuti']	4.8	0.7040970325469971
+comm	['communicate', 'converse', 'interact', 'connect', 'transmit', 'exchange']	4.3333	0.9146780967712402
+basel	['center', 'focal point', 'headquarters', 'hub', 'core', 'heart']	4.1667	0.35770511627197266
+radiology	['medical imaging', 'diagnostic imaging', 'radiography', 'radiographic imaging', 'X-ray imaging', 'medical radiology']	4.2857	0.5879881381988525
+bethesda	['spring', 'fountain', 'well', 'pool', 'source', 'origin', 'spa']	5.0	0.5606961250305176
+ashanti	['Ashanti', 'Asante']	4.8333	0.4376230239868164
+femdom	['female domination', 'female supremacy', 'femdomme', 'dominant woman', 'dominant female', 'mistress']	4.3333	0.5141158103942871
+authenticity	['genuineness', 'legitimacy', 'credibility', 'truth', 'realness', 'validity', 'trustworthiness']	4.0	0.5096919536590576
+nauru	['island', 'republic', 'country', 'nation']	4.8	0.40926122665405273
+duane	['alley', 'lane', 'road', 'street', 'way']	4.3333	0.40999293327331543
+appellant	['petitioner', 'claimant', 'litigant', 'complainant', 'plaintiff']	5.3333	0.6141791343688965
+syndication	['distribution', 'broadcasting', 'dissemination', 'circulation', 'propagation', 'sharing']	4.4	0.5120148658752441
+testosterone	['androgen', 'hormone', 'steroid', 'anabolic hormone']	4.6667	0.4061920642852783
+enact	['establish', 'execute', 'implement', 'pass', 'perform', 'ratify']	4.0	0.41263318061828613
+giorgio	['George', 'Jorge', 'Giorgos', 'Giorgi', 'Jörg', 'Jürgen']	4.4	0.6143519878387451
+seizure	['fit', 'attack', 'convulsion', 'spasm', 'paroxysm']	4.1667	0.5132811069488525
+contamination	['pollution', 'taint', 'adulteration', 'defilement', 'impurity', 'corruption']	4.4286	0.5111207962036133
+seminary	['school', 'college', 'academy', 'institute', 'university']	3.8571	0.5113859176635742
+embodiment	['incarnation', 'personification', 'representation', 'manifestation', 'epitome', 'quintessence']	4.1429	0.5119128227233887
+episcopal	['bishops', 'ecclesiastical', 'churchly', 'clerical', 'hierarchical']	5.1667	0.513218879699707
+appendix	['supplement', 'addendum', 'annex', 'extension', 'attachment']	3.8333	0.38443589210510254
+jurisdiction	['authority', 'control', 'power', 'dominion', 'sway', 'governance', 'rule', 'supervision']	4.3333	0.43331193923950195
+unsolicite	['unasked', 'uninvited', 'unbidden', 'unrequested', 'unrequired']	4.2857	0.5158729553222656
+archbishop	['primate', 'prelate', 'metropolitan', 'bishop']	5.1667	0.48557090759277344
+disposition	['temperament', 'nature', 'character', 'attitude', 'mood', 'mindset', 'inclination', 'tendency', 'orientation']	4.1667	0.5343101024627686
+inflammation	['swelling', 'redness', 'soreness', 'irritation', 'tenderness', 'inflammation']	4.0	0.5119311809539795
+prolyte	['supporter', 'advocate', 'champion', 'backer', 'promoter', 'defender', 'ally', 'helper', 'enthusiast']	4.4	0.4626271724700928
+abdominal	['belly', 'stomach', 'tummy', 'gut']	4.5	0.40219998359680176
+cerebral	['intellectual', 'mental', 'cognitive', 'brainy', 'intellectualized', 'rational']	4.0	0.41591596603393555
+cervical	['cervic', 'neck', 'spinal']	4.5714	0.3573150634765625
+algorithm	['method', 'procedure', 'formula', 'process', 'system', 'technique', 'rule', 'protocol']	4.0	0.6539928913116455
+joomla	['content management system', 'CMS', 'website builder']	4.3333	0.7809326648712158
+camino	['path', 'route', 'way', 'track', 'trail', 'roadway', 'thoroughfare']	4.4	0.511847972869873
+retention	['preservation', 'holding', 'custody', 'possession', 'maintenance', 'keeping']	4.1429	0.5105419158935547
+metasearch	['aggregator', 'search engine', 'search tool', 'search aggregator', 'search platform', 'search service']	4.2	0.511920690536499
+smtp	['post', 'electronic mail', 'email transport', 'protocol']	4.5	0.6143181324005127
+inflammatory	['provocative', 'incendiary', 'contentious', 'agitating', 'instigative', 'seditious', 'inflaming', 'exacerbating']	4.1429	0.6251270771026611
+exodus	['departure', 'emigration', 'migration', 'exit', 'evacuation', 'withdrawal', 'egress']	4.5	0.5171148777008057
+rhapsody	['ecstasy', 'euphoria', 'elation', 'delight', 'joy', 'happiness', 'bliss', 'fervor', 'enthusiasm', 'passion']	5.3333	0.6020028591156006
+probate	['validate', 'approve', 'authorize', 'certify', 'confirm', 'verify', 'sanction']	4.2857	0.6801741123199463
+godsmack	['punch', 'hit', 'smack', 'strike', 'wallop', 'thump', 'thwack', 'slap', 'whack']	5.2	0.8534419536590576
+embryo	['fetus', 'unborn', 'incipient', 'rudimentary', 'nascent']	4.3333	0.5105690956115723
+resurrection	['revival', 'rebirth', 'reawakening', 'restoration', 'rejuvenation', 'renewal']	4.4	0.5118658542633057
+erroneous	['incorrect', 'mistaken', 'wrong', 'inaccurate', 'faulty', 'false', 'flawed']	4.2	0.5119318962097168
+consortium	['association', 'alliance', 'partnership', 'coalition', 'syndicate', 'group', 'conglomerate', 'federation', 'union', 'confederation']	4.8333	0.6140971183776855
+linguistic	['verbal', 'language', 'grammatical', 'syntactic', 'philological', 'lexicological']	4.1667	0.5145010948181152
+portage	['carry', 'transport', 'convey', 'haul', 'lug', 'ferry', 'tote', 'bear', 'move']	4.5	0.5095679759979248
+levin	['lightning', 'thunderbolt', 'bolt', 'flash']	4.2	0.4095299243927002
+twink	['sparkle', 'glisten', 'glimmer', 'shimmer', 'shine', 'gleam', 'twinkle']	3.94285	0.6143500804901123
+hath	['has', 'possesses', 'owns', 'holds', 'bears', 'enjoys', 'carries']	4.6	0.4105250835418701
+maurice	['moe', 'morris', 'murray', 'mauricio']	4.8	0.4964611530303955
+staten	['country', 'state', 'condition', 'status', 'situation']	4.8	0.42392992973327637
+remuneration	['compensation', 'pay', 'salary', 'wages', 'earnings', 'reward', 'reimbursement', 'payment', 'stipend']	4.5	0.5242507457733154
+resonance	['echo', 'reverberation', 'vibration', 'sound', 'tone', 'pitch', 'frequency']	4.1429	0.499575138092041
+fourier	['transform', 'harmonic', 'spectral', 'analysis', 'series']	4.3333	0.8683719635009766
+coventry	['exile', 'isolation', 'ostracism', 'banishment', 'shunning']	4.6667	0.462709903717041
+trivium	['triple', 'trio', 'triad', 'threesome', 'threesome']	3.93335	1.4335250854492188
+neurology	['brain science', 'nerve study', 'nervous system study']	4.0	0.5143091678619385
+wilke	['hate', 'despise', 'loathe', 'abhor', 'detest']	4.4	0.46175193786621094
+vhs	['videocassette', 'videotape', 'video recording', 'cassette tape']	4.8	0.4927859306335449
+accountability	['responsibility', 'duty', 'obligation', 'answerability', 'liability', 'blameworthiness']	4.3333	0.6823740005493164
+oxide	['rust', 'corrosion', 'erosion', 'tarnish']	4.1429	0.5100588798522949
+multitude	['crowd', 'throng', 'mass', 'horde', 'swarm', 'group', 'host', 'mob', 'flock', 'assembly']	3.8571	0.6150467395782471
+impairment	['damage', 'harm', 'disability', 'limitation', 'deficiency', 'weakness', 'handicap', 'drawback', 'impediment', 'defect']	4.3333	0.5113279819488525
+grenadine	['pomegranate syrup', 'raspberry syrup', 'cherry syrup', 'fruit syrup', 'fruit cordial']	5.4	0.4339430332183838
+scrutiny	['examination', 'inspection', 'study', 'analysis', 'review', 'observation', 'assessment', 'evaluation', 'investigation']	4.1429	1.0332107543945312
+genesis	['beginning', 'origin', 'start', 'commencement', 'creation', 'inception']	4.3333	0.47870779037475586
+inne	['inside', 'within', 'indoors', 'internal', 'interior']	3.8571	0.5145630836486816
+corinthian	['elegant', 'refined', 'classy', 'sophisticated', 'stylish']	4.8	0.6117470264434814
+cartier	['jeweler', 'designer', 'luxury', 'brand', 'fashion', 'retailer', 'prestigious']	4.4	0.5131902694702148
+incidental	['accidental', 'secondary', 'minor', 'subsidiary', 'subordinate', 'ancillary', 'supplementary', 'additional', 'complementary']	4.3333	0.4372248649597168
+serenity	['calm', 'tranquility', 'peace', 'quiet', 'stillness', 'peacefulness', 'composure']	4.4286	0.4828312397003174
+synchronization	['coordination', 'alignment', 'harmony', 'integration', 'matching', 'synchronization']	4.2857	0.6105048656463623
+etiology	['cause', 'origin', 'source', 'root', 'reason']	5.6667	1.0302772521972656
+architectural	['architectonic', 'structural', 'constructional', 'design', 'building', 'engineering', 'edificial']	3.8333	0.5103261470794678
+biosynthesis	['formation', 'production', 'creation', 'synthesis', 'generation']	5.0	0.8909151554107666
+stochastic	['random', 'unpredictable', 'chance', 'uncertain', 'arbitrary', 'erratic']	4.8	0.4425480365753174
+configuration	['arrangement', 'setup', 'structure', 'layout', 'design', 'form', 'composition']	4.03335	0.40505099296569824
+diversion	['distraction', 'deviation', 'deviation', 'digression', 'departure', 'detour', 'sidetrack', 'alternative', 'recreation', 'amusement']	3.8333	0.6176221370697021
+humiliation	['shame', 'embarrassment', 'disgrace', 'dishonor', 'ignominy', 'indignity']	3.8571	0.42605090141296387
+erp	['enterprise resource planning', 'software', 'system', 'management', 'application']	4.6	0.42730116844177246
+mediation	['arbitration', 'conciliation', 'negotiation', 'intervention', 'resolution']	4.1429	0.47516417503356934
+terminology	['nomenclature', 'vocabulary', 'jargon', 'language', 'lexicon', 'terminology']	4.1667	0.38572120666503906
+beacon	['signal', 'guide', 'light', 'marker', 'lighthouse', 'flare', 'torch', 'bonfire']	4.0	0.5350673198699951
+surveillance	['watching', 'observation', 'monitoring', 'supervision', 'scrutiny', 'scrutiny', 'vigilance', 'espionage']	4.2857	0.5267069339752197
+deterioration	['decline', 'degradation', 'decay', 'worsening', 'degeneration', 'decline', 'weakening']	4.5714	0.3997468948364258
+husky	['burly', 'sturdy', 'stocky', 'robust', 'hefty', 'strong', 'muscular']	4.0	0.6346309185028076
+hubbard	['gourd', 'squash']	5.2	0.384901762008667
+ibid	['ditto', 'likewise', 'similarly', 'as above']	5.2	1.0220069885253906
+accredit	['recognize', 'authorize', 'certify', 'endorse', 'validate', 'approve', 'sanction']	4.5	0.5110139846801758
+essence	['core', 'crux', 'heart', 'soul', 'spirit', 'nature', 'quintessence', 'substance']	4.1667	0.5139861106872559
+masterbation	['self-pleasure', 'self-gratification', 'self-abuse', 'self-love', 'solosex', 'self-stimulation', 'autoeroticism', 'autoerotism', 'onanism', 'self-pleasuring', 'self-touching']	4.0	0.7304520606994629
+exquisite	['lovely', 'beautiful', 'elegant', 'splendid', 'magnificent', 'superb', 'fine', 'excellent']	4.2857	0.4936189651489258
+consumable	['edible', 'expendable', 'depletable', 'perishable', 'consumptive', 'ingestible', 'usable']	4.0	0.5122580528259277
+interoperability	['compatibility', 'connectivity', 'integration', 'collaboration', 'interaction']	5.1429	0.3807051181793213
+khz	['kilohertz', 'kilocycles']	3.8571	0.35704684257507324
+reimbursement	['compensation', 'repayment', 'refund', 'restitution', 'remuneration', 'recompense', 'payback']	3.8571	0.47948288917541504
+lesotho	['Kingdom of Lesotho', 'Basutoland']	5.4	0.3518338203430176
+genome	['chromosome', 'DNA', 'genes', 'genetic code', 'heredity', 'genetic material', 'genetic blueprint', 'genetic makeup']	3.8333	0.5130059719085693
+isabella	['beige', 'cream', 'ecru', 'fawn', 'sand', 'tan']	4.3333	0.39473724365234375
+bio	['life', 'biography', 'profile', 'personal history', 'autobiography']	5.0	0.8466267585754395
+acupuncture	['needling', 'reflexology', 'shiatsu', 'moxibustion', 'homeopathy', 'naturopathy']	4.4	0.6697161197662354
+oxfordshire	['Oxon', 'county', 'region', 'shire']	4.2	0.5481209754943848
+humanitarian	['benevolent', 'charitable', 'compassionate', 'philanthropic', 'altruistic', 'kind-hearted', 'generous', 'helpful', 'considerate', 'gracious']	4.0	1.10068678855896
+motif	['theme', 'subject', 'topic', 'idea', 'concept', 'element', 'pattern']	4.5714	0.5003209114074707
+eminent	['prominent', 'distinguished', 'renowned', 'notable', 'celebrated', 'respected', 'illustrious', 'eminent']	4.0	0.5102598667144775
+hereinafter	['subsequently', 'following', 'later on', 'after this', 'henceforth']	3.8333	0.513383150100708
+hertfordshire	['Herts', 'county', 'England', 'UK', 'English', 'region']	5.2	0.5113649368286133
+bruin	['bear', 'brown bear', 'Ursus arctos']	4.5	0.5125160217285156
+bilder	['photos', 'images', 'photographs', 'snapshots', 'prints', 'pictures']	4.3333	0.4090099334716797
+cumme	['arrive', 'come', 'reach', 'approach', 'appear', 'land']	3.8571	0.40868210792541504
+proqu	['advance', 'progress', 'develop', 'improve', 'evolve', 'proceed']	4.4	0.5102589130401611
+creed	['belief', 'doctrine', 'dogma', 'ideology', 'faith', 'credo']	3.8571	0.4076061248779297
+tonga	['carriage', 'cart', 'wagon', 'chariot', 'coach']	4.8	0.5168211460113525
+deprecate	['belittle', 'depreciate', 'diminish', 'discount', 'disparage', 'minimize', 'undervalue']	3.8571	0.5222928524017334
+activism	['advocacy', 'campaigning', 'protest', 'crusade', 'agitation', 'movement']	4.0	0.44620323181152344
+apoptosis	['cell death', 'programmed cell death', 'cell suicide']	5.4286	0.4081118106842041
+hayne	['straw', 'fodder', 'forage', 'feed', 'grasses']	4.0	0.42473387718200684
+aguilera	['eagle', 'hawk', 'falcon', 'bird of prey']	5.0	0.40740489959716797
+suede	['leather', 'napped leather', 'chamois', 'buckskin']	4.0	0.43305492401123047
+delphi	['oracle', 'prophet', 'seer', 'soothsayer', 'diviner']	5.0	0.4531738758087158
+inhibitor	['blocker', 'suppressant', 'restrainer', 'deterrent', 'obstacle', 'impediment', 'barrier']	4.1429	0.5175988674163818
+allege	['assert', 'claim', 'declare', 'state', 'maintain', 'contend']	3.8333	0.3686339855194092
+maxtor	['Seagate', 'hard drive', 'storage device', 'data storage', 'computer hardware', 'external drive', 'internal drive', 'disk drive']	4.3333	0.5047709941864014
+iss	['arise', 'result', 'stem', 'emanate', 'derive', 'originate']	5.2	0.38471078872680664
+statutory	['legal', 'lawful', 'official', 'legitimate', 'authorized', 'sanctioned', 'prescribed', 'required']	4.2857	0.46439290046691895
+analogue	['analog', 'parallel', 'equivalent', 'comparable', 'similar']	4.0	0.6661303043365479
+significance	['importance', 'meaning', 'consequence', 'weight', 'value', 'significance']	3.8333	0.4327280521392822
+telstra	['telecommunications company', 'phone provider', 'Australian telco', 'telecom operator', 'telecommunications provider', 'internet service provider']	4.4286	0.49460291862487793
+commencement	['beginning', 'start', 'onset', 'initiation', 'opening', 'launch', 'inauguration', 'outset']	4.1429	0.42359113693237305
+dissertation	['thesis', 'paper', 'treatise', 'study', 'report', 'monograph']	4.5	0.4548008441925049
+propaganda	['disinformation', 'misinformation', 'publicity', 'promotion', 'advertising', 'advocacy', 'indoctrination']	4.2857	0.477222204208374
+elegance	['refinement', 'grace', 'sophistication', 'style', 'charm', 'beauty']	3.8571	0.41629791259765625
+mansfield	['field', 'estate', 'grounds', 'property', 'land', 'territory']	4.4	0.4208338260650635
+cancun	['beach resort', 'tourist destination', 'vacation spot', 'seaside city']	4.8333	0.4114670753479004
+jacqueline	['Jackie', 'Jacky']	4.6	0.386735200881958
+mirage	['optical illusion', 'hallucination', 'phantasm', 'apparition', 'fantasy', 'chimera']	3.8333	0.5180737972259521
+crt	['monitor', 'display', 'screen', 'television', 'panel']	4.4	0.34637999534606934
+cultivation	['farming', 'agriculture', 'tilling', 'husbandry', 'planting', 'growing', 'tillage', 'culture']	3.8571	0.5001473426818848
+hydrocodone	['vicodin', 'norco', 'lortab']	5.1429	0.42662906646728516
+superintendent	['overseer', 'supervisor', 'manager', 'director', 'head', 'boss', 'chief']	4.0	0.4860532283782959
+morale	['spirit', 'mood', 'feeling', 'atmosphere', 'vibe', 'temper', 'attitude', 'outlook', 'mindset']	4.0	0.4229419231414795
+orbital	['circular', 'round', 'spherical', 'cyclical', 'revolving']	4.0	0.4362480640411377
+ssl	['secure sockets layer', 'secure socket layer', 'tls', 'transport layer security']	4.4	0.4024231433868408
+biotechnology	['genetic engineering', 'genetic modification', 'bioengineering', 'biotech', 'genetic technology', 'life science']	4.0	0.44333982467651367
+intrinsic	['innate', 'inherent', 'natural', 'essential', 'built-in', 'integral', 'immanent', 'inherent']	4.1429	0.4991779327392578
+guadeloupe	['French West Indies', 'Caribbean island', 'overseas department', 'Antilles', 'archipelago', 'territory']	5.2	0.5089828968048096
+staffordshire	['pottery', 'ceramics', 'china', 'earthenware']	5.0	0.3544480800628662
+tuberculosis	['consumption', 'TB', 'white plague', 'phthisis']	4.1429	0.902825117111206
+seismic	['earthshaking', 'earth-shattering', 'powerful', 'intense', 'significant', 'major', 'huge', 'massive']	4.2857	0.5282938480377197
+viewsonic	['outlook', 'perspective', 'standpoint', 'position', 'angle', 'approach']	4.3333	0.5336360931396484
+darfur	['region', 'area', 'territory', 'zone', 'district']	4.5	0.47399091720581055
+cambridgeshire	['eastern', 'england', 'county', 'united kingdom']	4.8333	0.3870222568511963
+metabolism	['assimilation', 'biotransformation', 'conversion', 'digestion', 'processing', 'transformation']	4.2857	0.5050628185272217
+charlottesville	['Albemarle County', 'Virginia']	5.0	0.3197309970855713
+boe	['bemoan', 'lament', 'bewail', 'complain', 'groan', 'mourn']	4.5	0.3938100337982178
+beige	['buff', 'sand', 'tan', 'fawn', 'khaki', 'oatmeal']	4.8333	0.4879908561706543
+locus	['place', 'spot', 'position', 'site', 'area', 'region', 'point', 'locale']	4.2	0.5199668407440186
+tungsten	['wolfram', 'symbol W', 'atomic number 74']	4.0	0.3970060348510742
+embed	['implant', 'insert', 'lodge', 'fix', 'place', 'set', 'install', 'incorporate', 'engrain']	4.0	0.46172428131103516
+lisp	['stammer', 'stutter', 'falter', 'hesitate']	3.8333	0.4685251712799072
+biodiversity	['variety', 'diversity', 'multiplicity', 'range', 'assortment', 'heterogeneity']	3.8571	0.6505441665649414
+amethyst	['purple quartz', 'violet gem', 'lavender crystal']	5.0	0.491955041885376
+sesso	['intercourse', 'copulation', 'coitus', 'lovemaking', 'intimacy', 'relations', 'sex', 'sexual relations', 'carnal knowledge']	5.2	0.5620861053466797
+filmography	['film history', 'film list', 'list of films', 'movie list', 'film catalog', 'filmography', 'movie history', 'movie catalog']	4.0	0.5223798751831055
+congregation	['assembly', 'gathering', 'crowd', 'throng', 'audience', 'congregation']	4.2857	0.3897368907928467
+essex	['county', 'region', 'shire']	4.0	0.3605968952178955
+budgetary	['financial', 'fiscal', 'economic', 'monetary', 'pecuniary']	4.0	0.6424779891967773
+sweepstake	['lottery', 'raffle', 'drawing', 'competition', 'giveaway']	4.7143	0.47036123275756836
+lagoon	['laguna', 'pool', 'pond', 'lake', 'inlet', 'bay', 'waterhole']	4.0	0.36429619789123535
+figurine	['statuette', 'sculpture', 'ornament', 'trinket', 'miniature']	4.2857	0.4887270927429199
+obituary	['death notice', 'necrology', 'eulogy', 'remembrance', 'tribute']	5.2	0.3844428062438965
+lund	['penis', 'cock', 'dick', 'member', 'shaft', 'phallus']	4.4	0.4730381965637207
+gentoo	['gentoo', 'penguin']	4.6667	0.3625631332397461
+ideological	['philosophical', 'doctrinal', 'theoretical', 'dogmatic', 'speculative', 'abstract']	3.8333	0.4272739887237549
+travestis	['mockery', 'parody', 'imitation', 'caricature', 'spoof', 'farce', 'burlesque']	4.8571	0.4496300220489502
+tenacious	['persistent', 'determined', 'relentless', 'firm', 'resolute', 'dogged', 'steadfast', 'unyielding', 'unwavering', 'strong-willed']	4.2857	0.5229530334472656
+notwithstanding	['nevertheless', 'nonetheless', 'however', 'still', 'yet', 'though']	4.2857	0.3800339698791504
+schwarzenegger	['Arnold', 'Terminator', 'actor', 'bodybuilder', 'politician', 'Austrian']	5.2	0.4685709476470947
+daemon	['demon', 'fiend', 'evil spirit', 'spirit', 'monster', 'devil']	4.2857	0.43585920333862305
+conjunction	['union', 'combination', 'connection', 'coupling', 'linking', 'joining', 'alliance', 'association']	3.8333	0.39978790283203125
+burbank	['city', 'town', 'municipality', 'urban area', 'metropolis']	4.4	0.37169909477233887
+masturbation	['self-pleasure', 'self-stimulation', 'self-gratification', 'solo sex', 'solo play', 'self-love', 'autoeroticism', 'autoerotism', 'hand party', 'hand action', 'diddling', 'fapping', 'handwork', 'manual stimulation', 'polishing the']	4.2	0.7124378681182861
+kazaa	['music sharing program', 'peer-to-peer software', 'file sharing software', 'digital music service']	5.2	0.4721860885620117
+stargate	['portal', 'gateway', 'entrance', 'door', 'opening', 'access']	4.6	0.3769359588623047
+coppermine	['quarry', 'pit', 'mine', 'excavation', 'diggings', 'shaft']	4.5	0.44113612174987793
+certification	['authentication', 'validation', 'verification', 'confirmation', 'attestation']	3.9286	0.589184045791626
+prospectus	['outline', 'summary', 'synopsis', 'proposal', 'plan', 'draft', 'scheme', 'overview', 'prospect', 'agenda']	4.5	0.5180850028991699
+prosecution	['pursuit', 'legal action', 'lawsuit', 'trial', 'case', 'litigation', 'charge', 'accusation', 'enforcement']	4.0	0.47238707542419434
+sourceforge	['repository', 'archive', 'depot', 'storehouse', 'stockpile']	4.2857	0.3454461097717285
+clr	['clean', 'clear', 'transparent', 'unclouded', 'pure']	4.3333	0.3649461269378662
+worcestershire	['sauce', 'condiment', 'flavoring', 'seasoning']	5.0	0.36562299728393555
+autobiography	['life story', 'memoir', 'self-portrayal', 'self-description', 'life history', 'personal account', 'personal narrative']	4.0	0.5599889755249023
+spontaneous	['impromptu', 'unplanned', 'impulsive', 'unpremeditated', 'extemporaneous', 'spur-of-the-moment', 'improvised']	3.8571	0.50453782081604
+cabernet	['claret', 'wine', 'merlot', 'burgundy']	5.2	0.49490904808044434
+sme	['grime', 'dirt', 'filth', 'soil', 'stain']	4.4	0.42296290397644043
+hypertension	['high blood pressure', 'elevated blood pressure', 'raised blood pressure', 'high BP', 'hypertension']	4.3333	0.48920607566833496
+decree	['order', 'command', 'edict', 'directive', 'mandate', 'pronouncement', 'proclamation']	4.5	0.47627997398376465
+lipid	['fat', 'oil', 'grease', 'wax', 'triglyceride', 'fatty substance']	4.6667	0.4857039451599121
+inverness	['heights', 'elevation', 'eminence', 'summit', 'peak', 'top']	4.8	0.5687882900238037
+audioslave	['soundgarden', 'chris cornell', 'rage against the machine']	4.8333	0.44033098220825195
+physiological	['biological', 'anatomical', 'organic', 'natural', 'bodily', 'physical']	4.1667	0.3775351047515869
+authentication	['verification', 'confirmation', 'validation', 'attestation', 'certification']	4.0	0.3965277671813965
+atkinson	['actor', 'performer', 'player', 'star', 'thespian']	4.2	0.37679219245910645
+dehydrogenase	['oxidoreductase', 'reductase']	5.8333	0.33431410789489746
+pitcairn	['dimple', 'hollow', 'indentation', 'crater']	4.8333	0.36941003799438477
+productivity	['efficiency', 'effectiveness', 'output', 'performance', 'efficiency', 'capability', 'capacity', 'success', 'accomplishment', 'yield', 'achievement', 'progress']	3.8571	0.4830811023712158
+legislator	['lawmaker', 'representative', 'senator', 'deputy', 'congressman', 'congresswoman', 'parliamentarian']	4.1429	0.4436218738555908
+ipaq	['pocket pc', 'handheld', 'electronic organizer', 'palmtop']	5.2	0.3827519416809082
+proclaim	['declare', 'announce', 'announce', 'state', 'assert', 'pronounce', 'broadcast', 'trumpet', 'advertise']	3.8333	0.5529868602752686
+topology	['structure', 'arrangement', 'configuration', 'layout', 'design', 'form']	3.8571	0.39211606979370117
+isuzu	['automaker', 'manufacturer', 'brand', 'make']	4.2	0.3871767520904541
+philosophical	['theoretical', 'abstract', 'speculative', 'intellectual', 'thoughtful', 'wisdom-seeking', 'contemplative']	4.0	0.38338422775268555
+warwickshire	['county', 'shire', 'region', 'area', 'district']	5.0	0.40328001976013184
+middot	['characteristics', 'traits', 'attributes', 'features', 'qualities', 'aspects']	5.2	0.5199019908905029
+scarborough	['borough', 'town', 'community', 'municipality']	4.6667	0.5160260200500488
+ethanol	['alcohol', 'grain alcohol', 'ethyl alcohol', 'drinking alcohol']	4.1667	0.3970019817352295
+encompass	['include', 'cover', 'embrace', 'incorporate', 'surround', 'enclose']	3.8571	0.3625340461730957
+strauss	['composer', 'musician', 'conductor', 'maestro', 'orchestrator']	4.0	0.6631560325622559
+chromosome	['chromosome', 'chromo', 'chromatin', 'chromatid']	4.7143	0.45019078254699707

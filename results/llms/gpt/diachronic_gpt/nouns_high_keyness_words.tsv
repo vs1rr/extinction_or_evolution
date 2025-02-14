@@ -1,0 +1,288 @@
+original_word	synonyms	score	time_elapsed
+binage	['sarclage', 'houage', 'désherbage']	4601.143650435415	0.468646764755249
+plantoir	['poinçon', 'piqueur', 'serfouette', 'dresse-mottes']	1679.349166182659	0.5489668846130371
+tubercule	['nodule', 'tumeur', 'excroissance', 'bosse', 'protubérance', 'gonflement.']	898.9584111658137	0.5675609111785889
+foliole	['feuille', 'feuillet', 'page', 'pagelette']	832.8479604645707	0.4298367500305176
+scarole	['laitue', 'chicorée', 'endive', 'frisée']	798.7148473307768	0.4642367362976074
+plant	['herb', 'flora', 'vegetation', 'shrubbery', 'greenery', 'foliage', 'bush', 'flower', 'tree', 'crop']	774.5778601861655	0.6201128959655762
+compost	['fumier', 'humus', 'terreau', 'engrais organique', 'débris organiques']	634.8759042885662	0.5301768779754639
+hersage	['labourage', 'labour', 'binage', 'bêchage', 'sarclage']	600.7427911547724	0.6000559329986572
+ado	['ado', 'adolescent', 'jeune', 'jeune adulte']	586.23621807291	0.5868279933929443
+cantaloup	['melon', 'melon cantaloup', 'cantaloup', 'melon à chair orange']	573.4363006477372	0.529994010925293
+sarclage	['désherbage', 'binage', 'houage', 'sarcloir']	545.0795605058162	0.537423849105835
+verrine	['amuse-bouche', 'mini-bouchée', 'mignardise', 'verrine apéritive']	464.2103386195968	0.5717737674713135
+mestier	['emploi', 'travail', 'occupation', 'profession', 'activité', 'poste', 'mission', 'rôle.']	450.5570933660792	0.49384403228759766
+ciboule	['oignon vert', 'échalote', 'cive', 'civette', 'oignon nouveau']	439.7782155343549	0.4692971706390381
+ramille	['rameau', 'brindille', 'twig', 'branchette']	395.94411235200903	0.473081111907959
+pourpier	['verdolaga', 'portulaca', 'pourpier à grandes fleurs', 'pourpier à petites fleurs']	370.49942801590817	0.5440618991851807
+espalier	['treillage', 'palissade', 'clôture']	344.9577746084044	0.3990058898925781
+igname	['patate douce', 'dioscorea', 'carvi', 'nyam', 'nyam-nyam']	337.130132798395	0.5088300704956055
+ombelle	['inflorescence', 'cyme', 'grappe']	335.8698332365318	0.4206383228302002
+laitue	['chicorée', 'romaine', 'batavia', 'feuille de chêne', 'iceberg']	319.9979356293177	0.5105991363525391
+repiquage	['transplantation', 'replantation', 'rempotage', 'repiquage.']	317.66550623184173	0.6527938842773438
+rave	"['hurler', 'célébrer', 'éclater', 'exploser', 'festoyer', ""s'ébattre"", 'danser', 'se déchaîner']"	299.51806774904134	0.6319382190704346
+poireau	['oignon', 'légume', 'allium ampeloprasum']	293.54477295062736	0.4650440216064453
+endive	['chicon', 'chicorée', 'salade barbe de capucin.']	286.7181503238686	0.44511985778808594
+inflorescence	['fleuraison', 'épanouissement', 'floraison', 'éclosion']	286.7181503238686	0.4529709815979004
+balsamine	['impatiens', 'balsamine des jardins', 'impatientes', 'violette de jardin']	286.7181503238686	0.5121619701385498
+party	['célébration', 'rassemblement', 'festivité', 'réception', 'soirée', 'événement']	277.3315442120753	0.6153669357299805
+lilium	['lys', 'lis', 'lis des fleurs']	273.0649050703511	0.4282670021057129
+repique	['sonner', 'carillonner', 'tintinnabuler', 'clocher']	263.31258703212427	0.43122100830078125
+bourgeon	['germe', 'pousse', 'ébauche', 'bouton', 'rameau.']	241.4642487174516	0.5115020275115967
+navet	['patate', 'légume', 'tubercule', 'racine']	234.7130925604703	0.41799092292785645
+passiflore	['grenadille', 'fleur de la passion', 'passiflora']	232.1051693097984	0.48676085472106934
+pistachier	['arbre', 'pistachier vrai', 'pistachier cultivé']	232.1051693097984	0.43184399604797363
+courge	['citrouille', 'potiron', 'potimarron', 'pâtisson', 'butternut', 'calabaza.']	212.4786292578669	0.5115439891815186
+purpurine	['pourpre', 'violet', 'lilas', 'pourpré']	191.14543354924575	0.6798560619354248
+tanaisie	['absinthe', 'herbe de sainte marguerite', 'herbe aux vers', 'chrysanthème puant', 'barbotine']	191.14543354924575	0.5766599178314209
+corymbe	['inflorescence', 'grappe', 'cyme']	184.31881092248696	0.413348913192749
+raifort	['moutarde', 'raifort des Allemands', 'raifort des bois', 'raifort sauvage']	176.44193866084225	0.5636880397796631
+puceron	['puceron', 'aphide', 'louse']	165.1189347847279	0.42076587677001953
+arum	"['calla', ""lis d'Arum"", 'lys de Richard', 'patience', 'spathiphyllum']"	163.83894304221064	0.5384981632232666
+murier	['mûrier', 'mûre', 'mur', 'muraille', 'cloison', 'paroi']	163.83894304221064	0.4741330146789551
+semis	['plantation', 'ensemencement', 'ensemencure', 'ensemis', 'semence', 'semaison']	151.58432291222414	0.7158632278442383
+parage	['ajustage', 'appariement', 'égalisation', 'comparaison', 'concordance']	150.1856977886931	0.5598888397216797
+lardage	['graisse', 'saindoux', 'lard', 'cochonaille']	150.1856977886931	0.5067858695983887
+panachure	['moucheture', 'marbrure', 'tacheture', 'zébrure']	136.53245253517554	0.4807591438293457
+souchet	"['souchet', 'vétiver', 'chufa', 'amande de terre', 'gland', ""poireau d'eau""]"	136.53245253517554	0.519791841506958
+flageolet	['haricot vert', 'légume', 'fève', 'pois', 'légumineuse']	122.87920728165798	0.4623861312866211
+vanillier	['orchidée', 'plante', 'arbuste']	122.87920728165798	0.39951610565185547
+paillage	['couverture', 'litière', 'mulch']	122.87920728165798	0.4472529888153076
+root	['base', 'source', 'origine', 'racine', 'fondement', 'principe']	122.87920728165798	0.38919997215270996
+arrosage	['irrigation', 'humidification', 'aspersion', 'mouillage']	120.73752175169444	0.369830846786499
+capucine	['nasturtium', 'tropaeolum']	119.36837278789632	0.33051180839538574
+topinambour	['salsifis', 'poire de terre', 'artichaut du Canada', 'truffe du Canada']	116.32564955996956	0.3989686965942383
+cœur	['âme', 'esprit', 'intérieur', 'moi', 'noyau', 'centre', 'affect', 'fond', 'passion', 'amour']	115.50645484475852	0.46520400047302246
+arrosement	['arroser', 'irrigation', 'aspersion', 'arrosage']	114.27766277194192	0.4988422393798828
+horticulture	['culture maraîchère', 'jardinage', 'arboriculture', 'floriculture']	110.9977572137114	0.6073780059814453
+renoncule	"[""bouton-d'or"", 'renoncule des champs', 'éponge', 'corne de cerf', ""pied-d'alouette""]"	110.59128655349218	0.5402398109436035
+auricule	['oreillette', 'pavillon', 'conque']	109.22596202814044	0.3089869022369385
+dolicho	['haut', 'grand', 'long', 'étiré', 'allongé', 'prolongé', 'élancé']	109.22596202814044	0.46555376052856445
+mouillure	['tache', 'trace', 'éclaboussure', 'goutte', 'macule']	108.13370240785903	0.4421849250793457
+fumier	['excrément', 'bouse', 'fiente', 'crottin', 'purin']	106.29051429863416	0.4519460201263428
+radis	['navet', 'rave', 'radis rouge', 'radis blanc', 'radis noir', 'radis long']	97.45592301648738	0.42804503440856934
+plantation	['culture', 'exploitation', 'domaine', 'ferme', 'domaine agricole']	95.92558394817304	0.380598783493042
+radicule	['racine', 'germe', 'graine', 'embryon', 'bourgeon']	95.57271677462288	0.4010641574859619
+stipe	['tronc', 'tige', 'hampe', 'chaume']	95.57271677462288	0.4326040744781494
+pistil	['ovaire', 'carpelle', 'gynécée', 'stigmate', 'style', 'ovaire']	93.43939720376076	0.4953420162200928
+palissage	['treillage', 'clôture', 'palin', 'grillage', 'haie']	87.91357919338134	0.647691011428833
+fruit	['produit', 'récolte', 'aliment', 'denrée', 'comestible']	82.3729600941759	0.5833618640899658
+sarcloir	['binette', 'houe']	81.91947152110532	0.429034948348999
+escarole	['chicorée frisée', 'scarole', 'scarolle']	81.91947152110532	0.5285723209381104
+fraiche	['froide', 'fraîche', 'glacée', 'glaciale', 'refroidie', 'rafraîchie', 'glacé', 'glaciale', 'glacial.']	81.91947152110532	0.8675897121429443
+arbuste	['buisson', 'buissonnant', 'végétal', 'plante', 'broussaille', 'arbrisseau']	80.04345308932427	0.49978089332580566
+jacinthe	['hyacinthe', 'jacinthe des bois', 'jacinthe sauvage']	79.0946621583086	0.3809380531311035
+arrachage	['déchirement', 'extraction', 'déracinement', 'dépiquage', 'dévulsion']	77.43950042229487	0.5456831455230713
+rosier	['églantier', 'buisson de roses', 'arbuste à roses']	74.97094491886871	0.5748820304870605
+arpent	['arpent', 'lopin', 'parcelle', 'lot', 'terrain']	74.47224683736847	0.5170061588287354
+transplantation	['greffe', 'transplantation chirurgicale', 'implantation', 'transfert']	72.05879439356487	0.554818868637085
+œuvre	['travail', 'production', 'création', 'ouvrage', 'réalisation', 'composition', 'pièce']	69.63155079293952	0.6815979480743408
+oignon	['échalote', 'ail', 'poireau', 'bulbe']	69.27757776784833	0.5461299419403076
+bottelage	['fagotage', 'faisceau', 'gerbe', 'botte', 'meule']	68.26622626758777	0.6594960689544678
+apiculture	"['apiculture', ""élevage d'abeilles"", 'apiculturisme', 'apicultrice', 'apiculteur']"	68.26622626758777	0.6352529525756836
+scion	['rejet', 'pousse', 'drageon', 'bourgeon', 'jeune pousse']	66.38302002572328	0.5950028896331787
+cassement	['fracture', 'fissure', 'brisure', 'rupture', 'éclatement', 'déchirure', 'dégradation.']	65.53557721688425	0.6828269958496094
+bulbe	['ampoule', 'tubercule', 'oignon', 'gonflement', 'nœud.']	62.09321644551867	0.5257890224456787
+eumolpe	['molosse', 'centaure', 'satyre', 'faune', 'sylvain']	61.43960364082899	0.5754990577697754
+balayure	['déchet', 'résidu', 'ordure', 'détritus', 'détritus', 'restes', 'rebut', 'bricole', 'sciure', 'copeaux', 'poussière', 'sale', 'immondices', 'saloperie', 'souill']	61.43960364082899	0.811115026473999
+mucilage	['glu', 'colle', 'gomme', 'adhésif']	61.43960364082899	0.43256092071533203
+vitrage	['fenêtre', 'vitre', 'carreau', 'verrière', 'baie vitrée']	60.94009466813933	0.5578429698944092
+collet	['revers', 'cou', 'encolure', 'gorge', 'encolure']	60.43568854865858	0.4844479560852051
+limbe	['feuille', 'lame', 'foliole', 'pétiole', 'fronde']	59.32099661873144	0.9404752254486084
+abricotier	['abricotier', 'arbre à abricots', 'prunier de Damas']	58.0262923274496	0.4235990047454834
+tulipier	['arbre tulipier', 'tulipier de Virginie']	57.34363006477373	0.4231119155883789
+paillis	['mulch', 'enveloppe', 'revêtement', 'couverture', 'barrière', 'surfaçage.']	56.114837991957145	0.5180857181549072
+incision	['coupure', 'entaille', 'fente', 'sectionnement', 'découpe', 'ouverture']	55.37149463926563	0.44620800018310547
+muid	['barrique', 'fût', 'tonneau', 'bidon', 'barril', 'cuve', 'bac', 'tonne.']	54.612981014070215	0.5808699131011963
+piqure	['morsure', 'morselure', 'piqûre', 'punaise', 'punition', 'pic', 'pinçure']	54.612981014070215	2.231009006500244
+lycopode	['clubmousse', 'lycopode', 'licopode', 'lycopod', 'lycopodio', 'lycopodio', 'lycopodio']	54.612981014070215	0.640920877456665
+gramen	['herbe', 'gazon', 'pelouse', 'verdure', 'brin']	54.612981014070215	0.48017311096191406
+flouve	['herbe', 'plante', 'gazon', 'foin', 'brin', 'verdure', 'chaume', 'jonc']	54.612981014070215	0.5857641696929932
+trifolium	['trèfle', 'luzerne']	54.612981014070215	0.41217684745788574
+marbrure	['veinure', 'nervure', 'stries', 'zébrure']	54.612981014070215	0.49036598205566406
+aurone	['flavonol', 'flavonoïde', 'chalcone', 'hétéroside', 'antioxydant']	54.612981014070215	0.7478928565979004
+discontinuation	['arrêt', 'cessation', 'interruption', 'fin', 'suspension']	54.612981014070215	0.41309690475463867
+fomentation	['chauffage', 'application de chaleur', 'compresse chaude', 'cataplasme']	54.612981014070215	0.49717092514038086
+halle	['marché', 'bazar', 'marché couvert', 'étal', 'halle aux poissons']	54.50547514593228	0.4764080047607422
+assaisonnement	['condiment', 'épice', 'aromate', 'assaisonnement']	53.87095681550947	0.44324302673339844
+jardinage	['cultivation', 'culture', 'agriculture', 'horticulture.']	53.3376778859944	0.44609808921813965
+touffe	['buisson', 'bourrelet', 'poignée', 'pincée', 'poignée', 'amas', 'groupement', 'ensemble.']	52.94315965212922	0.5942337512969971
+labour	['travail', 'besogne', 'ouvrage', 'corvée', 'labeur', 'activité.']	51.04952404174452	0.5905039310455322
+betterave	['betterave sucrière', 'bette', 'betterave potagère', 'betterave rouge', 'chou rouge', 'betterave fourragère']	49.61617476149421	0.5502502918243408
+rhizome	['racine', 'tubercule', 'stolon', 'bulbe']	49.56128027026872	0.474337100982666
+salsifis	['poireau', 'scorsonère', 'légume oublié']	49.51848651648904	0.5755190849304199
+acclimatation	['adaptation', 'habituation', 'acclimatation', 'ajustement', 'familiarisation']	49.37611982094019	0.44136714935302734
+fumigation	['purification', 'désinfection', 'assainissement', 'décontamination', 'épuration', 'nettoyage', 'traitement', 'extermination', 'élimination']	49.15168291266319	1.0436060428619385
+fructification	['fertilité', 'reproduction', 'production', 'maturation', 'développement']	48.10387571878859	0.4208567142486572
+mignardise	['amuse-gueule', 'friandise', 'douceur', 'gourmandise', 'bouchée sucrée']	47.78635838731144	0.6252028942108154
+quinconce	['alignement', 'disposition en quinconce', 'échiquier', 'échiquierage', 'plan en quinconce']	47.10369612463556	0.5625526905059814
+rameau	['branche', 'branchette', 'rejeton', 'brindille', 'jet', 'tige']	45.20556202841483	0.46748900413513184
+arrosoir	['pot', 'cruche', 'arrosoir', 'broc']	44.78264443153758	0.4176204204559326
+stigmate	['tache', 'marque', 'cicatrice', 'signe']	44.47057025431432	0.4511830806732178
+amandier	['prunus', 'amygdalier', 'arbre à amandes', 'amandier commun']	44.32628938470767	0.5075247287750244
+plantule	['germe', 'poussin', 'jeune pousse', 'semis']	44.11048466521056	0.48857688903808594
+pois	['légume', 'légumineuse', 'haricot']	44.06340837421247	0.5879650115966797
+œillet	['clou', 'giroflée', 'oeil-de-boeuf', 'oeil-de-paon']	42.18852783336924	0.5712389945983887
+fumure	['engrais', 'amendement', 'compost', 'engrais organique']	41.675189660300305	0.4430990219116211
+pissenlit	['dent-de-lion', 'salade de taupin', 'couronne de moine', 'liondent']	41.49867965213888	0.5610060691833496
+bassinage	['rétention', 'accumulation', 'stagnation', 'amoncellement', 'accumulation']	40.95973576055266	0.43975019454956055
+porte-graine	['semence', 'graine', 'grain', 'germe', 'fécond', 'reproducteur']	40.95973576055266	0.4847738742828369
+immondice	['ordure', 'déchet', 'saleté', 'détritus', 'crasse', 'pourriture']	40.95973576055266	0.4925410747528076
+rhododendron	['azalée', 'alpenrose', 'laurier-rose']	40.95973576055266	0.43412303924560547
+consoude	"['soude', 'symphyte', ""oreille d'âne"", 'grande consoude']"	40.95973576055266	0.48769402503967285
+houlque	['glèbe', 'sillon', 'terre', 'labour', 'chaume.']	40.95973576055266	0.4302401542663574
+sinapis	['moutarde', 'condiment', 'moutarde forte', 'moutarde douce', 'moutarde de Dijon']	40.95973576055266	0.5611670017242432
+charronnage	['charpenterie', 'menuiserie', 'ébénisterie', 'travail du bois', 'artisanat du bois']	40.95973576055266	0.5120258331298828
+limonier	['citronnier', 'citronniernier.']	40.95973576055266	0.5856761932373047
+dracunculus	['serpent de mer', 'dragon', 'monstre marin', 'créature mythique']	40.95973576055266	0.4491109848022461
+airelle	['canneberge', 'airelle rouge', 'cranberry']	40.95973576055266	0.41546106338500977
+dextrine	['amidon', 'glucose', 'maltodextrine']	40.95973576055266	0.4874758720397949
+arbousier	['arbousier', 'fraise en arbre', 'arbousier commun', 'arbre à fraises', 'arbre aux fraises', 'arbousier unedo.']	40.95973576055266	1.0890271663665771
+exaction	['extorsion', 'imposition', 'rançon', 'prévarication', 'spoliation', 'racket', 'escroquerie']	40.95973576055266	0.5760540962219238
+pectine	['gelée', 'gel', 'substance gélifiante', 'gélifiant']	40.95973576055266	0.4330151081085205
+sphaigne	['tourbe', 'sphaigne vivante', 'sphagnum', 'sphaigne morte']	40.95973576055266	0.5010077953338623
+thyrse	['grappe', 'panicule', 'épis', 'corymbe', 'racème']	40.95973576055266	0.4964437484741211
+assolement	['rotation', 'culture', 'alternance', 'exploitation.']	39.55339290182124	0.42268872261047363
+patate	['tubercule', 'pomme de terre', 'pomme de terre', 'spud']	39.34895963513767	0.47499537467956543
+rousselet	['roux', 'rouquin', 'roussâtre', 'cuivré', 'flamboyant']	38.80396019420778	0.48845696449279785
+blanchiment	['lavage', 'éclaircissement', 'décoloration', 'dépigmentation', 'détartrage', 'désinfection']	38.80396019420778	0.6500492095947266
+ramification	['branchage', 'division', 'dérivation', 'subdivision', 'ramifications']	38.715366677782654	0.4145090579986572
+poirier	['pommier', 'arbre fruitier', 'arbuste fruitier']	38.418438286357784	0.436718225479126
+var	['divers', 'différent', 'multiple', 'varié', 'diversifié']	38.28844864573401	0.7373030185699463
+marcottage	['bouturage', 'greffage', 'multiplication']	38.134926397755926	0.41648292541503906
+denier	['centime', 'sou', 'obole', 'écu', 'pièce', 'monnaie.']	37.75975640425949	0.5034310817718506
+sauge	['herbe', 'plante', 'aromate', 'thym']	37.366776483311206	0.5202610492706299
+ajonc	"['ajon', ""ajonc d'Europe"", ""ajonc d'Allemagne"", 'ajonc de Fontainebleau', ""ajonc d'Alsace"", 'ajonc des sables', 'ajonc maritime']"	37.23612341868424	0.7334718704223633
+cordeau	['ficelle', 'cordon', 'câble', 'lanière', 'lacet']	37.05880854526193	0.4653511047363281
+brocoli	['chou-fleur', 'chou vert', 'chou brocoli', 'brocoli romanesco']	36.45416482689187	0.52252197265625
+cyclamen	['coucou', 'primevère', 'pervenche', 'violette']	35.839768790483575	0.5509717464447021
+sarment	['rameau', 'brin', 'tige', 'bourgeon', 'pousse']	35.037846253002876	0.45435118675231934
+ananas	['fruit', 'ananas', 'ananas victoria', 'ananas comosus', 'ananas sativus', 'ananas tropical', 'ananas des Antilles', 'ananas de Cayenne', 'ananas du Brésil']	34.82566905245057	0.7121591567993164
+catalpa	['catalpa', 'arbre aux haricots', 'cigare du Nord', 'arbre de trompette']	34.65823795123687	0.5182931423187256
+bouturage	['propagation', 'multiplication', 'reproduction']	34.58822130891113	0.4101688861846924
+girandole	"['tourbillon', 'tourniquet', ""feu d'artifice"", 'guirlande', 'ornement', 'flamme']"	34.133113133793884	0.740123987197876
+icone	['symbole', 'emblème', 'figure', 'représentation', 'image']	34.133113133793884	0.5750038623809814
+cep	['souche', 'racine', 'tronc', 'pied', 'base']	34.017407665543736	0.3920280933380127
+gramme	['poids', 'masse', 'unité de mesure']	33.69931437155837	0.45203614234924316
+calice	['gobelet', 'coupe', 'verre', 'vase', 'flûte', 'tasse', 'chope', 'bocal', 'cruche', 'bol']	33.638430334753394	0.9222378730773926
+poivrade	['vinaigrette', 'marinade']	32.33663349517315	0.4156200885772705
+prunier	['abricotier', 'pêcher', 'cerisier.']	32.20105012622064	0.41464996337890625
+onglet	['étiquette', 'tabulation', 'volet', 'onglette', 'languette']	31.650704905881604	0.4665029048919678
+aveline	['noisette', 'coudrier', 'coudrier commun', 'coudrier velu', 'noisetier']	31.50748904657897	0.5060210227966309
+salade	['crudité', 'crudités', 'mélange', 'légumes', 'végétarien']	31.20071509824458	0.5058848857879639
+arboriculture	['culture', 'arborisme', 'sylviculture', 'arborescence', 'arborisme']	30.95793981902236	0.5220868587493896
+culture	['éducation', 'savoir', 'tradition', 'civilisation', 'formation', 'instruction']	30.65031747349725	0.5491278171539307
+buttage	['bourrage', 'embossage', 'talutage']	29.90060710520344	0.43274617195129395
+condiment	['sauce', 'assaisonnement', 'épice', 'aromate']	29.66049830936572	0.42247891426086426
+altise	['puce', 'puceron', 'sauterelle.']	29.49100974759792	0.4211249351501465
+spore	['graine', 'semence', 'semis', 'germes', 'sporule']	29.439810077897224	0.5362818241119385
+parterre	['plate-bande', 'massif', 'jardin', 'parterre de fleurs']	29.094415480710023	0.48299312591552734
+raiponce	['chevelure', 'tignasse', 'crinière', 'cheveux', 'natte']	29.08141238999239	0.5374000072479248
+insecte	['araignée', 'bestiole', 'bête', 'bibitte', 'blatte', 'bourdon', 'cafard', 'criquet', 'guêpe', 'mite', 'moucheron', 'papillon', 'puce', 'scarabée', 'sauterelle']	28.726794543474856	0.8827798366546631
+aromate	['assaisonnement', 'condiment', 'épice', 'herbe aromatique']	28.671815032386863	0.4530601501464844
+antiscorbutique	['vitaminique', 'citrique', 'antivirulent', 'antibéribéri.']	28.671815032386863	0.5225238800048828
+capron	['chevreuil', 'chevrette', 'daim', 'chevreuil femelle']	28.671815032386863	0.4414398670196533
+ile	['île', 'îlot', 'terre', 'caye']	28.615705805317617	0.4288032054901123
+corolle	['pétales', 'fleur', 'couronne', 'cercle', 'parure']	28.45294621534574	0.5004677772521973
+cerisier	['prunier', 'arbre fruitier', 'cerisier sauvage', 'merisier']	27.635484368565653	0.4982900619506836
+pivoine	['rose', 'fleur', 'bourgeon', 'plante']	27.51027028693835	0.49386096000671387
+cambium	['phellogène', 'couche générative interne']	27.306490507035107	0.45313405990600586
+bineuse	['cultivateur', 'sarcloir', 'herse', 'déchaumeuse', 'houe']	27.306490507035107	0.5091352462768555
+botrytis	['grisaille', 'noble-rot', 'pourriture noble']	27.306490507035107	0.6404690742492676
+faine	['hêtre', 'châtaignier', 'arbre', 'forêt', 'bois', 'feuillu', 'feuillage', 'ombre', 'platane', 'frêne']	27.306490507035107	0.6835041046142578
+cormier	['sorbier', 'alisier', 'alisier torminal', 'alisier blanc']	27.306490507035107	0.5479109287261963
+cout	['coût', 'dépense', 'charge', 'frais', 'tarif', 'prix']	27.306490507035107	0.5982191562652588
+enfourchure	['fourchette', 'carrefour', 'embranchement', 'bifurcation', 'jonction']	27.306490507035107	0.5744099617004395
+cytise	['genêt', 'ajonc', 'broom']	27.306490507035107	0.48285412788391113
+traine	['rempoter', 'traîner', 'flâner', 'musarder', 'lambiner']	27.306490507035107	0.49750494956970215
+appointement	['traitement', 'rémunération', 'salaire', 'appoint', 'émoluments', 'appointements']	27.306490507035107	0.5568861961364746
+ghilde	['association', 'confrérie', 'corporation', 'société']	27.306490507035107	0.4490349292755127
+cari	['chagrin', 'tristesse', 'affliction', 'peine', 'douleur']	27.306490507035107	0.41699886322021484
+croute	['écorce', 'croûte', 'croûton', 'pellicule']	27.306490507035107	0.41311097145080566
+fasciation	['déformation', 'mutation', 'anomalie', 'distortion', 'altération']	27.306490507035107	0.37902283668518066
+ciste	['boîte', 'coffre', 'récipient', 'conteneur', 'caisse']	27.306490507035107	0.4293551445007324
+bistorte	['persicaire', 'renouée', 'serpentine']	27.306490507035107	0.47714781761169434
+typha	['massette', 'joncaille', 'roseau', 'tourbe.']	27.306490507035107	0.4456908702850342
+stramonium	['datura', 'jimsonweed', 'herbe aux sorcières']	27.306490507035107	0.4404761791229248
+appareilleur	['accordeur', 'ajusteur', 'ajusteur-monteur', 'assembleur', 'monteur', 'préparateur']	27.306490507035107	0.4902191162109375
+esquinancie	['angine', 'pharyngite', 'amygdalite']	27.306490507035107	0.4235546588897705
+clayon	['panier', 'corbeille', 'poubelle', 'bac']	27.306490507035107	0.4532191753387451
+engelure	['gelure', 'furoncle', 'escarre', 'nécrose.']	27.306490507035107	0.4546797275543213
+germination	['croissance', 'développement', 'éclosion', 'émergence', 'propagation']	26.287591607518873	0.4641118049621582
+coriandre	['aneth', 'persil chinois', 'persil arabe']	26.214230886753704	0.3507251739501953
+archive	['dossier', 'fichier', 'enregistrement', 'mémoire', 'documentation', 'registre', 'documentation.']	25.869306796138524	0.5156841278076172
+chancre	['ulcère', 'lésion', 'plaie', 'escarre', 'pustule']	25.74611962091882	0.4411661624908447
+agronome	['agriculteur', 'cultivateur', 'fermier', 'spécialiste des cultures']	25.74611962091882	0.5787746906280518
+cart	['chariot', 'panier', 'caddie', 'wagonnet', 'voiturette']	25.39503617154265	0.46482014656066895
+tuteur	['mentor', 'guide', 'enseignant', 'coach', 'précepteur']	25.09787730426021	0.4158189296722412
+pouce	['pouce', 'pallier', 'doigt', 'unité', 'mesure']	24.71508135126832	0.449847936630249
+bette	['betterave', 'carde', 'poirée']	24.575841456331595	0.4020810127258301
+vinification	['oenologie', 'viticulture', 'vinifaction']	24.575841456331595	0.4296410083770752
+ombilic	['nombril', 'nombrilic', 'navel', 'centre']	24.01087958377225	0.4679298400878906
+brindille	['brin', 'rameau', 'branche', 'tige']	23.151154995094984	1.4337868690490723
+pisciculture	['aquaculture', 'aquiculture', 'pisciculture']	23.03985136531087	0.4129369258880615
+arcure	['arc', 'courbe', 'voûte', 'arche']	22.598474902373884	0.4218630790710449
+alisier	['sorbier', 'sorbier des oiseleurs']	22.05524233260528	0.5100898742675781
+manse	['presbytère', 'résidence', 'demeure', 'maison', 'logis', 'habitation']	22.05524233260528	0.5515289306640625
+aubier	['souche', 'bois blanc', 'cerne', 'jeune bois', 'alburnum']	21.845192405628083	0.42915892601013184
+sud-ouest	['occident', 'ouest-sud-ouest', 'ouest', 'SO']	21.708659953092912	0.44568395614624023
+sainfoin	['esparcette', 'mélilot', 'luzerne', 'trèfle incarnat']	21.333195708621176	0.5502150058746338
+fourniture	['approvisionnement', 'équipement', 'matériel', 'provision']	21.11490254323064	0.5925559997558594
+aisselle	['creux', 'cavité', 'aine', 'dessous de bras', 'pli du bras']	20.47986788027633	0.49373388290405273
+monsieur	['seigneur', 'sieur', 'monsieur', 'maître', 'notable', 'damoiseau', 'patron', 'personnage']	20.47986788027633	0.5236222743988037
+replantation	['réimplantation', 'rétablissement', 'remise en place', 'transplantation', 'réinstallation']	20.47986788027633	0.47376394271850586
+hile	['trou', 'ouverture', 'passage', 'orifice', 'fente', 'ouvert', 'entrée', 'fissure']	20.47986788027633	0.48526501655578613
+micocoulier	['micocoulier', 'néflier', 'nix', 'urre', 'nycteris', 'micocouly', 'nîfle']	20.47986788027633	0.5559849739074707
+sulfatage	['pulvérisation', 'vaporisation', 'aspersion', 'arrosage']	20.47986788027633	0.47657084465026855
+saponaire	['savonnière', 'lavonnière']	20.47986788027633	0.38581418991088867
+feston	['guirlande', 'ornement', 'décoration', 'frange', 'garniture']	20.47986788027633	0.4773130416870117
+agave	['sisal', 'pita', 'maguey']	20.47986788027633	0.3417952060699463
+plombage	['obturation', 'plombure', 'plomb', 'amalgame']	20.47986788027633	0.5684280395507812
+astringent	['contractant', 'durcissant', 'resserant', 'tonique']	20.47986788027633	0.47674107551574707
+arbre	['bois', 'végétal', 'plante', 'bûche', 'tronc', 'fût']	20.470239357530552	0.44972896575927734
+printemps	['printemps', 'saison', 'renouveau', 'floraison', 'éveil']	20.432040071121083	0.4301786422729492
+porreau	['poireau', 'ail', 'oignon', 'échalote', 'ciboule']	20.070270522670803	0.45451903343200684
+mulot	['souris', 'campagnol', 'souriceau.']	19.980358907586663	0.48193931579589844
+poquet	['sac', 'sacoche', 'poche', 'besace', 'étui']	19.660673165065276	0.4454021453857422
+vinette	['vin', 'vinaigre', 'vinaigré']	19.660673165065276	0.3766040802001953
+piquet	['pieu', 'poteau', 'balise', 'borne', 'piquetin', 'cheville']	19.527315885844875	0.4889218807220459
+soin	['attention', 'précaution', 'vigilance', 'diligence', 'application', 'sollicitude', 'prévenance', 'considération']	19.418886131725895	0.5767910480499268
+sablon	['sable', 'grès', 'arène', 'gravier', 'poussière']	19.40198009710389	0.40671300888061523
+scissure	['fente', 'fissure', 'crevasse', 'bifurcation', 'séparation', 'écart.']	19.40198009710389	0.48882007598876953
+taquet	['butée', 'arrêt', 'butoir', 'bloqueur']	19.40198009710389	0.4147210121154785
+retranchement	['fortification', 'retranchement', 'abri', 'défense', 'rempart']	19.19987613775906	0.4299778938293457
+cognassier	['néflier', 'néflier du Japon', 'cognassier du Japon', 'cydonia.']	19.19987613775906	0.5069460868835449
+hybridation	['croisement', 'croisement génétique', 'métissage', 'génie génétique', 'hybridisme', 'hybridation.']	19.077137203545075	0.583754301071167
+pre	['avant', 'précédent', 'antérieur', 'antérieurement', 'précédemment']	18.904493427947383	0.5008702278137207
+ail	['oignon', 'échalote', 'oseille', 'poireau', 'échalote', 'aulx']	18.88106778553357	0.569692850112915
+grenadier	['pomme', 'soldat', 'fruitier', 'artilleur', 'militaire']	18.863036205517673	0.4709787368774414
+aliment	['nourriture', 'subsistance', 'provision', 'vivres', 'ravitaillement', 'pitance']	18.804733568169297	0.508979320526123
+amande	['noyau', 'noisette', 'pépin', 'graine']	18.64193101922589	0.5677900314331055
+digitale	['numérique', 'électronique', 'informatique', 'virtuelle', 'en ligne']	18.61806170934212	0.463176965713501
+phlox	['flore', 'fleur', 'plante', 'végétal', 'botanique']	18.61806170934212	0.43623971939086914
+coing	['coing', 'coingier', 'coignée']	18.61806170934212	0.5092339515686035
+limace	['escargot', 'gastéropode', 'mollusque']	18.15740863612129	0.4812140464782715
+ergot	['grain noir', 'seigle cornu', 'sclérotes', 'sclerotia']	18.02228373464317	0.4787712097167969
+verveine	['herbe', 'plante', 'thérapeutique', 'médicinale', 'parfumée']	17.944265190337354	0.5056047439575195
+commencement	['début', 'départ', 'initiation', 'entame', 'lancement', 'ouverture', 'inception']	17.82925236239959	0.5757246017456055
+calebasse	['courge', 'gourde', 'potiron', 'coloquinte', 'citrouille']	17.668905622199187	0.5471069812774658
+sous-sol	['cave', 'caveau', 'crypte', 'rez-de-chaussée', 'souterrain']	17.612686377037644	0.5311212539672852
+pot	['casserole', 'marmite', 'récipient', 'jatte', 'cruche', 'vase', 'urne', 'poêle.']	16.904017932926493	0.5032119750976562
+botaniste	['phytologist', 'biologiste végétal', 'naturaliste', 'herboriste']	16.890612684763987	0.5332930088043213
+figuier	['figuier', 'arbre à figues', 'ficus']	16.799154298106853	0.5264337062835693
+coulure	['épanchement', 'écoulement', 'ruissellement', 'fuite', 'déversement', 'dégoulinure']	16.75625553840791	0.5768082141876221
+greffoir	['couteau', 'racloir', 'serpette', 'ébrancheur']	16.383894304221066	0.47682905197143555
+panicule	['épi', 'grappe', 'glomérule', 'pannicule', 'faisceau']	16.383894304221066	0.5485231876373291
+comice	['assemblée', 'réunion', 'congrès', 'conférence', 'colloque', 'séminaire', 'symposium', 'séance.']	16.383894304221062	0.6689658164978027
+sorgho	['maïs', 'millet', 'blé', 'seigle', 'orge']	16.383894304221062	0.5637729167938232
+myrobolan	"[""prunierd'ente"", 'pommier', 'myrobalanier']"	16.383894304221062	0.7362260818481445
+onagre	['âne sauvage', 'asin', 'âne des steppes']	15.753744523289486	0.4950070381164551
+plantain	['banane', 'patate', 'herbacée', 'musa', 'fruit', 'vivace']	15.753744523289486	0.5087602138519287
+brugnon	['nectarine', 'pêche plate']	15.753744523289486	0.494459867477417
+viorne	['laurier-tin', 'viorne tin', 'viornier']	15.753744523289486	0.5795199871063232
+purpurin	['carmine', 'pourpre', 'rubis', 'vermeil', 'grenat', 'cramoisi']	15.753744523289486	0.47583794593811035
+parenchyme	['tissu', 'cellules', 'organes', 'végétal', 'animal', 'tige', 'feuille', 'racine']	15.536451495382044	0.5927989482879639
+colza	['canola', 'navette', 'colza oléagineux']	15.47367795398656	0.45137596130371094
+merisier	['cerisier', 'bois de cerisier', 'cerisier sauvage']	15.44383479496248	0.5514047145843506
+amputation	['ablation', 'extirpation', 'résection', 'exérèse']	15.315379458293604	0.4607570171356201
+multiplication	['accroissement', 'augmentation', 'reproduction', 'prolifération', 'propagation']	15.281247430784097	0.4427170753479004

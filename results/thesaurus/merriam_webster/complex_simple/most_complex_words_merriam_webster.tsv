@@ -1,0 +1,832 @@
+original_word	synonyms	score	time_elapsed
+testament	['attestation', 'confirmation', 'corroboration', 'documentation', 'evidence', 'proof', 'substantiation', 'testimonial', 'testimony', 'validation', 'voucher', 'witness']	4.1429	0.26338887214660645
+integration	['absorption', 'blending', 'coalescence', 'coalition', 'commingling', 'commixture', 'concretion', 'homogenization', 'immingling', 'immixture', 'incorporation', 'interfusion', 'intermingling', 'mergence', 'merger', 'merging', 'mingling', 'coupling', 'linking', 'unification', 'union', 'accumulation', 'aggregation', 'conglomeration', 'admixture', 'amalgam', 'amalgamation', 'blend', 'combination', 'composite', 'compound', 'fusion', 'intermixture', 'meld', 'mix', 'mixture', 'synthesis']	3.8333	0.26631784439086914
+condemn	['anathematize', 'censure', 'damn', 'decry', 'denounce', 'execrate', 'reprehend', 'reprobate']	4.0	0.26609301567077637
+compilation	['album', 'anthology', 'collectanea', 'compendium', 'florilegium', 'miscellany', 'reader']	3.83335	0.2624990940093994
+bufe	['No synonyms found']	4.2	0.2875998020172119
+chattanooga	['No synonyms found']	4.8	0.28229284286499023
+gourmet	['bon vivant', 'epicure', 'epicurean', 'gastronome', 'gastronomist', 'gourmand']	4.0	0.2752950191497803
+thesaurus	['dictionary', 'gloss', 'glossary', 'nomenclator', 'vocabulary', 'lexicon', 'wordbook']	4.1429	0.27483272552490234
+plantronic	['No synonyms found']	4.6667	0.2811930179595947
+hispanic	['No synonyms found']	3.8571	0.28278398513793945
+procurement	['accession', 'acquisition', 'obtainment', 'claiming', 'collaring', 'commandeering', 'confiscation', 'ownership', 'proprietorship', 'repossession', 'retention', 'holding', 'retaining', 'control', 'enjoyment', 'hands', 'keeping', 'possession', 'authority', 'command', 'dominion', 'mastery', 'power']	4.4286	0.26875901222229004
+lipitor	['No synonyms found']	5.0	0.2832040786743164
+ejaculation	['cry', 'exclamation', 'interjection']	3.8333	0.2632560729980469
+amnesty	['absolution', 'forgiveness', 'pardon', 'remission', 'remittal']	4.5	0.2622249126434326
+diazepam	['No synonyms found']	5.8	0.2841148376464844
+shropshire	['No synonyms found']	5.1667	0.2899801731109619
+probation	['delving', 'disquisition', 'examen', 'examination', 'exploration', 'inquest', 'inquiry', 'inquisition', 'investigation', 'probe', 'probing', 'research', 'study']	4.2	0.264815092086792
+cardiovascular	['No synonyms found']	3.8333	0.26325392723083496
+etiquette	['form', 'manner', 'mores', 'proprieties']	4.5714	0.26402807235717773
+malignant	['bad', 'bitchy', 'catty', 'cruel', 'despiteful', 'hateful', 'malevolent', 'malicious', 'malign', 'mean', 'nasty', 'spiteful', 'vicious', 'virulent']	4.3333	0.2632629871368408
+specimen	['baby', 'being', 'bird', 'bod', 'body', 'character', 'cookie', 'creature', 'customer', 'devil', 'duck', 'egg', 'face', 'fish', 'guy', 'head', 'human', 'human being', 'individual', 'life', 'man', 'mortal', 'party', 'person', 'personage', 'scout', 'slob', 'sort', 'soul', 'stiff', 'thing', 'wight']	3.8571	0.26224279403686523
+bizjournal	['No synonyms found']	4.3333	0.28344178199768066
+ramada	['No synonyms found']	4.8	0.2861917018890381
+torque	['beads', 'carcanet', 'rivière', 'choker', 'collar', 'dog collar', 'lei', 'necklace', 'rope', 'strand', 'bangle', 'lavaliere', 'locket', 'pendant']	4.2857	0.2773561477661133
+hypothesis	['proposition', 'supposition', 'theory', 'thesis']	3.85715	0.26415586471557617
+contingency	['case', 'contingence', 'contingent', 'event', 'eventuality', 'possibility']	4.3333	0.2689080238342285
+equity	['detachment', 'disinterest', 'disinterestedness', 'evenhandedness', 'fair-mindedness', 'fairness', 'impartiality', 'justice', 'neutralism', 'neutrality', 'nonpartisanship', 'objectiveness', 'objectivity']	4.1667	0.2661101818084717
+demographic	['No synonyms found']	3.86905	0.2732508182525635
+coalition	['bloc', 'block', 'body', 'faction', 'party', 'sect', 'set', 'side', 'wing']	4.5	0.26427388191223145
+excerpt	['extract', 'passage']	4.083349999999999	0.26459169387817383
+letras	['No synonyms found']	4.6667	0.297288179397583
+seneca	['No synonyms found']	4.6	0.28189992904663086
+covenant	['accord', 'alliance', 'compact', 'convention', 'pact', 'treaty']	4.3333	0.2634620666503906
+salisbury	['No synonyms found']	4.4	0.28444695472717285
+quasi	['No synonyms found']	4.8333	0.2621159553527832
+genomic	['No synonyms found']	4.3333	0.2813539505004883
+embroider	['color', 'elaborate (on)', 'embellish', 'exaggerate', 'hyperbolize', 'magnify', 'pad', 'stretch']	3.8333	0.2640669345855713
+lincolnshire	['No synonyms found']	4.8	0.2865910530090332
+dimm	['No synonyms found']	4.6	0.2899041175842285
+physician	['croaker', 'doc', 'doctor', 'medic', 'medico', 'sawbones']	3.83335	0.2689337730407715
+astronomical	['Brobdingnagian', 'bumper', 'colossal', 'cosmic', 'cyclopean', 'elephantine', 'enormous', 'galactic', 'gargantuan', 'giant', 'gigantesque', 'gigantic', 'grand', 'herculean', 'heroic', 'Himalayan', 'huge', 'humongous', 'immense', 'jumbo', 'king-size', 'leviathan', 'mammoth', 'massive', 'mega', 'mighty', 'monster', 'monstrous', 'monumental', 'mountainous', 'oceanic', 'pharaonic', 'planetary', 'prodigious', 'super', 'super-duper', 'supersize', 'supersized', 'titanic', 'tremendous', 'vast', 'vasty', 'walloping', 'whacking', 'whopping']	4.1429	0.26218700408935547
+orchid	['No synonyms found']	4.2	0.2639429569244385
+scsi	['No synonyms found']	4.4	0.28354310989379883
+imprint	['trace', 'track', 'trail']	4.0	0.2626967430114746
+websphere	['No synonyms found']	5.0	0.2759988307952881
+amendment	['correction', 'emendation']	3.9286	0.2617762088775635
+providence	['economy', 'frugality', 'husbandry', 'parsimony', 'penny-pinching', 'scrimping', 'skimping', 'thrift']	4.1429	0.2620091438293457
+blogshare	['No synonyms found']	4.3333	0.28238582611083984
+zen	['No synonyms found']	4.0	0.2675211429595947
+cardiology	['No synonyms found']	4.0	0.26319217681884766
+vaughn	['No synonyms found']	4.4	0.2844569683074951
+programming	"['blueprinting', 'calculating', 'charting', 'concerting', 'designing', 'drafting', 'framing', 'hammering out', 'intriguing', 'laying out', 'maneuvering', 'mapping (out)', 'planning', 'schematizing', 'scheming', 'shaping', 'squaring away', 'working out', 'contracting', 'pledging', 'promising', 'choosing', 'concluding', 'determining', 'figuring', 'opting', 'resolving', 'agreeing (on)', 'arranging', 'deciding', 'fixing', 'setting', 'settling', 'affirming', 'approving', 'authorizing', 'clearing', 'confirming', ""OK'ing"", 'sanctioning', 'warranting', 'closing', 'completing', 'ending', 'finalizing', 'finishing', 'rounding (off or out)', 'winding up', 'wrapping up', 'bargaining', 'chaffering', 'dealing', 'dickering', 'haggling', 'horse-trading', 'negotiating']"	3.8333	0.2729489803314209
+parliamentary	['bureaucratic', 'governmental', 'ministerial', 'official', 'administrative', 'directorial', 'executive', 'managerial', 'supervisory', 'regulatory', 'authoritarian', 'despotic', 'dictatorial']	4.4	0.2615182399749756
+vicodin	['No synonyms found']	3.8571	0.2807958126068115
+filipino	['No synonyms found']	4.0	0.2800929546356201
+genealogy	['ancestry', 'birth', 'blood', 'bloodline', 'breeding', 'descent', 'extraction', 'family tree', 'line', 'lineage', 'origin', 'parentage', 'pedigree', 'stock', 'strain']	4.2857	0.259091854095459
+apa	['No synonyms found']	5.2	0.2991058826446533
+pediatric	['No synonyms found']	4.416650000000001	0.2827930450439453
+wwf	['No synonyms found']	4.4	0.2824859619140625
+coldfusion	['No synonyms found']	4.3333	0.28713417053222656
+persecution	['aggravation', 'anger', 'annoyance', 'exasperation', 'irritation', 'trouble', 'bedevilment', 'botheration', 'bothering', 'bugging', 'disturbance', 'harassment', 'harrying', 'importunity', 'pestering', 'teasing', 'vexation', 'aggro', 'molestation', 'offense', 'provocation', 'torment', 'torture', 'load', 'weight', 'anxiety', 'concern', 'uneasiness', 'worry', 'pressure', 'strain', 'stress', 'tension']	4.4	0.2617368698120117
+celexa	['No synonyms found']	4.8333	0.29425621032714844
+transexuale	['No synonyms found']	4.1667	0.3060140609741211
+statute	['act', 'bill', 'constitution', 'enactment', 'law', 'ordinance']	4.1667	0.26241493225097656
+capitalism	['No synonyms found']	4.1667	0.32137584686279297
+doctrine	['canon', 'dogma']	4.0	0.2706758975982666
+conviction	['assurance', 'assuredness', 'certainty', 'certitude', 'cocksureness', 'confidence', 'doubtlessness', 'face', 'positiveness', 'satisfaction', 'sureness', 'surety']	4.083349999999999	0.27007389068603516
+snyder	['No synonyms found']	4.6	0.27868175506591797
+respondent	['interviewee', 'pollee', 'answerer', 'replier', 'responder', 'attester', 'informant', 'reporter', 'testifier', 'witness']	3.98335	0.25812602043151855
+judicial	['No synonyms found']	3.8333	0.26180195808410645
+plaque	['cross', 'marker', 'table', 'tablet', 'gravestone', 'headstone', 'monument', 'stone', 'tombstone', 'monolith', 'obelisk', 'pillar', 'memorial', 'shrine', 'burial', 'sepulchre', 'sepulture', 'tomb']	3.8333	0.25905513763427734
+federally	['No synonyms found']	3.8333	0.2816188335418701
+outrageous	['shocking', 'conspicuous', 'notable', 'noticeable', 'outstanding', 'prominent', 'salient', 'striking', 'eye-catching', 'flamboyant', 'remarkable', 'showy', 'splashy', 'extraordinary', 'fantastic', 'freak', 'freakish', 'freaky', 'phantasmagoric', 'phenomenal', 'atypical', 'rare', 'singular', 'uncommon', 'uncustomary', 'unique', 'unusual', 'unwonted', 'bizarre', 'bizarro', 'cranky', 'crazy', 'curious', 'eccentric', 'erratic', 'far-out', 'funky', 'funny', 'kinky', 'kooky', 'odd', 'offbeat', 'off-kilter', 'off-the-wall', 'outlandish', 'out-of-the-way', 'outré', 'peculiar', 'quaint', 'queer', 'queerish', 'quirky', 'rum', 'screwy', 'spaced-out', 'strange', 'wacky', 'way-out', 'weird', 'weirdo', 'wild', 'crotchety', 'idiosyncratic', 'nonconformist', 'nonmainstream', 'out-there', 'unconventional', 'unorthodox', 'baffling', 'bewildering', 'confounding', 'mystifying', 'perplexing', 'puzzling']	4.2	0.2583458423614502
+municipality	['asphalt jungle', 'burg', 'city', 'cosmopolis', 'megacity', 'megalopolis', 'metropolis', 'town']	4.1429	0.2673218250274658
+sioux	['No synonyms found']	5.4	0.2599968910217285
+differentiation	['demarcation', 'discreteness', 'discrimination', 'distinction', 'separation', 'isolation', 'segregation']	4.1429	0.25902295112609863
+abnormality	['anomaly', 'freak', 'monster', 'monstrosity']	3.8571	0.26942896842956543
+lesion	['beating', 'crippling', 'mayhem', 'mutilation', 'affliction', 'damage', 'detriment', 'harm', 'hurt', 'injury', 'defacement', 'disability', 'disablement', 'disfigurement', 'impairment', 'rupture', 'strain', 'abrasion', 'chafe', 'scrape', 'scratch', 'boo-boo', 'bruise', 'contusion', 'swelling', 'wound', 'bump', 'concussion', 'cut', 'gash', 'laceration', 'burn', 'scald', 'scar', 'scathe', 'sear']	4.8333	0.2587928771972656
+beastiality	['No synonyms found']	4.1667	0.28739476203918457
+sovereignty	['autonomy', 'freedom', 'independence', 'independency', 'liberty', 'self-determination', 'self-governance', 'self-government']	4.0	0.2612190246582031
+metacritic	['No synonyms found']	4.3333	0.28089189529418945
+perception	['discernment', 'insight', 'perceptiveness', 'perceptivity', 'sagaciousness', 'sagacity', 'sageness', 'sapience', 'wisdom']	4.1548	0.2629101276397705
+bibtex	['No synonyms found']	4.7143	0.2763030529022217
+centennial	['No synonyms found']	4.2	0.2712841033935547
+mandrake	['No synonyms found']	5.1667	0.2612621784210205
+quo	['back-and-forth', 'barter', 'commutation', 'dicker', 'exchange', 'swap', 'trade', 'trade-off', 'truck']	4.0	0.26369524002075195
+transient	['brief', 'deciduous', 'ephemeral', 'evanescent', 'flash', 'fleeting', 'fugacious', 'fugitive', 'impermanent', 'momentary', 'passing', 'short-lived', 'temporary', 'transitory']	4.2857	0.2743690013885498
+sapien	['No synonyms found']	4.8	0.28392696380615234
+aperture	['hole', 'opening', 'orifice', 'perforation']	4.3333	0.26102709770202637
+regiment	['battalion', 'command', 'company', 'corps', 'division', 'platoon', 'squad', 'squadron', 'troop', 'wing', 'detachment', 'detail', 'commando', 'firing squad', 'outpost', 'paratroops', 'patrol', 'picket', 'rear guard', 'sentry', 'watch']	4.5	0.2645530700683594
+parity	['coequality', 'coordinateness', 'equality', 'equivalence', 'equivalency', 'par', 'sameness']	4.2	0.27325916290283203
+equitable	['candid', 'disinterested', 'dispassionate', 'equal', 'evenhanded', 'fair', 'impartial', 'indifferent', 'just', 'nonpartisan', 'objective', 'square', 'unbiased', 'unprejudiced']	4.0	0.26294493675231934
+telecommunication	['No synonyms found']	3.91665	0.26350903511047363
+manifold	['divers', 'multifarious', 'myriad']	4.0	0.26271605491638184
+reciprocal	['complementary', 'correlative', 'supplemental', 'supplementary']	3.8571	0.26937198638916016
+vonage	['No synonyms found']	5.2	0.2897911071777344
+mccormick	['No synonyms found']	4.0	0.2887890338897705
+reconciliation	['accord', 'reconcilement', 'appeasement', 'conciliation', 'acceptance', 'acquiescence', 'concession', 'détente', 'rapprochement', 'peace', 'peacetime', 'armistice', 'cease-fire', 'truce']	4.2857	0.27396583557128906
+anthology	['album', 'collectanea', 'compendium', 'compilation', 'florilegium', 'miscellany', 'reader']	4.7143	0.2649068832397461
+partisan	['biased', 'one-sided', 'parti pris', 'partial', 'prejudiced']	4.1667	0.26914000511169434
+concession	['accommodation', 'compromise', 'give-and-take', 'negotiation']	3.8333	0.26633286476135254
+spectral	['ghastly', 'ghostlike', 'ghostly', 'ghoulish', 'phantom', 'metaphysical', 'other-worldly', 'paranormal', 'preternatural', 'supernatural', 'transcendent', 'transcendental', 'unearthly', 'creepy', 'eerie', 'haunting', 'spookish', 'spooky', 'uncanny', 'weird', 'cadaverous', 'wraithlike', 'bodiless', 'disembodied', 'ethereal', 'formless', 'immaterial', 'incorporeal', 'insubstantial', 'nonmaterial', 'nonphysical', 'spiritual', 'unbodied', 'unsubstantial', 'impalpable', 'insensible', 'intangible', 'invisible', 'airy', 'diaphanous', 'gaseous', 'gossamery', 'tenuous', 'thin', 'vaporous', 'wispish', 'inactive', 'inert', 'inoperative', 'lifeless', 'quiescent', 'still', 'macabre', 'dreadful', 'fearsome', 'horrible', 'horrifying', 'terrible', 'terrifying', 'baleful', 'fatal', 'fateful', 'fell', 'killer', 'lethal', 'murderous', 'pestilent', 'dead', 'deadly', 'deathly', 'mortal', 'mortuary']	4.4286	0.26786088943481445
+bilateral	['consensual', 'reciprocal', 'symbiotic', 'synergic', 'synergistic', 'two-way', 'collaborative', 'collective', 'combined', 'common', 'communal', 'concerted', 'conjoint', 'conjunct', 'cooperative', 'joint', 'multiple', 'mutual', 'pooled', 'public', 'shared', 'united', 'mass', 'popular']	4.1429	0.26657986640930176
+antigen	['No synonyms found']	4.2857	0.2974369525909424
+remediation	['No synonyms found']	4.2	0.2697629928588867
+decal	['badge', 'plaque', 'seal', 'stamp', 'sticker', 'brand', 'emblem', 'hallmark', 'logo', 'mark', 'symbol', 'trademark', 'caption', 'legend', 'label', 'marker', 'tag', 'ticket']	4.4	0.27209973335266113
+travelocity	['No synonyms found']	5.0	0.285506010055542
+polytechnic	['No synonyms found']	4.1667	0.2656137943267822
+png	['No synonyms found']	3.8333	0.27051782608032227
+shalt	['No synonyms found']	4.8	0.2631988525390625
+accountancy	['No synonyms found']	4.1667	0.28931403160095215
+interim	['ad interim', 'impermanent', 'provisional', 'provisionary', 'provisory', 'short-term', 'temporary']	3.8571	0.2656688690185547
+consolidation	['combination', 'combining', 'connecting', 'connection', 'coupling', 'junction', 'linking', 'merger', 'merging', 'unification', 'union']	4.0	0.2632791996002197
+expedition	['journey', 'passage', 'peregrination', 'travel(s)', 'trek', 'trip']	3.8571	0.26485514640808105
+remedial	['amendatory', 'corrective', 'rectifying', 'reformative', 'reformatory', 'remedying']	4.0	0.263901948928833
+substantive	['biggish', 'considerable', 'good', 'goodly', 'handsome', 'healthy', 'largish', 'major', 'respectable', 'significant', 'sizable', 'substantial', 'tidy']	4.0	0.2628169059753418
+acoustic	['audial', 'audile', 'auditory', 'aural', 'auricular']	3.9286	0.26477694511413574
+xml	['No synonyms found']	4.0	0.2847256660461426
+goblet	['chalice', 'cup', 'demitasse', 'glass', 'mug', 'teacup', 'dinnerware', 'tableware', 'china', 'chinaware', 'crockery', 'earthenware', 'porcelain', 'pottery', 'stoneware', 'ware', 'crystal', 'glassware']	4.4	0.2692527770996094
+regent	['No synonyms found']	4.0	0.2822690010070801
+newfoundland	['No synonyms found']	4.2	0.2710857391357422
+imminent	['impending', 'looming', 'pending', 'threatening']	3.8571	0.2692909240722656
+clarion	['clear', 'trumpetlike', 'grating', 'harsh', 'shrill', 'squealing', 'strident', 'brazen', 'crashing', 'dinning', 'discordant', 'noisy', 'obstreperous', 'raucous', 'rip-roaring', 'vociferous', 'blaring', 'blasting', 'booming', 'clamorous', 'clangorous', 'deafening', 'earsplitting', 'loud', 'overloud', 'piercing', 'plangent', 'resounding', 'ringing', 'roaring', 'sonorous', 'stentorian', 'thundering', 'thunderous']	4.4	0.26169705390930176
+discrepancy	['contrast', 'difference', 'disagreement', 'disparateness', 'disparity', 'dissimilarity', 'dissimilitude', 'distance', 'distinction', 'distinctiveness', 'distinctness', 'diverseness', 'diversity', 'otherness', 'unlikeness']	4.0	0.27282190322875977
+deviant	['aberrant', 'aberrational', 'abnormal', 'anomalous', 'atypical', 'deviate', 'devious', 'irregular', 'unnatural', 'untypical']	4.4	0.2761688232421875
+ulster	"['chesterfield', 'frock coat', 'mackinaw', 'greatcoat', 'overcoat', 'surcoat', 'topcoat', 'jacket', 'parka', 'surtout', 'oilskin', 'raincoat', ""sou'wester"", 'wrap']"	5.1667	0.2628769874572754
+dentistry	['No synonyms found']	3.8333	0.2866220474243164
+tft	['No synonyms found']	4.4	0.2983551025390625
+depreciation	['belittlement', 'denigration', 'deprecation', 'derogation', 'detraction', 'diminishment', 'disparagement', 'put-down']	4.1429	0.26711392402648926
+capri	['No synonyms found']	4.8	0.2846648693084717
+semantic	['No synonyms found']	3.85715	0.29143667221069336
+refinance	['cofinance', 'grubstake', 'advocate', 'aid', 'back', 'champion', 'endorse', 'patronize', 'sponsor', 'support', 'bankroll', 'capitalize', 'endow', 'finance', 'fund', 'stake', 'subsidize', 'underwrite', 'maintain', 'nourish', 'provide (for)', 'clear', 'defray', 'discharge', 'foot', 'liquidate', 'pay', 'pay off', 'pay up', 'quit', 'recompense', 'settle', 'spring (for)', 'stand', 'refund']	3.9881	0.27618932723999023
+miniature	['atomic', 'bitsy', 'bitty', 'infinitesimal', 'itty-bitty', 'little bitty', 'microminiature', 'microscopic', 'minuscule', 'minute', 'teensy', 'teensy-weensy', 'teeny', 'teeny-weeny', 'tiny', 'wee', 'weeny']	4.0714500000000005	0.27059197425842285
+bordeaux	['No synonyms found']	4.8333	0.28556013107299805
+proprietary	['exclusive', 'single', 'sole', 'unshared', 'personal', 'private']	4.5714	0.2736372947692871
+synopsis	['abstract', 'breviary', 'brief', 'capsule', 'conspectus', 'digest', 'encapsulation', 'epitome', 'inventory', 'outline', 'précis', 'recap', 'recapitulation', 'résumé', 'roundup', 'run-through', 'rundown', 'sum', 'sum-up', 'summa', 'summarization', 'summary', 'summing-up', 'wrap-up']	5.0	0.26370787620544434
+grange	['estate', 'farm', 'farmstead', 'ranch']	4.6	0.2716050148010254
+physiopathology	['No synonyms found']	5.1667	0.2835261821746826
+rationale	['account', 'accounting', 'argument', 'case', 'explanation', 'reason']	3.8571	0.26351094245910645
+fraternity	['association', 'board', 'brotherhood', 'chamber', 'club', 'college', 'congress', 'consortium', 'council', 'fellowship', 'guild', 'institute', 'institution', 'league', 'order', 'organization', 'society', 'sodality']	4.0	0.2654299736022949
+accolade	['citation', 'commendation', 'dithyramb', 'encomium', 'eulogium', 'eulogy', 'homage', 'hymn', 'paean', 'panegyric', 'salutation', 'tribute']	4.3333	0.2772989273071289
+tariff	['custom(s)', 'assessment', 'duty', 'imposition', 'impost', 'levy', 'tax', 'capitation', 'excise', 'hidden tax', 'income tax', 'poll tax', 'property tax', 'sales tax', 'single tax', 'sin tax', 'toll', 'tribute', 'value-added tax', 'withholding tax', 'direct tax', 'personal tax', 'supertax', 'surcharge', 'surtax', 'death tax', 'estate tax', 'inheritance tax', 'flat tax', 'proportional tax']	3.85715	0.26296305656433105
+hasting	['No synonyms found']	4.1667	0.26335692405700684
+impressum	['No synonyms found']	5.0	0.30271005630493164
+fluctuation	['change', 'flux', 'inconstancy', 'oscillation']	4.1667	0.2640199661254883
+thessalonian	['No synonyms found']	5.6	0.28125905990600586
+archaeological	['No synonyms found']	4.4	0.2674558162689209
+kyocera	['No synonyms found']	4.8	0.3057432174682617
+preliminary	['beginning', 'introductory', 'precursory', 'prefatory', 'prelim', 'prelusive', 'preparative', 'preparatory', 'primary']	4.1667	0.2659947872161865
+middlesex	['No synonyms found']	4.1667	0.28361988067626953
+protocol	"['formality', 'rules', 'etiquette', 'form', 'manners', 'mores', 'proprieties', ""p's and q's"", 'amenity', 'civility', 'courtesy', 'decorum', 'politeness', 'custom', 'habit', 'habitude', 'pattern', 'practice', 'trick', 'wont', 'convention', 'fashion', 'mode', 'style', 'actions', 'address', 'bearing', 'behavior', 'comportment', 'conduct', 'demeanor', 'deportment', 'geste']"	4.0	0.2675759792327881
+sundance	['No synonyms found']	4.2	0.29079771041870117
+wlan	['No synonyms found']	4.0	0.28566813468933105
+subsidiary	['accompaniment', 'additive', 'complement', 'supplement', 'accessory', 'accoutrement', 'adapter', 'add-on', 'adjunct', 'appendage', 'appliance', 'attachment', 'option']	3.89285	0.26578211784362793
+ern	['No synonyms found']	4.2	0.29071879386901855
+ecology	['No synonyms found']	3.8333	0.2647669315338135
+modulation	['adjustment', 'regulation', 'tweak', 'amendment', 'correction', 'rectification', 'reform', 'changeover', 'conversion', 'deformation', 'distortion', 'metamorphosis', 'mutation', 'reconstruction', 'reconversion', 'transfiguration', 'transformation', 'fluctuation', 'oscillation', 'shift', 'displacement', 'replacement', 'substitution', 'redesign', 'redo', 'alteration', 'change', 'difference', 'modification', 'redoing', 'refashioning', 'reformation', 'remaking', 'remodeling', 'revamping', 'review', 'revise', 'revision', 'reworking', 'variation']	4.4	0.26437878608703613
+peripheral	['accessorial', 'accessory', 'appurtenant', 'auxiliary', 'supplemental', 'supplementary']	4.39285	0.2644469738006592
+applegate	['No synonyms found']	3.8571	0.2810518741607666
+adler	['No synonyms found']	4.2	0.28676724433898926
+bridgeport	['No synonyms found']	3.8333	0.26216816902160645
+leukemia	['No synonyms found']	4.6667	0.28431272506713867
+pablo	['No synonyms found']	4.4	0.2709159851074219
+traumatic	['alarming', 'disturbing', 'perturbing', 'unsettling', 'awful', 'dire', 'dreadful', 'fearful', 'severe', 'terrible', 'crushing', 'excruciating', 'harrowing', 'horrible', 'horrifying', 'intolerable', 'overwhelming', 'shocking', 'sickening', 'unbearable', 'miserable', 'pitiful', 'sad', 'wretched', 'calamitous', 'disastrous', 'painful', 'raging', 'sharp', 'deplorable', 'distressful', 'distressing', 'grievous', 'heartbreaking', 'heartrending', 'lamentable', 'regrettable', 'tragic', 'unfortunate', 'unlucky', 'woeful']	4.8333	0.2754697799682617
+mobility	['locomotion', 'motility', 'motivity', 'motion', 'move', 'movement', 'shift', 'shifting', 'stir', 'stirring', 'dislocation', 'migration', 'relocation', 'fiddling', 'fidgeting', 'squirm', 'squirming', 'twitching', 'wriggling', 'writhing', 'flailing', 'flapping', 'waving']	4.0	0.2652549743652344
+hepatitis	['No synonyms found']	4.0	0.2864220142364502
+substrate	['No synonyms found']	4.5	0.2702209949493408
+moine	['No synonyms found']	4.8	0.2658078670501709
+contingent	['delegacy', 'delegation']	4.1667	0.26984405517578125
+incest	['No synonyms found']	4.1429	0.27007484436035156
+tuscany	['No synonyms found']	4.4	0.284196138381958
+dermatology	['No synonyms found']	4.5	0.2806568145751953
+gonzale	['No synonyms found']	4.5	0.28458213806152344
+dispersion	['disbandment', 'dispersal', 'dissipation', 'scattering']	3.8571	0.264005184173584
+practitioner	['exponent', 'expounder', 'guru', 'high priest', 'interpreter']	3.9405	0.26542019844055176
+johanne	['No synonyms found']	4.0	0.2832601070404053
+sata	['No synonyms found']	5.4	0.3042728900909424
+esteem	['account', 'admiration', 'appreciation', 'estimation', 'favor', 'regard', 'respect']	3.8571	0.26772594451904297
+levitra	['No synonyms found']	5.6	0.2812988758087158
+percussion	['No synonyms found']	4.7143	0.2858240604400635
+redundant	['excess', 'extra', 'spare', 'supererogatory', 'superfluous', 'supernumerary', 'surplus']	3.8333	0.262988805770874
+marietta	['No synonyms found']	4.4	0.2833991050720215
+schwartz	['No synonyms found']	4.6	0.30666017532348633
+arbitration	['No synonyms found']	4.1429	0.26451611518859863
+imperial	['august', 'baronial', 'epic', 'gallant', 'glorious', 'grand', 'grandiose', 'heroic', 'Homeric', 'imposing', 'magnific', 'magnificent', 'majestic', 'massive', 'monumental', 'noble', 'proud', 'regal', 'royal', 'splendid', 'stately']	4.1667	0.2652139663696289
+lynx	['clear-sighted', 'eagle-eyed', 'hawkeyed', 'sharp-eyed', 'sharp-sighted']	4.5	0.2656080722808838
+ricoh	['No synonyms found']	4.0	0.28401684761047363
+pornography	['No synonyms found']	4.3333	0.2666299343109131
+congressional	['parliament']	3.8571	0.27234411239624023
+placebo	['No synonyms found']	4.0	0.28722214698791504
+chateau	['castle', 'estate', 'hacienda', 'hall', 'manor', 'manor house', 'manse', 'mansion', 'palace', 'villa']	4.6	0.261768102645874
+danville	['No synonyms found']	4.2	0.2908809185028076
+immunology	['No synonyms found']	4.4286	0.2814300060272217
+ziff	['No synonyms found']	5.0	0.28629493713378906
+disclosure	['divulgence', 'exposure', 'revelation']	3.91665	0.2625560760498047
+competitiveness	['aggression', 'killer instinct', 'determination', 'diligence', 'drive', 'energy', 'enterprise', 'go', 'hustle', 'industry', 'initiative', 'motivation', 'push', 'opportunism', 'overambitiousness', 'pretentiousness', 'pushiness', 'ambition', 'ambitiousness', 'aspiration', 'go-getting', 'assertiveness', 'daring', 'spirit', 'ardor', 'avidity', 'eagerness', 'keenness', 'passion', 'avarice', 'greed', 'hunger']	3.8333	0.27365994453430176
+differential	['discriminating', 'discriminational', 'discriminative', 'discriminatory']	4.1667	0.2644798755645752
+enzyme	['No synonyms found']	4.0595	0.2850630283355713
+ethnic	['ethnical', 'racial', 'tribal']	3.8333	0.28188109397888184
+inception	['alpha', 'baseline', 'beginning', 'birth', 'commencement', 'dawn', 'day one', 'genesis', 'get-go', 'incipience', 'incipiency', 'kickoff', 'launch', 'morning', 'nascence', 'nascency', 'onset', 'outset', 'start', 'threshold']	4.6	0.2642221450805664
+roulette	['No synonyms found']	3.8333	0.26442432403564453
+discretionary	['elective', 'optional', 'voluntary']	3.8333	0.26236701011657715
+stp	['No synonyms found']	5.4	0.3162577152252197
+liposuction	['No synonyms found']	4.8	0.2856621742248535
+mahogany	['No synonyms found']	4.6	0.2665531635284424
+evanescence	['ephemerality', 'fleetingness', 'fugitiveness', 'impermanence', 'impermanency', 'momentariness', 'temporariness', 'transience', 'transiency', 'transitoriness']	4.4286	0.27372097969055176
+pursuant	['No synonyms found']	4.3333	0.26437926292419434
+influenza	['No synonyms found']	4.1667	0.26270413398742676
+semiconductor	['No synonyms found']	4.083349999999999	0.2856149673461914
+cache	['deposit', 'hoard', 'reserve', 'store']	4.1785499999999995	0.265625
+brunswick	['No synonyms found']	4.0	0.2903480529785156
+bibliographic	['No synonyms found']	4.2857	0.28627681732177734
+litigation	['action', 'lawsuit', 'proceeding', 'suit', 'case', 'cause', 'complaint', 'counterclaim', 'countersuit', 'cross action', 'cross-claim']	4.5714	0.26216602325439453
+yate	['No synonyms found']	4.4	0.3092968463897705
+curriculum	['core', 'class', 'course', 'elective', 'refresher', 'clinic', 'institute', 'seminar', 'survey course', 'minicourse']	3.8571	0.2629721164703369
+solicitation	['adjuration', 'appeal', 'conjuration', 'cry', 'desire', 'entreaty', 'petition', 'plea', 'pleading', 'prayer', 'suit', 'suppliance', 'supplication']	4.5	0.26210665702819824
+authoritative	['classic', 'classical', 'definitive', 'magisterial']	3.8571	0.2628910541534424
+poly	['blubbery', 'chubby', 'corpulent', 'fat', 'fleshy', 'full', 'gross', 'lardy', 'obese', 'overweight', 'plump', 'podgy', 'portly', 'pudgy', 'replete', 'rotund', 'round', 'tubby']	4.2	0.2671051025390625
+pharmaceutical	['cure', 'drug', 'medicament', 'medication', 'medicinal', 'medicine', 'physic', 'remedy', 'specific']	3.8571	0.2668910026550293
+supervisory	['administrative', 'directorial', 'executive', 'managerial']	4.1667	0.27567386627197266
+polymerase	['No synonyms found']	5.6667	0.281282901763916
+advent	['appearance', 'arrival', 'coming', 'incoming']	3.8571	0.2626218795776367
+appropriation	['allocation', 'allotment', 'annuity', 'entitlement', 'grant', 'subsidy', 'subvention']	3.9762	0.26384711265563965
+spire	['annulet', 'becket', 'coil', 'curl', 'furl', 'hank', 'spiral', 'twirl', 'whorl', 'wreath', 'belt', 'cincture', 'collar', 'girdle', 'band', 'circle', 'eye', 'hoop', 'loop', 'ring', 'round']	4.2	0.2598538398742676
+citation	['accolade', 'commendation', 'dithyramb', 'encomium', 'eulogium', 'eulogy', 'homage', 'hymn', 'paean', 'panegyric', 'salutation', 'tribute']	3.9048	0.27207493782043457
+porcelain	['china', 'chinaware', 'crockery', 'earthenware', 'pottery', 'stoneware', 'ware', 'dinnerware', 'tableware', 'place setting', 'setting', 'setup', 'crystal', 'glassware', 'plate', 'saucer', 'cup', 'demitasse', 'glass', 'goblet', 'mug', 'teacup', 'bowl', 'casserole', 'charger', 'platter', 'tureen']	4.0	0.26011109352111816
+federate	['ally', 'associate', 'band (together)', 'club', 'coalesce', 'cohere', 'confederate', 'conjoin', 'cooperate', 'league', 'unite']	4.4	0.26296114921569824
+malicious	['bad', 'bitchy', 'catty', 'cruel', 'despiteful', 'hateful', 'malevolent', 'malign', 'malignant', 'mean', 'nasty', 'spiteful', 'vicious', 'virulent']	3.8571	0.2669789791107178
+tawnee	['No synonyms found']	4.7143	0.2816169261932373
+shopzilla	['No synonyms found']	4.6	0.2813711166381836
+oasis	['asylum', 'bolt-hole', 'harbor', 'harborage', 'haven', 'refuge', 'retreat', 'sanctuary', 'sanctum', 'shelter', 'anchorage', 'mooring', 'port', 'cover', 'screen', 'abode', 'diggings', 'domicile', 'dwelling', 'habitation', 'house', 'housing', 'lodging', 'lodgment', 'pad', 'place', 'quarters', 'residence', 'rest', 'roof', 'cloister', 'closet', 'covert', 'den', 'hermitage', 'hideaway', 'hideout', 'lair', 'castle', 'fastness', 'fort', 'fortress', 'palisade', 'redoubt', 'stronghold', 'lean-to', 'lee', 'shed', 'windbreak']	4.1667	0.2744770050048828
+chemotherapy	['No synonyms found']	4.8333	0.2981560230255127
+commission	['accreditation', 'authorization', 'delegation', 'empowerment', 'license', 'mandate']	3.8571	0.31221508979797363
+sleazydream	['No synonyms found']	3.8333	0.2849268913269043
+dioxide	['No synonyms found']	4.2857	0.26395583152770996
+xanax	['No synonyms found']	4.5	0.26146697998046875
+parole	['acquittal', 'exculpation', 'exoneration', 'vindication', 'absolution', 'amnesty', 'forgiveness', 'pardon', 'remission', 'remittal', 'condonation', 'exemption', 'immunity', 'impunity', 'indemnity', 'commutation', 'commuting', 'reprieve', 'clemency', 'leniency', 'mercy']	4.5714	0.2653930187225342
+transvestite	['No synonyms found']	4.01665	0.2630631923675537
+imperative	['compulsory', 'forced', 'incumbent', 'involuntary', 'mandatory', 'necessary', 'nonelective', 'obligatory', 'peremptory', 'required']	4.1667	0.26798534393310547
+llc	['No synonyms found']	4.2857	0.26219820976257324
+sip	['belt (down)', 'drink', 'gulp', 'guzzle', 'hoist', 'imbibe', 'knock back', 'pound (down)', 'quaff', 'slug (down)', 'slurp', 'sup', 'swig', 'swill', 'toss (down or off)']	4.6	0.26374077796936035
+roosevelt	['No synonyms found']	4.2	0.28170108795166016
+proliferation	['accretion', 'accrual', 'addendum', 'addition', 'augmentation', 'boost', 'expansion', 'gain', 'increase', 'increment', 'more', 'plus', 'raise', 'rise', 'step-up', 'supplement', 'uptick']	4.4286	0.27868103981018066
+hondura	['No synonyms found']	4.1667	0.2799692153930664
+professionalism	['expertness', 'masterfulness', 'masterliness', 'finish', 'polish', 'ability', 'adeptness', 'competence', 'proficiency', 'skill', 'skillfulness', 'talent', 'virtuosity']	4.1667	0.27043581008911133
+psychological	['cerebral', 'inner', 'intellectual', 'interior', 'internal', 'mental']	3.8333	0.263869047164917
+avail	['account', 'mileage', 'service', 'serviceability', 'serviceableness', 'use', 'usefulness', 'utility']	3.8571	0.26683640480041504
+gonzalez	['No synonyms found']	4.8	0.2800710201263428
+epidemiology	['No synonyms found']	4.8571	0.2855260372161865
+patron	['account', 'client', 'customer', 'guest', 'punter']	3.8333	0.2658519744873047
+objectionable	['censurable', 'exceptionable', 'obnoxious', 'offensive', 'reprehensible']	3.8333	0.26525115966796875
+ieee	['No synonyms found']	3.8333	0.28722190856933594
+argus	['alert', 'attentive', 'awake', 'observant', 'open-eyed', 'tenty', 'vigilant', 'watchful', 'wide-awake']	4.3333	0.27384424209594727
+psychiatry	['No synonyms found']	4.5714	0.2867271900177002
+esp	['clairvoyance', 'second sight', 'sixth sense']	5.0	0.2639169692993164
+squadron	['battalion', 'array', 'band', 'batch', 'battery', 'body', 'boodle', 'bunch', 'cluster', 'clutch', 'cohort', 'consort', 'constellation', 'crop', 'gaggle', 'group', 'grouping', 'huddle', 'knot', 'lot', 'parcel', 'party', 'passel', 'assembly', 'collective', 'congregation', 'gathering', 'muster', 'organization', 'circle', 'clan', 'clique', 'coterie', 'fellowship', 'gang', 'ring', 'round', 'set', 'faction', 'guild', 'order', 'school', 'sect', 'brigade', 'crew', 'outfit', 'phalanx', 'platoon', 'posse', 'task force', 'team', 'alliance', 'bloc', 'coalition', 'confederacy', 'confederation', 'federation', 'league', 'union', 'bevy', 'brood', 'covey']	4.1667	0.26460909843444824
+maltese	['No synonyms found']	4.6667	0.2788071632385254
+telecom	['No synonyms found']	3.8333	0.2810218334197998
+portfolio	['No synonyms found']	4.13095	0.26775193214416504
+symantec	['No synonyms found']	4.2	0.28289294242858887
+contradiction	['dichotomy', 'incongruity', 'paradox']	4.2	0.26117897033691406
+trojan	['fig leaf', 'Potemkin village', 'blind', 'concealer', 'screen', 'shield', 'camouflage', 'disguise', 'facade', 'face', 'veneer', 'blanket', 'cloak', 'cope', 'cover', 'covering', 'coverture', 'cover-up', 'curtain', 'hood', 'mantle', 'mask', 'pall', 'penumbra', 'robe', 'shroud', 'veil', 'wraps', 'gloss', 'varnish']	4.2	0.26186609268188477
+empowerment	['accreditation', 'authorization', 'commission', 'delegation', 'license', 'mandate']	4.1667	0.27492499351501465
+secretion	['caching', 'concealment', 'hiding', 'stashing']	3.8333	0.26320481300354004
+apnic	['No synonyms found']	5.4	0.28156018257141113
+carlisle	['No synonyms found']	4.8	0.28019213676452637
+liaison	['affinity', 'association', 'bearing', 'connection', 'kinship', 'linkage', 'relation', 'relationship']	4.0	0.2633042335510254
+cymru	['No synonyms found']	4.4	0.2769310474395752
+entrepreneur	['businessman', 'enterpriser', 'dealer', 'merchandiser', 'merchant', 'trader', 'tradesman', 'trafficker', 'buyer', 'marketer', 'purchaser', 'hawker', 'huckster', 'hustler', 'peddler', 'retailer', 'seller', 'shopkeeper', 'storekeeper', 'vendor', 'engrosser', 'monopolist', 'jobber', 'middleman', 'wholesaler', 'distributor', 'provider', 'provisioner', 'purveyor', 'supplier']	4.5	0.278778076171875
+assort	['break down', 'categorize', 'class', 'classify', 'codify', 'compartment', 'compartmentalize', 'digest', 'distinguish', 'distribute', 'grade', 'group', 'peg', 'place', 'range', 'rank', 'relegate', 'separate', 'sort', 'type']	4.0	0.26459503173828125
+nanotechnology	['No synonyms found']	4.4286	0.2785048484802246
+autonomous	['free', 'freestanding', 'independent', 'self-governed', 'self-governing', 'self-ruling', 'separate', 'sovereign']	3.8333	0.3061103820800781
+seychelle	['No synonyms found']	5.6	0.28271985054016113
+lithuanian	['No synonyms found']	4.2	0.2769320011138916
+fprintf	['No synonyms found']	4.2	0.28521275520324707
+vascular	['No synonyms found']	4.3333	0.27025294303894043
+kinase	['No synonyms found']	5.4	0.2865729331970215
+schultz	['No synonyms found']	4.6	0.2846660614013672
+columnist	['blogger', 'journalist', 'newspaperman', 'paragrapher', 'reporter', 'sportswriter', 'author', 'litterateur', 'pen', 'penman', 'scribe', 'scrivener', 'writer', 'auteur', 'belletrist', 'stylist', 'wordsmith', 'coauthor', 'coscenarist', 'cowriter', 'ghostwriter', 'hack', 'hatchet man', 'scribbler', 'wordmonger', 'biographer', 'hagiographer', 'autobiographer', 'memoirist', 'memorialist', 'fabulist', 'fictioneer', 'fictionist', 'novelist', 'romancer', 'storyteller', 'essayist', 'pamphleteer', 'satirist', 'dramatist', 'playwright', 'scenarist', 'screenwriter', 'scriptwriter', 'prosaist', 'prosateur', 'proser', 'bard', 'poet', 'rhymer', 'versifier']	3.85	0.27330923080444336
+mitigation	['appeasement', 'assuagement', 'decrease', 'diminishment', 'moderation', 'mollification', 'alleviation', 'comfort', 'ease', 'release', 'relief', 'calming', 'salving', 'soothing']	4.2857	0.2611572742462158
+resolution	['award', 'call', 'conclusion', 'decision', 'deliverance', 'determination', 'diagnosis', 'judgment', 'opinion', 'verdict']	3.93335	0.27246904373168945
+wichita	['No synonyms found']	4.3333	0.28010010719299316
+culinary	['No synonyms found']	3.8333	0.27008628845214844
+dysfunction	['affliction', 'ailment', 'condition', 'disease', 'disorder', 'malady', 'trouble', 'upset', 'illness', 'indisposition', 'sickness', 'unhealthiness', 'unsoundness', 'malaise', 'sickishness', 'debility', 'decrepitude', 'feebleness', 'frailness', 'infirmity', 'invalidism', 'invalidity', 'lameness', 'sickliness', 'weakliness', 'weakness', 'hypochondria']	4.0	0.2727320194244385
+parfum	['No synonyms found']	4.8333	0.26874780654907227
+mrna	['No synonyms found']	4.5	0.2800943851470947
+interference	['balk', 'bar', 'block', 'chain', 'clog', 'cramp', 'crimp', 'deterrent', 'drag', 'embarrassment', 'encumbrance', 'fetter', 'handicap', 'hindrance', 'holdback', 'hurdle', 'impediment', 'inhibition', 'let', 'manacle', 'obstacle', 'obstruction', 'shackles', 'stop', 'stumbling block', 'trammel']	4.1667	0.2909128665924072
+intriguing	['absorbing', 'arresting', 'consuming', 'engaging', 'engrossing', 'enthralling', 'fascinating', 'gripping', 'immersing', 'interesting', 'involving', 'riveting']	4.1429	0.26463890075683594
+dns	['No synonyms found']	4.3333	0.28232407569885254
+proximity	['adjacency', 'closeness', 'contiguity', 'immediacy', 'nearness', 'propinquity', 'vicinity']	3.8571	0.2634012699127197
+chronicle	['account', 'chronology', 'commentary', 'history', 'narration', 'narrative', 'record', 'report', 'story']	3.83335	0.26326894760131836
+oahu	['No synonyms found']	4.8	0.2880270481109619
+directorate	['No synonyms found']	4.7143	0.2870180606842041
+informatic	['No synonyms found']	3.8571	0.29676222801208496
+subunit	['No synonyms found']	4.8333	0.26662707328796387
+elsevier	['No synonyms found']	5.0	0.28925395011901855
+bizjournalshire	['No synonyms found']	5.2	0.2888350486755371
+fringe	['border', 'borderline', 'bound', 'boundary', 'brim', 'circumference', 'compass', 'confines', 'edge', 'edging', 'end', 'frame', 'hem', 'margin', 'perimeter', 'periphery', 'rim', 'skirt', 'skirting', 'verge']	3.8333	0.2656850814819336
+hawthorne	['No synonyms found']	4.8	0.29750823974609375
+malpractice	['delinquency', 'irresponsibility', 'irresponsibleness', 'malfeasance', 'misconduct', 'carelessness', 'dereliction', 'heedlessness', 'incaution', 'incautiousness', 'laxness', 'neglectfulness', 'negligence', 'remissness', 'slackness', 'foolhardiness', 'rashness', 'recklessness', 'wildness', 'neglect', 'omission', 'misdirection', 'mishandling', 'mismanagement', 'forgetfulness', 'inadvertence', 'inadvertency', 'inattention', 'inattentiveness', 'obliviousness', 'shortsightedness', 'unwariness']	3.8333	0.27713894844055176
+gail	['No synonyms found']	4.4	0.300311803817749
+accession	['acquisition', 'obtainment']	5.4	0.2676680088043213
+classified	['restricted', 'top secret', 'behind-the-scenes', 'confidential', 'esoteric', 'hushed', 'hush-hush', 'inside', 'intimate', 'nonpublic', 'private', 'privy', 'secret', 'silent', 'unadvertised', 'unannounced', 'undisclosed', 'unmentioned', 'unsaid', 'untold', 'clandestine', 'closet', 'collusive', 'conspiratorial', 'covert', 'furtive', 'hugger-mugger', 'occult', 'sneak', 'sneaking', 'sneaky', 'stealthy', 'surreptitious', 'undercover', 'underground', 'underhand', 'underhanded', 'personal', 'closeted', 'concealed', 'repressed', 'silenced', 'stifled', 'suppressed', 'backstage', 'offscreen', 'offstage']	4.1667	0.30508899688720703
+conception	['concept', 'generality', 'generalization', 'notion', 'stereotype']	4.1667	0.26572632789611816
+fioricet	['No synonyms found']	5.2	0.31191301345825195
+syndicate	['cabal', 'conspiracy', 'crew', 'gang', 'Mafia', 'mob', 'ring']	4.5714	0.2609891891479492
+roanoke	['No synonyms found']	5.0	0.28465890884399414
+sanction	['allowance', 'authorization', 'clearance', 'concurrence', 'consent', 'granting', 'green light', 'leave', 'license', 'permission', 'sufferance', 'warrant']	4.4286	0.269345760345459
+blanca	['No synonyms found']	4.0	0.28801417350769043
+formulation	['articulation', 'expression', 'phrasing', 'statement', 'utterance', 'verbalism', 'voice', 'wording']	3.8333	0.2784450054168701
+apocalypse	['calamity', 'cataclysm', 'catastrophe', 'debacle', 'disaster', 'tragedy']	4.4	0.26308703422546387
+costello	['No synonyms found']	4.6	0.28838300704956055
+symposium	['colloquy', 'conference', 'council', 'forum', 'panel', 'panel discussion', 'parley', 'round-robin', 'roundtable', 'seminar']	5.0	0.2651541233062744
+schneider	['No synonyms found']	4.4	0.285062313079834
+redemption	['grace', 'salvation', 'rebirth', 'regeneration', 'restoration', 'absolution', 'forgiveness', 'remission', 'acquittal', 'clearance', 'clearing', 'exoneration', 'vindication', 'atonement', 'expiation', 'cleansing', 'purification', 'sanctification']	4.1429	0.263059139251709
+ciali	['No synonyms found']	5.0	0.2910749912261963
+forego	['antecede', 'antedate', 'precede', 'predate', 'preexist']	3.8571	0.26451683044433594
+aforementione	['No synonyms found']	3.8333	0.28493809700012207
+correspondence	['common denominator', 'commonality', 'congruity', 'parallel', 'resemblance', 'similarity', 'similitude']	3.8571	0.2762718200683594
+bankruptcy	['failure', 'insolvency', 'ruin']	4.11665	0.26130008697509766
+timor	['No synonyms found']	5.0	0.28224802017211914
+fraudulent	['crooked', 'deceitful', 'defrauding', 'dishonest', 'double-dealing', 'false']	4.1429	0.26338791847229004
+obligation	['burden', 'charge', 'commitment', 'devoir', 'do', 'duty', 'imperative', 'incumbency', 'need', 'office', 'responsibility']	3.85715	0.26212596893310547
+assay	['analysis', 'anatomizing', 'anatomy', 'breakdown', 'deconstruction', 'dissection']	5.8	0.26644372940063477
+infringement	['breach', 'contravention', 'infraction', 'transgression', 'trespass', 'violation']	4.5	0.26618027687072754
+comprehension	['appreciation', 'apprehension', 'grasp', 'grip', 'hold', 'perception', 'percipience', 'understanding']	3.8333	0.26264405250549316
+sauvignon	['No synonyms found']	5.2	0.2882668972015381
+incumbent	['officeholder', 'noncandidate', 'awardee', 'honoree', 'inductee', 'dropout']	4.2857	0.2627549171447754
+claimant	['heir apparent', 'representative', 'succeeder', 'successor', 'heir', 'heir at law', 'inheritor', 'legatee', 'coheir', 'coheiress', 'heiress', 'assignee', 'beneficiary', 'devisee', 'grantee', 'descendant', 'scion']	5.0	0.26305699348449707
+dividend	['bonus', 'cumshaw', 'donative', 'extra', 'gratuity', 'gravy', 'gravy train', 'lagniappe', 'perk', 'perquisite', 'throw-in', 'tip']	3.8452	0.2641160488128662
+fra	['No synonyms found']	4.4	0.2825050354003906
+delegation	['contingent', 'delegacy']	3.8571	0.2631967067718506
+plaintiff	['complainant', 'suer']	4.2857	0.2637138366699219
+rehabilitation	['comeback', 'convalescence', 'healing', 'mending', 'rally', 'recovery', 'recuperation', 'rehab', 'snapback']	4.3333	0.2669239044189453
+denon	['No synonyms found']	4.5	0.2880411148071289
+kyoto	['No synonyms found']	4.8	0.28720593452453613
+affiliate	['branch', 'cell', 'chapter', 'council', 'local']	3.982533333333334	0.268765926361084
+exeter	['No synonyms found']	4.5	0.2897310256958008
+compliance	['acquiescence', 'biddability', 'compliancy', 'deference', 'docility', 'obedience', 'submissiveness']	4.2	0.2629811763763428
+slashdot	['No synonyms found']	5.0	0.2889132499694824
+adherence	['adhesion', 'bonding', 'cling']	4.2	0.2633380889892578
+sanitation	['No synonyms found']	4.2857	0.2608602046966553
+aromatherapy	['No synonyms found']	4.7143	0.2788560390472412
+concordia	['No synonyms found']	4.4	0.28475403785705566
+regency	['No synonyms found']	4.0	0.26038503646850586
+formulate	['articulate', 'clothe', 'couch', 'express', 'phrase', 'put', 'say', 'state', 'word']	4.0	0.26173996925354004
+precedence	['priority', 'right-of-way']	3.8571	0.2621190547943115
+lorraine	['No synonyms found']	4.6	0.28293395042419434
+susceptibility	['defenselessness', 'vulnerability', 'weakness']	4.1667	0.26032471656799316
+howell	['No synonyms found']	4.2	0.289553165435791
+dhcp	['No synonyms found']	4.6667	0.28142213821411133
+prix	['No synonyms found']	5.0	0.262362003326416
+polyphonic	['chordal', 'harmonic', 'homophonic', 'orchestral', 'tonal', 'cadenced', 'lilting', 'lyric', 'lyrical', 'rhythmic', 'songful', 'songlike', 'agreeable', 'appealing', 'pleasant', 'quavering', 'trilling', 'warbling', 'echoing', 'resonant', 'sonorous', 'dulcet', 'mellow', 'melodic', 'sweet', 'blending', 'chiming', 'flowing', 'mellifluent', 'mellifluous', 'canorous', 'euphonic', 'euphonious', 'harmonious', 'harmonizing', 'melodious', 'musical', 'symphonic', 'symphonious', 'tuneful']	4.6667	0.2774057388305664
+horoscope	['No synonyms found']	4.2	0.26160287857055664
+bistro	['boîte', 'cabaret', 'café', 'club', 'nightclub', 'nightspot', 'nitery', 'roadhouse', 'supper club']	4.0	0.27404284477233887
+nic	['No synonyms found']	4.6	0.2837979793548584
+multilateral	['external', 'international', 'multiculti', 'multicultural', 'multinational', 'alien', 'foreign', 'nonnative', 'strange', 'imported', 'introduced', 'naturalized', 'transplanted', 'foreign-born', 'nonindigenous', 'distant', 'far-off', 'overseas', 'remote']	4.1667	0.26209306716918945
+cultivate	['acquire', 'develop', 'form']	3.8333	0.2621879577636719
+expectancy	['anticipation', 'contemplation', 'expectance', 'expectation', 'prospect']	4.0	0.2658529281616211
+archaeology	['No synonyms found']	4.2857	0.2605421543121338
+tactical	['advisable', 'desirable', 'expedient', 'judicious', 'politic', 'prudent', 'wise']	3.8571	0.26242804527282715
+facsimile	['alter ego', 'carbon', 'carbon copy', 'clone', 'counterpart', 'doppelgänger', 'double', 'duplicate', 'duplication', 'fetch', 'image', 'likeness', 'look-alike', 'match', 'mirror image', 'picture', 'replica', 'ringer', 'spit', 'spitting image', 'twin']	5.1667	0.2650158405303955
+ferdinand	['No synonyms found']	4.8	0.2898859977722168
+trong	['No synonyms found']	4.8	0.3141331672668457
+phantom	['chimerical', 'fabulous', 'fanciful', 'fantasied', 'fantastic', 'fictional', 'fictitious', 'ideal', 'imaginal', 'imaginary', 'imagined', 'invented', 'made-up', 'make-believe', 'mythical', 'notional', 'phantasmal', 'phantasmic', 'pretend', 'unreal', 'visionary']	4.2	0.26486706733703613
+standalone	['detached', 'disconnected', 'discrete', 'free', 'freestanding', 'separate', 'single', 'unattached', 'unconnected', 'independent', 'self-contained', 'individual', 'private', 'elevated', 'lifted', 'upended', 'upraised', 'semierect', 'erect', 'perpendicular', 'plumb', 'raised', 'standing', 'stand-up', 'upright', 'upstanding', 'vertical']	3.8333	0.2741878032684326
+prostate	['No synonyms found']	4.1429	0.2850069999694824
+alleviate	['allay', 'assuage', 'ease', 'help', 'mitigate', 'mollify', 'palliate', 'relieve', 'soothe']	4.2	0.26102399826049805
+referendum	['aye', 'yea', 'ballot', 'vote', 'nay', 'no', 'non placet', 'blackball', 'ticket', 'absentee ballot', 'Australian ballot', 'secret ballot', 'short ballot', 'write-in']	4.5714	0.26253199577331543
+atari	['No synonyms found']	4.6	0.28557801246643066
+governance	['administration', 'authority', 'government', 'jurisdiction', 'regime', 'regimen', 'rule']	3.8571	0.26860499382019043
+cobalt	['No synonyms found']	4.0	0.2685527801513672
+conformance	['accord', 'accordance', 'agreement', 'conformity', 'congruence', 'congruency', 'congruity', 'consonance', 'harmony', 'tune']	3.8333	0.26589012145996094
+winchester	['No synonyms found']	4.0	0.29697394371032715
+meridia	['No synonyms found']	5.2	0.2825188636779785
+cardinal	['arch', 'big', 'capital', 'central', 'chief', 'dominant', 'first', 'foremost', 'grand', 'great', 'greatest', 'highest', 'key', 'leading', 'main', 'master', 'number one', 'numero uno', 'overbearing', 'overmastering', 'overriding', 'paramount', 'predominant', 'preeminent', 'premier', 'primal', 'primary', 'principal', 'prior', 'sovereign', 'supreme']	3.83335	0.26418495178222656
+righteousness	['character', 'decency', 'goodness', 'honesty', 'integrity', 'morality', 'probity', 'rectitude', 'rightness', 'uprightness', 'virtue', 'virtuousness']	3.8571	0.2720649242401123
+radial	['No synonyms found']	4.0	0.2609748840332031
+enactment	['act', 'bill', 'constitution', 'law', 'ordinance', 'statute']	4.1667	0.2629859447479248
+supplement	['accretion', 'accrual', 'addendum', 'addition', 'augmentation', 'boost', 'expansion', 'gain', 'increase', 'increment', 'more', 'plus', 'proliferation', 'raise', 'rise', 'step-up', 'uptick']	3.944433333333333	0.2630031108856201
+seether	['No synonyms found']	4.6667	0.2624549865722656
+westminster	['No synonyms found']	4.6667	0.2834749221801758
+nortel	['No synonyms found']	4.3333	0.28309106826782227
+bild	['No synonyms found']	4.7143	0.2853991985321045
+oxidation	['No synonyms found']	4.5	0.266294002532959
+ocr	['No synonyms found']	4.0	0.28346824645996094
+telnet	['No synonyms found']	4.3333	0.28785109519958496
+underoath	['No synonyms found']	3.8571	0.2989468574523926
+canonical	['apostolic', 'clerical', 'episcopal', 'evangelical', 'ministerial', 'papal', 'pastoral', 'patriarchal', 'pontifical', 'priestly', 'rabbinic', 'sacerdotal', 'blessed', 'consecrated', 'divine', 'hallowed', 'holy', 'religious', 'sacramental', 'sacred', 'sacrosanct', 'sanctified', 'churchly', 'ecclesial', 'ecclesiastic', 'ecclesiastical']	4.2857	0.2663750648498535
+terrestrial	['carnal', 'earthborn', 'earthbound', 'earthly', 'fleshly', 'material', 'mundane', 'sublunary', 'temporal', 'terrene', 'worldly']	4.0	0.2733340263366699
+northamptonshire	['No synonyms found']	4.1667	0.2626152038574219
+ideology	['credo', 'creed', 'doctrine', 'dogma', 'gospel', 'philosophy', 'testament']	4.1667	0.2924320697784424
+contaminant	['adulterant', 'contamination', 'defilement', 'impurity', 'pollutant']	4.0	0.276623010635376
+bestiality	['animalism', 'animality', 'beastliness', 'brutality', 'brutishness', 'swinishness']	4.4286	0.26254796981811523
+constituency	['No synonyms found']	3.8333	0.28686094284057617
+charset	['No synonyms found']	4.5	0.2953212261199951
+chesapeake	['No synonyms found']	4.8333	0.26891088485717773
+contiguous	['abutting', 'adjacent', 'adjoining', 'bordering', 'conterminous', 'flanking', 'flush', 'fringing', 'joining', 'juxtaposed', 'neighboring', 'skirting', 'touching', 'verging']	4.1667	0.2730069160461426
+putative	['apparent', 'assumed', 'evident', 'ostensible', 'ostensive', 'presumed', 'prima facie', 'reputed', 'seeming', 'supposed']	5.2857	0.26193690299987793
+orthodox	['ceremonial', 'ceremonious', 'conventional', 'formal', 'regular', 'routine']	3.8333	0.2665879726409912
+anthropology	['No synonyms found']	4.1429	0.26395392417907715
+odyssey	['grand tour', 'pilgrimage', 'progress', 'quest', 'safari', 'expedition', 'journey', 'passage', 'peregrination', 'travel(s)', 'trek', 'trip', 'circuit', 'commutation', 'commute', 'errand', 'excursion', 'flight', 'hop', 'jaunt', 'junket', 'outing', 'sally', 'sortie', 'tour', 'cruise', 'sail', 'voyage', 'drive', 'ride', 'spin', 'hike', 'slog', 'tramp', 'walk', 'walkabout', 'detour']	4.0	0.2703840732574463
+deborah	['No synonyms found']	4.2	0.28151988983154297
+instrumentation	['No synonyms found']	4.1429	0.26645588874816895
+equilibrium	['balance', 'counterpoise', 'equilibration', 'equipoise', 'poise', 'stasis']	4.1667	0.26360607147216797
+eternity	['everlasting', 'foreverness', 'infinity', 'perpetuity']	4.0	0.2657291889190674
+conservation	['conservancy', 'preservation', 'sustentation']	3.8333	0.26346278190612793
+garrison	['base', 'post', 'outpost', 'barracks', 'camp', 'cantonment', 'installation', 'laager', 'leaguer', 'bastion', 'citadel', 'fastness', 'fort', 'fortification', 'fortress', 'hold', 'redoubt', 'stronghold', 'bunker', 'dugout', 'blockhouse', 'garrison house', 'airbase', 'bridgehead', 'foothold', 'staging area', 'staging ground', 'beachhead', 'center', 'emplacement', 'footing', 'front', 'headquarters', 'station', 'battlefront', 'field', 'toehold']	4.4	0.27190208435058594
+valium	['No synonyms found']	4.6667	0.3117859363555908
+gloucestershire	['No synonyms found']	5.0	0.28586506843566895
+ordinance	['act', 'bill', 'constitution', 'enactment', 'law', 'statute']	4.2857	0.26304006576538086
+principe	['No synonyms found']	4.8	0.2625100612640381
+hierarchical	['No synonyms found']	3.8333	0.2635321617126465
+customization	['gear', 'match', 'model', 'pattern', 'acclimate', 'acclimatize', 'accommodate', 'adapt', 'adjust', 'condition', 'conform', 'doctor', 'edit', 'fashion', 'fit', 'put', 'shape', 'suit', 'tailor', 'readapt', 'readjust', 'attune', 'correct', 'harmonize', 'square', 'tune', 'establish', 'root', 'settle', 'acquaint', 'familiarize', 'orient', 'orientate', 'equip', 'prepare', 'prime', 'rehearse', 'harden', 'inure', 'season', 'toughen', 'alter', 'convert', 'make over', 'modify', 'recast', 'reclaim', 'recycle', 'redesign', 'redevelop', 'redo', 'reengineer', 'refashion', 'refigure', 'refit', 'refocus', 'reinvent', 'rejigger', 'remake', 'remodel', 'revamp', 'revise', 'rework', 'transform', 'accustom', 'habilitate', 'habituate', 'naturalize', 'ready', 'bend', 'fiddle (with)', 'fine-tune', 'phase', 'register', 'regulate', 'rig']	4.1429	0.26982712745666504
+encryption	['No synonyms found']	4.5	0.28728294372558594
+sarbane	['No synonyms found']	4.5	0.28287196159362793
+therapeutic	['curative', 'healing', 'medicinal', 'officinal', 'remedial', 'restorative']	3.8333	0.2612781524658203
+cms	['No synonyms found']	4.4	0.2656371593475342
+pertain	['appertain', 'belong']	3.8571	0.2701680660247803
+outpatient	['inpatient', 'case', 'patient', 'rehabilitant', 'sufferer', 'victim', 'convalescent', 'nursling']	4.6	0.26309800148010254
+morality	['character', 'decency', 'goodness', 'honesty', 'integrity', 'probity', 'rectitude', 'righteousness', 'rightness', 'uprightness', 'virtue', 'virtuousness']	4.1667	0.26805591583251953
+turquoise	['No synonyms found']	4.6	0.26098012924194336
+fabrication	['fable', 'fairy tale', 'falsehood', 'falsity', 'fib', 'lie', 'mendacity', 'prevarication', 'story', 'tale', 'taradiddle', 'untruth', 'whopper']	4.1667	0.26425695419311523
+phylli	['No synonyms found']	4.4	0.2846660614013672
+renovation	['facelift', 'reclamation', 'reconstruction', 're-creation', 'refurbishment', 'regeneracy', 'rehab', 'rehabilitation', 'remodeling', 'restoral', 'restoration', 'rally', 'recovery', 'recuperation', 'fixing', 'mending', 'repairing', 'reanimation', 'rebirth', 'regeneration', 'rejuvenation', 'rejuvenescence', 'renewal', 'resurgence', 'resurrection', 'resuscitation', 'revitalization', 'revival', 'revivification', 'renaissance', 'renascence', 'reinvention', 'reactivation']	4.0	0.26735591888427734
+taxonomy	['No synonyms found']	4.0	0.272489070892334
+salvation	['deliverance', 'rescue']	4.1429	0.2642199993133545
+cortex	['No synonyms found']	4.2	0.2645223140716553
+verisign	['No synonyms found']	4.1667	0.2794628143310547
+storesshop	['No synonyms found']	4.2	0.2866828441619873
+authenticate	['attest', 'avouch', 'certify', 'testify (to)', 'vouch (for)', 'witness']	4.6	0.2722790241241455
+amplitude	['ambit', 'breadth', 'compass', 'confines', 'dimension(s)', 'extent', 'range', 'reach', 'realm', 'scope', 'sweep', 'width']	4.4286	0.27175402641296387
+techrepublic	['No synonyms found']	3.8333	0.28047895431518555
+vitro	['No synonyms found']	4.0	0.2624318599700928
+homogeneous	['entire', 'homogenous', 'unchanging', 'uniform', 'unvaried', 'unvarying', 'akin', 'alike', 'analogous', 'cognate', 'comparable', 'connate', 'correspondent', 'corresponding', 'ditto', 'like', 'matching', 'parallel', 'resemblant', 'resembling', 'similar', 'such', 'suchlike', 'commensurate', 'proportionate', 'tantamount', 'virtual', 'allied', 'congeneric', 'congenerous', 'congenial', 'connatural', 'kin', 'kindred', 'relatable', 'related', 'approaching', 'approximating', 'close', 'coextensive', 'coincident', 'conformable', 'conforming', 'consistent', 'consonant', 'duplicate', 'equal', 'equivalent', 'fungible', 'identical', 'indistinguishable', 'interchangeable', 'me-too', 'redundant', 'same', 'selfsame', 'substitutable', 'synonymous', 'twin']	4.0	0.27040696144104004
+precipitation	['haste', 'hastiness', 'hurry', 'hustle', 'precipitousness', 'rush']	4.4286	0.26992106437683105
+polymer	['No synonyms found']	4.1667	0.2761509418487549
+mosaic	"['tapestry', 'agglomerate', 'agglomeration', 'alphabet soup', 'assortment', 'botch', 'clutter', 'collage', 'crazy quilt', 'farrago', 'gallimaufry', 'grab bag', 'gumbo', 'hash', 'hodgepodge', 'hotchpotch', 'jambalaya', 'jumble', 'jungle', 'litter', 'macédoine', 'medley', 'mélange', 'menagerie', 'miscellanea', 'miscellany', 'mishmash', 'mixed bag', 'montage', 'motley', 'muddle', 'olio', 'olla podrida', 'omnium-gatherum', 'pastiche', 'patchwork', 'patchwork quilt', 'potpourri', 'ragbag', 'ragout', 'rainbow', 'rummage', 'salad', 'salmagundi', 'scramble', 'shuffle', 'smorgasbord', 'stew', 'tumble', 'variety', 'welter', 'detritus', 'notions', 'oddments', 'odds and ends', 'sundries', 'accumulation', 'aggregate', 'aggregation', 'conglomerate', 'conglomeration', 'catchall', 'admixture', 'alloy', 'amalgam', 'blend', 'combination', 'commixture', 'composite', 'compound', 'fusion', 'intermixture', 'mix-up', 'bollix', 'chaos', 'confusion', 'disarrangement', 'disarray', 'disorder', ""dog's breakfast"", 'mess', 'morass', 'shambles', 'imbroglio', 'knot', 'snarl', 'tangle']"	4.1667	0.26107192039489746
+cerevisiae	['No synonyms found']	5.6667	0.27907395362854004
+conformity	['accord', 'accordance', 'agreement', 'conformance', 'congruence', 'congruency', 'congruity', 'consonance', 'harmony', 'tune']	4.0	0.26172614097595215
+peterborough	['No synonyms found']	4.2	0.2827320098876953
+chatham	['No synonyms found']	4.6667	0.28391194343566895
+lieutenant	['adjunct', 'adjutant', 'aid', 'aide', 'apprentice', 'assistant', 'coadjutor', 'deputy', 'helper', 'helpmate', 'helpmeet', 'mate', 'sidekick']	4.0	0.26152801513671875
+invision	['No synonyms found']	4.6667	0.28813624382019043
+bedfordshire	['No synonyms found']	5.2	0.27922725677490234
+svn	['No synonyms found']	4.0	0.28136610984802246
+leicestershire	['No synonyms found']	5.2	0.26357507705688477
+lutheran	['No synonyms found']	4.6667	0.27898216247558594
+analogous	['akin', 'alike', 'cognate', 'comparable', 'connate', 'correspondent', 'corresponding', 'ditto', 'like', 'matching', 'parallel', 'resemblant', 'resembling', 'similar', 'such', 'suchlike']	3.8571	0.2634890079498291
+aboriginal	['autochthonous', 'born', 'domestic', 'endemic', 'indigenous', 'native']	4.8	0.2687690258026123
+biomass	['No synonyms found']	4.0	0.27080488204956055
+roswell	['No synonyms found']	3.8333	0.2842710018157959
+spectrum	['diapason', 'gamut', 'range', 'scale', 'spread', 'stretch']	3.8333	0.26250505447387695
+concord	['chime', 'comity', 'compatibility', 'harmony', 'peace']	3.8571	0.26468801498413086
+cle	['No synonyms found']	4.8	0.2648732662200928
+callaway	['No synonyms found']	4.6	0.2808802127838135
+weezer	['No synonyms found']	3.8333	0.28529906272888184
+entrepreneurship	['businessman', 'enterpriser', 'dealer', 'merchandiser', 'merchant', 'trader', 'tradesman', 'trafficker', 'buyer', 'marketer', 'purchaser', 'hawker', 'huckster', 'hustler', 'peddler', 'retailer', 'seller', 'shopkeeper', 'storekeeper', 'vendor', 'engrosser', 'monopolist', 'jobber', 'middleman', 'wholesaler', 'distributor', 'provider', 'provisioner', 'purveyor', 'supplier']	4.0	0.27712202072143555
+celtic	['No synonyms found']	3.8571	0.28960704803466797
+incense	['aroma', 'attar', 'balm', 'bouquet', 'fragrance', 'fragrancy', 'perfume', 'redolence', 'scent', 'spice']	3.8333	0.2662181854248047
+entrepreneurial	['businessman', 'enterpriser', 'dealer', 'merchandiser', 'merchant', 'trader', 'tradesman', 'trafficker', 'buyer', 'marketer', 'purchaser', 'hawker', 'huckster', 'hustler', 'peddler', 'retailer', 'seller', 'shopkeeper', 'storekeeper', 'vendor', 'engrosser', 'monopolist', 'jobber', 'middleman', 'wholesaler', 'distributor', 'provider', 'provisioner', 'purveyor', 'supplier']	4.2857	0.27254199981689453
+adipex	['No synonyms found']	4.6667	0.28562164306640625
+christchurch	['No synonyms found']	4.2	0.28481292724609375
+collaboration	['affiliation', 'alliance', 'association', 'confederation', 'connection', 'cooperation', 'hookup', 'liaison', 'linkup', 'partnership', 'relation', 'relationship', 'tie-up', 'union']	3.8571	0.2630460262298584
+tramadol	['No synonyms found']	5.6	0.28395986557006836
+ascertain	['catch on (to)', 'discover', 'find out', 'get on (to)', 'hear', 'learn', 'realize', 'see', 'wise (up)']	4.0	0.2662537097930908
+pesticide	['acaricide', 'biopesticide', 'fungicide', 'germicide', 'herbicide', 'insecticide', 'microbicide', 'toxicant', 'bane', 'poison', 'toxic', 'toxin', 'venom', 'cancer', 'contagion', 'disease', 'virus']	3.83335	0.26437902450561523
+advocacy	['No synonyms found']	4.1667	0.2645890712738037
+westchester	['No synonyms found']	4.8	0.285675048828125
+solaris	['No synonyms found']	4.0	0.28332996368408203
+lattice	['cage', 'network', 'architecture', 'armature', 'cadre', 'configuration', 'edifice', 'fabric', 'frame', 'framework', 'framing', 'infrastructure', 'shell', 'skeleton', 'structure', 'contour', 'figure', 'outline', 'profile', 'shape', 'silhouette', 'chassis', 'grill', 'screen', 'wirework']	4.0	0.26491689682006836
+renaissance	['belle epoque', 'golden age']	4.2857	0.3159520626068115
+foreclosure	['No synonyms found']	4.0	0.2817707061767578
+legislation	['amendment', 'command', 'commandment', 'decree', 'dictate', 'directive', 'edict', 'fiat', 'ruling', 'bylaw', 'ground rule', 'regulation', 'rule', 'common law', 'martial law', 'blue law', 'prohibition', 'proscription', 'restriction', 'canon', 'capitulary', 'encyclical', 'act', 'bill', 'constitution', 'enactment', 'law', 'ordinance', 'statute']	3.8571	0.2636113166809082
+hogtie	['clog', 'cramp', 'embarrass', 'encumber', 'fetter', 'hamper', 'handcuff', 'handicap', 'hinder', 'hobble', 'hold back', 'hold up', 'impede', 'inhibit', 'interfere (with)', 'manacle', 'obstruct', 'shackle', 'short-circuit', 'stymie', 'tie up', 'trammel']	5.1667	0.27496981620788574
+ethereal	['bodiless', 'formless', 'immaterial', 'incorporeal', 'insubstantial', 'nonmaterial', 'nonphysical', 'spiritual', 'unbodied', 'unsubstantial']	4.1667	0.2683279514312744
+paxil	['No synonyms found']	5.6	0.30979204177856445
+judiciary	['judicatory', 'judicature', 'bar', 'bench', 'forum', 'tribunal', 'civil court', 'criminal court', 'trial court', 'high court', 'supreme court', 'court-martial', 'drumhead court-martial', 'inquisition', 'kangaroo court']	3.8571	0.2655789852142334
+watershe	['No synonyms found']	4.2857	0.28524303436279297
+astronomy	['No synonyms found']	3.8333	0.26471996307373047
+defer	['delay', 'hold off (on)', 'hold over', 'hold up', 'lay over', 'postpone', 'put off', 'put over', 'remit', 'shelve']	4.0	0.2633547782897949
+heterogeneous	['assorted', 'eclectic', 'indiscriminate', 'kitchen-sink', 'magpie', 'miscellaneous', 'mixed', 'motley', 'patchwork', 'piebald', 'promiscuous', 'raggle-taggle', 'ragtag', 'varied']	3.8571	0.27115297317504883
+merriam	['No synonyms found']	4.3333	0.26381707191467285
+vanuatu	['No synonyms found']	5.4	0.2837519645690918
+bout	['competition', 'contest', 'event', 'game', 'match', 'matchup', 'meet', 'sweepstakes', 'tournament', 'tourney']	4.1667	0.2636599540710449
+contractual	['No synonyms found']	4.0	0.29443788528442383
+predominantly	['altogether', 'basically', 'by and large', 'chiefly', 'generally', 'largely', 'mainly', 'mostly', 'overall', 'primarily', 'principally', 'substantially']	4.3333	0.2620120048522949
+prevalence	['commonness', 'frequence', 'frequency', 'frequentness']	4.1667	0.2637302875518799
+testimonial	['attestation', 'confirmation', 'corroboration', 'documentation', 'evidence', 'proof', 'substantiation', 'testament', 'testimony', 'validation', 'voucher', 'witness']	3.8333	0.2736780643463135
+collegiate	['graduate', 'postgraduate', 'academic', 'educational', 'intellectual', 'scholarly', 'scholastic', 'bookish', 'donnish', 'geeky', 'nerdish', 'nerdy', 'pedagogical', 'pedantic', 'professorial', 'tweedy', 'curricular', 'educative', 'instructive']	4.4286	0.2630467414855957
+colt	['abecedarian', 'apprentice', 'babe', 'beginner', 'cub', 'fledgling', 'freshman', 'greenhorn', 'neophyte', 'newbie', 'newcomer', 'novice', 'novitiate', 'punk', 'recruit', 'rook', 'rookie', 'tenderfoot', 'tyro', 'virgin']	4.3333	0.26311588287353516
+interdisciplinary	['No synonyms found']	4.5714	0.27412915229797363
+acquisition	['accession', 'obtainment']	4.1667	0.26770591735839844
+cameroon	['No synonyms found']	4.2	0.26556873321533203
+pulmonary	['No synonyms found']	4.7143	0.26180410385131836
+oblique	['askew', 'aslant', 'atilt', 'awry', 'cock-a-hoop', 'cockeyed', 'crazy', 'crooked', 'listing', 'lopsided', 'off-kilter', 'pitched', 'skewed', 'slanted', 'slanting', 'slantwise', 'tilted', 'tipping', 'uneven']	3.8333	0.27188706398010254
+solvent	['disinfectant', 'purifier', 'cleaner', 'cleanser', 'detergent', 'soap', 'scrub', 'shampoo']	3.8571	0.26375293731689453
+swansea	['No synonyms found']	4.6667	0.279803991317749
+timeshare	['No synonyms found']	4.0	0.2838866710662842
+deliberate	['advised', 'calculated', 'considered', 'knowing', 'measured', 'reasoned', 'studied', 'thoughtful', 'thought-out', 'weighed']	3.8571	0.26667308807373047
+stuttgart	['No synonyms found']	4.8	0.2829780578613281
+vancouver	['No synonyms found']	4.2	0.2812159061431885
+fluorescent	['arc lamp', 'candelabra', 'candelabrum', 'candle', 'chandelier', 'dark lantern', 'flare', 'flash', 'flashbulb', 'flashcube', 'flashlight', 'floodlight', 'gaslight', 'gasolier', 'girandole', 'headlight', 'incandescent lamp', 'klieg light', 'lantern', 'light bulb', 'lighthouse', 'lighting', 'sconce', 'spotlight', 'streetlight', 'sun lamp', 'beacon', 'illuminant', 'lamp']	4.1429	0.2788832187652588
+dilute	['diluted', 'thin', 'thinned', 'washy', 'watery', 'weak', 'weakened']	3.8333	0.2639329433441162
+walsh	['No synonyms found']	4.4	0.2833998203277588
+petitioner	['pleader', 'solicitor', 'suitor', 'suppliant', 'supplicant']	4.2857	0.2699902057647705
+deutschland	['No synonyms found']	5.2	0.2875528335571289
+doppler	['No synonyms found']	3.8333	0.2846701145172119
+oncology	['No synonyms found']	4.5	0.28432393074035645
+pursuit	['chase', 'chasing', 'dogging', 'following', 'hounding', 'pursuing', 'shadowing', 'tagging', 'tailing', 'tracing', 'tracking', 'trailing']	3.8333	0.26898694038391113
+asterisk	['No synonyms found']	3.8571	0.26776599884033203
+pertinent	['applicable', 'apposite', 'apropos', 'germane', 'material', 'pointed', 'relative', 'relevant']	4.5	0.31860804557800293
+gainesville	['No synonyms found']	4.3333	0.2961258888244629
+indictment	['charge', 'complaint', 'count', 'rap']	4.4286	0.2613382339477539
+rhetoric	['bombast', 'fustian', 'gas', 'grandiloquence', 'hot air', 'oratory', 'verbiage', 'wind']	4.3333	0.26473498344421387
+albuquerque	['No synonyms found']	5.2	0.28197598457336426
+pundit	['sage', 'savant', 'scholar']	4.0	0.2647700309753418
+carcinoma	['cancer', 'lymphoma', 'malignancy', 'melanoma', 'polyp', 'outgrowth', 'cyst', 'tubercle', 'wart', 'excrescence', 'excrescency', 'growth', 'lump', 'neoplasm', 'tumor']	5.2857	0.26529407501220703
+scottsdale	['No synonyms found']	4.8	0.2916841506958008
+cohort	['associate', 'companion', 'compatriot', 'compeer', 'comrade', 'crony', 'fellow', 'hobnobber', 'mate', 'running mate']	4.0	0.2654130458831787
+premiership	"['captainship', 'chairmanship', 'deanship', 'dictatorship', 'generalship', 'governorship', 'kingship', 'mastership', 'mastery', 'presidency', 'presidentship', 'superintendency', 'forefront', 'lead', 'vanguard', 'dominance', 'dominion', 'jurisdiction', 'sovereignty', 'sway', 'upper hand', 'chieftainship', 'commandership', 'directorship', 'eminence', 'height', 'pedestal', 'pinnacle', 'seat', 'throne', 'top', 'chair', ""driver's seat"", 'head', 'headship', 'helm', 'rein(s)']"	3.8333	0.27801513671875
+vulnerability	['defenselessness', 'susceptibility', 'weakness']	4.2619	0.2642629146575928
+lolita	['No synonyms found']	4.6667	0.2797701358795166
+swivel	['pivot', 'revolve', 'roll', 'rotate', 'spin', 'swing', 'swirl', 'turn', 'twirl', 'twist', 'wheel', 'whirl']	5.4	0.2634270191192627
+sussex	['No synonyms found']	3.8333	0.28261399269104004
+psalm	['anthem', 'canticle', 'carol', 'chorale', 'hymn', 'spiritual']	3.8333	0.275449275970459
+almanac	['ana', 'analects', 'chapbook', 'digest', 'garland', 'symposium', 'album', 'anthology', 'collectanea', 'compendium', 'compilation', 'florilegium', 'miscellany', 'reader', 'casebook', 'sourcebook', 'archives', 'corpus', 'library', 'miscellanea']	4.5	0.26247406005859375
+prentice	['No synonyms found']	5.0	0.26195573806762695
+blizzard	['snowstorm', 'cloudburst', 'hailstorm', 'ice storm', 'rainsquall', 'rainstorm', 'snow squall', 'thundershower', 'thunderstorm', 'weather', 'windstorm', 'northeaster', 'norther', 'southeaster', 'southwester', 'cyclone', 'hurricane', 'typhoon', 'sandstorm', 'squall', 'storm', 'tempest', 'deluge', 'downfall', 'downpour', 'rainfall', 'wet', 'precipitation', 'shower']	3.8333	0.268186092376709
+bueno	['No synonyms found']	4.6	0.2606372833251953
+bizrate	['No synonyms found']	5.3333	0.28511810302734375
+longitudinal	['No synonyms found']	4.3333	0.261549711227417
+aphrodite	['No synonyms found']	5.2	0.31258177757263184
+phentermine	['No synonyms found']	5.8571	0.28788018226623535
+localization	['No synonyms found']	3.8571	0.28560805320739746
+malaga	['No synonyms found']	4.0	0.29859375953674316
+vicinity	['backyard', 'environs', 'neighborhood', 'purlieus', 'vicinage']	4.1429	0.267974853515625
+provincial	['illiberal', 'insular', 'Lilliputian', 'little', 'narrow', 'narrow-minded', 'parochial', 'petty', 'picayune', 'sectarian', 'small', 'small-minded']	4.1667	0.26367712020874023
+cumming	['No synonyms found']	4.2	0.2939126491546631
+diecast	['No synonyms found']	4.6667	0.2940089702606201
+endowment	['aptitude', 'bent', 'faculty', 'flair', 'genius', 'gift', 'head', 'knack', 'talent']	4.1667	0.26263904571533203
+burgess	['No synonyms found']	4.2	0.2641758918762207
+holocaust	['conflagration', 'fire', 'inferno']	4.5	0.26460695266723633
+anchorage	['harbor', 'harborage', 'haven', 'port']	5.2	0.26445817947387695
+mda	['No synonyms found']	4.3333	0.2913379669189453
+accreditation	['authorization', 'commission', 'delegation', 'empowerment', 'license', 'mandate']	4.5	0.3375418186187744
+stringent	['brassbound', 'cast-iron', 'exacting', 'hard-line', 'inflexible', 'rigid', 'rigorous', 'strict', 'uncompromising']	3.8571	0.2627577781677246
+expenditure	['charge', 'cost', 'disbursement', 'expense', 'outgo', 'outlay']	4.083349999999999	0.264301061630249
+acrylic	['aquarelle', 'gouache', 'watercolor', 'diptych', 'triptych', 'distemper', 'drawing', 'etching', 'finger painting', 'pastel', 'sketch', 'tempera', 'fresco', 'mural', 'panorama', 'masterpiece', 'canvas', 'oil', 'oil painting', 'painting', 'pièce de résistance', 'showpiece']	4.2857	0.27214813232421875
+saunder	['No synonyms found']	4.1667	0.2917020320892334
+belize	['No synonyms found']	5.0	0.28908395767211914
+nottinghamshire	['No synonyms found']	5.4	0.28867077827453613
+pantera	['No synonyms found']	5.2	0.28304505348205566
+counselling	['comforting', 'consolation', 'consoling', 'reassurance', 'solace', 'solacing', 'commiseration', 'compassion', 'condolence', 'feeling', 'sympathy', 'humanity', 'kindheartedness', 'kindliness', 'kindness', 'mercy', 'pity']	4.0	0.27156925201416016
+engadget	['No synonyms found']	4.5	0.2876701354980469
+competency	['ability', 'capability', 'capableness', 'capacity', 'competence', 'faculty']	4.0	0.26589107513427734
+mla	['No synonyms found']	4.4	0.2870941162109375
+comptroller	['No synonyms found']	5.3333	0.2638130187988281
+intranet	['No synonyms found']	4.2857	0.29844093322753906
+geile	['No synonyms found']	5.3333	0.28493618965148926
+asbestos	['No synonyms found']	4.4	0.26405811309814453
+atreyu	['No synonyms found']	5.3333	0.2875351905822754
+alkaline	['No synonyms found']	4.8333	0.263275146484375
+mutation	['metamorphosis', 'transfiguration', 'transformation', 'transmogrification', 'transmutation', 'conversion', 'deformation', 'distortion', 'adjustment', 'alteration', 'change', 'difference', 'modification', 'shift', 'transition', 'reconstruction', 'reconversion', 'redesign', 'redo', 'redoing', 'refashioning', 'reformation', 'remaking', 'remodeling', 'revamping', 'review', 'revise', 'revision', 'reworking', 'variation', 'amendment', 'correction', 'rectification', 'reform', 'fluctuation', 'flux', 'inconstancy', 'oscillation', 'displacement', 'replacement', 'substitution', 'modulation', 'regulation', 'tweak', 'vacillation', 'wavering']	4.0	0.27335286140441895
+prudent	['discreet', 'intelligent', 'judgmatic', 'judicious']	3.8333	0.26437902450561523
+octet	['duo', 'quartet', 'quintet', 'septet', 'sextet', 'trio', 'company', 'troupe', 'combo', 'ensemble', 'group', 'brasses', 'strings', 'woodwinds', 'brass band', 'chamber orchestra', 'sinfonietta', 'band', 'orchestra', 'philharmonic', 'symphony', 'symphony orchestra']	4.0	0.26287293434143066
+pueblo	['No synonyms found']	5.0	0.26401185989379883
+pastor	['abbé', 'curate', 'curé', 'parson', 'rector', 'shepherd', 'vicar', 'churchman', 'clergyman', 'father', 'Holy Joe', 'padre', 'clergywoman', 'deaconess', 'priestess', 'abbot', 'archbishop', 'archpriest', 'bishop', 'dean', 'diocesan', 'monsignor', 'pope', 'prelate', 'presbyter', 'chaplain', 'confessor', 'sky pilot', 'evangelist', 'missionary', 'missioner', 'missionizer', 'revivalist', 'friar', 'mendicant', 'monastic', 'monk', 'oblate', 'religious', 'high priest', 'high priestess', 'clergyperson', 'cleric', 'clerical', 'clerk', 'deacon', 'divine', 'dominie', 'ecclesiastic', 'minister', 'preacher', 'priest', 'reverend']	4.3333	0.26545000076293945
+llp	['No synonyms found']	4.3333	0.29576706886291504
+sovereign	['arch', 'big', 'capital', 'cardinal', 'central', 'chief', 'dominant', 'first', 'foremost', 'grand', 'great', 'greatest', 'highest', 'key', 'leading', 'main', 'master', 'number one', 'numero uno', 'overbearing', 'overmastering', 'overriding', 'paramount', 'predominant', 'preeminent', 'premier', 'primal', 'primary', 'principal', 'prior', 'supreme']	4.3333	0.2639281749725342
+viability	['feasibility', 'feasibleness', 'possibility', 'potentiality', 'reasonability', 'reasonableness', 'credibility', 'plausibility', 'plausibleness', 'liability', 'likelihood', 'probability']	4.0	0.2619497776031494
+legislature	['assembly', 'chamber', 'council', 'diet', 'house', 'legislative', 'congress', 'parliament', 'general assembly', 'legislative assembly']	4.7143	0.26273584365844727
+plush	['big', 'concentrated', 'full', 'full-bodied', 'heady', 'lusty', 'muscular', 'potent', 'rich', 'robust', 'strong']	4.4286	0.26421022415161133
+nabble	['No synonyms found']	4.3333	0.28510618209838867
+tome	['book', 'volume']	4.5	0.26564693450927734
+eligibility	['No synonyms found']	3.8571	0.26369285583496094
+gratuit	['No synonyms found']	5.2	0.2816810607910156
+saturation	['brightness', 'chroma', 'chromaticity', 'contrast', 'lightness', 'value', 'primary color', 'secondary color', 'tertiary color', 'coloration', 'coloring', 'colorway', 'pigmentation', 'overtone', 'undertone', 'cast', 'color', 'hue', 'shade', 'tincture', 'tinge', 'tint', 'tone']	3.8333	0.2640352249145508
+influential	['authoritative', 'forceful', 'weighty']	3.8333	0.26396799087524414
+fresno	['No synonyms found']	5.2	0.3070662021636963
+microscopy	['No synonyms found']	4.4286	0.2885158061981201
+optimization	['No synonyms found']	3.8571	0.270737886428833
+antille	['No synonyms found']	5.0	0.2877540588378906
+genocide	['pogrom', 'bloodbath', 'butchery', 'carnage', 'death', 'holocaust', 'massacre', 'slaughter', 'bloodletting', 'bloodshed', 'foul play', 'homicide', 'manslaughter', 'murder', 'slaying', 'mortality', 'annihilation', 'decimation', 'demolishing', 'destruction', 'devastation', 'eradication', 'extermination', 'assassination', 'execution']	4.6667	0.26259517669677734
+buckinghamshire	['No synonyms found']	4.8333	0.2889668941497803
+saratoga	['No synonyms found']	5.2	0.28884315490722656
+pharmacology	['No synonyms found']	4.6667	0.26558709144592285
+sanctuary	['sanctum', 'shrine']	4.0	0.26335597038269043
+cgi	['No synonyms found']	4.4	0.2874631881713867
+snmp	['No synonyms found']	5.0	0.28572893142700195
+attributable	['accredit', 'ascribe', 'chalk up', 'credit', 'impute', 'lay', 'put down']	4.8	0.27346277236938477
+lingere	['No synonyms found']	3.8571	0.28295207023620605
+constitutional	['built-in', 'constitutive', 'essential', 'hardwired', 'immanent', 'inborn', 'inbred', 'indigenous', 'ingrain', 'ingrained', 'inherent', 'innate', 'integral', 'intrinsic', 'native', 'natural']	3.8333	0.2645299434661865
+versace	['No synonyms found']	4.4	0.28380298614501953
+susceptible	['endangered', 'exposed', 'liable', 'open', 'sensitive', 'subject (to)', 'vulnerable']	4.4	0.26393604278564453
+dissemination	['diffusion', 'disbandment', 'dispersal', 'dispersion', 'dissipation', 'scattering', 'breakup', 'dissolution', 'disunion', 'separation', 'split']	4.2857	0.2655038833618164
+aclu	['No synonyms found']	4.8	0.2847728729248047
+ordination	['anointing', 'anointment', 'induction', 'installation', 'installment', 'instating', 'investiture', 'investment', 'authorization', 'delegation', 'deputation', 'emplacement', 'placement', 'ranking', 'choice', 'choosing', 'destination', 'election', 'nomination', 'picking', 'selection', 'singling (out)', 'billet', 'gig', 'job', 'office', 'place', 'position', 'situation', 'spot', 'station', 'appointment', 'assignment', 'commission', 'designation']	4.8	0.2637958526611328
+townsend	['No synonyms found']	4.4	0.29068517684936523
+embroidery	['needlework']	4.5	0.2614109516143799
+provisional	['ad interim', 'impermanent', 'interim', 'provisionary', 'provisory', 'short-term', 'temporary']	4.1429	0.2641580104827881
+gigantic	['astronomical', 'Brobdingnagian', 'bumper', 'colossal', 'cosmic', 'cyclopean', 'elephantine', 'enormous', 'galactic', 'gargantuan', 'giant', 'gigantesque', 'grand', 'herculean', 'heroic', 'Himalayan', 'huge', 'humongous', 'immense', 'jumbo', 'king-size', 'leviathan', 'mammoth', 'massive', 'mega', 'mighty', 'monster', 'monstrous', 'monumental', 'mountainous', 'oceanic', 'pharaonic', 'planetary', 'prodigious', 'super', 'super-duper', 'supersize', 'supersized', 'titanic', 'tremendous', 'vast', 'vasty', 'walloping', 'whacking', 'whopping']	3.8333	0.26290297508239746
+glitter	['coruscate', 'flame', 'flash', 'glance', 'gleam', 'glimmer', 'glint', 'glisten', 'glister', 'luster', 'scintillate', 'shimmer', 'spangle', 'sparkle', 'twinkle', 'wink', 'winkle']	4.0	0.2702960968017578
+usenet	['No synonyms found']	4.2	0.2818920612335205
+fischer	['No synonyms found']	4.2	0.2920968532562256
+invasive	['No synonyms found']	3.8571	0.2639889717102051
+guatemala	['No synonyms found']	4.6667	0.28357982635498047
+mortality	['dead', 'deadness', 'death', 'grave', 'lifelessness', 'nothingness', 'sleep', 'bloodletting', 'bloodshed', 'foul play', 'homicide', 'killing', 'manslaughter', 'murder', 'slaying', 'genocide', 'pogrom', 'assassination', 'execution', 'bloodbath', 'butchery', 'carnage', 'holocaust', 'slaughter']	4.0	0.26418089866638184
+intervention	['intercede', 'intermediate', 'interpose', 'mediate']	3.92855	0.26228785514831543
+provost	['No synonyms found']	5.5	0.26361703872680664
+grievance	['down', 'grudge', 'resentment', 'score']	4.0	0.2651550769805908
+tuvalu	['No synonyms found']	4.8	0.2747688293457031
+comm	['No synonyms found']	4.3333	0.2895801067352295
+basel	['No synonyms found']	4.1667	0.35233306884765625
+radiology	['No synonyms found']	4.2857	0.2769289016723633
+bethesda	['No synonyms found']	5.0	0.26256799697875977
+ashanti	['No synonyms found']	4.8333	0.3002927303314209
+femdom	['No synonyms found']	4.3333	0.2920198440551758
+authenticity	['genuineness', 'truth', 'verity', 'actuality', 'fact', 'factuality', 'materiality', 'reality']	4.0	0.2664608955383301
+nauru	['No synonyms found']	4.8	0.2773098945617676
+duane	['No synonyms found']	4.3333	0.30400681495666504
+appellant	['petitioner', 'pleader', 'litigant', 'party', 'suitor', 'accuser', 'complainant', 'plaintiff', 'suer']	5.3333	0.2661888599395752
+syndication	['advertising', 'announcement', 'annunciation', 'communication', 'declaration', 'enunciation', 'notification', 'proclamation', 'promotion', 'promulgation', 'propaganda', 'publicity', 'coming out', 'issuing', 'publication', 'publishing', 'putting out', 'release', 'broadcasting', 'circulation', 'dissemination', 'distribution', 'advent', 'appearance', 'arrival', 'debut', 'emergence', 'manufacture', 'printing', 'production', 'propagation', 'spread', 'transmission']	4.4	0.271899938583374
+testosterone	['No synonyms found']	4.6667	0.26177406311035156
+enact	['constitute', 'lay down', 'legislate', 'make', 'ordain', 'pass']	4.0	0.2648792266845703
+giorgio	['No synonyms found']	4.4	0.28156089782714844
+seizure	['access', 'attack', 'bout', 'case', 'fit', 'siege', 'spell', 'turn']	4.1667	0.26439762115478516
+contamination	['adulterant', 'contaminant', 'defilement', 'impurity', 'pollutant']	4.4286	0.2729368209838867
+seminary	['academe', 'academy', 'school']	3.8571	0.26301097869873047
+embodiment	['abstract', 'avatar', 'embodier', 'epitome', 'externalization', 'genius', 'icon', 'image', 'incarnation', 'incorporation', 'instantiation', 'manifestation', 'objectification', 'personification', 'personifier']	4.1429	0.2722499370574951
+episcopal	['apostolic', 'canonical', 'clerical', 'evangelical', 'ministerial', 'papal', 'pastoral', 'patriarchal', 'pontifical', 'priestly', 'rabbinic', 'sacerdotal', 'blessed', 'consecrated', 'divine', 'hallowed', 'holy', 'religious', 'sacramental', 'sacred', 'sacrosanct', 'sanctified', 'churchly', 'ecclesial', 'ecclesiastic', 'ecclesiastical']	5.1667	0.2639169692993164
+appendix	['addendum', 'afterword', 'codicil', 'excursus', 'supplement']	3.8333	0.26438331604003906
+jurisdiction	['administration', 'authority', 'governance', 'government', 'regime', 'regimen', 'rule']	4.3333	0.27277612686157227
+unsolicite	['No synonyms found']	4.2857	0.2876880168914795
+archbishop	['abbot', 'archpriest', 'bishop', 'dean', 'diocesan', 'monsignor', 'pope', 'prelate', 'presbyter', 'clergywoman', 'deaconess', 'priestess', 'abbé', 'curate', 'curé', 'parson', 'pastor', 'rector', 'shepherd', 'vicar', 'churchman', 'clergyman', 'father', 'Holy Joe', 'padre', 'chaplain', 'confessor', 'sky pilot', 'clergyperson', 'cleric', 'clerical', 'clerk', 'deacon', 'divine', 'dominie', 'ecclesiastic', 'minister', 'preacher', 'priest', 'reverend', 'evangelist', 'missionary', 'missioner', 'missionizer', 'revivalist', 'friar', 'mendicant', 'monastic', 'monk', 'oblate', 'religious', 'high priest', 'high priestess']	5.1667	0.26224303245544434
+disposition	['grain', 'nature', 'temper', 'temperament']	4.1667	0.2641000747680664
+inflammation	['sore', 'swelling', 'ache', 'pain', 'pang', 'prick', 'shoot', 'smart', 'sting', 'stitch', 'throe', 'tingle', 'twinge', 'discomfort', 'distress', 'soreness', 'tenderness', 'affliction', 'agony', 'anguish', 'misery', 'sufferance', 'suffering', 'torment', 'torture', 'damage', 'detriment', 'harm', 'hurt', 'injury', 'backache', 'bellyache', 'charley horse', 'colic', 'complaint', 'earache', 'gripe', 'headache', 'stomachache', 'toothache']	4.0	0.2624950408935547
+prolyte	['No synonyms found']	4.4	0.2822690010070801
+abdominal	['belly', 'breadbasket', 'gut', 'solar plexus', 'stomach', 'tummy']	4.5	0.26138901710510254
+cerebral	['blue', 'eggheaded', 'geeky', 'highbrow', 'highbrowed', 'intellectual', 'intellectualist', 'intellectualistic', 'long-haired', 'nerdish', 'nerdy']	4.0	0.2662479877471924
+cervical	['No synonyms found']	4.5714	0.2615680694580078
+algorithm	['No synonyms found']	4.0	0.2646470069885254
+joomla	['No synonyms found']	4.3333	0.2783012390136719
+camino	['No synonyms found']	4.4	0.274127721786499
+retention	['holding', 'retaining', 'control', 'enjoyment', 'hands', 'keeping', 'possession', 'care', 'custody', 'safekeeping', 'conservation', 'maintenance', 'support', 'repossession', 'ownership', 'proprietorship', 'authority', 'command', 'dominion', 'mastery', 'power', 'claiming', 'collaring', 'commandeering', 'confiscation', 'procurement']	4.1429	0.26516294479370117
+metasearch	['No synonyms found']	4.2	0.2854328155517578
+smtp	['No synonyms found']	4.5	0.28115296363830566
+inflammatory	['incendiary', 'seditious']	4.1429	0.3048999309539795
+exodus	['gush', 'outflow', 'outpour', 'outpouring']	4.5	0.276597261428833
+rhapsody	['cloud nine', 'ecstasy', 'elatedness', 'elation', 'euphoria', 'exhilaration', 'heaven', 'high', 'intoxication', 'paradise', 'rapture', 'seventh heaven', 'swoon', 'transport']	5.3333	0.2637631893157959
+probate	['No synonyms found']	4.2857	0.26522183418273926
+godsmack	['No synonyms found']	5.2	0.28183889389038086
+embryo	['No synonyms found']	4.3333	0.261944055557251
+resurrection	['reanimation', 'rebirth', 'regeneration', 'rejuvenation', 'rejuvenescence', 'renewal', 'resurgence', 'resuscitation', 'revitalization', 'revival', 'revivification']	4.4	0.27443981170654297
+erroneous	['false', 'inaccurate', 'incorrect', 'inexact', 'invalid', 'off', 'unsound', 'untrue', 'untruthful', 'wrong']	4.2	0.26644086837768555
+consortium	['association', 'board', 'brotherhood', 'chamber', 'club', 'college', 'congress', 'council', 'fellowship', 'fraternity', 'guild', 'institute', 'institution', 'league', 'order', 'organization', 'society', 'sodality']	4.8333	0.2651357650756836
+linguistic	['lexical', 'rhetorical', 'verbal', 'vocabular', 'wordy']	4.1667	0.26592206954956055
+portage	['No synonyms found']	4.5	0.2629420757293701
+levin	['No synonyms found']	4.2	0.29022741317749023
+twink	['No synonyms found']	3.94285	0.26381969451904297
+hath	['No synonyms found']	4.6	0.2642972469329834
+maurice	['No synonyms found']	4.8	0.293687105178833
+staten	['No synonyms found']	4.8	0.2857081890106201
+remuneration	['compensation', 'disbursement', 'giving', 'paying', 'payment', 'remitment', 'remittance']	4.5	0.26741981506347656
+resonance	['No synonyms found']	4.1429	0.26261186599731445
+fourier	['No synonyms found']	4.3333	0.2885549068450928
+coventry	['No synonyms found']	4.6667	0.2872960567474365
+trivium	['No synonyms found']	3.93335	0.3082869052886963
+neurology	['No synonyms found']	4.0	0.26430177688598633
+wilke	['No synonyms found']	4.4	0.2824249267578125
+vhs	['No synonyms found']	4.8	0.2615690231323242
+accountability	['answerability', 'blame', 'fault', 'liability', 'responsibility']	4.3333	0.2632741928100586
+oxide	['No synonyms found']	4.1429	0.2643592357635498
+multitude	['army', 'bike', 'cram', 'crowd', 'crush', 'drove', 'flock', 'herd', 'horde', 'host', 'legion', 'mass', 'mob', 'press', 'rout', 'scrum', 'swarm', 'throng']	3.8571	0.27379298210144043
+impairment	['defacement', 'disability', 'disablement', 'disfigurement', 'affliction', 'damage', 'detriment', 'harm', 'hurt', 'injury', 'lesion', 'rupture', 'strain', 'abrasion', 'chafe', 'scrape', 'scratch', 'boo-boo', 'bruise', 'contusion', 'swelling', 'wound', 'bump', 'concussion', 'cut', 'gash', 'laceration', 'burn', 'scald', 'scar', 'scathe', 'sear']	4.3333	0.26409316062927246
+grenadine	['No synonyms found']	5.4	0.2903017997741699
+scrutiny	['audit', 'check', 'checkup', 'examination', 'going-over', 'inspection', 'look-see', 'review', 'scan', 'survey', 'view']	4.1429	0.26468586921691895
+genesis	['alpha', 'baseline', 'beginning', 'birth', 'commencement', 'dawn', 'day one', 'get-go', 'inception', 'incipience', 'incipiency', 'kickoff', 'launch', 'morning', 'nascence', 'nascency', 'onset', 'outset', 'start', 'threshold']	4.3333	0.26348185539245605
+inne	['No synonyms found']	3.8571	0.2625308036804199
+corinthian	['No synonyms found']	4.8	0.28469204902648926
+cartier	['No synonyms found']	4.4	0.30437302589416504
+incidental	['accidental', 'casual', 'chance', 'fluky', 'fortuitous', 'inadvertent', 'unintended', 'unintentional', 'unplanned', 'unpremeditated', 'unwitting']	4.3333	0.26438403129577637
+serenity	['calm', 'calmness', 'hush', 'peace', 'peacefulness', 'placidity', 'quiet', 'quietness', 'quietude', 'repose', 'restfulness', 'sereneness', 'still', 'stillness', 'tranquility']	4.4286	0.2769591808319092
+synchronization	['No synonyms found']	4.2857	0.2903759479522705
+etiology	['No synonyms found']	5.6667	0.2618110179901123
+architectural	['No synonyms found']	3.8333	0.26363515853881836
+biosynthesis	['No synonyms found']	5.0	0.2847139835357666
+stochastic	['No synonyms found']	4.8	0.26369404792785645
+configuration	['architecture', 'armature', 'cadre', 'edifice', 'fabric', 'frame', 'framework', 'framing', 'infrastructure', 'shell', 'skeleton', 'structure']	4.03335	0.26542091369628906
+diversion	['delight', 'distraction', 'divertissement', 'entertainment', 'fun', 'pleasure', 'recreation']	3.8333	0.26571106910705566
+humiliation	['abasement', 'debasement', 'dismissal', 'firing', 'layoff', 'sacking', 'disrating', 'downgrade', 'bump', 'demotion', 'reduction']	3.8571	0.26401829719543457
+erp	['No synonyms found']	4.6	0.27998900413513184
+mediation	['treaty', 'agreement', 'settlement', 'accord', 'arrangement', 'bargain', 'concurrence', 'consensus', 'deal', 'understanding', 'haggle', 'horse trade', 'accommodation', 'compromise', 'concession', 'give-and-take', 'negotiation']	4.1429	0.2697877883911133
+terminology	['argot', 'cant', 'dialect', 'jargon', 'jive', 'language', 'lingo', 'patois', 'patter', 'shop', 'shoptalk', 'slang', 'vocabulary']	4.1667	0.2642991542816162
+beacon	['illuminant', 'lamp', 'light']	4.0	0.2738027572631836
+surveillance	['care', 'charge', 'guidance', 'headship', 'oversight', 'regulation', 'stewardship', 'superintendence', 'superintendency', 'supervision']	4.2857	0.26165127754211426
+deterioration	['debilitation', 'decay', 'decaying', 'declension', 'decline', 'degeneration', 'descent', 'ebbing', 'enfeeblement', 'weakening']	4.5714	0.26124000549316406
+husky	['beefy', 'brawny', 'burly', 'hefty', 'hulking', 'mesomorphic']	4.0	0.2690551280975342
+hubbard	['chemise', 'coatdress', 'granny dress', 'housedress', 'jumper', 'kimono', 'kirtle', 'minidress', 'muumuu', 'overdress', 'sack', 'sheath', 'shift', 'shirtdress', 'shirtwaist', 'sundress', 'sweaterdress', 'tea gown', 'dress', 'frock', 'gown']	5.2	0.2741978168487549
+ibid	['No synonyms found']	5.2	0.2820322513580322
+accredit	['ascribe', 'attribute', 'chalk up', 'credit', 'impute', 'lay', 'put down']	4.5	0.26521921157836914
+essence	['being', 'essentiality', 'nature', 'quiddity', 'quintessence', 'soul', 'stuff', 'substance']	4.1667	0.26722002029418945
+masterbation	['No synonyms found']	4.0	0.28986310958862305
+exquisite	['acute', 'almighty', 'blistering', 'deep', 'dreadful', 'excruciating', 'explosive', 'fearful', 'fearsome', 'ferocious', 'fierce', 'frightful', 'furious', 'ghastly', 'hard', 'heavy', 'heavy-duty', 'hellacious', 'intense', 'intensive', 'keen', 'profound', 'terrible', 'vehement', 'vicious', 'violent']	4.2857	0.2611398696899414
+consumable	['ablaze', 'afire', 'aflame', 'blazing', 'burning', 'combusting', 'fiery', 'flaming', 'ignited', 'inflamed', 'kindled', 'lit', 'burnable', 'combustible', 'flammable', 'ignitable', 'inflammable', 'explosive', 'incendiary', 'volcanic']	4.0	0.2667820453643799
+interoperability	['No synonyms found']	5.1429	0.29455089569091797
+khz	['No synonyms found']	3.8571	0.2816290855407715
+reimbursement	['repayment', 'rendering', 'tendering', 'paying off', 'paying up', 'prepayment', 'compensation', 'disbursement', 'giving', 'paying', 'payment', 'remitment', 'remittance', 'remuneration', 'overpayment']	3.8571	0.2825310230255127
+lesotho	['No synonyms found']	5.4	0.2872040271759033
+genome	['No synonyms found']	3.8333	0.26593494415283203
+isabella	['No synonyms found']	4.3333	0.2791891098022461
+bio	['biography', 'life', 'memoir']	5.0	0.26290202140808105
+acupuncture	['No synonyms found']	4.4	0.2800602912902832
+oxfordshire	['No synonyms found']	4.2	0.2786829471588135
+humanitarian	['altruistic', 'beneficent', 'benevolent', 'charitable', 'do-good', 'eleemosynary', 'good', 'philanthropic']	4.0	0.26744890213012695
+motif	['content', 'matter', 'motive', 'question', 'subject', 'theme', 'topic']	4.5714	0.26362109184265137
+eminent	['astral', 'bright', 'distinguished', 'illustrious', 'luminous', 'noble', 'notable', 'noteworthy', 'outstanding', 'preeminent', 'prestigious', 'redoubtable', 'signal', 'star', 'superior']	4.0	0.26409912109375
+hereinafter	['No synonyms found']	3.8333	0.266406774520874
+hertfordshire	['No synonyms found']	5.2	0.2649350166320801
+bruin	['No synonyms found']	4.5	0.2872438430786133
+bilder	['No synonyms found']	4.3333	0.286085844039917
+cumme	['No synonyms found']	3.8571	0.29544997215270996
+proqu	['No synonyms found']	4.4	0.2813119888305664
+creed	['credo', 'doctrine', 'dogma', 'gospel', 'ideology', 'philosophy', 'testament']	3.8571	0.2640349864959717
+tonga	['barouche', 'brougham', 'buckboard', 'buggy', 'cab', 'cabriolet', 'calash', 'calèche', 'caroche', 'carryall', 'chaise', 'chariot', 'coach', 'coupé', 'curricle', 'diligence', 'dogcart', 'droshky', 'four-in-hand', 'gig', 'go-cart', 'hackney', 'hansom', 'jaunting car', 'landau', 'phaeton', 'post chaise', 'roadster', 'rockaway', 'stage', 'stagecoach', 'stanhope', 'surrey', 'tandem', 'tilbury', 'trap', 'troika', 'victoria', 'carriage', 'equipage', 'rig', 'turnout']	4.8	0.27494001388549805
+deprecate	['bad-mouth', 'belittle', 'cry down', 'decry', 'denigrate', 'depreciate', 'derogate', 'diminish', 'dis', 'discount', 'dismiss', 'disparage', 'kiss off', 'minimize', 'play down', 'poor-mouth', 'put down', 'run down', 'talk down', 'trash', 'trash-talk', 'vilipend', 'write off']	3.8571	0.264815092086792
+activism	['No synonyms found']	4.0	0.2891061305999756
+apoptosis	['No synonyms found']	5.4286	0.28450727462768555
+hayne	['No synonyms found']	4.0	0.28966307640075684
+aguilera	['No synonyms found']	5.0	0.2792809009552002
+suede	['nubuck', 'patent leather', 'alligator', 'antelope', 'buckskin', 'cabretta', 'calfskin', 'capeskin', 'chamois', 'cordovan', 'cowhide', 'crocodile', 'deerskin', 'doeskin', 'goatskin', 'horsehide', 'kid', 'kidskin', 'lambskin', 'morocco', 'ostrich', 'pigskin', 'seal', 'sharkskin', 'sheepskin', 'snakeskin', 'coat', 'fleece', 'fur', 'pelt', 'hide', 'leather', 'skin']	4.0	0.2745487689971924
+delphi	['No synonyms found']	5.0	0.2784593105316162
+inhibitor	['constraint', 'liability', 'obstacle', 'obstruction', 'restraint', 'stranglehold', 'disadvantage', 'drawback', 'encumbrance', 'hindrance', 'impediment', 'minus']	4.1429	0.27367687225341797
+allege	['affirm', 'assert', 'aver', 'avouch', 'avow', 'claim', 'contend', 'declare', 'insist', 'maintain', 'profess', 'protest', 'purport', 'warrant']	3.8333	0.2655830383300781
+maxtor	['No synonyms found']	4.3333	0.2803480625152588
+iss	['No synonyms found']	5.2	0.26193785667419434
+statutory	['de jure', 'regulation', 'constitutional', 'good', 'innocent', 'just', 'proper', 'right', 'justifiable', 'warrantable', 'allowable', 'authorized', 'noncriminal', 'permissible', 'lawful', 'legal', 'legit', 'legitimate', 'licit']	4.2857	0.2650589942932129
+analogue	['parallel', 'alter ego', 'carbon', 'carbon copy', 'clone', 'counterpart', 'doppelgänger', 'double', 'duplicate', 'duplication', 'facsimile', 'fetch', 'image', 'likeness', 'look-alike', 'match', 'mirror image', 'picture', 'replica', 'ringer', 'spit', 'spitting image', 'twin', 'effigy', 'portrait', 'portrayal', 'companion', 'fellow', 'mate', 'equal', 'equivalent']	4.0	0.2641451358795166
+significance	['content', 'denotation', 'drift', 'import', 'intent', 'intention', 'meaning', 'purport', 'sense', 'signification']	3.8333	0.26612401008605957
+telstra	['No synonyms found']	4.4286	0.28438401222229004
+commencement	['alpha', 'baseline', 'beginning', 'birth', 'dawn', 'day one', 'genesis', 'get-go', 'inception', 'incipience', 'incipiency', 'kickoff', 'launch', 'morning', 'nascence', 'nascency', 'onset', 'outset', 'start', 'threshold']	4.1429	0.2723989486694336
+dissertation	['thesis', 'article', 'composition', 'essay', 'paper', 'theme', 'causerie', 'column', 'commentary', 'editorial', 'feature', 'report', 'review', 'write-up', 'tract', 'treatise', 'discourse', 'discussion', 'exposition', 'prolegomenon', 'study']	4.5	0.2657768726348877
+propaganda	['ballyhoo', 'boost', 'buildup', 'campaign', 'plug', 'promo', 'promotion', 'publicity', 'ad', 'advert', 'advertisement', 'announcement', 'bulletin', 'communiqué', 'notice', 'notification', 'posting', 'release', 'broadside', 'brochure', 'circular', 'flyer', 'fly sheet', 'gazette', 'handbill', 'handout', 'bill', 'billboard', 'placard', 'playbill', 'poster', 'show bill', 'sign', 'broadcast', 'cablecast', 'newscast', 'telecast', 'advertising', 'billing', 'blurb', 'come-on', 'commercial', 'message', 'pitch', 'plugola', 'spot', 'word', 'communication', 'dispatch', 'report', 'annunciation', 'declaration', 'edict', 'proclamation', 'promulgation', 'pronouncement', 'pronunciamento', 'rescript', 'signification']	4.2857	0.2631230354309082
+elegance	['class', 'classiness', 'courtliness', 'elegancy', 'fineness', 'grace', 'gracefulness', 'handsomeness', 'majesty', 'refinement', 'stateliness']	3.8571	0.2643723487854004
+mansfield	['No synonyms found']	4.4	0.2861058712005615
+cancun	['No synonyms found']	4.8333	0.2938990592956543
+jacqueline	['No synonyms found']	4.6	0.29009413719177246
+mirage	"['optical illusion', 'chimera', 'conceit', 'daydream', 'delusion', 'dream', 'fancy', 'fantasy', 'figment', 'hallucination', 'illusion', 'nonentity', 'phantasm', 'pipe dream', 'unreality', 'vision', 'ignis fatuus', ""will-o'-the-wisp"", 'brainchild', 'idea', 'concoction', 'fable', 'fabrication', 'fiction', 'invention', 'envisaging', 'imaging', 'visualization', 'apparition', 'appearance', 'cloudland', 'Shangri-la', 'utopia', 'daymare', 'nightmare', 'contrivance', 'creativity', 'ideation', 'imaginativeness', 'inventiveness', ""mind's eye"", 'originality']"	3.8333	0.2666637897491455
+crt	['No synonyms found']	4.4	0.2949528694152832
+cultivation	['accomplishment', 'civilization', 'couth', 'culture', 'polish', 'refinement']	3.8571	0.2652578353881836
+hydrocodone	['No synonyms found']	5.1429	0.2899501323699951
+superintendent	['administrant', 'administrator', 'archon', 'director', 'exec', 'executive', 'manager', 'supervisor']	4.0	0.2750389575958252
+morale	['No synonyms found']	4.0	0.2664971351623535
+orbital	['No synonyms found']	4.0	0.30746006965637207
+ssl	['No synonyms found']	4.4	0.29296302795410156
+biotechnology	['No synonyms found']	4.0	0.29082632064819336
+intrinsic	['built-in', 'constitutional', 'constitutive', 'essential', 'hardwired', 'immanent', 'inborn', 'inbred', 'indigenous', 'ingrain', 'ingrained', 'inherent', 'innate', 'integral', 'native', 'natural']	4.1429	0.26479101181030273
+guadeloupe	['No synonyms found']	5.2	0.2866239547729492
+staffordshire	['No synonyms found']	5.0	0.2997720241546631
+tuberculosis	['No synonyms found']	4.1429	0.26598191261291504
+seismic	['No synonyms found']	4.2857	0.2648499011993408
+viewsonic	['No synonyms found']	4.3333	0.28713274002075195
+darfur	['No synonyms found']	4.5	0.2867569923400879
+cambridgeshire	['No synonyms found']	4.8333	0.3037738800048828
+metabolism	['No synonyms found']	4.2857	0.27196192741394043
+charlottesville	['No synonyms found']	5.0	0.2825949192047119
+boe	['No synonyms found']	4.5	0.2882049083709717
+beige	['characterless', 'faceless', 'featureless', 'indistinctive', 'neutral', 'noncommittal', 'nondescript', 'vanilla']	4.8333	0.2794668674468994
+locus	['axis', 'base', 'capital', 'center', 'central', 'core', 'cynosure', 'epicenter', 'eye', 'focus', 'ground zero', 'heart', 'hub', 'mecca', 'navel', 'nerve center', 'nexus', 'nucleus', 'omphalos', 'seat']	4.2	0.2632582187652588
+tungsten	['No synonyms found']	4.0	0.26334309577941895
+embed	['bed', 'enroot', 'entrench', 'fix', 'impact', 'implant', 'ingrain', 'lodge', 'root']	4.0	0.26147890090942383
+lisp	['No synonyms found']	3.8333	0.26200222969055176
+biodiversity	['No synonyms found']	3.8571	0.2913188934326172
+amethyst	['No synonyms found']	5.0	0.261462926864624
+sesso	['No synonyms found']	5.2	0.2954561710357666
+filmography	['No synonyms found']	4.0	0.2958211898803711
+congregation	['assembly', 'church']	4.2857	0.26056814193725586
+essex	['No synonyms found']	4.0	0.2831718921661377
+budgetary	['account', 'deposit', 'fund', 'kitty', 'nest egg', 'pool']	4.0	0.26526689529418945
+sweepstake	['ball game', 'battle', 'combat', 'competition', 'conflict', 'confrontation', 'contention', 'contest', 'dogfight', 'duel', 'face-off', 'grapple', 'match', 'rivalry', 'strife', 'struggle', 'tug-of-war', 'war', 'warfare']	4.7143	0.26247620582580566
+lagoon	['arm', 'bay', 'bight', 'cove', 'creek', 'embayment', 'estuary', 'firth', 'fjord', 'gulf', 'inlet', 'loch', 'lough', 'narrow', 'roads', 'roadstead', 'anchorage', 'harbor', 'harborage', 'haven', 'port', 'basin', 'dock', 'marina', 'moorage', 'mooring', 'canal', 'channel', 'sound', 'strait', 'containerport', 'home port', 'seaport']	4.0	0.2705540657043457
+figurine	['figure', 'statuette']	4.2857	0.2754223346710205
+obituary	['necrology', 'obit']	5.2	0.273876428604126
+lund	['No synonyms found']	4.4	0.2876110076904297
+gentoo	['No synonyms found']	4.6667	0.33385324478149414
+ideological	['doctrinaire', 'dogmatic', 'opinionated', 'opinionative', 'opinioned', 'pontifical', 'self-opinionated', 'doctrinal', 'philosophical', 'abstract', 'conceptual', 'ideal', 'ideational', 'metaphysical', 'notional', 'theoretical', 'idealist', 'idealistic', 'quixotic', 'quixotical', 'romantic', 'starry', 'starry-eyed', 'utopian', 'visionary', 'impractical', 'nonrealistic', 'unrealistic', 'crusading', 'messianic', 'zealous', 'adamant', 'adamantine', 'hardheaded', 'headstrong', 'implacable', 'inflexible', 'mulish', 'obdurate', 'obstinate', 'pertinacious', 'perverse', 'pigheaded', 'rigid', 'self-willed', 'stubborn', 'unbending', 'unyielding']	3.8333	0.26266980171203613
+travestis	['No synonyms found']	4.8571	0.2847118377685547
+tenacious	['dogged', 'insistent', 'patient', 'persevering', 'persistent', 'pertinacious']	4.2857	0.26148509979248047
+notwithstanding	['even so', 'howbeit', 'however', 'nevertheless', 'nonetheless', 'still', 'still and all', 'though', 'withal', 'yet']	4.2857	0.26154398918151855
+schwarzenegger	['No synonyms found']	5.2	0.2805001735687256
+daemon	['cacodemon', 'devil', 'fiend', 'ghost', 'ghoul', 'ghoulie', 'imp', 'shaitan']	4.2857	0.2635819911956787
+conjunction	['confluence', 'convergence', 'convergency', 'meeting']	3.8333	0.26189589500427246
+burbank	['No synonyms found']	4.4	0.31042003631591797
+masturbation	['No synonyms found']	4.2	0.2871401309967041
+kazaa	['No synonyms found']	5.2	0.2872331142425537
+stargate	['No synonyms found']	4.6	0.28964805603027344
+coppermine	['No synonyms found']	4.5	0.2915050983428955
+certification	['certificate', 'document', 'instrument']	3.9286	0.2603421211242676
+prospectus	['foreboding', 'harbinger', 'omen', 'portent', 'prevision', 'sign', 'auguring', 'augury', 'bodement', 'cast', 'forecast', 'forecasting', 'foretelling', 'predicting', 'prediction', 'presaging', 'prognosis', 'prognostic', 'prognosticating', 'prognostication', 'prophecy', 'soothsaying', 'vaticination', 'anticipation', 'foreknowledge', 'foresight', 'conjecture', 'guess', 'surmise']	4.5	0.26502227783203125
+prosecution	['accomplishment', 'achievement', 'commission', 'discharge', 'enactment', 'execution', 'fulfillment', 'implementation', 'performance', 'perpetration', 'pursuance']	4.0	0.2597219944000244
+sourceforge	['No synonyms found']	4.2857	0.28025317192077637
+clr	['No synonyms found']	4.3333	0.28406310081481934
+worcestershire	['No synonyms found']	5.0	0.2905302047729492
+autobiography	['bio', 'biography', 'life', 'memoir(s)', 'annals', 'chronicle', 'history', 'record', 'hagiography', 'psychobiography', 'pathography', 'tell-all', 'past', 'story', 'character sketch', 'profile', 'blog', 'commentary', 'diary', 'journal', 'reminiscence(s)', 'archives', 'documentation', 'log', 'register', 'report', 'chronology', 'genealogy']	4.0	0.2641458511352539
+spontaneous	['automatic', 'instinctive', 'instinctual', 'involuntary', 'knee-jerk', 'mechanic', 'mechanical', 'robotic']	3.8571	0.26506590843200684
+cabernet	['No synonyms found']	5.2	0.2829720973968506
+sme	['No synonyms found']	4.4	0.2853081226348877
+hypertension	['No synonyms found']	4.3333	0.26316285133361816
+decree	['behest', 'charge', 'command', 'commandment', 'dictate', 'direction', 'directive', 'do', 'edict', 'imperative', 'injunction', 'instruction', 'order', 'word']	4.5	0.2631971836090088
+lipid	['No synonyms found']	4.6667	0.2656588554382324
+inverness	['No synonyms found']	4.8	0.29218578338623047
+audioslave	['No synonyms found']	4.8333	0.2879211902618408
+physiological	['anatomic', 'animal', 'bodily', 'carnal', 'corporal', 'corporeal', 'fleshly', 'material', 'physical', 'somatic', 'sensual', 'sensuous', 'hand-to-hand']	4.1667	0.26482200622558594
+authentication	['verification', 'attestation', 'confirmation', 'corroboration', 'documentation', 'evidence', 'proof', 'substantiation', 'testament', 'testimonial', 'testimony', 'validation', 'voucher', 'witness', 'identification', 'manifestation', '(the) goods', 'certificate', 'document', 'exhibit', 'paper', 'demonstration', 'illustration']	4.0	0.2758829593658447
+atkinson	['No synonyms found']	4.2	0.2836589813232422
+dehydrogenase	['No synonyms found']	5.8333	0.28534793853759766
+pitcairn	['No synonyms found']	4.8333	0.2802438735961914
+productivity	['fecundity', 'fertility', 'fruitfulness', 'productiveness', 'prolificacy', 'prolificity', 'prolificness', 'cleverness', 'creativeness', 'creativity', 'imagination', 'imaginativeness', 'ingeniousness', 'ingenuity', 'innovativeness', 'invention', 'inventiveness', 'originality', 'capableness', 'resourcefulness', 'genius', 'giftedness', 'talent', 'fire', 'inspiration', 'muse']	3.8571	0.2656521797180176
+legislator	['lawgiver', 'lawmaker', 'solon']	4.1429	0.2839179039001465
+ipaq	['No synonyms found']	5.2	0.28020501136779785
+proclaim	['advertise', 'announce', 'annunciate', 'blare', 'blaze', 'blazon', 'broadcast', 'declare', 'enunciate', 'flash', 'give out', 'herald', 'placard', 'post', 'promulgate', 'publicize', 'publish', 'release', 'sound', 'trumpet']	3.8333	0.26497888565063477
+topology	['No synonyms found']	3.8571	0.2826499938964844
+isuzu	['No synonyms found']	4.2	0.2840919494628906
+philosophical	['introspective', 'retrospective', 'self-reflective', 'earnest', 'grave', 'sedate', 'serious', 'serious-minded', 'severe', 'sober', 'solemn', 'somber', 'weighty', 'analytic', 'logical', 'rational', 'deliberate', 'purposeful', 'absentminded', 'abstracted', 'preoccupied', 'broody', 'cogitative', 'contemplative', 'meditative', 'melancholy', 'musing', 'pensive', 'reflective', 'ruminant', 'ruminative', 'thoughtful']	4.0	0.2619190216064453
+warwickshire	['No synonyms found']	5.0	0.283707857131958
+middot	['No synonyms found']	5.2	0.27944111824035645
+scarborough	['No synonyms found']	4.6667	0.27986598014831543
+ethanol	['No synonyms found']	4.1667	0.2825899124145508
+encompass	['circle', 'compass', 'embrace', 'encircle', 'enclose', 'environ', 'gird', 'girdle', 'ring', 'surround', 'wreathe']	3.8571	0.2635369300842285
+strauss	['No synonyms found']	4.0	0.2939450740814209
+chromosome	['No synonyms found']	4.7143	0.26064205169677734

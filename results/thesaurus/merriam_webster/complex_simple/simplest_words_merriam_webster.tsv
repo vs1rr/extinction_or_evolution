@@ -1,0 +1,847 @@
+original_word	synonyms	score	time_elapsed
+cow	['blackjack', 'bogart', 'browbeat', 'bulldoze', 'bully', 'bullyrag', 'hector', 'intimidate', 'strong-arm']	1.7856999999999998	0.2949979305267334
+task	['assignment', 'chore', 'duty', 'job']	1.7856999999999998	0.2755157947540283
+short	['little', 'low', 'low-lying', 'low-slung', 'sawed-off']	1.648825	0.27887773513793945
+live	['abide', 'dwell', 'reside']	1.5237999999999998	0.31034207344055176
+fast	['apace', 'briskly', 'chop-chop', 'double-quick', 'fleetly', 'full tilt', 'hastily', 'hell-for-leather', 'hot', 'lickety-split', 'posthaste', 'presto', 'pronto', 'quick', 'quickly', 'rapidly', 'snappily', 'soon', 'speedily', 'swift', 'swiftly']	1.7063333333333333	0.3193931579589844
+red	['blooming', 'florid', 'flush', 'full-blooded', 'glowing', 'rosy', 'rubicund', 'ruddy', 'sanguine']	1.32145	0.31443309783935547
+silver	['flatware', 'silverware', 'tableware']	1.7143	0.27225804328918457
+cake	['croquette', 'cutlet', 'fritter', 'galette', 'patty']	1.7619	0.32692384719848633
+safe	['all right', 'alright', 'secure']	1.54765	0.31491684913635254
+hot	['ardent', 'boiling', 'broiling', 'burning', 'fervent', 'fervid', 'fiery', 'piping hot', 'red', 'red-hot', 'roasting', 'scalding', 'scorching', 'searing', 'sultry', 'superheated', 'sweltering', 'torrid', 'ultrahot', 'white-hot']	1.57145	0.3190579414367676
+daylight	['aurora', 'cockcrow', 'dawn', 'dawning', 'day', 'daybreak', 'light', 'morn', 'morning', 'sun', 'sunrise', 'sunup']	1.6667	0.3073899745941162
+self	['character', 'clay', 'colors', 'complexion', 'constitution', 'genius', 'nature', 'personality', 'tone']	1.2857	0.2952420711517334
+agree	['coincide', 'concur']	1.77975	0.3085451126098633
+shoot	['blast', 'discharge', 'fire', 'loose', 'squeeze off']	1.689275	0.2692079544067383
+break	['break up', 'bust', 'disintegrate', 'dismember', 'disrupt', 'fracture', 'fragment', 'rive']	1.70474	0.32865214347839355
+path	['course', 'line', 'pathway', 'route', 'routeway', 'steps', 'track', 'way']	1.7856999999999998	0.31186676025390625
+last	['bottommost', 'closing', 'concluding', 'final', 'hindmost', 'lag', 'latest', 'latter', 'rearmost', 'terminal', 'terminating', 'ultimate']	1.6666666666666667	0.28950929641723633
+potato	['deadbeat', 'do-nothing', 'drone', 'idler', 'layabout', 'lazybones', 'loafer', 'lotus-eater', 'slouch', 'slug', 'slugabed', 'sluggard']	1.7142499999999998	0.25965404510498047
+sum	['aggregate', 'full', 'sum total', 'summation', 'total', 'totality', 'whole']	1.66665	0.2730381488800049
+care	['carefulness', 'closeness', 'conscientiousness', 'heed', 'heedfulness', 'meticulosity', 'meticulousness', 'pains', 'scrupulousness']	1.4404500000000002	0.3149230480194092
+lottery	['No synonyms found']	1.6667	0.26436591148376465
+girl	['damsel', 'demoiselle', 'maid', 'maiden', 'miss']	1.2857	0.26977109909057617
+show	['display', 'disport', 'exhibit', 'expose', 'flash', 'flaunt', 'lay out', 'parade', 'produce', 'show off', 'sport', 'strut', 'unveil']	1.625	0.3144800662994385
+let	['allow', 'leave', 'permit']	1.4841333333333333	0.2722160816192627
+boy	['boychick', 'boyo', 'callant', 'lad', 'laddie', 'nipper', 'shaveling', 'shaver', 'sonny', 'stripling', 'tad', 'youth']	1.2143000000000002	0.27161407470703125
+face	['front', 'look (toward)', 'point (toward)']	1.6845499999999998	0.272996187210083
+truly	['even', 'indeed', 'nay', 'verily', 'yea']	1.6667	0.2620670795440674
+look	['act', 'appear', 'come across (as)', 'come off (as)', 'feel', 'make', 'seem', 'sound']	1.5	0.3129458427429199
+dream	['chimera', 'conceit', 'daydream', 'delusion', 'fancy', 'fantasy', 'figment', 'hallucination', 'illusion', 'nonentity', 'phantasm', 'pipe dream', 'unreality', 'vision']	1.7976	0.2649350166320801
+react	['reply', 'respond']	1.5714	0.2631707191467285
+game	['bout', 'competition', 'contest', 'event', 'match', 'matchup', 'meet', 'sweepstakes', 'tournament', 'tourney']	1.42855	0.2776608467102051
+tool	['device', 'implement', 'instrument', 'utensil']	1.7619	0.2621891498565674
+eye	['band', 'circle', 'hoop', 'loop', 'ring', 'round']	1.627	0.31610679626464844
+cry	['bawl', 'blub', 'blubber', 'sob', 'weep']	1.7226	0.3362090587615967
+share	['partake', 'participate']	1.64285	0.26471900939941406
+think	['allow', 'believe', 'conceive', 'consider', 'deem', 'esteem', 'feel', 'figure', 'guess', 'hold', 'imagine', 'judge', 'reckon', 'suppose']	1.5714249999999998	0.27478718757629395
+golf	['No synonyms found']	1.5714	0.26360011100769043
+tomato	['No synonyms found']	1.7738	0.26422786712646484
+sit	['set']	1.49405	0.31523990631103516
+life	['bio', 'biography', 'memoir']	1.35715	0.2937781810760498
+number	['digit', 'figure', 'integer', 'numeral', 'numeric', 'whole number']	1.779775	0.2738492488861084
+hard	['affectless', 'callous', 'case-hardened', 'cold-blooded', 'compassionless', 'desensitized', 'hard-boiled', 'hard-hearted', 'heartless', 'indurate', 'inhuman', 'inhumane', 'insensate', 'insensitive', 'ironhearted', 'merciless', 'obdurate', 'pachydermatous', 'pitiless', 'remorseless', 'ruthless', 'slash-and-burn', 'soulless', 'stony', 'stonyhearted', 'take-no-prisoners', 'thick-skinned', 'uncharitable', 'unfeeling', 'unmerciful', 'unsparing', 'unsympathetic']	1.5079333333333336	0.3277280330657959
+local	['regional', 'aboriginal', 'autochthonous', 'born', 'domestic', 'endemic', 'indigenous', 'native', 'original']	1.64285	0.2622659206390381
+small	['bantam', 'diminutive', 'dinky', 'dwarfish', 'fine', 'half-pint', 'Lilliputian', 'little', 'pint-size', 'pocket', 'pocket-size', 'puny', 'pygmy', 'shrimpy', 'slight', 'smallish', 'subnormal', 'toylike', 'undersized']	1.4603333333333337	0.30286693572998047
+far	['achingly', 'almighty', 'archly', 'awful', 'awfully', 'badly', 'beastly', 'blisteringly', 'bone', 'colossally', 'corking', 'cracking', 'damn', 'damned', 'dang', 'deadly', 'desperately', 'eminently', 'enormously', 'especially', 'ever', 'exceedingly', 'extra', 'extremely', 'fabulously', 'fantastically', 'fiercely', 'filthy', 'frightfully', 'full', 'greatly', 'heavily', 'highly', 'hugely', 'immensely', 'incredibly', 'intensely', 'jolly', 'majorly', 'mightily', 'mighty', 'monstrous', 'mortally', 'most', 'much', 'particularly', 'passing', 'rattling', 'real', 'really', 'right', 'roaring', 'roaringly', 'seriously', 'severely', 'so', 'sore', 'sorely', 'spanking', 'specially', 'stinking', 'such', 'super', 'supremely', 'surpassingly', 'terribly', 'that', 'thumping', 'too', 'unco', 'uncommonly', 'vastly', 'very', 'vitally', 'way', 'whacking', 'wicked', 'wildly']	1.57145	0.3190450668334961
+try	['strain', 'stretch', 'tax', 'test']	1.666675	0.26485204696655273
+cheat	['chicane', 'finagle', 'fudge']	1.727	0.26699090003967285
+twin	['binary', 'bipartite', 'double', 'double-barreled', 'double-edged', 'dual', 'duplex', 'twofold']	1.55	0.2642381191253662
+help	['abet', 'aid', 'assist', 'back', 'backstop', 'prop (up)', 'support']	1.4107250000000002	0.26641392707824707
+upper	['higher', 'loftier', 'highest', 'loftiest', 'top', 'topmost', 'upmost', 'uppermost', 'consummate', 'maximal', 'maximized', 'maximum', 'peaked', 'supreme', 'utmost', 'uttermost', 'chief', 'dominant', 'first', 'foremost', 'head', 'leading', 'predominant', 'preeminent', 'premier', 'principal', 'dominating', 'eminent', 'prominent', 'towering', 'elevated', 'escalated', 'heightened', 'jacked (up)', 'lifted', 'raised', 'uplifted', 'upraised']	1.5714	0.27555394172668457
+sixteen	['No synonyms found']	1.5714	0.26204991340637207
+need	['bear', 'challenge', 'claim', 'demand', 'necessitate', 'require', 'take', 'want', 'warrant']	1.683325	0.3076472282409668
+boot	['bang', 'charge', 'exhilaration', 'frisson', 'jollies', 'kick', 'rush', 'thrill', 'titillation', 'wallop']	1.75715	0.2686190605163574
+shy	['fainthearted', 'fearful', 'fearsome', 'mousy', 'scary', 'skittish', 'timid', 'timorous', 'tremulous']	1.4286	0.2778639793395996
+come	['advance', 'approach', 'near', 'nigh']	1.5000250000000002	0.27484798431396484
+enjoy	['adore', 'delight (in)', 'dig', 'fancy', 'get off (on)', 'groove (on)', 'like', 'love', 'rejoice (in)', 'relish', 'revel (in)', 'savor']	1.6964249999999998	0.26351189613342285
+good	['commonsense', 'commonsensible', 'commonsensical', 'firm', 'hard', 'informed', 'just', 'justified', 'levelheaded', 'logical', 'rational', 'reasonable', 'reasoned', 'sensible', 'sober', 'solid', 'valid', 'well-founded']	1.5714	0.35438990592956543
+tooth	['appetite', 'fancy', 'favor', 'fondness', 'like', 'liking', 'love', 'love affair', 'partiality', 'preference', 'relish', 'shine', 'taste', 'use', 'craving', 'desire', 'hankering', 'longing', 'thirst', 'yen', 'bent', 'inclination', 'leaning', 'propensity', 'tendency', 'enthusiasm', 'gusto', 'interest', 'passion', 'bias', 'prejudice', 'palate', 'weakness']	1.4286	0.2675461769104004
+example	['case', 'exemplar', 'exemplification', 'illustration', 'instance', 'prototype', 'representative', 'sample', 'specimen']	1.57145	0.262470006942749
+sister	['brother', 'sibling', 'stepbrother', 'stepsister', 'cousin', 'kinsman', 'kinswoman', 'relation', 'relative', 'in-law', 'kissing cousin', 'blood', 'clan', 'family', 'folk', 'house', 'kindred', 'kinfolk', 'kinsfolk', 'line', 'lineage', 'people', 'race', 'stock', 'tribe']	1.2143000000000002	0.26435399055480957
+begin	['commence', 'embark (on or upon)', 'enter (into or upon)', 'fall (to)', 'get off', 'kick off', 'launch', 'lead off', 'open', 'start', 'strike (into)']	1.6285599999999998	0.2648129463195801
+compare	['analogize', 'assimilate', 'bracket', 'equate', 'liken']	1.775	0.2677631378173828
+jump	['bound', 'hop', 'leap', 'spring', 'vault']	1.517875	0.3208889961242676
+grandma	['No synonyms found']	1.5	0.2838759422302246
+mean	['denote', 'express', 'import', 'intend', 'signify', 'spell']	1.5535750000000002	0.27454280853271484
+song	['ballad', 'ditty', 'jingle', 'lay', 'lyric', 'vocal']	1.35715	0.3144960403442383
+voice	['say', 'say-so', 'vote']	1.6905	0.2809882164001465
+week	['No synonyms found']	1.3857	0.27608704566955566
+learn	['get', 'master', 'pick up']	1.68572	0.26410889625549316
+bus	['auto', 'automobile', 'car', 'horseless carriage', 'machine', 'motor', 'motor vehicle', 'motorcar', 'wheels']	1.28335	0.27663588523864746
+street	['arterial', 'artery', 'avenue', 'boulevard', 'carriageway', 'drag', 'drive', 'expressway', 'freeway', 'high road', 'highway', 'pass', 'pike', 'road', 'roadway', 'route', 'row', 'thoroughfare', 'thruway', 'trace', 'turnpike', 'way']	1.4286	0.27617835998535156
+fresh	['brand-new', 'mint', 'pristine', 'span-new', 'virgin', 'virginal']	1.4	0.26850318908691406
+grow	['crop', 'cultivate', 'culture', 'dress', 'promote', 'raise', 'rear', 'tend']	1.6457000000000002	0.2658052444458008
+zero	['aught', 'cipher', 'goose egg', 'naught', 'nil', 'nothing', 'o', 'oh', 'zilch', 'zip']	1.1429	0.27098512649536133
+late	['behind', 'behindhand', 'belated', 'delinquent', 'latish', 'overdue', 'tardy']	1.39285	0.2688882350921631
+level	['degree', 'echelon', 'footing', 'place', 'position', 'rank', 'ranking', 'reach(es)', 'rung', 'situation', 'standing', 'station', 'status', 'stratum']	1.5714	0.27281999588012695
+meal	['chow', 'feed', 'menu', 'mess', 'refection', 'repast', 'table']	1.6857	0.31534576416015625
+car	['auto', 'automobile', 'bus', 'horseless carriage', 'machine', 'motor', 'motorcar', 'motor vehicle', 'wheels']	1.35715	0.27257609367370605
+watch	['eye', 'follow', 'observe']	1.525	0.3108241558074951
+olive	['black-a-vised', 'brown', 'brunet', 'dark', 'swart', 'swarthy', 'black', 'ebony', 'raven']	1.8	0.26145410537719727
+color	['cast', 'hue', 'shade', 'tincture', 'tinge', 'tint', 'tone']	1.767875	0.3280222415924072
+aunt	['No synonyms found']	1.4286	0.29494309425354004
+sheet	['breadth', 'distance', 'expanse', 'expansion', 'extent', 'field', 'length', 'plain', 'reach', 'spread', 'stretch', 'waste']	1.6667	0.265794038772583
+pole	['capital', 'center', 'cynosure', 'epicenter', 'mecca', 'polestar', 'attraction', 'draw', 'lodestone', 'magnet', 'allure', 'allurement', 'bait', 'enticement', 'fascination', 'lure', 'temptation', 'turn-on', 'appeal', 'call', 'incentive', 'inducement', 'persuasion', 'spur', 'stimulus', 'curiosity', 'sight(s)', 'spectacle']	1.61905	0.2654547691345215
+hall	['entranceway', 'entry', 'entryway', 'foyer', 'hallway', 'lobby', 'vestibule']	1.7143	0.26654791831970215
+node	['bump', 'knot', 'lump', 'nodule', 'swelling']	1.8	0.2626628875732422
+sleep	"['bed', 'catnapping', 'dozing', 'napping', 'repose', 'rest', 'resting', 'shut-eye', 'slumber', 'slumbering', 'snoozing', ""z's""]"	1.308325	0.2770366668701172
+truth	['facticity', 'factuality', 'sooth', 'trueness', 'verity']	1.7	0.30883193016052246
+card	['menu']	1.38095	0.27620697021484375
+winner	['blockbuster', 'hit', 'megahit', 'smash', 'success', 'supernova']	1.7619	0.26673102378845215
+save	['deliver', 'redeem']	1.375	0.2698941230773926
+include	['carry', 'comprehend', 'contain', 'embrace', 'encompass', 'entail', 'involve', 'number', 'subsume', 'take in']	1.72025	0.26633214950561523
+night	['dark', 'darkness', 'nighttime']	1.33335	0.27472686767578125
+ear	['advertence', 'advertency', 'attention', 'awareness', 'cognizance', 'consciousness', 'eye', 'heed', 'knowledge', 'mindfulness', 'note', 'notice', 'observance', 'observation']	1.29765	0.27692198753356934
+river	['rivulet', 'stream', 'aqueduct', 'canal', 'channel', 'conduit', 'course', 'flume', 'racecourse', 'raceway', 'watercourse', 'waterway', 'millrace', 'millstream', 'floodway', 'sluice', 'sluiceway', 'spillway', 'swash', 'tideway', 'torrent', 'gutter', 'trough']	1.67855	0.2683379650115967
+middle	['golden mean', 'mean', 'medium', 'middle ground', 'midpoint']	1.5714	0.27448201179504395
+shop	['bazaar', 'emporium', 'store']	1.4920666666666669	0.27800989151000977
+bell	['caterwaul', 'howl', 'wail', 'yowl', 'bawl', 'call', 'cry', 'holler', 'hoot', 'shout', 'whoop', 'yell', 'bang', 'blare', 'blast', 'peal', 'scream', 'screech', 'shriek', 'squall', 'grumble', 'roll', 'rumble', 'bellow', 'boom', 'growl', 'roar', 'thunder']	1.61905	0.27619314193725586
+ask	['catechize', 'grill', 'inquire (of)', 'interrogate', 'query', 'question', 'quiz']	1.4762	0.26545000076293945
+like	['care (for)', 'want']	1.4523499999999998	0.27568721771240234
+stop	['break', 'break off', 'break up', 'can', 'cease', 'cut off', 'cut out', 'desist (from)', 'discontinue', 'drop', 'end', 'give over', 'halt', 'knock off', 'lay off', 'leave off', 'pack (up or in)', 'quit', 'shut off']	1.577375	0.2729160785675049
+body	['brunt', 'bulk', 'chief', 'core', 'generality', 'heft', 'main', 'mass', 'staple', 'weight']	1.57145	0.31540489196777344
+list	['canon', 'catalog', 'checklist', 'listing', 'menu', 'register', 'registry', 'roll', 'roll call', 'roster', 'schedule', 'table']	1.79765	0.2715721130371094
+fall	['slip', 'stumble', 'topple', 'trip', 'tumble']	1.6666800000000002	0.320904016494751
+fully	['all', 'all of', 'all over', 'altogether', 'clean', 'completely', 'dead', 'enough', 'entire', 'entirely', 'even', 'exactly', 'fast', 'flat', 'full', 'heartily', 'out', 'perfectly', 'plumb', 'quite', 'soundly', 'thoroughly', 'through and through', 'totally', 'utterly', 'well', 'wholly', 'wide']	1.5714	0.26517486572265625
+cook	['bend', 'color', 'distort', 'falsify', 'fudge', 'garble', 'misinterpret', 'misrelate', 'misrepresent', 'misstate', 'pervert', 'slant', 'twist', 'warp']	1.7714	0.26626110076904297
+nurse	['babysitter', 'dry nurse', 'nanny', 'nursemaid', 'nurser', 'sitter']	1.75	0.31154799461364746
+year	['cycle', 'generation', 'age', 'day', 'epoch', 'era', 'period', 'time', 'bit', 'space', 'span', 'spell', 'stretch', 'while', 'date', 'vintage']	1.07145	0.26543092727661133
+size	['bulk', 'dimension', 'extent', 'magnitude', 'measure', 'measurement', 'proportion']	1.7856999999999998	0.2701728343963623
+odd	['unmatched', 'unpaired']	1.65	0.27021002769470215
+time	['moment', 'occasion']	1.6904749999999995	0.3510100841522217
+capital	['axis', 'base', 'center', 'central', 'core', 'cynosure', 'epicenter', 'eye', 'focus', 'ground zero', 'heart', 'hub', 'locus', 'mecca', 'navel', 'nerve center', 'nexus', 'nucleus', 'omphalos', 'seat']	1.8	0.2653791904449463
+duck	['baby', 'being', 'bird', 'bod', 'body', 'character', 'cookie', 'creature', 'customer', 'devil', 'egg', 'face', 'fish', 'guy', 'head', 'human', 'human being', 'individual', 'life', 'man', 'mortal', 'party', 'person', 'personage', 'scout', 'slob', 'sort', 'soul', 'specimen', 'stiff', 'thing', 'wight']	1.63095	0.29117703437805176
+fee	['ante', 'charge', 'cost', 'damage', 'figure', 'freight', 'price', 'price tag']	1.64285	0.26505208015441895
+tell	['chart', 'chronicle', 'describe', 'narrate', 'recite', 'recount', 'rehearse', 'relate', 'report']	1.386925	0.3373401165008545
+item	['detail', 'particular', 'point']	1.5	0.26175689697265625
+feel	['perceive', 'scent', 'see', 'sense', 'smell', 'taste']	1.4107	0.31636905670166016
+south	['No synonyms found']	1.4286	0.2651810646057129
+gate	['door', 'hatch', 'portal']	1.8	0.31812620162963867
+family	['blood', 'clan', 'folks', 'house', 'kin', 'kindred', 'kinfolk', 'kinsfolk', 'line', 'lineage', 'people', 'race', 'stock', 'tribe']	1.42855	0.32005786895751953
+check	['bill', 'tab']	1.702375	0.31575512886047363
+sir	['master', 'mister', 'bastard', 'bloke', 'buck', 'cat', 'chap', 'chappie', 'dude', 'fella', 'fellow', 'galoot', 'gent', 'gentleman', 'guy', 'hombre', 'jack', 'joe', 'joker', 'lad', 'male', 'man', 'buddy', 'buster']	1.5714	0.262127161026001
+meeting	['assembly', 'congress', 'convention', 'convocation', 'council', 'gathering', 'get-together', 'huddle']	1.7856999999999998	0.2720210552215576
+slow	['crawling', 'creeping', 'dallying', 'dawdling', 'dilatory', 'dillydallying', 'dragging', 'laggard', 'lagging', 'languid', 'leisurely', 'poking', 'poky', 'sluggish', 'snaillike', 'snail-paced', 'tardy', 'unhurried']	1.749975	0.27470898628234863
+start	['bolt', 'jump', 'startle']	1.5643000000000002	0.2680819034576416
+build	['assemble', 'confect', 'construct', 'erect', 'fabricate', 'make', 'make up', 'piece', 'put up', 'raise', 'rear', 'set up']	1.6606999999999998	0.28531503677368164
+old	['aged', 'aging', 'ancient', 'elderly', 'geriatric', 'long-lived', 'older', 'over-the-hill', 'senescent', 'senior', 'unyoung']	1.4285666666666668	0.2744719982147217
+lucky	['fortunate', 'happy']	1.5714	0.2670581340789795
+get	['learn', 'master', 'pick up']	1.6095400000000002	0.3188328742980957
+secret	['confidence']	1.6667	0.2734968662261963
+light	['blaze', 'flare', 'fluorescence', 'glare', 'gleam', 'glow', 'illumination', 'incandescence', 'luminescence', 'radiance', 'shine']	1.5571333333333337	0.27484917640686035
+weekend	['part-time', 'uninitiated', 'unprepared', 'unqualified', 'unschooled', 'untaught', 'untrained', 'untutored', 'amateurish', 'dilettante', 'inexperienced', 'inexpert', 'unprofessional', 'unskilled', 'naive', 'primitive', 'self-taught', 'amateur', 'avocational', 'backyard', 'jackleg', 'nonprofessional', 'Sunday']	1.7738	0.2655601501464844
+large	['big', 'biggish', 'boxcar', 'bulky', 'considerable', 'goodly', 'grand', 'great', 'handsome', 'hefty', 'hulking', 'husky', 'largish', 'outsize', 'oversize', 'sizable', 'substantial', 'tidy', 'voluminous']	1.6666666666666667	0.2915520668029785
+print	['impress', 'impression', 'imprint', 'stamp']	1.72025	0.2642669677734375
+likely	['probable']	1.3333	0.3086581230163574
+stand	['be', 'bear', 'lie', 'sit']	1.63095	0.27451276779174805
+wheat	['oatcake', 'flapjack', 'griddle cake', 'hotcake', 'pancake', 'slapjack', 'blin', 'blintze', 'crepe', 'waffle']	1.7143	0.26659274101257324
+salt	['gob', 'hearty', 'jack', 'jack-tar', 'mariner', 'navigator', 'sailor', 'sea dog', 'seafarer', 'seaman', 'shipman', 'swab', 'swabbie', 'tar']	1.5714	0.26848292350769043
+lip	['brink', 'crest', 'curb', 'cusp', 'ambit', 'ceiling', 'maximum', 'border', 'borderline', 'bound', 'boundary', 'brim', 'circumference', 'compass', 'confines', 'edge', 'edging', 'end', 'frame', 'fringe', 'hem', 'margin', 'perimeter', 'periphery', 'rim', 'skirt', 'skirting', 'verge', 'demarcation', 'extent', 'limitation', 'measure', 'mere', 'restriction', 'termination', 'borderland', 'frontier', 'march', 'outskirts', 'pale', 'selvage', 'lap', 'shore']	1.71665	0.26581788063049316
+cube	['bay', 'cabin', 'cell', 'chamber', 'compartment', 'cubicle']	1.5714	0.2609882354736328
+noon	['high noon', 'lunch time', 'midday', 'noonday', 'noontide', 'noontime']	1.2	0.26727795600891113
+great	['accomplished', 'ace', 'adept', 'compleat', 'complete', 'consummate', 'crack', 'crackerjack', 'educated', 'experienced', 'expert', 'good', 'master', 'masterful', 'masterly', 'practiced', 'professed', 'proficient', 'skilled', 'skillful', 'versed', 'veteran', 'virtuoso']	1.5159000000000002	0.3558340072631836
+secondly	['No synonyms found']	1.3333	0.2651560306549072
+tax	['assessment', 'duty', 'imposition', 'impost', 'levy']	1.5714	0.32401204109191895
+disk	['bit', 'fragment', 'part', 'particle', 'portion', 'scrap', 'section', 'shard', 'chip', 'flake', 'sliver', 'spall', 'splint', 'splinter', 'flinders', 'shiver', 'smithereens', 'shred', 'tatter', 'clipping', 'paring', 'shave', 'shaving', 'snippet', 'leaf', 'sheet', 'slice']	1.7738	0.279541015625
+rice	['No synonyms found']	1.6667	0.27919793128967285
+finger	['stick', 'cake', 'croquette', 'cutlet', 'fritter', 'galette', 'patty', 'gâteau']	1.64285	0.2736649513244629
+kit	['accoutrements', 'apparatus', 'equipment', 'gear', 'hardware', 'material(s)', 'matériel', 'outfit', 'paraphernalia', 'stuff', 'tackle']	1.6667	0.27153706550598145
+burger	['No synonyms found']	1.5714	0.2936997413635254
+dirty	['bedraggled', 'befouled', 'begrimed', 'bemired', 'besmirched', 'black', 'blackened', 'cruddy', 'dingy', 'draggled', 'dusty', 'filthy', 'foul', 'grimy', 'grotty', 'grubby', 'grungy', 'mucky', 'muddy', 'nasty', 'smudged', 'smutty', 'soiled', 'sordid', 'stained', 'sullied', 'unclean', 'uncleanly']	1.6667	0.27642083168029785
+quietly	['motionlessly', 'quiet', 'still']	1.7143	0.30925512313842773
+vegetable	['No synonyms found']	1.61665	0.2619357109069824
+goose	['berk', 'booby', 'charlie', 'cuckoo', 'ding-a-ling', 'ding-dong', 'dingbat', 'dipstick', 'doofus', 'featherhead', 'fool', 'git', 'half-wit', 'jackass', 'lunatic', 'mooncalf', 'nincompoop', 'ninny', 'ninnyhammer', 'nit', 'nitwit', 'nut', 'nutcase', 'simp', 'simpleton', 'turkey', 'yo-yo']	1.8	0.31343817710876465
+study	['delving', 'disquisition', 'examen', 'examination', 'exploration', 'inquest', 'inquiry', 'inquisition', 'investigation', 'probation', 'probe', 'probing', 'research']	1.610725	0.2700929641723633
+toy	['dally', 'disport', 'frolic', 'play', 'recreate', 'rollick', 'skylark', 'sport']	1.4143	0.30738401412963867
+son	['daughter', 'by-product', 'derivative', 'offshoot', 'outgrowth', 'spin-off', 'descendant']	1.2143000000000002	0.27571797370910645
+nail	['bang', 'bash', 'bat', 'belt', 'biff', 'bludgeon', 'bob', 'bonk', 'bop', 'box', 'bust', 'clap', 'clip', 'clobber', 'clock', 'clout', 'crack', 'hammer', 'hit', 'knock', 'paste', 'pound', 'punch', 'rap', 'slam', 'slap', 'slog', 'slug', 'smack', 'smite', 'sock', 'strike', 'swat', 'swipe', 'tag', 'thump', 'thwack', 'wallop', 'whack', 'whale', 'zap']	1.75	0.2811279296875
+turn	['pivot', 'revolve', 'roll', 'rotate', 'spin', 'swing', 'swirl', 'swivel', 'twirl', 'twist', 'wheel', 'whirl']	1.785725	0.2761240005493164
+action	['act', 'deed', 'doing', 'exploit', 'feat', 'thing']	1.7856999999999998	0.3185160160064697
+choice	['alternative', 'discretion', 'druthers', 'election', 'liberty', 'option', 'pick', 'preference', 'selection', 'volition', 'way']	1.7619	0.26821184158325195
+maybe	['conceivably', 'mayhap', 'perchance', 'perhaps', 'possibly']	1.4286	0.26479578018188477
+long	['elongate', 'extended', 'king-size', 'lengthy']	1.6666333333333334	0.3184981346130371
+lighter	['barge', 'hoy', 'keel', 'keelboat', 'narrow boat', 'auxiliary', 'bumboat', 'cutter', 'jolly boat', 'launch', 'lifeboat', 'longboat', 'tender', 'yawl', 'towboat', 'tug', 'tugboat', 'houseboat', 'riverboat', 'ferry', 'ferryboat', 'gondola', 'taxi', 'water taxi', 'cruiser', 'inboard', 'motorboat', 'outboard', 'powerboat', 'banker', 'coble', 'dragger', 'gillnetter', 'hooker', 'lugger', 'scalloper', 'seiner', 'shrimper', 'trawler', 'whaleboat', 'whaler', 'workboat', 'bateau', 'caïque', 'canoe', 'catamaran', 'coracle', 'curragh', 'dhow', 'dinghy', 'dink', 'dory', 'dugout', 'flatboat', 'garvey', 'gig', 'johnboat', 'kayak', 'outrigger', 'paddleboat', 'pinnace', 'piragua', 'pirogue', 'pontoon', 'pram', 'punt', 'raft', 'rowboat', 'rowing boat', 'sampan', 'scow', 'scull', 'shallop', 'shell', 'skiff', 'surfboat', 'umiak', 'wherry', 'cockleshell', 'tub', 'catboat', 'ketch', 'sailboat', 'schooner', 'yacht']	1.6667	0.26813578605651855
+send	['consign', 'dispatch', 'pack (off)', 'ship', 'shoot', 'transfer', 'transmit', 'transport']	1.575	0.31930994987487793
+ease	['facilitate', 'grease', 'loosen (up)', 'smooth', 'unclog']	1.7143	0.3153512477874756
+point	['juncture']	1.767875	0.2743649482727051
+talk	['address', 'declamation', 'harangue', 'oration', 'peroration', 'speech']	1.5595250000000005	0.27608275413513184
+unusually	['uncommonly', 'suddenly', 'unanticipatedly', 'amazingly', 'astonishingly', 'astoundingly', 'shockingly', 'stunningly', 'surprisingly', 'unexpectedly']	1.8	0.26745009422302246
+dry	['arid', 'droughty', 'sere', 'thirsty', 'waterless']	1.7936666666666667	0.317547082901001
+gum	['dope', 'goo', 'epoxy', 'epoxy resin', 'library paste', 'mucilage', 'paste', 'superglue', 'water glass', 'adhesive', 'bond', 'cement', 'glue', 'size']	1.7143	0.2789478302001953
+put	['depose', 'deposit', 'dispose', 'emplace', 'fix', 'lay', 'place', 'position', 'set', 'set up', 'situate', 'stick']	1.57145	0.32131099700927734
+goal	['aim', 'ambition', 'aspiration', 'bourne', 'design', 'dream', 'end', 'idea', 'ideal', 'intent', 'intention', 'mark', 'meaning', 'object', 'objective', 'plan', 'point', 'pretension', 'purpose', 'target', 'thing']	1.7856999999999998	0.26238274574279785
+apple	['bootlick', 'fawn', 'fuss', 'kowtow', 'suck (up)', 'toady', 'truckle']	1.36905	0.31473493576049805
+home	['abode', 'diggings', 'domicile', 'dwelling', 'fireside', 'habitation', 'hearth', 'hearthstone', 'house', 'lodging', 'pad', 'place', 'quarters', 'residence', 'roof']	1.5595	0.31424784660339355
+win	['conquer', 'prevail', 'triumph']	1.4642750000000002	0.27189183235168457
+pen	['bastille', 'big house', 'bridewell', 'brig', 'calaboose', 'can', 'clink', 'cooler', 'coop', 'guardroom', 'hock', 'hold', 'hoosegow', 'jail', 'jailhouse', 'joint', 'jug', 'lockup', 'nick', 'penitentiary', 'pokey', 'prison', 'quod', 'slam', 'slammer', 'stir', 'stockade', 'tolbooth']	1.64285	0.32706379890441895
+movie	['film', 'flick', 'flicker', 'motion picture', 'moving picture', 'picture']	1.61905	0.26169705390930176
+want	['ache (for)', 'covet', 'crave', 'desiderate', 'desire', 'die (for)', 'hanker (for or after)', 'hunger (for)', 'itch (for)', 'jones (for)', 'long (for)', 'lust (for or after)', 'pant (after)', 'pine (for)', 'repine (for)', 'salivate (for)', 'sigh (for)', 'thirst (for)', 'wish (for)', 'yearn (for)', 'yen (for)']	1.6143	0.2648589611053467
+pork	['No synonyms found']	1.5	0.26425600051879883
+open	['unclose']	1.6190250000000002	0.3181419372558594
+horn	['cornet', 'cornucopia']	1.5714	0.26409912109375
+country	['fatherland', 'home', 'homeland', 'mother country', 'motherland', 'sod']	1.64285	0.27462196350097656
+eat	['consume', 'ingest', 'partake (of)', 'put away', 'put down', 'tuck (away or in)']	1.50952	0.31519508361816406
+miss	['blow off', 'cut', 'skip']	1.5952333333333335	0.3156399726867676
+bug	['addict', 'aficionado', 'buff', 'devotee', 'enthusiast', 'fan', 'fanatic', 'fancier', 'fiend', 'fool', 'freak', 'habitué', 'head', 'hound', 'junkie', 'lover', 'maniac', 'maven', 'nut', 'sucker']	1.75	0.2689239978790283
+ticket	['check', 'coupon', 'pass', 'pasteboard']	1.70235	0.32272911071777344
+land	['commonwealth', 'country', 'nation', 'sovereignty', 'state']	1.7917	0.3207211494445801
+bomb	['bummer', 'bust', 'catastrophe', 'clinker', 'clunker', 'debacle', 'disaster', 'dud', 'failure', 'fiasco', 'fizzle', 'flop', 'frost', 'lemon', 'loser', 'miss', 'shipwreck', 'turkey', 'washout']	1.58335	0.2674739360809326
+idea	"['abstraction', 'cogitation', 'concept', 'conception', 'image', 'impression', 'intellection', ""mind's eye"", 'notion', 'picture', 'thought']"	1.4762	0.2628490924835205
+colour	['cast', 'hue', 'shade', 'tincture', 'tinge', 'tint', 'tone']	1.6984333333333332	0.2687201499938965
+mineral	['No synonyms found']	1.8	0.2636830806732178
+knee	['body blow', 'hand', 'kick', 'left', 'one-two', 'rabbit punch', 'right', 'right-hander', 'roundhouse', 'shiver', 'sidewinder', 'sucker punch', 'swing', 'uppercut', 'counter', 'counterblow', 'counterpunch', 'counterstroke', 'cruncher', 'kayo', 'knockdown', 'knockout', 'KO', 'bang', 'bash', 'bat', 'beat', 'belt', 'biff', 'blow', 'bop', 'box', 'buffet', 'bust', 'chop', 'clap', 'clip', 'clout', 'crack', 'cuff', 'dab', 'douse', 'fillip', 'hack', 'haymaker', 'hit', 'hook', 'knock', 'larrup', 'lash', 'lick', 'pelt', 'pick', 'plump', 'poke', 'pound', 'punch', 'rap', 'slam', 'slap', 'slug', 'smack', 'smash', 'sock', 'spank', 'stinger', 'stripe', 'stroke', 'swat', 'swipe', 'switch', 'thud', 'thump', 'thwack', 'wallop', 'welt', 'whack', 'wham', 'whop', 'bastinado', 'battering', 'beating', 'bludgeoning', 'clobbering', 'cudgeling', 'drubbing', 'hammering', 'lambasting', 'licking', 'pasting', 'pounding', 'pummeling', 'thrashing', 'flogging', 'walloping', 'whip', 'whipping']	1.45235	0.31400132179260254
+tough	['chewy', 'leathery']	1.6667	0.29216790199279785
+cage	['coop', 'corral', 'hutch', 'pen', 'pound']	1.6667	0.26314687728881836
+money	['bread', 'bucks', 'cabbage', 'cash', 'change', 'chips', 'coin', 'currency', 'dough', 'gold', 'green', 'jack', 'kale', 'legal tender', 'lolly', 'long green', 'loot', 'lucre', 'moola', 'needful', 'pelf', 'scratch', 'shekels', 'tender', 'wampum']	1.3333	0.27449607849121094
+pain	['ache', 'pang', 'prick', 'shoot', 'smart', 'sting', 'stitch', 'throe', 'tingle', 'twinge']	1.4405	0.2673778533935547
+closing	['capper', 'close', 'conclusion', 'consummation', 'end', 'endgame', 'ending', 'finale', 'finis', 'finish', 'grand finale', 'homestretch', 'mop-up', 'windup', 'wrap-up']	1.5714	0.3271808624267578
+story	['narrative', 'novelette', 'novella', 'short story', 'tale', 'yarn']	1.35715	0.26836204528808594
+mad	['angered', 'angry', 'apoplectic', 'ballistic', 'cheesed off', 'choleric', 'enraged', 'foaming', 'fuming', 'furious', 'hopping', 'horn-mad', 'hot', 'incensed', 'indignant', 'inflamed', 'infuriate', 'infuriated', 'irate', 'ireful', 'livid', 'outraged', 'rabid', 'rankled', 'riled', 'riley', 'roiled', 'shirty', 'sore', 'steamed up', 'steaming', 'teed off', 'ticked', 'wrathful', 'wroth']	1.6667	0.27355313301086426
+cool	['aloof', 'antisocial', 'asocial', 'buttoned-up', 'cold', 'cold-eyed', 'detached', 'distant', 'dry', 'frosty', 'offish', 'remote', 'standoff', 'standoffish', 'unbending', 'unclubbable', 'unsociable']	1.7024	0.27541208267211914
+pray	['appeal (to)', 'beg', 'beseech', 'besiege', 'conjure', 'entreat', 'impetrate', 'implore', 'importune', 'petition', 'plead (to)', 'solicit', 'supplicate']	1.64285	0.26796579360961914
+cheek	['back talk', 'backchat', 'impertinence', 'impudence', 'insolence', 'mouth', 'sass', 'sauce']	1.7856999999999998	0.2714519500732422
+drink	['belt (down)', 'gulp', 'guzzle', 'hoist', 'imbibe', 'knock back', 'pound (down)', 'quaff', 'sip', 'slug (down)', 'slurp', 'sup', 'swig', 'swill', 'toss (down or off)']	1.5666666666666669	0.3139479160308838
+mouse	['coward', 'milquetoast', 'nebbish', 'nervous Nellie', 'pussy', 'wuss', 'doormat', 'jellyfish', 'namby-pamby', 'pushover', 'reed', 'weakling', 'wimp', 'sheep']	1.6667	0.26642799377441406
+junk	['cheese', 'crapola', 'dreck', 'muck', 'rubbish', 'sleaze', 'slop', 'slush', 'trash', 'tripe']	1.7143	0.2682027816772461
+dare	['challenge', 'defy', 'stump']	1.5714	0.26507091522216797
+cloud	['darkness', 'pall', 'shadow']	1.35	0.27134084701538086
+inch	"['ace', 'hair', 'hairbreadth', 'hairline', 'hop, skip, and jump', 'neck', 'shouting distance', 'step', ""stone's throw""]"	1.5857	0.26576900482177734
+play	['dally', 'disport', 'frolic', 'recreate', 'rollick', 'skylark', 'sport', 'toy']	1.494025	0.31871533393859863
+sixth	['clairvoyance', 'extrasensory perception', 'second sight']	1.2857	0.2694060802459717
+unlock	['loose', 'loosen', 'release', 'uncork', 'unleash', 'unloose', 'unloosen']	1.7143	0.2626938819885254
+skill	['adeptness', 'adroitness', 'art', 'artfulness', 'artifice', 'artistry', 'cleverness', 'craft', 'cunning', 'deftness', 'masterfulness', 'skillfulness']	1.7143	0.26212000846862793
+meet	['catch', 'chance (upon)', 'encounter', 'happen (upon)', 'stumble (upon)']	1.4285666666666668	0.27422499656677246
+blade	['brand', 'steel', 'sword']	1.7142499999999998	0.2677948474884033
+button	['dial', 'key', 'knob', 'lever', 'push button', 'selector', 'switch', 'actuator', 'control', 'controller', 'regulator']	1.5714	0.3429739475250244
+chest	['bin', 'box', 'caddy', 'case', 'casket', 'locker', 'trunk']	1.6	0.2653160095214844
+gift	['bestowal', 'comp', 'donation', 'donative', 'fairing', 'freebie', 'giveaway', 'handsel', 'lagniappe', 'largesse', 'present', 'presentation']	1.4206333333333332	0.27721190452575684
+pea	['No synonyms found']	1.7143	0.26346421241760254
+news	['advice(s)', '411', 'gen', 'info', 'information', 'intelligence', 'item', 'story', 'tidings', 'uncos', 'word']	1.6667	0.26399803161621094
+death	['curtains', 'decease', 'demise', 'dissolution', 'doom', 'end', 'exit', 'expiration', 'expiry', 'fate', 'grave', 'great divide', 'passage', 'passing', 'quietus', 'sleep']	1.75	0.27471113204956055
+double	['binary', 'bipartite', 'double-barreled', 'double-edged', 'dual', 'duplex', 'twin', 'twofold']	1.6586999999999998	0.3221168518066406
+hike	['boost', 'increase', 'raise', 'ascension', 'ascent', 'climb', 'rise', 'rising', 'soar', 'blastoff', 'elevation', 'hoist', 'levitation', 'liftoff', 'raising', 'takeoff', 'heave', 'thrust', 'upheaval', 'uplifting', 'upraising', 'upsurge', 'upsweep', 'upswing', 'upthrust', 'uptrend', 'upturn', 'upwelling']	1.7856999999999998	0.274569034576416
+word	['expression', 'term']	1.2857	0.28122878074645996
+evening	['afterlife', 'afternoon', 'age', 'autumn']	1.45235	0.2668290138244629
+leak	['blunder', 'blat', 'blurt (out)', 'bolt', 'cry (out)', 'ejaculate', 'exclaim', 'bellow', 'bleat', 'crow', 'holler', 'hoot', 'howl', 'roar', 'shout', 'whoop', 'yowl', 'aah', 'ooh', 'interject']	1.7143	0.2665371894836426
+allow	['green-light', 'have', 'permit', 'suffer']	1.672625	0.3089609146118164
+butterfly	['No synonyms found']	1.6667	0.26421189308166504
+angel	['dove', 'innocent', 'lamb', 'sheep']	1.7856999999999998	0.2651939392089844
+sea	['blue', 'brine', 'deep', 'Neptune', 'ocean', 'seven seas']	1.35715	0.317960262298584
+god	['deity', 'divinity']	1.4286	0.32051992416381836
+wide	['broad', 'fat', 'thick']	1.7857333333333336	0.31285881996154785
+sunlight	['sun', 'sunshine']	1.6667	0.26983022689819336
+breast	['belly', 'blood', 'bone(s)', 'bosom', 'core', 'gut', 'heart', 'heartstrings', 'inner space', 'inside', 'quick', 'soul']	1.61665	0.26749491691589355
+thumb	['hitch', 'hitchhike']	1.6667	0.26868677139282227
+proof	['attestation', 'confirmation', 'corroboration', 'documentation', 'evidence', 'substantiation', 'testament', 'testimonial', 'testimony', 'validation', 'voucher', 'witness']	1.75	0.2672431468963623
+bed	['bunk', 'doss', 'hay', 'kip', 'lair', 'pad', 'rack', 'sack']	1.7143	0.2725400924682617
+fail	['break', 'break down', 'conk (out)', 'crash', 'cut out', 'die', 'give out', 'stall']	1.791675	0.3102567195892334
+smell	['nose', 'scent', 'sniff', 'snuff', 'whiff']	1.4405	0.27012205123901367
+field	['clearing', 'ground', 'lot', 'parcel', 'plat', 'plot', 'tract']	1.7143	0.2731740474700928
+mood	['cheer', 'feather', 'humor', 'mode', 'spirit', 'temper']	1.8	0.2621152400970459
+basic	['abecedarian', 'basal', 'beginning', 'elemental', 'elementary', 'essential', 'fundamental', 'introductory', 'meat-and-potatoes', 'rudimental', 'rudimentary', 'underlying']	1.7856999999999998	0.2675309181213379
+bicycle	['bike', 'cycle', 'push-bike', 'two-wheeler', 'velocipede']	1.67855	0.2671847343444824
+work	['beget', 'breed', 'bring', 'bring about', 'bring on', 'catalyze', 'cause', 'create', 'do', 'draw on', 'effect', 'effectuate', 'engender', 'generate', 'induce', 'invoke', 'make', 'occasion', 'produce', 'prompt', 'result (in)', 'spawn', 'translate (into)', 'yield']	1.55	0.28588104248046875
+pink	['bloomy', 'blowsy', 'blushing', 'flushed', 'pinkish', 'warm', 'bronzed', 'brown', 'suntanned', 'tanned', 'cherubic', 'blooming', 'florid', 'flush', 'full-blooded', 'glowing', 'red', 'rosy', 'rubicund', 'ruddy', 'sanguine']	1.6667	0.2730700969696045
+visit	['call (on or upon)', 'drop in (on)', 'see']	1.6786	0.2671489715576172
+burst	['blow', 'blow up', 'crump', 'detonate', 'explode', 'go off', 'pop']	1.7143	0.26624202728271484
+ring	['cabal', 'conspiracy', 'crew', 'gang', 'Mafia', 'mob', 'syndicate']	1.5936666666666666	0.3223390579223633
+stay	['abide', 'dwell', 'hang around', 'remain', 'stick around', 'tarry']	1.7475999999999998	0.27610015869140625
+cheer	['acclaim', 'accredit', 'applaud', 'crack up', 'hail', 'laud', 'praise', 'salute', 'tout']	1.7142499999999998	0.2699129581451416
+animal	['beast', 'beastie', 'brute', 'creature', 'critter']	1.5	0.316760778427124
+tree	['ancestry', 'birth', 'blood', 'bloodline', 'breeding', 'descent', 'extraction', 'genealogy', 'line', 'lineage', 'origin', 'parentage', 'pedigree', 'stock', 'strain']	1.5	0.26494479179382324
+hello	['greeting', 'salutation', 'salute', 'welcome']	1.2857	0.26163291931152344
+fun	['delight', 'distraction', 'diversion', 'divertissement', 'entertainment', 'pleasure', 'recreation']	1.5	0.27419090270996094
+part	['member', 'partition', 'portion', 'section', 'segment']	1.5714	0.3117377758026123
+clock	['chronometer', 'timekeeper', 'timepiece', 'timer']	1.5238	0.2762439250946045
+breakfast	['buffet', 'collation', 'dinner', 'lunch', 'luncheon', 'refreshments', 'smorgasbord', 'snack', 'supper', 'tea', 'chow', 'feed', 'menu', 'mess', 'refection', 'repast', 'table', 'board', 'bite', 'gulp', 'morsel', 'serving', 'taste', 'banquet', 'feast', 'regale', 'spread', 'bake', 'barbecue', 'clambake', 'cookout', 'fry', 'fry-up', 'luau', 'picnic', 'potluck', 'roast']	1.7143	0.26526904106140137
+mouth	['chops', 'gob', 'kisser', 'mug', 'piehole', 'trap', 'yap']	1.1667	0.3151118755340576
+trip	['expedition', 'journey', 'passage', 'peregrination', 'travel(s)', 'trek']	1.64285	0.3150629997253418
+head	['bean', 'block', 'dome', 'mazard', 'nob', 'noddle', 'noggin', 'noodle', 'nut', 'pate', 'poll']	1.61905	0.27368974685668945
+hear	['ascertain', 'catch on (to)', 'discover', 'find out', 'get on (to)', 'learn', 'realize', 'see', 'wise (up)']	1.6428666666666667	0.26261305809020996
+equally	['equivalently', 'identically', 'evenly', 'uniformly', 'alike', 'also', 'correspondingly', 'ditto', 'likewise', 'similarly', 'so']	1.6	0.26197099685668945
+teach	['educate', 'indoctrinate', 'instruct', 'lesson', 'school', 'train', 'tutor']	1.547625	0.2617149353027344
+egg	['baby', 'being', 'bird', 'bod', 'body', 'character', 'cookie', 'creature', 'customer', 'devil', 'duck', 'face', 'fish', 'guy', 'head', 'human', 'human being', 'individual', 'life', 'man', 'mortal', 'party', 'person', 'personage', 'scout', 'slob', 'sort', 'soul', 'specimen', 'stiff', 'thing', 'wight']	1.41665	0.2762930393218994
+law	['act', 'bill', 'constitution', 'enactment', 'ordinance', 'statute']	1.64285	0.2968628406524658
+hurt	['ache', 'pain', 'smart']	1.7856999999999998	0.3255798816680908
+billion	['No synonyms found']	1.7333500000000002	0.26490092277526855
+tonight	['No synonyms found']	1.3333	0.2627079486846924
+happy	['fluky', 'fortuitous', 'fortunate', 'heaven-sent', 'lucky', 'providential']	1.5	0.320742130279541
+tongue	['language', 'lingo', 'mother tongue', 'speech', 'vocabulary']	1.6	0.31723690032958984
+bath	['alluvion', 'cataclysm', 'cataract', 'deluge', 'flood', 'flood tide', 'inundation', 'Niagara', 'overflow', 'spate', 'torrent']	1.58335	0.27129483222961426
+kill	['carry off', 'claim', 'croak', 'destroy', 'dispatch', 'do in', 'fell', 'slay', 'take']	1.7976	0.2742331027984619
+door	['gate', 'hatch', 'portal']	1.4286	0.2735109329223633
+new	['makeshift', 'substitute', 'substitutive']	1.7619333333333334	0.3168151378631592
+whichever	['anything', 'what all', 'whatever', 'whatnot']	1.6667	0.26302504539489746
+cutie	['babe', 'beauty', 'beauty queen', 'cookie', 'dolly bird', 'enchantress', 'eyeful', 'fox', 'goddess', 'honey', 'knockout', 'queen', 'stunner']	1.2	0.2811009883880615
+bird	['baby', 'being', 'bod', 'body', 'character', 'cookie', 'creature', 'customer', 'devil', 'duck', 'egg', 'face', 'fish', 'guy', 'head', 'human', 'human being', 'individual', 'life', 'man', 'mortal', 'party', 'person', 'personage', 'scout', 'slob', 'sort', 'soul', 'specimen', 'stiff', 'thing', 'wight']	1.36905	0.33374905586242676
+pig	['cormorant', 'glutton', 'gorger', 'gormandizer', 'gourmand', 'hog', 'overeater', 'stuffer', 'swiller']	1.2143000000000002	0.2642509937286377
+mark	['label', 'tag', 'ticket']	1.7619	0.31920695304870605
+jean	['No synonyms found']	1.8	0.2878389358520508
+walk	['ambulate', 'foot (it)', 'hoof (it)', 'leg (it)', 'pad', 'step', 'traipse', 'tread']	1.54165	0.2783031463623047
+foot	['base', 'basement', 'bottom', 'nadir', 'rock bottom']	1.35715	0.3155980110168457
+hate	['abhor', 'abominate', 'despise', 'detest', 'execrate', 'loathe']	1.55	0.30706095695495605
+set	['brood', 'hatch', 'incubate', 'sit']	1.619033333333333	0.33026599884033203
+rain	['cloudburst', 'deluge', 'downfall', 'downpour', 'rainfall', 'rainstorm', 'storm', 'wet']	1.2	0.26469969749450684
+sandwich	['cram', 'crowd', 'crush', 'jam', 'ram', 'shoehorn', 'squeeze', 'stuff', 'wedge']	1.7143	0.28274011611938477
+seat	['command', 'headquarters']	1.6583249999999998	0.3158257007598877
+hungry	['empty', 'famished', 'peckish', 'starved', 'starving']	1.4	0.26398587226867676
+bag	['poke', 'pouch', 'sack']	1.3095	0.31516122817993164
+simply	['alone', 'exclusively', 'just', 'only', 'purely', 'solely']	1.7143	0.27609968185424805
+say	['articulate', 'bring out', 'enunciate', 'pass', 'speak', 'state', 'talk', 'tell', 'utter', 'verbalize', 'vocalize']	1.3651	0.2733042240142822
+trick	['artifice', 'device', 'dodge', 'fetch', 'flimflam', 'gambit', 'gimmick', 'jig', 'juggle', 'knack', 'play', 'ploy', 'ruse', 'scheme', 'shenanigan', 'sleight', 'stratagem', 'wile']	1.7619	0.2770061492919922
+beef	['bitch', 'bleat', 'carp', 'complaint', 'fuss', 'grievance', 'gripe', 'grouch', 'grouse', 'grumble', 'holler', 'kvetch', 'lament', 'miserere', 'moan', 'murmur', 'plaint', 'squawk', 'wail', 'whimper', 'whine', 'whinge', 'yammer']	1.5714	0.26701998710632324
+pretty	['enough', 'fairly', 'kind of', 'kindly', 'like', 'moderately', 'more or less', 'quite', 'rather', 'relatively', 'something', 'somewhat', 'sort of']	1.7143	0.273205041885376
+act	['bit', 'number', 'routine', 'shtick', 'turn']	1.625	0.2771153450012207
+wait	['await', 'bide', 'hold on', 'stay']	1.5476	0.31459569931030273
+breathe	['respire']	1.75	0.2672910690307617
+find	['ascertain', 'descry', 'detect', 'determine', 'dig out', 'dig up', 'discover', 'dredge (up)', 'ferret (out)', 'find out', 'get', 'hit (on or upon)', 'hunt (down or up)', 'learn', 'locate', 'nose out', 'root (out)', 'rout (out)', 'rummage', 'run down', 'scare up', 'scout (up)', 'track (down)', 'turn up']	1.535725	0.3129699230194092
+bit	['atom', 'crumb', 'dribble', 'fleck', 'flyspeck', 'grain', 'granule', 'molecule', 'morsel', 'mote', 'nubbin', 'nugget', 'particle', 'patch', 'scrap', 'scruple', 'snip', 'snippet', 'speck', 'tittle']	1.64285	0.28857994079589844
+arrow	['beeline', 'catch up', 'fast-forward', 'outpace', 'outrun', 'outstrip', 'overtake', 'accelerate', 'quicken', 'step out', 'gallop', 'jog', 'sprint', 'stampede', 'streak', 'whiz', 'beetle', 'dart', 'flit', 'scamper', 'scud', 'scuffle', 'barrel', 'belt', 'blast', 'blaze', 'blow', 'bolt', 'bomb', 'bowl', 'breeze', 'bundle', 'bustle', 'buzz', 'cannonball', 'careen', 'career', 'chase', 'course', 'crack (on)', 'dash', 'drive', 'fly', 'hare', 'hasten', 'hie', 'highball', 'hotfoot (it)', 'hump', 'hurl', 'hurry', 'hurtle', 'hustle', 'jet', 'jump', 'motor', 'nip', 'pelt', 'race', 'ram', 'rip', 'rocket', 'run', 'rush', 'rustle', 'scoot', 'scurry', 'scuttle', 'shoot', 'speed', 'step', 'tear', 'travel', 'trot', 'whirl', 'whisk', 'zip', 'zoom']	1.60715	0.26558589935302734
+thousand	['No synonyms found']	1.7856999999999998	0.26718807220458984
+lose	['mislay', 'misplace']	1.60955	0.2766411304473877
+kid	['bairn', 'bambino', 'bud', 'chap', 'chick', 'child', 'cub', 'juvenile', 'kiddie', 'kiddo', 'moppet', 'sprat', 'sprout', 'squirt', 'whelp', 'youngling', 'youngster', 'youth']	1.5119	0.266711950302124
+student	['pupil', 'scholar']	1.5	0.26865601539611816
+seed	['fountainhead', 'germ', 'origin', 'root', 'seedbed']	1.7856999999999998	0.33675312995910645
+water	['bathe', 'bedraggle', 'douse', 'drench', 'drown', 'soak', 'sodden', 'sop', 'souse', 'wash', 'water-soak', 'waterlog', 'wet', 'wet down']	1.5595	0.2964820861816406
+boat	['bottom', 'craft', 'vessel', 'watercraft']	1.6952333333333334	0.28629612922668457
+fill	['brim', 'charge', 'cram', 'heap', 'jam', 'jam-pack', 'load', 'pack', 'stuff']	1.7559249999999995	0.27893710136413574
+video	['tape', 'tape recording', 'vid', 'videotape']	1.7856999999999998	0.2799520492553711
+reader	['album', 'anthology', 'collectanea', 'compendium', 'compilation', 'florilegium', 'miscellany']	1.7856999999999998	0.3168680667877197
+grandfather	['ancestor', 'father', 'forebear', 'forebearer', 'forefather', 'primogenitor', 'progenitor']	1.7143	0.27811670303344727
+brain	['brainiac', 'genius', 'intellect', 'thinker', 'whiz', 'wiz', 'wizard']	1.62855	0.2743210792541504
+sky	['blue', 'firmament', 'heaven(s)', 'high', 'welkin']	1.54285	0.27199792861938477
+lock	['bar', 'batten (down)', 'bolt', 'chain', 'fasten', 'latch', 'close', 'make', 'shut', 'steek', 'plug', 'seal', 'stopper', 'secure', 'bang', 'clap', 'slam']	1.7738	0.26734423637390137
+big	['consequential', 'earth-shattering', 'earthshaking', 'eventful', 'historic', 'important', 'major', 'material', 'meaningful', 'momentous', 'monumental', 'much', 'significant', 'substantial', 'tectonic', 'weighty']	1.4047666666666665	0.32026171684265137
+balloon	['accelerate', 'accumulate', 'appreciate', 'boom', 'build up', 'burgeon', 'climb', 'enlarge', 'escalate', 'expand', 'gain', 'increase', 'mount', 'multiply', 'mushroom', 'proliferate', 'rise', 'roll up', 'snowball', 'spread', 'swell', 'wax']	1.75	0.2650470733642578
+thank	['acknowledge', 'cite', 'commend', 'compliment', 'credit', 'fete', 'honor', 'recognize', 'extol', 'glorify', 'laud', 'praise', 'tout', 'acclaim', 'applaud', 'cheer', 'hail', 'laureate', 'salute', 'celebrate', 'commemorate', 'memorialize', 'observe', 'congratulate', 'felicitate']	1.619033333333333	0.27306389808654785
+see	['behold', 'catch', 'descry', 'discern', 'distinguish', 'espy', 'eye', 'look (at)', 'note', 'notice', 'observe', 'perceive', 'regard', 'remark', 'sight', 'spot', 'spy', 'view', 'witness']	1.333325	0.3136420249938965
+elder	['ancient', 'geriatric', 'golden-ager', 'old-timer', 'oldster', 'senior', 'senior citizen']	1.60715	0.26481199264526367
+hour	['boiling point', 'breaking point', 'clutch', 'conjuncture', 'crisis', 'crossroad(s)', 'crunch', 'crunch time', 'Dunkirk', 'emergency', 'exigency', 'extremity', 'flash point', 'head', 'juncture', 'tinderbox']	1.2857	0.2656979560852051
+magic	['bewitchery', 'bewitchment', 'conjuring', 'devilry', 'diablerie', 'enchantment', 'ensorcellment', 'mojo', 'necromancy', 'sorcery', 'thaumaturgy', 'voodooism', 'witchcraft', 'witchery', 'wizardry']	1.7143	0.27395200729370117
+guitar	['backup', 'jam', 'jam-up', 'logjam', 'snarl', 'tailback', 'tie-up']	1.6667	0.26206517219543457
+doctor	['croaker', 'doc', 'medic', 'medico', 'physician', 'sawbones']	1.70235	0.3101181983947754
+make	['fabricate', 'fashion', 'form', 'frame', 'manufacture', 'produce']	1.5	0.27620983123779297
+camel	['No synonyms found']	1.6667	0.26212286949157715
+ant	['automobilist', 'motorist', 'wheelman']	1.4286	0.261807918548584
+city	['asphalt jungle', 'burg', 'cosmopolis', 'megacity', 'megalopolis', 'metropolis', 'municipality', 'town']	1.41665	0.31861400604248047
+fruit	['aftereffect', 'aftermath', 'backwash', 'child', 'conclusion', 'consequence', 'corollary', 'development', 'effect', 'fate', 'issue', 'outcome', 'outgrowth', 'precipitate', 'product', 'result', 'resultant', 'sequel', 'sequence', 'upshot']	1.5714	0.3132209777832031
+midnight	['overnight', 'late', 'night', 'nightly', 'nighttime', 'nocturnal']	1.7143	0.2698349952697754
+greet	['address', 'board', 'hail', 'herald', 'salute', 'chat (with)', 'converse (with)', 'speak (to or with)', 'talk (to)']	1.7619	0.2624187469482422
+monthly	['bimonthly', 'biweekly', 'daily', 'quarterly', 'semimonthly', 'semiweekly', 'triweekly', 'weekly', 'annual', 'yearly', 'frequent', 'habitual', 'intermittent', 'perennial', 'periodic', 'recurrent', 'regular', 'repeated', 'routine', 'serial', 'usual']	1.6	0.2623879909515381
+rise	['accelerate', 'accumulate', 'appreciate', 'balloon', 'boom', 'build up', 'burgeon', 'climb', 'enlarge', 'escalate', 'expand', 'gain', 'increase', 'mount', 'multiply', 'mushroom', 'proliferate', 'roll up', 'snowball', 'spread', 'swell', 'wax']	1.7000000000000002	0.2741990089416504
+uncut	['unabridged', 'undiminished', 'compleat', 'complete', 'comprehensive', 'entire', 'full', 'grand', 'intact', 'integral', 'perfect', 'plenary', 'total', 'whole', 'all-out', 'exhaustive', 'extensive', 'maximal', 'full-blooded', 'full-blown', 'full-bore', 'full-fledged', 'full-on', 'full-out', 'full-scale']	1.6667	0.2637159824371338
+physical	['animal', 'bodily', 'carnal', 'corporal', 'corporeal', 'fleshly', 'material', 'somatic']	1.6667	0.2660560607910156
+nose	['beak', 'conk', 'honker', 'neb', 'nozzle', 'proboscis', 'schnoz', 'schnozzle', 'smeller', 'snoot', 'snout']	1.2857	0.31725406646728516
+joke	['boff', 'boffola', 'crack', 'drollery', 'funny', 'gag', 'giggle', 'jape', 'jest', 'josh', 'laugh', 'nifty', 'one-liner', 'pleasantry', 'quip', 'rib', 'sally', 'waggery', 'wisecrack', 'witticism', 'yuk']	1.7143	0.2687830924987793
+letter	['dispatch', 'epistle', 'memo', 'memorandum', 'missive', 'note']	1.61905	0.2746090888977051
+page	['courier', 'express', 'go-between', 'messenger', 'runner']	1.5	0.2646751403808594
+man	['bastard', 'bloke', 'buck', 'cat', 'chap', 'chappie', 'dude', 'fella', 'fellow', 'galoot', 'gent', 'gentleman', 'guy', 'hombre', 'jack', 'joe', 'joker', 'lad', 'male']	1.35715	0.2768251895904541
+simple	['bald', 'bare', 'naked', 'plain', 'plain-vanilla', 'unadorned', 'undecorated', 'unembellished', 'unornamented', 'unvarnished']	1.5778	0.2669539451599121
+area	['demesne', 'field', 'region', 'zone']	1.67855	0.26264500617980957
+yes	['all right', 'alright', 'aye', 'exactly', 'OK', 'okeydoke', 'yea', 'yeah', 'yep', 'yo']	1.0	0.26733899116516113
+lot	['parcel', 'plat', 'plot', 'property', 'tract']	1.42855	0.3130052089691162
+pet	['darling', 'fave', 'favorite', 'minion', 'preference', 'speed']	1.46665	0.30957794189453125
+human	['earthborn', 'mortal', 'natural']	1.67855	0.26571011543273926
+gas	['bluster', 'bombast', 'brag', 'braggadocio', 'bull', 'cockalorum', 'fanfaronade', 'gasconade', 'grandiloquence', 'hot air', 'magniloquence', 'rant', 'rodomontade']	1.46665	0.269258975982666
+fair	['bright', 'clear', 'cloudless', 'sunny', 'sunshiny', 'unclouded']	1.66665	0.27405524253845215
+husband	['hubby', 'man', 'mister', 'old man']	1.45	0.2638678550720215
+early	['ancient', 'primal', 'primeval', 'primitive', 'primordial']	1.5237999999999998	0.2655618190765381
+past	['auld lang syne', 'history', 'yesterday', 'yesteryear', 'yore']	1.5	0.31421375274658203
+jerk	['bastard', 'beast', 'bleeder', 'blighter', 'boor', 'bounder', 'bugger', 'buzzard', 'cad', 'chuff', 'churl', 'clown', 'creep', 'cretin', 'crud', 'crumb', 'cur', 'dirtbag', 'dog', 'fink', 'heel', 'hound', 'joker', 'louse', 'lout', 'pill', 'rat', 'rat fink', 'reptile', 'rotter', 'schmuck', 'scum', 'scumbag', 'scuzzball', 'skunk', 'sleaze', 'sleazebag', 'sleazeball', 'slime', 'slimeball', 'slob', 'snake', 'so-and-so', 'sod', 'stinkard', 'stinker', 'swine', 'toad', 'varmint', 'vermin']	1.4286	0.3078041076660156
+snow	['bamboozle', 'beguile', 'bluff', 'buffalo', 'burn', 'catch', 'con', 'cozen', 'deceive', 'delude', 'dupe', 'fake out', 'fool', 'gaff', 'gammon', 'gull', 'have', 'have on', 'hoax', 'hoodwink', 'hornswoggle', 'humbug', 'juggle', 'misguide', 'misinform', 'mislead', 'snooker', 'spoof', 'string along', 'suck in', 'sucker', 'take in', 'trick']	1.6667	0.26884007453918457
+write	['author', 'pen', 'scratch (out)', 'scribble']	1.53808	0.31273698806762695
+near	['about', 'around', 'by', 'next to', 'nigh']	1.4405	0.27385616302490234
+daily	['day-to-day', 'diurnal', 'quotidian']	1.5714	0.27010369300842285
+milk	['abuse', 'capitalize (on)', 'cash in (on)', 'exploit', 'impose (on or upon)', 'leverage', 'pimp', 'play (on or upon)', 'use', 'work']	1.5	0.26822900772094727
+heart	['bigheartedness', 'charity', 'commiseration', 'compassion', 'feeling', 'good-heartedness', 'humanity', 'kindheartedness', 'kindliness', 'kindness', 'largeheartedness', 'mercy', 'pity', 'ruth', 'softheartedness', 'sympathy', 'warmheartedness']	1.70235	0.2750372886657715
+friend	['alter ego', 'amigo', 'buddy', 'chum', 'compadre', 'comrade', 'confidant', 'confidante', 'crony', 'familiar', 'intimate', 'mate', 'musketeer', 'pal']	1.2857	0.2631230354309082
+youth	['boy', 'boychick', 'boyo', 'callant', 'lad', 'laddie', 'nipper', 'shaveling', 'shaver', 'sonny', 'stripling', 'tad']	1.8	0.268129825592041
+friendly	['amicable', 'bonhomous', 'buddy-buddy', 'chummy', 'collegial', 'companionable', 'comradely', 'cordial', 'genial', 'hail-fellow', 'hail-fellow-well-met', 'hearty', 'matey', 'neighborly', 'palsy', 'palsy-walsy', 'warm', 'warmhearted']	1.5	0.30771517753601074
+cent	['financial', 'fiscal', 'monetary', 'pecuniary', 'pocket']	1.4286	0.2660489082336426
+steak	['chophouse', 'greasy spoon', 'hash house', 'pizzeria', 'cafeteria', 'lunch counter', 'luncheonette', 'lunchroom', 'snack bar', 'coffeehouse', 'coffee shop', 'estaminet', 'teahouse', 'tearoom', 'tea shop', 'beanery', 'café', 'caff', 'diner', 'eatery', 'grill', 'restaurant', 'bar', 'barroom', 'inn', 'tavern']	1.6667	0.2623128890991211
+right	['appanage', 'birthright', 'prerogative']	1.5952	0.31810712814331055
+love	['appreciate', 'cherish', 'prize', 'treasure', 'value']	1.4583500000000005	0.2808823585510254
+blood	['clan', 'family', 'folks', 'house', 'kin', 'kindred', 'kinfolk', 'kinsfolk', 'line', 'lineage', 'people', 'race', 'stock', 'tribe']	1.3333	0.2710587978363037
+dear	['big-ticket', 'costly', 'expensive', 'extravagant', 'high', 'high-end', 'high-ticket', 'precious', 'premium', 'priceless', 'pricey', 'spendy', 'ultraexpensive', 'valuable']	1.7143	0.2632598876953125
+honey	['babe', 'beauty', 'beauty queen', 'cookie', 'cutie', 'dolly bird', 'enchantress', 'eyeful', 'fox', 'goddess', 'knockout', 'queen', 'stunner']	1.7143	0.26557183265686035
+crush	['mash', 'pulp', 'squash']	1.77145	0.2650589942932129
+killer	['bear', 'beast', 'chore', 'headache', 'job', 'labor']	1.5714	0.3074767589569092
+downward	['bowed', 'down', 'downcast', 'lowered']	1.6	0.2737717628479004
+wood	['lumber', 'timber']	1.7619	0.3093733787536621
+punch	['bang', 'bash', 'bat', 'belt', 'biff', 'bludgeon', 'bob', 'bonk', 'bop', 'box', 'bust', 'clap', 'clip', 'clobber', 'clock', 'clout', 'crack', 'hammer', 'hit', 'knock', 'nail', 'paste', 'pound', 'rap', 'slam', 'slap', 'slog', 'slug', 'smack', 'smite', 'sock', 'strike', 'swat', 'swipe', 'tag', 'thump', 'thwack', 'wallop', 'whack', 'whale', 'zap']	1.6667	0.3195030689239502
+mother	['ma', 'mama', 'mammy', 'mater', 'mom', 'mommy', 'old lady']	1.45235	0.31367993354797363
+bent	['crooked', 'deceptive', 'dishonest', 'double-dealing', 'duplicitous', 'fast', 'fraudulent', 'guileful', 'rogue', 'shady', 'sharp', 'shifty', 'underhand', 'underhanded']	1.5714	0.3191549777984619
+party	['affair', 'bash', 'binge', 'blast', 'blowout', 'do', 'event', 'fete', 'function', 'get-together', 'reception', 'shindig']	1.7856999999999998	0.31183290481567383
+blue	['bawdy', 'coarse', 'crude', 'dirty', 'filthy', 'foul', 'gross', 'gutter', 'impure', 'indecent', 'lascivious', 'lewd', 'locker-room', 'nasty', 'obscene', 'pornographic', 'porny', 'profane', 'raunchy', 'ribald', 'smutty', 'stag', 'trashy', 'unprintable', 'vulgar', 'wanton', 'X-rated']	1.6	0.2740800380706787
+window	"['caesura', 'comma', 'interspace', 'lag', 'pause', 'space', 'time lag', 'discontinuity', 'gap', 'hiatus', 'hiccup', 'interim', 'interlude', 'intermission', 'interregnum', 'interruption', 'interstice', 'interval', 'parenthesis', ""entr'acte"", 'bumper', 'adjournment', 'discontinuance', 'lapse', 'suspension', 'lull', 'recess', 'respite', 'rest', 'subinterval']"	1.7856999999999998	0.885566234588623
+town	['asphalt jungle', 'burg', 'city', 'cosmopolis', 'megacity', 'megalopolis', 'metropolis', 'municipality']	1.54765	0.2769317626953125
+extra	['excess', 'redundant', 'spare', 'supererogatory', 'superfluous', 'supernumerary', 'surplus']	1.7143	0.3086850643157959
+triangle	['No synonyms found']	1.7143	0.26497888565063477
+run	['dash', 'gallop', 'jog', 'scamper', 'sprint', 'trip', 'trot']	1.398825	0.33150410652160645
+train	['cortege', 'entourage', 'following', 'posse', 'retinue', 'suite', 'tail']	1.7499999999999998	0.26691102981567383
+thing	['baby', 'being', 'bird', 'bod', 'body', 'character', 'cookie', 'creature', 'customer', 'devil', 'duck', 'egg', 'face', 'fish', 'guy', 'head', 'human', 'human being', 'individual', 'life', 'man', 'mortal', 'party', 'person', 'personage', 'scout', 'slob', 'sort', 'soul', 'specimen', 'stiff', 'wight']	1.2381	0.2695441246032715
+problem	['case', 'challenge', 'knot', 'matter', 'nut', 'trouble']	1.63335	0.2655973434448242
+piano	['No synonyms found']	1.8	0.2649722099304199
+thick	['chunky', 'fat']	1.6	0.2923250198364258
+future	['by-and-by', 'futurity', 'hereafter', 'offing', 'tomorrow']	1.75	0.2653839588165283
+pull	['drag', 'draw', 'hale', 'haul', 'lug', 'tow', 'tug']	1.77975	0.315371036529541
+horse	['equine', 'nag', 'steed']	1.57145	0.27211713790893555
+dad	['daddy', 'father', 'old man', 'pa', 'papa', 'pater', 'pop', 'sire']	1.2	0.264725923538208
+sunrise	['aurora', 'cockcrow', 'dawn', 'dawning', 'day', 'daybreak', 'daylight', 'light', 'morn', 'morning', 'sun', 'sunup']	1.6667	0.2640500068664551
+noisy	['clangorous', 'dinning', 'discordant', 'rackety']	1.7143	0.2635781764984131
+darling	['beloved', 'cherished', 'dear', 'fair-haired', 'favored', 'favorite', 'fond', 'loved', 'pet', 'precious', 'special', 'sweet', 'white-headed']	1.8	0.3053901195526123
+table	['board']	1.5	0.315701961517334
+oil	['canvas', 'oil painting', 'painting']	1.64285	0.3144378662109375
+form	['cast', 'configuration', 'conformation', 'fashion', 'figure', 'geometry', 'shape']	1.7857249999999998	0.26602792739868164
+name	['appellation', 'appellative', 'cognomen', 'compellation', 'denomination', 'denotation', 'designation', 'handle', 'moniker', 'nomenclature', 'title']	1.3888666666666667	0.3169851303100586
+uncle	['blink', 'bow', 'budge', 'capitulate', 'concede', 'give in', 'knuckle under', 'quit', 'relent', 'submit', 'succumb', 'surrender', 'yield']	1.5714	0.271373987197876
+length	['breadth', 'distance', 'expanse', 'expansion', 'extent', 'field', 'plain', 'reach', 'sheet', 'spread', 'stretch', 'waste']	1.7856999999999998	0.26780223846435547
+tomorrow	['by-and-by', 'future', 'futurity', 'hereafter', 'offing']	1.5	0.2627089023590088
+join	['abut', 'adjoin', 'border (on)', 'butt (on or against)', 'flank', 'fringe', 'march (with)', 'neighbor', 'skirt', 'touch', 'verge (on)']	1.5357	0.31084680557250977
+easy	['cheap', 'downhill', 'effortless', 'facile', 'fluent', 'fluid', 'hands-down', 'light', 'painless', 'ready', 'royal', 'simple', 'smooth', 'snap', 'soft']	1.4761999999999995	0.27784299850463867
+leave	['abandon', 'desert', 'forsake', 'maroon', 'quit', 'strand']	1.6012	0.275097131729126
+knife	['blade', 'cutter', 'shank', 'shiv']	1.5356999999999998	0.2666010856628418
+skip	['bounce', 'bound', 'hop', 'lollop', 'lope', 'trip']	1.4	0.26842188835144043
+mental	['cerebral', 'inner', 'intellectual', 'interior', 'internal', 'psychological']	1.8	0.2653787136077881
+onion	['No synonyms found']	1.70235	0.2622542381286621
+have	['command', 'enjoy', 'hold', 'own', 'possess', 'retain']	1.5714	0.3415641784667969
+wish	['fob off', 'foist', 'palm', 'palm off', 'pass off']	1.6249749999999998	0.26314806938171387
+lol	['No synonyms found']	1.3333	0.2760748863220215
+flag	['banderole', 'banner', 'colors', 'ensign', 'guidon', 'jack', 'pendant', 'pennant', 'pennon', 'standard', 'streamer']	1.5952	0.2687079906463623
+dot	['blotch', 'dapple', 'eyespot', 'fleck', 'mottle', 'patch', 'pip', 'point', 'speck', 'speckle', 'splotch', 'spot']	1.70235	0.26622581481933594
+end	['close', 'close out', 'complete', 'conclude', 'finish', 'round (off or out)', 'terminate', 'wind up', 'wrap up']	1.523825	0.2769198417663574
+basketball	['No synonyms found']	1.6	0.2877931594848633
+bee	['caprice', 'crank', 'fancy', 'freak', 'humor', 'kink', 'maggot', 'megrim', 'notion', 'vagary', 'vagrancy', 'whim', 'whimsy']	1.7143	0.26540088653564453
+joy	['beatitude', 'blessedness', 'bliss', 'blissfulness', 'felicity', 'gladness', 'happiness', 'warm fuzzies']	1.5	0.2745537757873535
+tiny	['atomic', 'bitsy', 'bitty', 'infinitesimal', 'itty-bitty', 'little bitty', 'microminiature', 'microscopic', 'miniature', 'minuscule', 'minute', 'teensy', 'teensy-weensy', 'teeny', 'teeny-weeny', 'wee', 'weeny']	1.5714	0.26520299911499023
+male	['man-size', 'manlike', 'manly', 'mannish', 'masculine', 'virile']	1.60715	0.2645869255065918
+hit	['bang', 'bash', 'bat', 'belt', 'biff', 'bludgeon', 'bob', 'bonk', 'bop', 'box', 'bust', 'clap', 'clip', 'clobber', 'clock', 'clout', 'crack', 'hammer', 'knock', 'nail', 'paste', 'pound', 'punch', 'rap', 'slam', 'slap', 'slog', 'slug', 'smack', 'smite', 'sock', 'strike', 'swat', 'swipe', 'tag', 'thump', 'thwack', 'wallop', 'whack', 'whale', 'zap']	1.6666666666666667	0.2755589485168457
+wall	['barricade', 'barrier', 'fence', 'hedge']	1.5	0.32186007499694824
+change	['alteration', 'difference', 'modification', 'redoing', 'refashioning', 'remaking', 'remodeling', 'revamping', 'review', 'revise', 'revision', 'reworking', 'variation']	1.5476	0.27697300910949707
+mild	['balmy', 'clement', 'equable', 'genial', 'gentle', 'moderate', 'soft', 'temperate']	1.7143	0.2730681896209717
+exam	['examination', 'quiz', 'test']	1.75	0.26761293411254883
+active	['alive', 'functional', 'functioning', 'going', 'live', 'living', 'on', 'operating', 'operational', 'operative', 'running', 'working']	1.5	0.2611570358276367
+bin	['box', 'caddy', 'case', 'casket', 'chest', 'locker', 'trunk']	1.6667	0.26131463050842285
+children	['bairns', 'bambinos', 'buds', 'chaps', 'chicks', 'cubs', 'juveniles', 'kiddies', 'kiddos', 'kids', 'moppets', 'sprats', 'sprouts', 'squirts', 'whelps', 'younglings', 'youngsters', 'youths']	1.6667	0.31017279624938965
+age	['day', 'epoch', 'era', 'period', 'time']	1.5714	0.27214694023132324
+pay	['compensate', 'recompense', 'remunerate']	1.5607	0.2935469150543213
+test	['essay', 'experiment', 'experimentation', 'trial']	1.7619	0.27361488342285156
+question	['interrogative', 'problem']	1.7380749999999998	0.32010388374328613
+sweet	['beloved', 'cherished', 'darling', 'dear', 'fair-haired', 'favored', 'favorite', 'fond', 'loved', 'pet', 'precious', 'special', 'white-headed']	1.6857	0.2733469009399414
+paper	['blank', 'document', 'form']	1.5714	0.2688865661621094
+gold	['bread', 'bucks', 'cabbage', 'cash', 'change', 'chips', 'coin', 'currency', 'dough', 'green', 'jack', 'kale', 'legal tender', 'lolly', 'long green', 'loot', 'lucre', 'money', 'moola', 'needful', 'pelf', 'scratch', 'shekels', 'tender', 'wampum']	1.4286	0.3292052745819092
+hero	['god', 'icon', 'idol']	1.41665	0.3131110668182373
+superman	['No synonyms found']	1.7143	0.26734089851379395
+flat	['even', 'exact', 'precise', 'round']	1.7738	0.27757906913757324
+addition	['annex', 'extension', 'penthouse']	1.7738	0.262423038482666
+paste	['annihilate', 'blow away', 'bomb', 'bury', 'clobber', 'cream', 'drub', 'dust', 'flatten', 'rout', 'shellac', 'skin', 'skunk', 'smoke', 'smother', 'snow under', 'thrash', 'trim', 'tromp', 'trounce', 'wallop', 'wax', 'whip', 'whomp', 'whop', 'whup']	1.7143	0.26754283905029297
+lung	['No synonyms found']	1.75	0.26461172103881836
+worker	['dogsbody', 'drone', 'drudge', 'drudger', 'foot soldier', 'grub', 'grubber', 'grunt', 'laborer', 'peon', 'plugger', 'slave', 'slogger', 'toiler']	1.7143	0.2714097499847412
+add	['adjoin', 'annex', 'append', 'subjoin', 'tack (on)']	1.375	0.2686018943786621
+tip	['hint', 'lead', 'pointer']	1.4286	0.31125307083129883
+pure	['absolute', 'fine', 'neat', 'plain', 'purified', 'refined', 'straight', 'unadulterated', 'unalloyed', 'undiluted', 'unmixed']	1.7143	0.2720301151275635
+corn	['goo', 'mush', 'schmaltz', 'sludge', 'slush', 'soap opera', 'sorghum']	1.4286	0.2642030715942383
+plane	['aeroplane', 'airplane']	1.7	0.2683117389678955
+neat	['antiseptic', 'bandbox', 'crisp', 'groomed', 'kempt', 'orderly', 'picked up', 'prim', 'shipshape', 'smug', 'snug', 'tidied', 'tidy', 'trig', 'trim', 'uncluttered', 'well-groomed']	1.7143	0.3077201843261719
+sad	['bad', 'blue', 'brokenhearted', 'cast down', 'crestfallen', 'dejected', 'depressed', 'despondent', 'disconsolate', 'doleful', 'down', 'downcast', 'downhearted', 'down in the mouth', 'droopy', 'forlorn', 'gloomy', 'glum', 'hangdog', 'heartbroken', 'heartsick', 'heartsore', 'heavyhearted', 'inconsolable', 'joyless', 'low', 'low-spirited', 'melancholic', 'melancholy', 'miserable', 'mournful', 'saddened', 'sorrowful', 'sorry', 'unhappy', 'woebegone', 'woeful', 'wretched']	1.3333	0.2628469467163086
+grandmother	['ancestress', 'foremother', 'matriarch', 'ancestor', 'forebear', 'forebearer', 'forefather', 'grandfather', 'primogenitor', 'progenitor', 'antecessor', 'predecessor', 'grandsire', 'patriarch', 'sire', 'ancestry', 'antecedents', 'roots']	1.5714	0.27233004570007324
+few	['countable', 'limited']	1.7143	0.2724788188934326
+wife	['helpmate', 'helpmeet', 'lady', 'madam', 'missus', 'Mrs.', 'old lady', 'wifey', 'woman']	1.64285	0.26409029960632324
+anytime	['No synonyms found']	1.5	0.2823638916015625
+sell	['deal (in)', 'market', 'merchandise', 'put up', 'retail', 'vend']	1.523825	0.2644228935241699
+wine	['mead', 'sake', 'alcohol', 'aqua vitae', 'ardent spirits', 'booze', 'bottle', 'drink', 'firewater', 'grog', 'hooch', 'inebriant', 'intoxicant', 'John Barleycorn', 'juice', 'liquor', 'lush', 'moonshine', 'potable', 'rum', 'sauce', 'spirits', 'stimulant', 'strong drink', 'tipple', 'aperitif', 'bracer', 'chaser', 'digestif', 'nightcap', 'belt', 'load', 'nip', 'peg', 'pop', 'shooter', 'shot', 'slug', 'snifter', 'snort', 'tot', 'whet', 'cocktail', 'mixed drink', 'ale', 'beer', 'brew', 'brewage', 'brewski', 'home brew', 'malt liquor', 'microbrew', 'mum', 'nappy', 'barley-bree', 'brandy', 'gin', 'liqueur', 'mao-tai', 'mescal', 'schnapps', 'tequila', 'vodka', 'whiskey', 'Dutch courage']	1.7856999999999998	0.2627899646759033
+bye	['adieu', 'au revoir', 'ave', 'bon voyage', 'congé', 'farewell', 'Godspeed']	1.2857	0.271075963973999
+toe	['belly', 'sole', 'bottom', 'underbelly', 'underbody', 'underpart', 'underside', 'undersurface', 'base', 'floor', 'foot', 'ground', 'seat', 'underpinning', 'undercarriage']	1.64285	0.2767360210418701
+take	['clasp', 'grasp', 'grip', 'hold']	1.3393000000000002	0.34922003746032715
+teaspoon	['dessertspoon', 'soupspoon', 'tablespoon', 'skimmer', 'dipper', 'ladle', 'scoop', 'spoon']	1.6667	0.26045894622802734
+strong	['brawny', 'muscular', 'rugged', 'sinewy', 'stalwart', 'stout']	1.7142666666666668	0.3160288333892822
+key	['arch', 'big', 'capital', 'cardinal', 'central', 'chief', 'dominant', 'first', 'foremost', 'grand', 'great', 'greatest', 'highest', 'leading', 'main', 'master', 'number one', 'numero uno', 'overbearing', 'overmastering', 'overriding', 'paramount', 'predominant', 'preeminent', 'premier', 'primal', 'primary', 'principal', 'prior', 'sovereign', 'supreme']	1.4643000000000002	0.3131139278411865
+shirt	['cash flow', 'bankroll', 'coffers', 'exchequer', 'finances', 'fund', 'pocket', 'resources', 'wherewithal', 'bread', 'cash', 'chips', 'currency', 'dough', 'gold', 'jack', 'legal tender', 'lucre', 'pelf', 'scratch', 'tender', 'wampum', 'assets', 'capital', 'deep pockets', 'fortune', 'means', 'opulence', 'riches', 'roll', 'substance', 'wealth', 'purse', 'treasury', 'financing']	1.63095	0.26736998558044434
+close	['compact', 'crowded', 'dense', 'jam-packed', 'packed', 'serried', 'thick', 'tight']	1.5285800000000005	0.32131099700927734
+father	['dad', 'daddy', 'old man', 'pa', 'papa', 'pater', 'pop', 'sire']	1.7143	0.26924681663513184
+shit	['blast', 'discharge', 'fire', 'loose', 'squeeze off']	1.5714	0.2642529010772705
+alot	['astronomically', 'big-time', 'broadly', 'colossally', 'considerably', 'enormously', 'extensively', 'greatly', 'highly', 'hugely', 'largely', 'massively', 'monstrously', 'monumentally', 'much', 'sizably', 'staggeringly', 'stupendously', 'tremendously', 'utterly', 'vastly']	1.5714	0.2758362293243408
+central	['arch', 'big', 'capital', 'cardinal', 'chief', 'dominant', 'first', 'foremost', 'grand', 'great', 'greatest', 'highest', 'key', 'leading', 'main', 'master', 'number one', 'numero uno', 'overbearing', 'overmastering', 'overriding', 'paramount', 'predominant', 'preeminent', 'premier', 'primal', 'primary', 'principal', 'prior', 'sovereign', 'supreme']	1.7143	0.2667720317840576
+yearly	['annual', 'bimonthly', 'biweekly', 'daily', 'monthly', 'quarterly', 'semimonthly', 'semiweekly', 'triweekly', 'weekly', 'frequent', 'habitual', 'intermittent', 'perennial', 'periodic', 'recurrent', 'regular', 'repeated', 'routine', 'serial', 'usual']	1.6667	0.2633829116821289
+sink	['atrophy', 'crumble', 'decay', 'decline', 'degenerate', 'descend', 'deteriorate', 'devolve', 'ebb', 'regress', 'retrograde', 'rot', 'worsen']	1.58335	0.27712488174438477
+willing	['amenable', 'disposed', 'fain', 'game', 'glad', 'inclined', 'minded', 'ready']	1.6667	0.26700615882873535
+thin	['bony', 'fatless', 'lean', 'lithe', 'skinny', 'slender', 'slim', 'spare', 'svelte']	1.5714	0.3164103031158447
+neck	['belt', 'corridor', 'land', 'part(s)', 'region', 'tract', 'zone']	1.4286	0.3191819190979004
+chick	['bairn', 'bambino', 'bud', 'chap', 'child', 'cub', 'juvenile', 'kid', 'kiddie', 'kiddo', 'moppet', 'sprat', 'sprout', 'squirt', 'whelp', 'youngling', 'youngster', 'youth']	1.64285	0.2671849727630615
+minute	['beat', 'eyeblink', 'flash', 'heartbeat', 'instant', 'jiff', 'jiffy', 'moment', 'nanosecond', 'New York minute', 'second', 'shake', 'split second', 'trice', 'twinkle', 'twinkling', 'wink']	1.42855	0.2724490165710449
+seventy	['No synonyms found']	1.7143	0.2661886215209961
+clothing	['apparel', 'attire', 'clobber', 'clothes', 'costumery', 'dress', 'duds', 'garments', 'gear', 'habiliment(s)', 'habit', 'rags', 'raiment', 'rig', 'rigging', 'threads', 'toggery', 'togs', 'vestiary', 'vestments', 'vesture', 'wear', 'wearables', 'weeds']	1.6667	0.3104686737060547
+know	['comprehend', 'grasp', 'understand']	1.45714	0.36707377433776855
+van	['avant-garde', 'cutting edge', 'vanguard']	1.5	0.2659459114074707
+white	['colorless', 'tintless', 'uncolored', 'undyed', 'unpainted', 'unstained']	1.36905	0.324599027633667
+flower	['bloom', 'blossom']	1.5	0.26371216773986816
+keep	['celebrate', 'commemorate', 'observe']	1.5793666666666668	0.2744638919830322
+value	['valuation', 'worth']	1.7618999999999998	0.3421921730041504
+ahead	['afore', 'already', 'antecedently', 'anteriorly', 'before', 'beforehand', 'earlier', 'formerly', 'preliminarily', 'previously']	1.4	0.31241583824157715
+young	['adolescent', 'immature', 'juvenile', 'youngish', 'youthful']	1.3571333333333335	0.2645859718322754
+smart	['dapper', 'natty', 'sharp', 'snappy', 'spruce']	1.5714	0.2753641605377197
+newspaper	['book', 'bulletin', 'diurnal', 'gazette', 'journal', 'mag', 'magazine', 'organ', 'paper', 'periodical', 'rag', 'review', 'serial', 'zine']	1.8	0.26298022270202637
+arm	['firearm', 'gun', 'heat', 'piece', 'small arm']	1.4444333333333332	0.27398085594177246
+swim	['reel', 'spin', 'turn', 'whirl']	1.5	0.2714710235595703
+brother	['sibling', 'sister', 'stepbrother', 'stepsister', 'cousin', 'kinsman', 'kinswoman', 'relation', 'relative', 'in-law', 'kissing cousin', 'blood', 'clan', 'family', 'folk', 'house', 'kindred', 'kinfolk', 'kinsfolk', 'line', 'lineage', 'people', 'race', 'stock', 'tribe']	1.54765	0.30629706382751465
+tenth	['No synonyms found']	1.2857	0.2640080451965332
+television	['boob tube', 'box', 'idiot box', 'telly', 'tube', 'TV']	1.71665	0.2670609951019287
+second	['beat', 'eyeblink', 'flash', 'heartbeat', 'instant', 'jiff', 'jiffy', 'minute', 'moment', 'nanosecond', 'New York minute', 'shake', 'split second', 'trice', 'twinkle', 'twinkling', 'wink']	1.5	0.3199429512023926
+doll	['action figure', 'dolly', 'poppet', 'puppet']	1.5714	0.26639485359191895
+go	['advance', 'come', 'come along', 'do', 'fare', 'forge', 'get along', 'get on', 'go along', 'go off', 'march', 'pace', 'proceed', 'progress']	1.45716	0.31866025924682617
+little	['low', 'low-lying', 'low-slung', 'sawed-off', 'short']	1.5714	0.3230729103088379
+unused	['unacclimated', 'unaccustomed', 'unadapted', 'unadjusted']	1.6667	0.26544785499572754
+toilet	['bath', 'bathroom', 'bog', 'can', 'cloakroom', 'comfort station', 'convenience', 'head', 'john', 'latrine', 'lavatory', 'loo', 'potty', 'restroom', 'washroom', 'water closet']	1.64285	0.26414990425109863
+dirt	['clod', 'earth', 'ground', 'mold', 'soil']	1.5714	0.26638102531433105
+mile	['afar', 'country mile', 'far cry', 'long haul']	1.61905	0.2657201290130615
+huge	['astronomical', 'Brobdingnagian', 'bumper', 'colossal', 'cosmic', 'cyclopean', 'elephantine', 'enormous', 'galactic', 'gargantuan', 'giant', 'gigantesque', 'gigantic', 'grand', 'herculean', 'heroic', 'Himalayan', 'humongous', 'immense', 'jumbo', 'king-size', 'leviathan', 'mammoth', 'massive', 'mega', 'mighty', 'monster', 'monstrous', 'monumental', 'mountainous', 'oceanic', 'pharaonic', 'planetary', 'prodigious', 'super', 'super-duper', 'supersize', 'supersized', 'titanic', 'tremendous', 'vast', 'vasty', 'walloping', 'whacking', 'whopping']	1.5	0.26245689392089844
+lazy	['idle', 'indolent', 'shiftless', 'slothful']	1.4286	0.26410889625549316
+mixed	['cold-blooded', 'cross', 'crossbred', 'hybrid', 'mongrel']	1.5	0.3300590515136719
+child	['bairn', 'bambino', 'bud', 'chap', 'chick', 'cub', 'juvenile', 'kid', 'kiddie', 'kiddo', 'moppet', 'sprat', 'sprout', 'squirt', 'whelp', 'youngling', 'youngster', 'youth']	1.39285	0.26671409606933594
+day	['daylight', 'daytime']	1.2143000000000002	0.31386899948120117
+cycle	['circle', 'merry-go-round', 'round', 'wheel', 'zodiac']	1.4286	0.265988826751709
+month	['No synonyms found']	1.25	0.2640528678894043
+job	['appointment', 'berth', 'billet', 'capacity', 'connection', 'function', 'place', 'position', 'post', 'situation']	1.4286	0.2723398208618164
+duty	['assessment', 'imposition', 'impost', 'levy', 'tax']	1.75715	0.265733003616333
+copy	['carbon', 'carbon copy', 'clone', 'dummy', 'dupe', 'duplicate', 'duplication', 'facsimile', 'imitation', 'mock', 'reduplication', 'replica', 'replication', 'reproduction']	1.7738250000000002	0.26430511474609375
+chill	['antiseptic', 'arctic', 'brittle', 'chilly', 'clammy', 'cold', 'cold-blooded', 'cold-eyed', 'coldish', 'cool', 'frigid', 'frosty', 'frozen', 'gelid', 'glacial', 'hard-eyed', 'icy', 'uncordial', 'unfriendly', 'unsympathetic', 'wintry']	1.3333	0.33484792709350586
+earth	['globe', 'planet', 'world']	1.4286	0.3189718723297119
+dancer	['foot (it)', 'hoof (it)', 'step']	1.5714	0.26976680755615234
+shopper	['advertisement', 'catalog', 'dodger', 'flysheet', 'handbill', 'handout', 'throwaway', 'tract', 'booklet', 'brochure', 'circular', 'flyer', 'folder', 'leaflet', 'pamphlet', 'paperback', 'paperbound', 'pocket book', 'guidebook', 'handbook', 'how-to', 'instructions', 'manual']	1.6667	0.2730879783630371
+tea	['breakfast', 'buffet', 'collation', 'dinner', 'lunch', 'luncheon', 'refreshments', 'smorgasbord', 'snack', 'supper', 'chow', 'feed', 'menu', 'mess', 'refection', 'repast', 'table', 'board', 'bite', 'gulp', 'morsel', 'serving', 'taste', 'banquet', 'feast', 'regale', 'spread', 'bake', 'barbecue', 'clambake', 'cookout', 'fry', 'fry-up', 'luau', 'picnic', 'potluck', 'roast']	1.7143	0.3144049644470215
+war	['conflagration', 'conflict', 'hostilities', 'hot war']	1.41665	0.31627988815307617
+sugar	['angel', 'benefactor', 'donator', 'donor', 'fairy godmother', 'Maecenas', 'patron']	1.7143	0.26511096954345703
+unsafe	['dangerous', 'grave', 'grievous', 'hazardous', 'jeopardizing', 'menacing', 'parlous', 'perilous', 'risky', 'serious', 'threatening', 'unhealthy', 'venturesome']	1.8	0.27080416679382324
+actual	['concrete', 'de facto', 'effective', 'existent', 'factual', 'genuine', 'real', 'sure-enough', 'true', 'very']	1.7143	0.2671518325805664
+forest	['forestland', 'timber', 'timberland', 'wood(s)', 'woodland']	1.75	0.26515984535217285
+hide	['bury', 'cache', 'conceal', 'ensconce', 'secrete']	1.75	0.2699728012084961
+hole	['aperture', 'opening', 'orifice', 'perforation']	1.55	0.3116598129272461
+net	['mesh', 'netting', 'network']	1.70235	0.31624913215637207
+sing	['carol', 'chant', 'descant', 'vocalize']	1.5	0.26628732681274414
+stone	['gravestone', 'headstone', 'monument', 'tombstone']	1.60715	0.3183867931365967
+oral	['spoken', 'uttered', 'vocal', 'voiced']	1.6667	0.26419711112976074
+college	['association', 'board', 'brotherhood', 'chamber', 'club', 'congress', 'consortium', 'council', 'fellowship', 'fraternity', 'guild', 'institute', 'institution', 'league', 'order', 'organization', 'society', 'sodality']	1.7738	0.2610166072845459
+world	['folks', 'humanity', 'humankind', 'people', 'public', 'species']	1.36905	0.2720530033111572
+bite	['acerbity', 'acidity', 'acidness', 'acridity', 'acridness', 'acrimoniousness', 'acrimony', 'acuteness', 'asperity', 'bitterness', 'edge', 'harshness', 'keenness', 'poignance', 'poignancy', 'pungency', 'roughness', 'sharpness', 'tartness']	1.5	0.2770712375640869
+motel	['court', 'motor court', 'motor inn', 'motor lodge', 'resort', 'spa', 'tourist court', 'youth hostel', 'accommodations', 'lodgings', 'rest', 'camp', 'campground', 'apartment hotel', 'bunkhouse', 'dorm', 'dormitory', 'B and B', 'bed-and-breakfast', 'guesthouse', 'boardinghouse', 'lodging house', 'rooming house', 'auberge', 'caravansary', 'hospice', 'hostel', 'hostelry', 'hotel', 'inn', 'lodge', 'public house', 'tavern', 'doss-house', 'fleabag', 'flophouse']	1.7738	0.27469611167907715
+yeah	['all right', 'alright', 'aye', 'exactly', 'OK', 'okeydoke', 'yea', 'yep', 'yes', 'yo']	1.5714	0.26030802726745605
+bread	['bucks', 'cabbage', 'cash', 'change', 'chips', 'coin', 'currency', 'dough', 'gold', 'green', 'jack', 'kale', 'legal tender', 'lolly', 'long green', 'loot', 'lucre', 'money', 'moola', 'needful', 'pelf', 'scratch', 'shekels', 'tender', 'wampum']	1.5	0.2701680660247803
+freeze	['concrete', 'congeal', 'firm (up)', 'harden', 'indurate', 'set', 'solidify']	1.6667	0.272733211517334
+owl	['nighthawk']	1.1667	0.26427721977233887
+sender	['consign', 'dispatch', 'pack (off)', 'ship', 'shoot', 'transfer', 'transmit', 'transport']	1.6667	0.26001715660095215
+fire	['conflagration', 'holocaust', 'inferno']	1.711875	0.27880311012268066
+pad	['notepad', 'tablet']	1.7381	0.26520323753356934
+black	['ebony', 'pitch-black', 'pitch-dark', 'pitchy', 'raven', 'sable']	1.7381	0.2738511562347412
+stomach	['abdomen', 'belly', 'breadbasket', 'gut', 'solar plexus', 'tummy']	1.5714	0.30060386657714844
+tom	['diminutive', 'dwarf', 'midget', 'mite', 'peewee', 'pygmy', 'runt', 'scrub', 'shrimp']	1.3333	0.2776162624359131
+create	['beget', 'breed', 'bring', 'bring about', 'bring on', 'catalyze', 'cause', 'do', 'draw on', 'effect', 'effectuate', 'engender', 'generate', 'induce', 'invoke', 'make', 'occasion', 'produce', 'prompt', 'result (in)', 'spawn', 'translate (into)', 'work', 'yield']	1.7499749999999998	0.2648758888244629
+away	['down', 'fro', 'hence', 'off', 'out']	1.3333	0.3124871253967285
+hell	['Gehenna', 'Pandemonium', 'perdition', 'Tophet']	1.5714	0.32082104682922363
+health	['fitness', 'healthiness', 'heartiness', 'robustness', 'sap', 'soundness', 'verdure', 'wellness', 'wholeness', 'wholesomeness']	1.5	0.2991178035736084
+wear	['break', 'burn out', 'bust', 'do in', 'do up', 'drain', 'exhaust', 'fag', 'fatigue', 'frazzle', 'harass', 'kill', 'knock out', 'outwear', 'tire', 'tucker (out)', 'wash out', 'wear out', 'weary']	1.79428	0.31616997718811035
+awake	['insomniac', 'sleepless', 'wakeful', 'wide-awake']	1.6667	0.26836395263671875
+read	['peruse', 'pore (over)']	1.3333333333333333	0.2713489532470703
+way	['arterial', 'artery', 'avenue', 'boulevard', 'carriageway', 'drag', 'drive', 'expressway', 'freeway', 'high road', 'highway', 'pass', 'pike', 'road', 'roadway', 'route', 'row', 'street', 'thoroughfare', 'thruway', 'trace', 'turnpike']	1.42855	0.2741050720214844
+roughly	['about', 'approximately', 'around', 'like', 'more or less', 'much', 'near', 'plus or minus', 'say', 'some']	1.8	0.2630181312561035
+mud	['guck', 'mire', 'muck', 'ooze', 'slime', 'slop', 'sludge', 'slush']	1.7143	0.26462697982788086
+loss	['mislaying', 'misplacement']	1.7857500000000002	0.2720928192138672
+mess	"['chance-medley', 'chaos', 'confusion', 'disarrangement', 'disarray', 'dishevelment', 'disorder', 'disorderedness', 'disorderliness', 'disorganization', 'free-for-all', 'havoc', 'heck', 'hell', 'jumble', ""mare's nest"", 'messiness', 'misorder', 'muddle', 'muss', 'shambles', 'snake pit', 'tumble', 'welter']"	1.7143	0.26822400093078613
+eighteen	['No synonyms found']	1.1667	0.2695121765136719
+award	['accolade', 'blue ribbon', 'decoration', 'distinction', 'honor', 'kudo', 'plume', 'premium', 'prize']	1.7857	0.26584339141845703
+coin	['bread', 'bucks', 'cabbage', 'cash', 'change', 'chips', 'currency', 'dough', 'gold', 'green', 'jack', 'kale', 'legal tender', 'lolly', 'long green', 'loot', 'lucre', 'money', 'moola', 'needful', 'pelf', 'scratch', 'shekels', 'tender', 'wampum']	1.66665	0.26568603515625
+box	['bin', 'caddy', 'case', 'casket', 'chest', 'locker', 'trunk']	1.7142666666666664	0.27605509757995605
+boyfriend	['beau', 'boy', 'fellow', 'man', 'old man', 'swain']	1.5714	0.26320505142211914
+cap	['capsule', 'lozenge', 'pill', 'tablet']	1.7856999999999998	0.3219161033630371
+guy	['baby', 'being', 'bird', 'bod', 'body', 'character', 'cookie', 'creature', 'customer', 'devil', 'duck', 'egg', 'face', 'fish', 'head', 'human', 'human being', 'individual', 'life', 'man', 'mortal', 'party', 'person', 'personage', 'scout', 'slob', 'sort', 'soul', 'specimen', 'stiff', 'thing', 'wight']	1.5	0.26683712005615234
+fishing	['feeling', 'fumbling', 'groping', 'scrabbling']	1.3333	0.26632189750671387
+safely	['all right', 'alright', 'secure']	1.5	0.3061361312866211
+fan	['addict', 'aficionado', 'buff', 'bug', 'devotee', 'enthusiast', 'fanatic', 'fancier', 'fiend', 'fool', 'freak', 'habitué', 'head', 'hound', 'junkie', 'lover', 'maniac', 'maven', 'nut', 'sucker']	1.35715	0.2757108211517334
+wise	['discerning', 'insightful', 'perceptive', 'prudent', 'sagacious', 'sage', 'sapient']	1.6667	0.31844568252563477
+kiss	['smooch']	1.6777666666666669	0.2699861526489258
+use	['apply', 'employ', 'exercise', 'exploit', 'harness', 'operate', 'utilize']	1.2857500000000002	0.2713441848754883
+reason	['account', 'accounting', 'argument', 'case', 'explanation', 'rationale']	1.7143000000000002	0.26633405685424805
+less	['inferior', 'junior', 'lesser', 'lower', 'minor', 'smaller', 'subordinate']	1.5714	0.34673190116882324
+important	['big', 'consequential', 'earthshaking', 'earth-shattering', 'eventful', 'historic', 'major', 'material', 'meaningful', 'momentous', 'monumental', 'much', 'significant', 'substantial', 'tectonic', 'weighty']	1.7143	0.3104088306427002
+give	['bestow', 'contribute', 'donate', 'give away', 'present', 'volunteer']	1.4524	0.31795668601989746
+similar	['akin', 'alike', 'analogous', 'cognate', 'comparable', 'connate', 'correspondent', 'corresponding', 'ditto', 'like', 'matching', 'parallel', 'resemblant', 'resembling', 'such', 'suchlike']	1.5	0.2681558132171631
+butter	['adulation', 'blarney', 'flannel', 'flattery', 'incense', 'overpraise', 'soft soap', 'sweet talk', 'taffy']	1.5	0.2769589424133301
+mix	['admixture', 'alloy', 'amalgam', 'amalgamation', 'blend', 'cocktail', 'combination', 'composite', 'compound', 'conflation', 'emulsion', 'fusion', 'intermixture', 'meld', 'mixture', 'synthesis']	1.7063333333333333	0.26930904388427734
+dog	['canine', 'doggy', 'hound', 'pooch', 'tyke']	1.2143000000000002	0.27520179748535156
+person	['baby', 'being', 'bird', 'bod', 'body', 'character', 'cookie', 'creature', 'customer', 'devil', 'duck', 'egg', 'face', 'fish', 'guy', 'head', 'human', 'human being', 'individual', 'life', 'man', 'mortal', 'party', 'personage', 'scout', 'slob', 'sort', 'soul', 'specimen', 'stiff', 'thing', 'wight']	1.5	0.2655487060546875
+candle	['arc lamp', 'candelabra', 'candelabrum', 'chandelier', 'dark lantern', 'flare', 'flash', 'flashbulb', 'flashcube', 'flashlight', 'floodlight', 'fluorescent lamp', 'gaslight', 'gasolier', 'girandole', 'headlight', 'incandescent lamp', 'klieg light', 'lantern', 'light bulb', 'lighthouse', 'lighting', 'sconce', 'spotlight', 'streetlight', 'sun lamp', 'beacon', 'illuminant', 'lamp']	1.64285	0.27033495903015137
+deer	['No synonyms found']	1.3333	0.2588679790496826
+everybody	['all', 'everyone']	1.2	0.2607302665710449
+ten	['babe', 'cutie', 'dish', 'doll', 'dreamboat', 'fox', 'glamour-puss', 'hottie', 'knockout', 'looker', 'showstopper']	1.4286	0.3363640308380127
+user	['addict', 'dopehead', 'doper', 'druggie', 'fiend', 'freak', 'head', 'hophead', 'hype', 'junkie', 'stoner']	1.75	0.27311205863952637
+dairy	['No synonyms found']	1.6667	0.2668800354003906
+friday	['girl Friday', 'employee', 'hand', 'help', 'hireling', 'laborer', 'swamper', 'worker', 'man Friday', 'right hand', 'auxiliary', 'legman', 'subordinate', 'underling', 'aide-de-camp', 'attendant', 'handmaiden', 'maid', 'maidservant', 'scullion', 'servant', 'adjunct', 'adjutant', 'aid', 'aide', 'apprentice', 'assistant', 'coadjutor', 'deputy', 'helper', 'helpmate', 'helpmeet', 'lieutenant', 'mate', 'sidekick']	1.5	0.27386903762817383
+idiot	['airhead', 'birdbrain', 'blockhead', 'bonehead', 'bubblehead', 'chowderhead', 'chucklehead', 'clodpoll', 'clot', 'cluck', 'clunk', 'cretin', 'cuddy', 'deadhead', 'dim bulb', 'dimwit', 'dip', 'dodo', 'dolt', 'donkey', 'doofus', 'dope', 'dork', 'dullard', 'dumbbell', 'dumbhead', 'dum-dum', 'dummkopf', 'dummy', 'dunce', 'dunderhead', 'fathead', 'gander', 'golem', 'goof', 'goon', 'half-wit', 'hammerhead', 'hardhead', 'ignoramus', 'imbecile', 'jackass', 'know-nothing', 'knucklehead', 'lamebrain', 'loggerhead', 'loon', 'lump', 'lunkhead', 'meathead', 'mome', 'moron', 'mug', 'mutt', 'natural', 'nimrod', 'nincompoop', 'ninny', 'ninnyhammer', 'nit', 'nitwit', 'noddy', 'noodle', 'numskull', 'oaf', 'pinhead', 'prat', 'ratbag', 'saphead', 'schlub', 'schnook', 'simpleton', 'stock', 'stupe', 'stupid', 'thickhead', 'turkey', 'woodenhead', 'yahoo', 'yo-yo']	1.7143	0.26186490058898926
+adult	['grown-up']	1.5	0.2668447494506836
+sunny	['aglow', 'beaming', 'bright', 'glowing', 'radiant']	1.7143	0.2608780860900879
+group	['array', 'assemblage', 'band', 'bank', 'batch', 'battery', 'block', 'bunch', 'clot', 'clump', 'cluster', 'clutch', 'collection', 'constellation', 'grouping', 'huddle', 'knot', 'lot', 'muster', 'package', 'parcel', 'passel', 'set', 'suite']	1.678575	0.2647972106933594
+colorful	['chromatic', 'colored', 'kaleidoscopic', 'motley', 'multicolored', 'multihued', 'polychromatic', 'polychrome', 'prismatic', 'rainbow', 'varicolored', 'varied', 'variegated', 'various']	1.7143	0.2641632556915283
+farm	['estate', 'farmstead', 'grange', 'ranch']	1.6984	0.310636043548584
+lemon	['bomb', 'bummer', 'bust', 'catastrophe', 'clinker', 'clunker', 'debacle', 'disaster', 'dud', 'failure', 'fiasco', 'fizzle', 'flop', 'frost', 'loser', 'miss', 'shipwreck', 'turkey', 'washout']	1.7143	0.2619321346282959
+necklace	['choker', 'collar', 'dog collar', 'lei']	1.7	0.269669771194458
+bat	['bang', 'bash', 'beat', 'belt', 'biff', 'blow', 'bop', 'box', 'buffet', 'bust', 'chop', 'clap', 'clip', 'clout', 'crack', 'cuff', 'dab', 'douse', 'fillip', 'hack', 'haymaker', 'hit', 'hook', 'knock', 'larrup', 'lash', 'lick', 'pelt', 'pick', 'plump', 'poke', 'pound', 'punch', 'rap', 'slam', 'slap', 'slug', 'smack', 'smash', 'sock', 'spank', 'stinger', 'stripe', 'stroke', 'swat', 'swipe', 'switch', 'thud', 'thump', 'thwack', 'wallop', 'welt', 'whack', 'wham', 'whop']	1.7856999999999998	0.315079927444458
+police	['law']	1.4286	0.31412386894226074
+outside	['apart from', 'aside from', 'bar', 'barring', 'beside', 'besides', 'but', 'except', 'except for', 'excluding', 'exclusive of', 'other than', 'outside of', 'save', 'saving']	1.3333	0.2832009792327881
+sibling	['brother', 'sister', 'stepbrother', 'stepsister', 'cousin', 'kinsman', 'kinswoman', 'relation', 'relative', 'in-law', 'kissing cousin', 'blood', 'clan', 'family', 'folk', 'house', 'kindred', 'kinfolk', 'kinsfolk', 'line', 'lineage', 'people', 'race', 'stock', 'tribe']	1.8	0.27822113037109375
+bow	['blink', 'budge', 'capitulate', 'concede', 'give in', 'knuckle under', 'quit', 'relent', 'submit', 'succumb', 'surrender', 'yield']	1.5714	0.26483702659606934
+carpet	['blanket', 'coat', 'cover', 'overlay', 'overlie', 'overspread', 'sheet']	1.7143	0.26552891731262207
+thirteen	['No synonyms found']	1.4286	0.26233720779418945
+summer	['autumn', 'bloom', 'blossom', 'florescence', 'floruit', 'flower', 'flush', 'heyday', 'high noon', 'prime', 'salad days', 'springtime', 'blooming', 'blossoming', 'efflorescence', 'flowering', 'acme', 'apex', 'climax', 'meridian', 'peak', 'pinnacle', 'summit', 'zenith', 'glory', 'grandeur', 'splendor', 'belle epoque', 'golden age', 'silver age', 'comeback', 'recovery', 'revival']	1.64285	0.2675657272338867
+goodbye	['adieu', 'au revoir', 'ave', 'bon voyage', 'congé', 'farewell', 'Godspeed']	1.4286	0.26862597465515137
+peace	['peacefulness']	1.3333	0.27334094047546387
+follow	['postdate', 'succeed', 'supervene']	1.4345	0.26860785484313965
+lunch	['breakfast', 'buffet', 'collation', 'dinner', 'luncheon', 'refreshments', 'smorgasbord', 'snack', 'supper', 'tea', 'chow', 'feed', 'menu', 'mess', 'refection', 'repast', 'table', 'board', 'bite', 'gulp', 'morsel', 'serving', 'taste', 'banquet', 'feast', 'regale', 'spread', 'bake', 'barbecue', 'clambake', 'cookout', 'fry', 'fry-up', 'luau', 'picnic', 'potluck', 'roast']	1.7143	0.3148207664489746
+ball	['globe', 'orb', 'sphere']	1.33335	0.27674198150634766
+yellow	['chicken', 'chicken-livered', 'chickenhearted', 'cowardly', 'craven', 'dastardly', 'gutless', 'lily-livered', 'milk-livered', 'poltroon', 'pusillanimous', 'recreant', 'spineless', 'unheroic']	1.5	0.263721227645874
+darkness	['black', 'blackness', 'candlelight', 'dark', 'dusk', 'gloaming', 'gloom', 'murk', 'night', 'semidarkness', 'shade', 'shadows', 'twilight', 'umbra']	1.6667	0.26548004150390625
+north	['No synonyms found']	1.4286	0.2622652053833008
+pic	['photo', 'photograph', 'print', 'shot', 'snap', 'snapshot']	1.5	0.2633779048919678
+chat	['backchat', 'cackle', 'causerie', 'chatter', 'chin music', 'chin-wag', 'chitchat', 'confab', 'confabulation', 'gab', 'gabfest', 'gossip', 'jangle', 'jaw', 'natter', 'palaver', 'patter', 'rap', 'schmooze', 'small talk', 'table talk', 'talk', 'tête-à-tête']	1.6667	0.31247401237487793
+rat	['betrayer', 'canary', 'deep throat', 'fink', 'informant', 'informer', 'nark', 'rat fink', 'snitch', 'snitcher', 'squealer', 'stool pigeon', 'stoolie', 'talebearer', 'tattler', 'tattletale', 'telltale', 'whistle-blower']	1.5	0.278364896774292
+park	['demesne', 'ground', 'premises', 'yard']	1.7856999999999998	0.2671029567718506
+mom	['ma', 'mama', 'mammy', 'mater', 'mommy', 'mother', 'old lady']	1.35715	0.2636709213256836
+call	['bawl', 'bay', 'bellow', 'cry', 'holler', 'hollo', 'roar', 'shout', 'sound off', 'thunder', 'vociferate', 'yell']	1.6904666666666668	0.2735249996185303
+huh	['No synonyms found']	1.1667	0.30425500869750977
+jeep	['No synonyms found']	1.7143	0.28702807426452637
+meat	['flesh']	1.5	0.2662661075592041
+case	['armor', 'capsule', 'casing', 'cocoon', 'cover', 'covering', 'encasement', 'housing', 'hull', 'husk', 'jacket', 'pod', 'sheath', 'shell']	1.7856999999999998	0.2767050266265869
+tall	['altitudinous', 'high', 'lofty', 'towering']	1.3333	0.2658543586730957
+mini	['compact', 'coupe', 'intermediate', 'limousine', 'minicar', 'sedan', 'subcompact', 'V-8', 'auto', 'automobile', 'bus', 'car', 'horseless carriage', 'machine', 'motor', 'motorcar', 'motor vehicle', 'wheels', 'coach', 'jitney', 'microbus', 'minibus', 'minivan', 'omnibus', 'van', 'convertible', 'fastback', 'hardtop', 'hatchback', 'notchback', 'ragtop', 'sports car', 'sport-utility vehicle', 'station wagon', 'SUV', 'town car', 'wagon', 'woody', 'gas-guzzler', 'land yacht', 'muscle car', 'stock car', 'turbocar', 'beater', 'clunker', 'crate', 'flivver', 'jalopy', 'junker', 'cream puff', 'phaeton', 'roadster', 'tin lizzie', 'touring car', 'hybrid']	1.5714	0.3176729679107666
+parent	['dad', 'daddy', 'father', 'genitor', 'ma', 'mama', 'mammy', 'mater', 'mom', 'mother', 'mommy', 'pa', 'papa', 'pater', 'pop', 'stepfather', 'stepmother', 'stepparent', 'custodian', 'guardian', 'ancestor', 'antecedent', 'forebear', 'forebearer', 'forefather', 'grandfather', 'grandmother', 'primogenitor', 'progenitor']	1.5	0.2660999298095703
+usually	['commonly', 'generally', 'natch', 'naturally', 'normally', 'ordinarily', 'typically']	1.7143	0.2646520137786865
+hair	"['ace', 'hairbreadth', 'hairline', 'hop, skip, and jump', 'inch', 'neck', 'shouting distance', 'step', ""stone's throw""]"	1.2857	0.274000883102417
+hiding	['caching', 'concealment', 'secretion', 'stashing']	1.6	0.31107020378112793
+food	['bread', 'chow', 'chuck', 'comestibles', 'eatables', 'eats', 'edibles', 'fare', 'foodstuffs', 'grub', 'meat', 'provender', 'provisions', 'table', 'tucker', 'viands', 'victuals', 'vittles']	1.42855	0.27045202255249023
+fourth	['No synonyms found']	1.8	0.2648169994354248
+row	['bank', 'rank']	1.4793666666666667	0.3084747791290283
+min	['No synonyms found']	1.5	0.26363587379455566
+buy	['cop', 'pick up', 'purchase', 'take']	1.41665	0.27074694633483887
+football	['No synonyms found']	1.7143	0.26404285430908203
+ice	['bijouterie', 'bling', 'jewelry', 'accessory', 'bauble', 'bijou', 'trinket', 'brilliant', 'gem', 'gemstone', 'jewel', 'rock', 'parure', 'adornment', 'beautifier', 'caparison', 'decoration', 'doodad', 'embellisher', 'embellishment', 'frill', 'garnish', 'garnishment', 'garniture', 'gaud', 'ornamentation', 'regalia', 'setoff', 'trim', 'crown jewels', 'birthstone', 'baguette', 'cabochon', 'cameo', 'scarab', 'solitaire', 'teardrop', 'paste', 'rhinestone', 'zircon']	1.2857	0.27527403831481934
+zebra	['No synonyms found']	1.6	0.27301692962646484
+shiny	['beaming', 'bedazzling', 'bright', 'brilliant', 'candescent', 'clear', 'dazzling', 'effulgent', 'fulgent', 'glowing', 'incandescent', 'lambent', 'lucent', 'lucid', 'luminous', 'lustrous', 'radiant', 'refulgent', 'sheeny', 'shining', 'splendid']	1.7143	0.26500415802001953
+dollar	['bone', 'buck', 'clam', 'one', 'smacker']	1.5714	0.26575422286987305
+class	['caste', 'estate', 'folk', 'gentry', 'order', 'stratum']	1.45715	0.3176398277282715
+aye	['always', 'consistently', 'constantly', 'continually', 'ever', 'forever', 'incessantly', 'invariably', 'night and day', 'perpetually', 'unfailingly']	1.5714	0.2699117660522461
+vase	['No synonyms found']	1.7143	0.26412391662597656
+cold	['algid', 'arctic', 'bitter', 'bone-chilling', 'chill', 'chilly', 'coldish', 'cool', 'coolish', 'freezing', 'frigid', 'frosty', 'gelid', 'glacial', 'ice-cold', 'icy', 'nipping', 'nippy', 'numbing', 'polar', 'shivery', 'snappy', 'wintry']	1.5714	0.27736711502075195
+half	['moiety']	1.5	0.3151531219482422
+com	['No synonyms found']	1.5	0.2640397548675537
+rude	['artless', 'clumsy', 'crude', 'jerry-built', 'jerry-rigged', 'jury-rigged', 'rough', 'rough-and-ready', 'rough-and-tumble', 'rough-hewn', 'unrefined']	1.5714	0.26543688774108887
+tear	['gash', 'incision', 'laceration', 'rent', 'rip', 'slash', 'slit']	1.7936666666666667	0.27243494987487793
+inside	['within']	1.5	0.27267003059387207
+pepper	['bestrew', 'dot', 'scatter', 'sow', 'spot', 'spray', 'sprinkle', 'strew']	1.75	0.2634098529815674
+nice	['befitting', 'correct', 'de rigueur', 'decent', 'decorous', 'genteel', 'polite', 'proper', 'respectable', 'seemly']	1.5714	0.27172422409057617
+awful	['abhorrent', 'abominable', 'appalling', 'disgusting', 'distasteful', 'dreadful', 'evil', 'foul', 'fulsome', 'gross', 'hideous', 'horrendous', 'horrible', 'horrid', 'loathsome', 'nasty', 'nauseating', 'nauseous', 'noisome', 'noxious', 'obnoxious', 'obscene', 'odious', 'offensive', 'rancid', 'repellent', 'repugnant', 'repulsive', 'revolting', 'scandalous', 'shocking', 'sickening', 'ugly']	1.5	0.26749181747436523
+speed	['celerity', 'fastness', 'fleetness', 'haste', 'hurry', 'quickness', 'rapidity', 'rapidness', 'speediness', 'swiftness', 'velocity']	1.7856999999999998	0.3199760913848877
+ago	['agone', 'back', 'since', 'syne']	1.1429	0.29833984375
+move	['budge', 'dislocate', 'displace', 'disturb', 'relocate', 'remove', 'reposition', 'shift', 'transfer', 'transpose']	1.6666666666666667	0.288815975189209
+cup	['mug']	1.4286	0.26488614082336426
+profit	['earnings', 'gain', 'lucre', 'net', 'payoff', 'proceeds', 'return']	1.7	0.26501989364624023
+pool	['billabong', 'mere', 'puddle', 'stank', 'well']	1.5	0.3164248466491699
+panda	['No synonyms found']	1.7143	0.28452277183532715
+teen	['preteen', 'preteen-ager', 'subteen', 'teenager', 'teener', 'teenybopper', 'tween', 'bairn', 'bambino', 'bud', 'chap', 'chick', 'child', 'cub', 'juvenile', 'kid', 'kiddie', 'kiddo', 'moppet', 'sprat', 'sprout', 'squirt', 'whelp', 'youngling', 'youngster', 'youth', 'adolescent', 'minor', 'kindergartner', 'preschooler', 'rug rat', 'schoolboy', 'schoolchild', 'schoolgirl', 'schoolkid', 'babe', 'baby', 'bantling', 'infant', 'neonate', 'nestling', 'newborn', 'toddler', 'tot', 'tyke', 'weanling', 'imp', 'jackanapes', 'mischief', 'monkey', 'rapscallion', 'rascal', 'rogue', 'urchin', 'whippersnapper', 'cherub', 'lad', 'nipper', 'shaver', 'stripling', 'tad', 'bobby-soxer', 'hoyden', 'tomboy']	1.61905	0.2651538848876953
+later	['after', 'afterward', 'latterly', 'subsequently', 'thereafter']	1.2857	0.3089730739593506
+hand	['angle', 'aspect', 'facet', 'phase', 'side']	1.5714333333333337	0.2729949951171875
+do	['befit', 'beseem', 'fit', 'go', 'serve', 'suit']	1.380966666666667	0.35288381576538086
+oops	['ugh', 'there', '(the) deuce', 'egad', 'gad', 'gadzooks', 'the devil', 'the dickens', 'zounds', 'fiddlesticks', 'phooey', 'pooh', 'gee', 'gee whiz', 'ha', 'hello', 'hey', 'lo', 'oh', 'ah', 'aha', 'come on', 'fie', 'indeed', 'my word', 'no', 'pshaw', 'well', 'what', 'why']	1.4286	0.27519893646240234
+soap	['cleaner', 'cleanser', 'detergent']	1.5	0.2665679454803467
+lover	['addict', 'aficionado', 'buff', 'bug', 'devotee', 'enthusiast', 'fan', 'fanatic', 'fancier', 'fiend', 'fool', 'freak', 'habitué', 'head', 'hound', 'junkie', 'maniac', 'maven', 'nut', 'sucker']	1.3333	0.26257896423339844
+tub	['cistern', 'vat', 'scuttlebutt', 'can', 'drum', 'barrel', 'butt', 'cask', 'firkin', 'hogshead', 'keg', 'kilderkin', 'pipe', 'puncheon', 'rundlet', 'tun']	1.7143	0.3112788200378418
+out	['alfresco', 'outdoors', 'outside']	1.6667	0.2717099189758301
+oldest	['aged', 'aging', 'ancient', 'elderly', 'geriatric', 'long-lived', 'older', 'over-the-hill', 'senescent', 'senior', 'unyoung']	1.7143	0.26442408561706543
+morning	['forenoon', 'morn']	1.5714	0.26369810104370117
+owner	['holder', 'possessor', 'proprietor']	1.6667	0.26386213302612305
+seventh	['cloud nine', 'ecstasy', 'elatedness', 'elation', 'euphoria', 'exhilaration', 'heaven', 'high', 'intoxication', 'paradise', 'rapture', 'rhapsody', 'swoon', 'transport']	1.2857	0.26686906814575195
+teenager	['preteen', 'preteen-ager', 'subteen', 'teen', 'teener', 'teenybopper', 'tween', 'bairn', 'bambino', 'bud', 'chap', 'chick', 'child', 'cub', 'juvenile', 'kid', 'kiddie', 'kiddo', 'moppet', 'sprat', 'sprout', 'squirt', 'whelp', 'youngling', 'youngster', 'youth', 'adolescent', 'minor', 'kindergartner', 'preschooler', 'rug rat', 'schoolboy', 'schoolchild', 'schoolgirl', 'schoolkid', 'babe', 'baby', 'bantling', 'infant', 'neonate', 'nestling', 'newborn', 'toddler', 'tot', 'tyke', 'weanling', 'imp', 'jackanapes', 'mischief', 'monkey', 'rapscallion', 'rascal', 'rogue', 'urchin', 'whippersnapper', 'cherub', 'lad', 'nipper', 'shaver', 'stripling', 'tad', 'bobby-soxer', 'hoyden', 'tomboy']	1.71665	0.26532793045043945
+dead	['asleep', 'breathless', 'cold', 'deceased', 'defunct', 'demised', 'departed', 'fallen', 'gone', 'late', 'lifeless', 'low']	1.5	0.3153798580169678
+loud	['blaring', 'blasting', 'booming', 'clamorous', 'clangorous', 'deafening', 'earsplitting', 'piercing', 'plangent', 'resounding', 'ringing', 'roaring', 'slam-bang', 'sonorous', 'stentorian', 'thundering', 'thunderous']	1.4	0.26575326919555664
+real	['authentic', 'bona fide', 'certifiable', 'certified', 'dinkum', 'echt', 'genuine', 'honest', 'pukka', 'right', 'sure-enough', 'true']	1.4286	0.27448201179504395
+useless	['impracticable', 'impractical', 'inoperable', 'nonpractical', 'unserviceable', 'unusable', 'unworkable']	1.5	0.26551198959350586
+anger	['angriness', 'birse', 'choler', 'furor', 'fury', 'indignation', 'irateness', 'ire', 'lividity', 'lividness', 'mad', 'madness', 'mood', 'outrage', 'rage', 'spleen', 'wrath', 'wrathfulness']	1.3333	0.2647542953491211
+round	['band', 'circle', 'eye', 'hoop', 'loop', 'ring']	1.55	0.2753300666809082
+poet	['bard', 'minstrel', 'muse', 'poetaster', 'rhymester', 'versifier']	1.7738	0.2639141082763672
+coke	['No synonyms found']	1.6667	0.285783052444458
+hurry	['haste', 'hastiness', 'hustle', 'precipitation', 'precipitousness', 'rush']	1.5714	0.2678802013397217
+deadly	['baleful', 'deathly', 'fatal', 'fell', 'killer', 'lethal', 'mortal', 'murderous', 'pestilent', 'terminal', 'vital']	1.6667	0.2649252414703369
+birth	['geniture', 'nativity']	1.64285	0.2730560302734375
+spider	['No synonyms found']	1.7143	0.27408599853515625
+perfect	['absolute', 'faultless', 'flawless', 'ideal', 'immaculate', 'impeccable', 'indefectible', 'irreproachable', 'letter-perfect', 'picture-book', 'picture-perfect', 'seamless', 'unblemished']	1.6667	0.26788878440856934
+common	['common or garden', 'commonplace', 'everyday', 'familiar', 'frequent', 'garden-variety', 'household', 'ordinary', 'quotidian', 'routine', 'ubiquitous', 'usual']	1.5714	0.27562594413757324
+one	['bone', 'buck', 'clam', 'dollar', 'smacker']	1.4286	0.3489811420440674
+fifth	['No synonyms found']	1.6667	0.2668302059173584
+easily	['easy', 'effortlessly', 'facilely', 'fluently', 'freely', 'handily', 'hands down', 'lightly', 'painlessly', 'readily', 'smoothly', 'well']	1.7143	0.27057790756225586
+disagree	['differ', 'dissent', 'nonconcur']	1.7143	0.26318883895874023
+snake	['serpent', 'viper']	1.5	0.27407312393188477
+highly	['achingly', 'almighty', 'archly', 'awful', 'awfully', 'badly', 'beastly', 'blisteringly', 'bone', 'colossally', 'corking', 'cracking', 'damn', 'damned', 'dang', 'deadly', 'desperately', 'eminently', 'enormously', 'especially', 'ever', 'exceedingly', 'extra', 'extremely', 'fabulously', 'fantastically', 'far', 'fiercely', 'filthy', 'frightfully', 'full', 'greatly', 'heavily', 'hugely', 'immensely', 'incredibly', 'intensely', 'jolly', 'majorly', 'mightily', 'mighty', 'monstrous', 'mortally', 'most', 'much', 'particularly', 'passing', 'rattling', 'real', 'really', 'right', 'roaring', 'roaringly', 'seriously', 'severely', 'so', 'sore', 'sorely', 'spanking', 'specially', 'stinking', 'such', 'super', 'supremely', 'surpassingly', 'terribly', 'that', 'thumping', 'too', 'unco', 'uncommonly', 'vastly', 'very', 'vitally', 'way', 'whacking', 'wicked', 'wildly']	1.6667	0.26693224906921387
+angry	['angered', 'apoplectic', 'ballistic', 'cheesed off', 'choleric', 'enraged', 'foaming', 'fuming', 'furious', 'hopping', 'horn-mad', 'hot', 'incensed', 'indignant', 'inflamed', 'infuriate', 'infuriated', 'irate', 'ireful', 'livid', 'mad', 'outraged', 'rabid', 'rankled', 'riled', 'riley', 'roiled', 'shirty', 'sore', 'steamed up', 'steaming', 'teed off', 'ticked', 'wrathful', 'wroth']	1.6667	0.2765648365020752
+slight	['asthenic', 'debilitated', 'delicate', 'down-and-out', 'effete', 'enervated', 'enfeebled', 'faint', 'feeble', 'frail', 'infirm', 'languid', 'low', 'prostrate', 'prostrated', 'sapped', 'soft', 'softened', 'tender', 'unsubstantial', 'wasted', 'weak', 'weakened', 'wimpish', 'wimpy']	1.8	0.2691950798034668
+webpage	['No synonyms found']	1.6	0.2877829074859619
+cookie	['babe', 'beauty', 'beauty queen', 'cutie', 'dolly bird', 'enchantress', 'eyeful', 'fox', 'goddess', 'honey', 'knockout', 'queen', 'stunner']	1.7143	0.26667332649230957
+road	['arterial', 'artery', 'avenue', 'boulevard', 'carriageway', 'drag', 'drive', 'expressway', 'freeway', 'high road', 'highway', 'pass', 'pike', 'roadway', 'route', 'row', 'street', 'thoroughfare', 'thruway', 'trace', 'turnpike', 'way']	1.5714	0.27359700202941895
+sauce	['dressing', 'gravy']	1.6667	0.26442599296569824
+spoon	['bucket', 'dip', 'lade', 'ladle', 'scoop']	1.6	0.3161909580230713
+wash	['bathe', 'lap', 'lave', 'lip', 'splash']	1.7142499999999998	0.2672271728515625
+wild	['feral', 'savage', 'unbroken', 'undomesticated', 'untamed', 'wilding']	1.4286	0.2828190326690674
+busy	['active', 'assiduous', 'bustling', 'diligent', 'employed', 'engaged', 'hopping', 'industrious', 'laborious', 'occupied', 'sedulous', 'tied-up', 'working']	1.3333	0.26454591751098633
+tin	['barrel', 'can', 'canister', 'drum']	1.4	0.2695457935333252
+art	['craft', 'handcraft', 'handicraft', 'trade']	1.64285	0.3150057792663574
+player	['instrumentalist', 'musician']	1.7143	0.275130033493042
+headphone	['No synonyms found']	1.8	0.2891688346862793
+hen	['bakes', 'clambakes', 'cocktail parties', 'house parties', 'housewarmings', 'icebreakers', 'kaffeeklatsches', 'keggers', 'klatches', 'masquerades', 'meet and greets', 'mixers', 'salons', 'showers', 'socials', 'soirees', 'stags', 'suppers', 'symposia', 'tea parties', 'teas', 'affairs', 'bashes', 'binges', 'blasts', 'blowouts', 'dos', 'events', 'fetes', 'functions', 'get-togethers', 'parties', 'receptions', 'shindigs', 'benefits', 'fund-raisers', 'balls', 'dances', 'formals', 'proms', 'celebrations', 'galas', 'occasions', 'bacchanalia', 'bacchanals', 'orgies', 'saturnalias']	1.5714	0.2699110507965088
+leg	['pin']	1.5714	0.3170158863067627
+cut	['gash', 'incise', 'rip', 'shear', 'slash', 'slice', 'slit']	1.380966666666667	0.2771458625793457
+cute	['artful', 'beguiling', 'cagey', 'crafty', 'cunning', 'designing', 'devious', 'dodgy', 'foxy', 'guileful', 'scheming', 'shrewd', 'slick', 'sly', 'subtle', 'tricky', 'wily']	1.5	0.2653322219848633
+fox	['babe', 'beauty', 'beauty queen', 'cookie', 'cutie', 'dolly bird', 'enchantress', 'eyeful', 'goddess', 'honey', 'knockout', 'queen', 'stunner']	1.6667	0.31000494956970215
+thursday	['No synonyms found']	1.7143	0.27149176597595215
+rabbit	['badger', 'beaver', 'chamois', 'chinchilla', 'ermine', 'fisher', 'fox', 'marten', 'mink', 'muskrat', 'otter', 'Persian lamb', 'raccoon', 'sable', 'seal', 'fur', 'hide', 'leather', 'pelt', 'skin', 'bearskin', 'buckskin', 'calfskin', 'coonskin', 'cowhide', 'deerskin', 'doeskin', 'goatskin', 'horsehide', 'karakul', 'kidskin', 'kolinsky', 'lambskin', 'pigskin', 'rawhide', 'sealskin', 'sharkskin', 'sheep', 'sheepskin', 'snakeskin', 'fleece', 'mouton', 'alligator', 'crocodile', 'cordovan', 'morocco', 'patent leather', 'suede']	1.7143	0.3197150230407715
+baby	['babe', 'bambino', 'child', 'infant', 'neonate', 'newborn']	1.42855	0.3133738040924072
+poem	['lyric', 'rune', 'song', 'verse']	1.7143	0.26105809211730957
+bitch	['beef', 'bleat', 'carp', 'complaint', 'fuss', 'grievance', 'gripe', 'grouch', 'grouse', 'grumble', 'holler', 'kvetch', 'lament', 'miserere', 'moan', 'murmur', 'plaint', 'squawk', 'wail', 'whimper', 'whine', 'whinge', 'yammer']	1.7856999999999998	0.2636101245880127
+elephant	['behemoth', 'blockbuster', 'colossus', 'dinosaur', 'dreadnought', 'giant', 'Goliath', 'jumbo', 'leviathan', 'mammoth', 'mastodon', 'monster', 'titan', 'whale', 'whopper']	1.5714	0.26568603515625
+social	['boon', 'clubbable', 'clubby', 'companionable', 'convivial', 'extroverted', 'gregarious', 'outgoing', 'sociable']	1.6667	0.2684926986694336
+bull	['decree', 'diktat', 'directive', 'edict', 'fiat', 'rescript', 'ruling', 'ukase']	1.67855	0.27477216720581055
+hat	['cap', 'chapeau', 'headdress', 'headgear', 'headpiece', 'lid']	1.64285	0.2819101810455322
+fat	"['A-list', 'aristocracy', 'best', 'choice', ""corps d'elite"", 'cream', 'crème de la crème', 'elect', 'elite', 'flower', 'illuminati', 'pick', 'pink', 'pride', 'priesthood', 'prime', 'royalty', 'upper crust']"	1.66665	0.29696011543273926
+cab	['hack', 'taxi', 'taxicab']	1.7143	0.2654409408569336
+sick	['ailing', 'bad', 'down', 'ill', 'indisposed', 'peaked', 'peaky', 'poorly', 'punk', 'run-down', 'sickened', 'unhealthy', 'unsound', 'unwell']	1.6667	0.29334235191345215
+equal	['candid', 'disinterested', 'dispassionate', 'equitable', 'evenhanded', 'fair', 'impartial', 'indifferent', 'just', 'nonpartisan', 'objective', 'square', 'unbiased', 'unprejudiced']	1.53335	0.26703524589538574
+sure	['assured', 'certain', 'clear', 'cocksure', 'confident', 'doubtless', 'implicit', 'positive', 'sanguine']	1.0	0.3159177303314209
+papa	['dad', 'daddy', 'father', 'old man', 'pa', 'pater', 'pop', 'sire']	1.4286	0.26334595680236816
+ugly	['grotesque', 'hideous', 'homely', 'ill-favored', 'monstrous', 'unappealing', 'unattractive', 'unbeautiful', 'uncomely', 'unhandsome', 'unlovely', 'unpleasing', 'unpretty', 'unsightly', 'vile']	1.3333	0.2688601016998291
+phone	['call', 'dial', 'ring (up)', 'telephone']	1.5	0.2636239528656006
+cash	['bread', 'bucks', 'cabbage', 'change', 'chips', 'coin', 'currency', 'dough', 'gold', 'green', 'jack', 'kale', 'legal tender', 'lolly', 'long green', 'loot', 'lucre', 'money', 'moola', 'needful', 'pelf', 'scratch', 'shekels', 'tender', 'wampum']	1.5	0.2823340892791748
+soft	['dull', 'gentle', 'low', 'quiet']	1.3333	0.3223137855529785
+glove	['halter', 'lasso', 'rope', 'bag', 'capture', 'catch', 'collar', 'cop', 'corral', 'get', 'glom', 'grab', 'grapple', 'hook', 'land', 'nab', 'nail', 'net', 'nobble', 'rap', 'seize', 'snag', 'snap (up)', 'snare', 'snatch', 'trap', 'apprehend', 'arrest', 'detain', 'bay', 'corner', 'clasp', 'clutch', 'fasten (on)', 'fist', 'grasp', 'grip', 'hold', 'latch (on or onto)', 'secure', 'rend', 'wrest', 'enmesh', 'ensnare', 'entangle', 'entrap', 'mesh', 'abduct', 'kidnap', 'spirit (away or off)']	1.62855	0.26492905616760254
+rug	['hairpiece', 'toupee', 'wig']	1.7856999999999998	0.2675588130950928
+sandy	['blond', 'fair', 'flaxen', 'golden', 'straw', 'tawny']	1.7143	0.2632739543914795
+tuesday	['No synonyms found']	1.1429	0.2631068229675293
+pant	['blow', 'gasp', 'heave', 'hyperventilate', 'puff', 'wheeze']	1.75	0.26479530334472656
+be	['breathe', 'exist', 'live', 'subsist']	1.5	0.2791306972503662
+costly	['big-ticket', 'dear', 'expensive', 'extravagant', 'high', 'high-end', 'high-ticket', 'precious', 'premium', 'priceless', 'pricey', 'spendy', 'ultraexpensive', 'valuable']	1.5	0.26466822624206543
+unhappy	['bad', 'blue', 'brokenhearted', 'cast down', 'crestfallen', 'dejected', 'depressed', 'despondent', 'disconsolate', 'doleful', 'down', 'down in the mouth', 'downcast', 'downhearted', 'droopy', 'forlorn', 'gloomy', 'glum', 'hangdog', 'heartbroken', 'heartsick', 'heartsore', 'heavyhearted', 'inconsolable', 'joyless', 'low', 'low-spirited', 'melancholic', 'melancholy', 'miserable', 'mournful', 'sad', 'saddened', 'sorrowful', 'sorry', 'woebegone', 'woeful', 'wretched']	1.7143	0.26719188690185547
+coffee	['coffeehouse', 'estaminet', 'teahouse', 'tearoom', 'tea shop', 'pizzeria', 'bar', 'barroom', 'inn', 'tavern', 'chophouse', 'steak house', 'greasy spoon', 'hash house', 'cafeteria', 'lunch counter', 'luncheonette', 'lunchroom', 'snack bar', 'beanery', 'café', 'caff', 'diner', 'eatery', 'grill', 'restaurant']	1.7143	0.282930850982666
+chance	['accident', 'casualty', 'circumstance', 'hap', 'hazard', 'luck']	1.66665	0.2866239547729492
+everyday	['average', 'common', 'commonplace', 'cut-and-dried', 'garden-variety', 'normal', 'ordinary', 'prosaic', 'routine', 'run-of-the-mill', 'standard', 'standard-issue', 'unexceptional', 'unremarkable', 'usual', 'workaday']	1.7143	0.29790687561035156
+quit	['bag', 'chuck', 'leave', 'resign (from)', 'retire (from)', 'step aside (from)', 'step down (from)']	1.7143	0.27291202545166016
+nowadays	['anymore', 'currently', 'now', 'presently', 'right now', 'today']	1.7143	0.2634110450744629
+fever	['affection', 'ail', 'ailment', 'bug', 'complaint', 'complication', 'condition', 'disease', 'disorder', 'distemper', 'distemperature', 'ill', 'illness', 'infirmity', 'malady', 'sickness', 'trouble']	1.5	0.3173842430114746
+shall	['have (to)', 'must', 'need', 'ought (to)', 'should']	1.2857	0.26823902130126953
+rainfall	['cloudburst', 'deluge', 'downfall', 'downpour', 'rain', 'rainstorm', 'storm', 'wet']	1.6667	0.26102209091186523
+kind	['breed', 'class', 'description', 'feather', 'genre', 'ilk', 'kidney', 'like', 'manner', 'nature', 'order', 'sort', 'species', 'strain', 'stripe', 'type', 'variety']	1.7856999999999998	0.26972103118896484
+woman	['female', 'lady']	1.24285	0.33051514625549316
+teacher	['educationist', 'educator', 'instructor', 'pedagogue', 'preceptor', 'schoolteacher']	1.38095	0.26572370529174805
+kindly	['beneficent', 'benevolent', 'benignant', 'compassionate', 'good-hearted', 'humane', 'kind', 'kindhearted', 'softhearted', 'sympathetic', 'tender', 'tenderhearted', 'warmhearted']	1.7143	0.27539873123168945
+madness	['aberration', 'dementia', 'derangement', 'insanity', 'lunacy', 'mania', 'rage']	1.6667	0.26833105087280273
+smarter	['dapper', 'natty', 'sharp', 'snappy', 'spruce']	1.7143	0.27335119247436523
+breadth	['distance', 'expanse', 'expansion', 'extent', 'field', 'length', 'plain', 'reach', 'sheet', 'spread', 'stretch', 'waste']	1.8	0.2659018039703369
+sorry	['cheap', 'contemptible', 'cruddy', 'deplorable', 'despicable', 'dirty', 'grubby', 'lame', 'lousy', 'mean', 'nasty', 'paltry', 'pitiable', 'pitiful', 'ratty', 'scabby', 'scummy', 'scurvy', 'sneaking', 'wretched']	1.5714	0.2726590633392334
+people	['folks', 'humanity', 'humankind', 'public', 'species', 'world']	1.2857	0.38269805908203125
+bad	['bastard', 'bush', 'bush-league', 'crummy', 'deficient', 'dissatisfactory', 'ill', 'inferior', 'lame', 'lousy', 'off', 'paltry', 'poor', 'punk', 'sour', 'suboptimal', 'subpar', 'substandard', 'unacceptable', 'unsatisfactory', 'wack', 'wanting', 'wretched', 'wrong']	1.42855	0.32819604873657227
+luck	['fortunateness', 'fortune', 'luckiness']	1.3333	0.31583118438720703
+salad	['agglomerate', 'agglomeration', 'alphabet soup', 'assortment', 'botch', 'clutter', 'collage', 'crazy quilt', 'farrago', 'gallimaufry', 'grab bag', 'gumbo', 'hash', 'hodgepodge', 'hotchpotch', 'jambalaya', 'jumble', 'jungle', 'litter', 'macédoine', 'medley', 'mélange', 'menagerie', 'miscellanea', 'miscellany', 'mishmash', 'mixed bag', 'montage', 'motley', 'muddle', 'olio', 'olla podrida', 'omnium-gatherum', 'pastiche', 'patchwork', 'patchwork quilt', 'potpourri', 'ragbag', 'ragout', 'rummage', 'salmagundi', 'scramble', 'shuffle', 'smorgasbord', 'stew', 'tumble', 'variety', 'welter']	1.6667	0.26363492012023926
+tv	['boob tube', 'box', 'idiot box', 'television', 'telly', 'tube']	1.5	0.2639749050140381
+room	['elbow room', 'place', 'space', 'way']	1.42855	0.31494688987731934
+bbq	['No synonyms found']	1.5	0.28776097297668457
+shoe	['No synonyms found']	1.2857500000000002	0.2636101245880127
+pond	['lagoon', 'lake', 'loch', 'lough', 'reservoir', 'tarn', 'water hole', 'billabong', 'mere', 'pool', 'puddle', 'stank', 'well', 'basin', 'hole', 'pothole', 'sinkhole', 'swimming pool']	1.52855	0.2671639919281006
+manually	['No synonyms found']	1.8	0.28197407722473145
+million	['gazillion', 'jillion', 'kazillion', 'thousands', 'trillion', 'zillion', 'army', 'bevy', 'cram', 'crowd', 'crush', 'drove', 'flock', 'herd', 'horde', 'host', 'legion', 'mob', 'multitude', 'press', 'score', 'sea', 'swarm', 'throng', 'deluge', 'flood', 'overflow', 'bonanza', 'embarrassment', 'excess', 'overabundance', 'overage', 'overkill', 'overmuch', 'oversupply', 'plethora', 'redundancy', 'superabundance', 'superfluity', 'surfeit', 'surplus', 'epidemic', 'plague', 'rash', 'abundance', 'barrel', 'basketful', 'boatload', 'bucket', 'bunch', 'bundle', 'bushel', 'carload', 'chunk', 'deal', 'dozen', 'fistful', 'gobs', 'good deal', 'heap', 'hundred', 'lashings', 'loads', 'lot', 'mass', 'mess', 'mountain', 'much', 'multiplicity', 'myriad', 'oodles', 'pack', 'passel', 'peck', 'pile', 'plateful', 'plenitude', 'plentitude', 'plenty', 'pot', 'potful', 'profusion', 'quantity', 'raft', 'reams', 'scads', 'sheaf', 'shipload', 'sight', 'slew', 'spate', 'stack', 'store', 'ton', 'truckload', 'volume', 'wad', 'wealth', 'yard']	1.6905	0.2627909183502197
+ink	['autograph', 'sign', 'subscribe']	1.7143	0.26491641998291016
+glass	['eyeglasses', 'specs', 'spectacles']	1.57145	0.2710540294647217
+men	['bastards', 'blokes', 'bucks', 'cats', 'chappies', 'chaps', 'dudes', 'fellas', 'fellows', 'galoots', 'gentlemen', 'gents', 'guys', 'hombres', 'jacks', 'joes', 'jokers', 'lads', 'males']	1.6667	0.3209726810455322
+badly	['bad', 'deficiently', 'inadequately', 'lousily', 'poorly', 'unacceptably', 'unsatisfactorily', 'wretchedly']	1.4286	0.2630281448364258
+dark	['black', 'caliginous', 'darkened', 'darkish', 'darkling', 'darksome', 'dim', 'dimmed', 'dusk', 'dusky', 'gloomy', 'lightless', 'murky', 'obscure', 'obscured', 'pitch-black', 'pitch-dark', 'pitchy', 'rayless', 'somber', 'stygian', 'tenebrific', 'tenebrous', 'unlit']	1.5714	0.32118797302246094
+beauty	['aesthetics', 'attractiveness', 'beauteousness', 'beautifulness', 'comeliness', 'cuteness', 'fairness', 'gorgeousness', 'handsomeness', 'looks', 'loveliness', 'prettiness', 'sightliness']	1.6667	0.3103358745574951
+washing	['bathing', 'lapping', 'laving', 'lipping', 'splashing']	1.5	0.3151531219482422
+soy	['No synonyms found']	1.8	0.2622668743133545
+dude	['beau', 'Beau Brummell', 'buck', 'dandy', 'fop', 'gallant', 'jay', 'lounge lizard', 'macaroni', 'pretty boy']	1.7143	0.26181721687316895
+heat	['ardency', 'ardor', 'emotion', 'enthusiasm', 'fervency', 'fervidness', 'fervor', 'fire', 'intenseness', 'intensity', 'passion', 'passionateness', 'vehemence', 'violence', 'warmth', 'white heat']	1.58335	0.26935410499572754
+towel	['napkin', 'serviette', 'tissue', 'towelette', 'handkerchief', 'hankie', 'kerchief', 'bandanna']	1.60715	0.3148539066314697
+fool	['berk', 'booby', 'charlie', 'cuckoo', 'ding-a-ling', 'dingbat', 'ding-dong', 'dipstick', 'doofus', 'featherhead', 'git', 'goose', 'half-wit', 'jackass', 'lunatic', 'mooncalf', 'nincompoop', 'ninny', 'ninnyhammer', 'nit', 'nitwit', 'nut', 'nutcase', 'simp', 'simpleton', 'turkey', 'yo-yo']	1.4286	0.3119230270385742
+twice	['double', 'doubly', 'twofold']	1.6667	0.2639317512512207
+main	['arch', 'big', 'capital', 'cardinal', 'central', 'chief', 'dominant', 'first', 'foremost', 'grand', 'great', 'greatest', 'highest', 'key', 'leading', 'master', 'number one', 'numero uno', 'overbearing', 'overmastering', 'overriding', 'paramount', 'predominant', 'preeminent', 'premier', 'primal', 'primary', 'principal', 'prior', 'sovereign', 'supreme']	1.6	0.3202857971191406
+yesterday	['auld lang syne', 'history', 'past', 'yesteryear', 'yore']	1.6667	0.2641441822052002
+moon	"['aeon', 'age', 'blue moon', ""coon's age"", 'cycle', ""donkey's years"", 'eternity', 'forever', 'long', 'months']"	1.4	0.26899218559265137
+sheep	['angel', 'dove', 'innocent', 'lamb']	1.4286	0.26615238189697266
+poor	['beggared', 'beggarly', 'broke', 'destitute', 'dirt-poor', 'down-and-out', 'famished', 'hard up', 'impecunious', 'impoverished', 'indigent', 'necessitous', 'needful', 'needy', 'pauperized', 'penniless', 'penurious', 'poverty-stricken', 'skint', 'threadbare']	1.2857	0.31650209426879883
+girlfriend	['gal', 'gill', 'girl', 'inamorata', 'lady', 'ladylove', 'old lady', 'woman']	1.5	0.27400994300842285
+lion	['baron', 'captain', 'czar', 'king', 'lord', 'magnate', 'mogul', 'monarch', 'Napoleon', 'prince', 'tycoon']	1.7143	0.2653939723968506
+lamp	['beacon', 'illuminant', 'light']	1.7619	0.27089524269104004
+club	['bastinado', 'bat', 'baton', 'billy', 'billy club', 'bludgeon', 'cane', 'cudgel', 'nightstick', 'rod', 'rung', 'sap', 'shillelagh', 'staff', 'truncheon', 'waddy']	1.7142499999999998	0.3227579593658447
+millionaire	['billionaire', 'gazillionaire', 'multibillionaire', 'multimillionaire', 'zillionaire', 'capitalist', 'Croesus', 'deep pocket', 'fat cat', 'have', 'money', 'moneybags', 'plutocrat', 'silk stocking', 'moneymaker', 'money-spinner', 'magnate', 'nabob', 'tycoon', 'heir', 'heiress', 'jet-setter', 'jeunesse dorée']	1.8	0.2959589958190918
+pity	['crime', 'disgrace', 'shame', 'sin']	1.5714	0.2708871364593506
+height	['acme', 'apex', 'apogee', 'capstone', 'climax', 'crescendo', 'crest', 'crown', 'culmination', 'head', 'high noon', 'high-water mark', 'meridian', 'ne plus ultra', 'noon', 'noontime', 'peak', 'pinnacle', 'sum', 'summit', 'tip-top', 'top', 'zenith']	1.5	0.26502108573913574
+bathroom	['bath', 'bog', 'can', 'cloakroom', 'comfort station', 'convenience', 'head', 'john', 'latrine', 'lavatory', 'loo', 'potty', 'restroom', 'toilet', 'washroom', 'water closet']	1.6857	0.26306915283203125
+cody	['No synonyms found']	1.6	0.2856147289276123
+tap	['beat', 'drum', 'rap']	1.2857	0.2740159034729004
+entire	['all', 'concentrated', 'exclusive', 'focused', 'undivided', 'whole']	1.6667	0.2673051357269287
+cat	['feline', 'house cat', 'kitty', 'moggy', 'puss', 'pussy', 'pussycat']	1.08335	0.27431511878967285
+taxi	['cab', 'hack', 'taxicab']	1.4286	0.2663729190826416
+seven	['blue', 'brine', 'deep', 'Neptune', 'ocean', 'sea']	1.1429	0.2631051540374756
+desk	['agency', 'arm', 'branch', 'bureau', 'department', 'division', 'office', 'service']	1.58335	0.2736361026763916
+fact	['actuality', 'factuality', 'materiality', 'reality']	1.7143	0.31409406661987305
+wrong	['bad', 'bastard', 'bush', 'bush-league', 'crummy', 'deficient', 'dissatisfactory', 'ill', 'inferior', 'lame', 'lousy', 'off', 'paltry', 'poor', 'punk', 'sour', 'suboptimal', 'subpar', 'substandard', 'unacceptable', 'unsatisfactory', 'wack', 'wanting', 'wretched']	1.5714	0.325775146484375
+hundred	['abundance', 'barrel', 'basketful', 'boatload', 'bucket', 'bunch', 'bundle', 'bushel', 'carload', 'chunk', 'deal', 'dozen', 'fistful', 'gobs', 'good deal', 'heap', 'lashings', 'loads', 'lot', 'mass', 'mess', 'mountain', 'much', 'multiplicity', 'myriad', 'oodles', 'pack', 'passel', 'peck', 'pile', 'plateful', 'plenitude', 'plentitude', 'plenty', 'pot', 'potful', 'profusion', 'quantity', 'raft', 'reams', 'scads', 'sheaf', 'shipload', 'sight', 'slew', 'spate', 'stack', 'store', 'ton', 'truckload', 'volume', 'wad', 'wealth', 'yard']	1.5	0.26888322830200195
+heal	['cure', 'fix', 'mend', 'rehab', 'rehabilitate', 'set up']	1.5	0.2623410224914551
+friendship	['amity', 'benevolence', 'brotherhood', 'charity', 'cordiality', 'cordialness', 'fellowship', 'friendliness', 'gemütlichkeit', 'good-fellowship', 'goodwill', 'kindliness', 'neighborliness']	1.6	0.2658259868621826
+strongly	['dynamically', 'energetically', 'explosively', 'firmly', 'forcefully', 'forcibly', 'hard', 'mightily', 'muscularly', 'powerfully', 'roundly', 'stiffly', 'stoutly', 'strenuously', 'sturdily', 'vigorously']	1.8	0.2783820629119873
+king	['baron', 'captain', 'czar', 'lion', 'lord', 'magnate', 'mogul', 'monarch', 'Napoleon', 'prince', 'tycoon']	1.54765	0.3184199333190918
+mar	['blemish', 'blight', 'blotch', 'defect', 'deformity', 'disfigurement', 'excrescence', 'excrescency', 'fault', 'flaw', 'imperfection', 'mark', 'pockmark', 'scar']	1.7143	0.2650918960571289
+grandparent	['No synonyms found']	1.8	0.2889838218688965
+bucket	['abundance', 'barrel', 'basketful', 'boatload', 'bunch', 'bundle', 'bushel', 'carload', 'chunk', 'deal', 'dozen', 'fistful', 'gobs', 'good deal', 'heap', 'hundred', 'lashings', 'loads', 'lot', 'mass', 'mess', 'mountain', 'much', 'multiplicity', 'myriad', 'oodles', 'pack', 'passel', 'peck', 'pile', 'plateful', 'plenitude', 'plentitude', 'plenty', 'pot', 'potful', 'profusion', 'quantity', 'raft', 'reams', 'scads', 'sheaf', 'shipload', 'sight', 'slew', 'spate', 'stack', 'store', 'ton', 'truckload', 'volume', 'wad', 'wealth', 'yard']	1.6667	0.3162539005279541
+purse	['bag', 'handbag', 'pocketbook']	1.8	0.26255202293395996
+able	['capable', 'competent', 'equal', 'fit', 'good', 'qualified', 'suitable']	1.3333	0.2743489742279053
+mountain	['alp', 'hump', 'mount', 'peak']	1.7	0.3248720169067383
+normal	['average', 'common', 'commonplace', 'cut-and-dried', 'everyday', 'garden-variety', 'ordinary', 'prosaic', 'routine', 'run-of-the-mill', 'standard', 'standard-issue', 'unexceptional', 'unremarkable', 'usual', 'workaday']	1.3333	0.2677760124206543
+plus	['accretion', 'accrual', 'addendum', 'addition', 'augmentation', 'boost', 'expansion', 'gain', 'increase', 'increment', 'more', 'proliferation', 'raise', 'rise', 'step-up', 'supplement', 'uptick']	1.4286	0.2709190845489502
+surprising	['amazing', 'astonishing', 'astounding', 'blindsiding', 'dumbfounding', 'eye-opening', 'flabbergasting', 'jarring', 'jaw-dropping', 'jolting', 'shocking', 'startling', 'stunning', 'stupefying']	1.6667	0.26715588569641113
+firstly	['initially', 'originally', 'primarily']	1.6	0.26744818687438965
+fur	['coat', 'fleece', 'hair', 'jacket', 'pelage', 'pile', 'wool']	1.5714	0.26418304443359375
+sock	['hose', 'stocking']	1.5714	0.26563382148742676
+fish	['baby', 'being', 'bird', 'bod', 'body', 'character', 'cookie', 'creature', 'customer', 'devil', 'duck', 'egg', 'face', 'guy', 'head', 'human', 'human being', 'individual', 'life', 'man', 'mortal', 'party', 'person', 'personage', 'scout', 'slob', 'sort', 'soul', 'specimen', 'stiff', 'thing', 'wight']	1.5	0.271618127822876
+clothe	['apparel', 'array', 'attire', 'bedeck', 'caparison', 'costume', 'deck (out)', 'do up', 'dress', 'dress up', 'enrobe', 'garb', 'garment', 'get up', 'gown', 'habit', 'invest', 'rig (out)', 'robe', 'suit', 'tog (up or out)', 'toilet', 'vesture']	1.7143	0.2675209045410156
+minus	['debit', 'disadvantage', 'disbenefit', 'downside', 'drawback', 'handicap', 'incommodity', 'liability', 'negative', 'strike']	1.8	0.2666788101196289
+maid	['biddy', 'char', 'charwoman', 'handmaiden', 'house girl', 'housekeeper', 'housemaid', 'maidservant', 'skivvy', 'wench']	1.7143	0.2674438953399658
+sec	['No synonyms found']	1.6	0.2677607536315918
+ad	['advert', 'advertisement', 'announcement', 'bulletin', 'communiqué', 'notice', 'notification', 'posting', 'release']	1.6667	0.3393409252166748
+fourteen	['No synonyms found']	1.2857	0.261415958404541
+rose	['accelerated', 'accumulated', 'appreciated', 'ballooned', 'boomed', 'built up', 'burgeoned', 'climbed', 'enlarged', 'escalated', 'expanded', 'gained', 'increased', 'mounted', 'multiplied', 'mushroomed', 'proliferated', 'rolled up', 'snowballed', 'spread', 'swelled', 'waxed']	1.7143	0.2671332359313965
+cookware	['No synonyms found']	1.8	0.2837090492248535
+ash	['cremate', 'incinerate', 'kiln', 'burn', 'enkindle', 'fire', 'ignite', 'inflame', 'kindle', 'light', 'torch', 'immolate', 'deflagrate', 'char', 'frizzle', 'scorch', 'bake', 'broil', 'cook', 'set off', 'scald', 'scathe', 'sear', 'reignite', 'rekindle', 'relight']	1.5	0.2630777359008789
+nut	['character', 'codger', 'crack', 'crackbrain', 'crackpot', 'crank', 'eccentric', 'flake', 'fruitcake', 'head case', 'kook', 'nutcase', 'nutter', 'oddball', 'oddity', 'original', 'quiz', 'screwball', 'weirdo', 'zany']	1.7143	0.31079602241516113
+till	['cultivate', 'farm', 'tend']	1.7143	0.2757608890533447
+monkey	['addiction', 'dependence', 'habit', 'jones']	1.7143	0.2725839614868164
+alright	['agreeable', 'all right', 'copacetic', 'ducky', 'fine', 'good', 'hunky-dory', 'jake', 'OK', 'palatable', 'satisfactory']	1.7143	0.264298677444458
+worthy	['deserving', 'good', 'meritorious']	1.8	0.26898884773254395
+writing	['document', 'line', 'bordereau', 'memoir', 'memorial', 'minutes', 'protocol', 'report', 'jotting', 'memo', 'memorandum', 'notation', 'note']	1.6	0.3187870979309082
+rich	['affluent', 'deep-pocketed', 'fat', 'fat-cat', 'flush', 'loaded', 'moneyed', 'opulent', 'silk-stocking', 'wealthy', 'well-endowed', 'well-fixed', 'well-heeled', 'well-off', 'well-to-do']	1.3333	0.2691330909729004
+building	['edifice', 'structure']	1.7143	0.2745840549468994
+lately	['freshly', 'just', 'late', 'new', 'newly', 'now', 'only', 'recently']	1.5	0.2663559913635254
+vip	['cause célèbre', 'celeb', 'celebrity', 'figure', 'icon', 'light', 'luminary', 'megastar', 'name', 'notability', 'notable', 'notoriety', 'personage', 'personality', 'somebody', 'standout', 'star', 'superstar']	1.6667	0.2763710021972656
+hindu	['No synonyms found']	1.8	0.28293704986572266
+mum	['dumb', 'mute', 'muted', 'silent', 'speechless', 'uncommunicative', 'wordless']	1.2857	0.264117956161499
+okay	['agreeable', 'all right', 'alright', 'copacetic', 'ducky', 'fine', 'good', 'hunky-dory', 'jake', 'palatable', 'satisfactory']	1.6667	0.27036595344543457
+winter	['downtime', 'layoff', 'time-out']	1.5714	0.2630770206451416
+pitch	['dive', 'plunge']	1.8	0.2953298091888428
+funny	['antic', 'chucklesome', 'comedic', 'comic', 'comical', 'droll', 'farcical', 'hilarious', 'humoristic', 'humorous', 'hysterical', 'killing', 'laughable', 'ludicrous', 'ridiculous', 'riotous', 'risible', 'screaming', 'sidesplitting', 'uproarious']	1.4286	0.309964656829834
+elderly	['aged', 'aging', 'ancient', 'geriatric', 'long-lived', 'old', 'older', 'over-the-hill', 'senescent', 'senior', 'unyoung']	1.6667	0.26319217681884766
+boob	['blunder', 'bobble', 'boo-boo', 'brick', 'clanger', 'clinker', 'error', 'fault', 'flub', 'fluff', 'fumble', 'gaff', 'gaffe', 'goof', 'inaccuracy', 'lapse', 'miscue', 'misstep', 'mistake', 'oversight', 'screwup', 'slip', 'slipup', 'stumble', 'trip']	1.8	0.2689521312713623
+someday	['eventually', 'finally', 'sometime', 'sooner or later', 'ultimately', 'yet']	1.6667	0.27561187744140625
+today	['here and now', 'moment', 'now', 'present']	1.5	0.2666339874267578
+poorly	['bad', 'badly', 'deficiently', 'inadequately', 'lousily', 'unacceptably', 'unsatisfactorily', 'wretchedly']	1.4286	0.26768922805786133
+moose	['No synonyms found']	1.8	0.2611110210418701
+daddy	['dad', 'father', 'old man', 'pa', 'papa', 'pater', 'pop', 'sire']	1.4286	0.2654421329498291
+role	['business', 'capacity', 'function', 'job', 'part', 'place', 'position', 'purpose', 'task', 'work']	1.7856999999999998	0.3122270107269287
+tasty	['agreeable', 'blessed', 'congenial', 'darling', 'delectable', 'delicious', 'delightful', 'delightsome', 'dreamy', 'dulcet', 'enjoyable', 'felicitous', 'good', 'grateful', 'gratifying', 'heavenly', 'jolly', 'luscious', 'nice', 'palatable', 'pleasant', 'pleasing', 'pleasurable', 'pretty', 'satisfying', 'savory', 'sweet', 'welcome']	1.3333	0.267132043838501
+sour	['alien', 'alienate', 'disaffect', 'disgruntle', 'estrange']	1.7143	0.2654719352722168
+worst	['inferior', 'lesser', 'worse', 'common', 'commonplace', 'everyday', 'familiar', 'frequent', 'garden', 'household', 'normal', 'ordinary', 'routine', 'ubiquitous', 'usual', 'bad', 'bastard', 'bush', 'bush-league', 'deficient', 'depressed', 'dissatisfactory', 'ill', 'lame', 'lousy', 'low', 'lower', 'off', 'paltry', 'poor', 'punk', 'substandard', 'unacceptable', 'unsatisfactory', 'wanting', 'low-grade', 'mediocre', 'second-class', 'second-rate', 'atrocious', 'awful', 'execrable', 'pathetic', 'rotten', 'terrible', 'vile', 'wretched']	1.5	0.33077120780944824
+thirty	['No synonyms found']	1.8	0.27982211112976074
+stole	['serape', 'shawl', 'wrap', 'cape', 'capote', 'cloak', 'frock', 'manteau', 'mantle', 'burnoose', 'capelet', 'capuchin', 'cowl', 'domino', 'joseph', 'manta', 'mantelet', 'mantilla', 'palatine', 'pelerine', 'pelisse', 'poncho', 'roquelaure', 'tippet']	1.6667	0.26678919792175293
+clever	['artful', 'creative', 'imaginative', 'ingenious', 'innovative', 'inventive']	1.5714	0.30899977684020996
+ninth	['No synonyms found']	1.4286	0.26328086853027344

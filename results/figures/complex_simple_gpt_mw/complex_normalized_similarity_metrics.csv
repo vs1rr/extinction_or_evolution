@@ -1,0 +1,11 @@
+,Score
+Jaccard Similarity,0.18401015228426396
+Precision,0.33410138248847926
+Recall,0.2905811623246493
+F1-Score,0.31082529474812437
+Cosine Similarity,0.05151130904772904
+Semantic Similarity,0.9765645265579224
+Rank-Biased Overlap (RBO),0.020163355817037043
+Mean Pairwise Cosine Similarity,0.19728469848632812
+Max Pairwise Cosine Similarity,1.0000009536743164
+Kendall's Tau (Normalized),0.6862515572479608

@@ -1,0 +1,30 @@
+original_word	synonyms	score	time_elapsed
+etc.	['ainsi que', 'entre autres', 'et ainsi de suite', 'et cetera', 'et ainsi de suite']	623.816775633217	0.49622201919555664
+vivace	['dynamique', 'enjoué', 'énergique', 'vif', 'alerte']	50.7845372436582	0.5594899654388428
+non-seulement	['pas seulement', 'uniquement', 'simplement', 'exclusivement', 'juste']	49.15168291266319	0.46399569511413574
+botaniquement	['scientifiquement', 'spécifiquement', 'taxonomiquement', 'biologiquement', 'phytologiquement']	47.78635838731144	0.5326681137084961
+ordinairement	['habituellement', 'généralement', 'couramment', 'souvent', 'fréquemment', 'communément']	43.514879957335715	0.5403709411621094
+fraichement	"['nouvellement', 'récemment', 'tout récemment', 'dernièrement', ""à l'instant""]"	40.95973576055266	0.5772931575775146
+promptement	['rapidement', 'vite', 'rapidement', 'immédiatement', 'soudainement', 'directement', 'facilement', 'diligemment', 'efficacement', 'facilement.']	39.28790981114235	0.977064847946167
+copieusement	['abondamment', 'largement', 'pleinement', 'généreusement', 'amplement']	24.77811175638371	0.5057590007781982
+vulgairement	['grossièrement', 'familièrement', 'trivialement', 'communément', 'bassement', 'simplement']	19.676735806540005	0.552955150604248
+abondamment	['pleinement', 'généreusement', 'prolifiquement', 'richement', 'abondamment', 'en quantité.']	18.443857623172836	0.49955010414123535
+avantageusement	['favorablement', 'profitamment', 'bénéfiquement', 'utilement', 'positivement']	14.379481703172743	0.5821361541748047
+journellement	['quotidiennement', 'tous les jours', 'chaque jour', 'régulièrement', 'habituellement']	12.136218003126713	0.6926000118255615
+obligeamment	['gentiment', 'aimablement', 'courtoisement', 'gracieusement', 'volontiers']	10.778877831724383	0.5781848430633545
+improprement	['incorrectement', 'fautivement', 'faussement', 'incorrect', 'faux', 'erronément', 'de manière inappropriée', 'inadéquatement.']	10.532503481284971	0.6067142486572266
+excessivement	['extrêmement', 'trop', 'très', 'vraiment', 'énormément', 'colossalement', 'horriblement', 'furieusement', 'terriblement.']	9.807260675061906	0.6021778583526611
+horizontalement	"['horizontalement', 'de manière horizontale', ""à l'horizontale"", 'parallèlement']"	9.102163502345036	0.5001459121704102
+moyennement	['modérément', 'suffisamment', 'assez', 'favorablement', 'passablement']	8.057652936502164	0.5455758571624756
+graduellement	['progressivement', 'pas à pas', 'peu à peu', 'successivement', 'régulièrement']	7.629754700495104	3.237039804458618
+infailliblement	['certainement', 'sûrement', 'sans aucun doute', 'indubitablement', 'incontestablement', 'inévitablement', 'inéluctablement', 'invariablement', 'invariablement', 'de manière certaine', 'de façon certaine.']	7.213035228273425	0.8785197734832764
+transversalement	['horizontalement', 'obliquement', 'diagonalement', 'transversal', 'en travers']	7.00627059062085	0.4856908321380615
+convenablement	['correctement', 'adéquatement', 'proprement', 'justement', 'bien']	6.803323573425129	0.4970438480377197
+circulairement	['rondement', 'virtuellement', 'directement', 'indirectement', 'implicitement', 'explicitement', 'de manière circulaire', 'de manière récurrente.']	6.467326699034631	0.7538650035858154
+surabondamment	['excessivement', 'abondamment', 'largement', 'pleinement', 'trop']	6.399958712586353	0.534092903137207
+diligemment	['assidûment', 'activement', 'efficacement', 'méticuleusement', 'scrupuleusement', 'soigneusement']	6.301497809315794	0.6344020366668701
+identiquement	['pareillement', 'également', 'de même', 'semblablement', 'pareil', 'pareillement']	6.143960364082899	0.5405478477478027
+verticalement	['perpendiculairement', 'debout', 'droit', 'dressé', 'érigé']	5.838358772105501	0.5114638805389404
+habituellement	['généralement', 'couramment', 'communément', 'régulièrement', 'ordinairement']	5.783351394762419	0.419421911239624
+originairement	"['initialement', 'au départ', 'au commencement', ""à l'origine"", 'primitivement', 'fondamentalement']"	5.621924516154287	0.4430217742919922
+ci-dessous	['ci-contre', 'en dessous', 'au-dessous', 'plus bas', 'sous']	4.915168291266319	0.5150609016418457

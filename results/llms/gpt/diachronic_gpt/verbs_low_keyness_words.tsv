@@ -1,0 +1,104 @@
+original_word	synonyms	score	time_elapsed
+seringuer	['injecter', 'piquer', 'vacciner', 'inoculer', 'perfuser']	0.1651602248409381	0.4061892032623291
+revendiquer	['affirmer', 'réclamer', 'revendiquer', 'demander', 'revendication']	0.1651602248409381	0.420212984085083
+bercer	['caliner', 'cajoler', 'endormir', 'bercer', 'choyer', 'dorloter']	0.1651602248409381	0.5015869140625
+clocher	['beffroi', 'campanile', 'tour', 'flèche']	0.1640576866243764	0.4209878444671631
+lancer	['commencer', 'démarrer', 'déclencher', 'déployer', 'expédier', 'projeter', 'décharger', 'envoyer.']	0.1632675067685208	0.6475348472595215
+supplier	['implorer', 'prier', 'solliciter', 'demander', 'enjoindre', 'requisser', 'requester', 'exiger', 'recommander', 'requiser', 'exhorter', 'adjurer', 'requiser', 'supplier', 'requérir.']	0.162538633970447	0.6319329738616943
+adorer	['aimer', 'chérir', 'idolâtrer', 'vénérer', 'cultiver', 'estimer', 'adorer', 'craquer pour', 'apprécier.']	0.162538633970447	0.5927009582519531
+demeurer	['habiter', 'resider', 'subsister', 'loger', 'séjourner', 'perdurer', 'rester', 'survivre', 'durer.']	0.1620985168611748	0.5141239166259766
+effleurer	['toucher', 'frôler', 'caresser', 'effleurer']	0.1606264147472653	0.3473951816558838
+glisser	"['glisser', 'couler', ""s'échapper"", 'filer', 'glisser', 'passer']"	0.1575374452328948	0.42748522758483887
+prier	['implorer', 'supplier', 'exhorter', 'implorer', 'recommander', 'solliciter', 'supplicier', 'adjurer', 'conjurer', 'requestionner', 'requestionner', 'requestionner', 'requestionner', 'requestionner', 'requestionner', 'requestionner', 'request']	0.1564543000785052	0.9658219814300537
+entrevoir	['apercevoir', 'discerner', 'deviner', 'distinguer', 'découvrir.']	0.1561362227212935	0.4780409336090088
+encaisser	['recevoir', 'percevoir', 'toucher', 'empocher', 'récolter', 'gagner', 'enregistrer', 'collecter', 'capituler']	0.1551505142445176	0.568073034286499
+ennuyer	['fatiguer', 'agacer', 'lasser', 'importuner', 'embêter', 'irriter']	0.1494880867173454	0.4056241512298584
+sauter	['bondir', 'franchir', 'cabrioler', 'décoller', 'sauter', 'gambader', 'voltiger', 'se précipiter', 'se jeter']	0.1487641734644769	0.6335718631744385
+analyser	['examiner', 'étudier', 'scruter', 'décortiquer', 'ausculter']	0.1473371789947937	0.43201732635498047
+informer	['avertir', 'communiquer', 'divulguer', 'renseigner', 'signaler']	0.1471607272834227	0.3925039768218994
+amorcer	['commencer', 'déclencher', 'enclencher', 'démarrer', 'lancer', 'initier', 'engager', 'entamer']	0.1462847705734023	0.6404218673706055
+manipuler	['manœuvrer', 'manier', 'manigancer', 'manier', 'manigancer', 'manœuvrer', 'manier', 'manigancer']	0.1462847705734023	0.5185549259185791
+aventurer	['risquer', 'oser', 'tenter', 'entreprendre', 'braver', 'explorer']	0.1442244216920868	0.40770983695983887
+engloutir	['avaler', 'dévorer', 'absorber', 'ingérer', 'gober']	0.1442244216920868	0.4239187240600586
+assassiner	['tuer', 'éliminer', 'abattre', 'supprimer', 'occire', 'égorger', 'massacrer', 'liquider']	0.1442244216920868	0.5426208972930908
+mener	['guider', 'conduire', 'diriger', 'piloter', 'amener', 'emmener', 'orienter', 'gouverner']	0.1411188139898455	0.5209939479827881
+piocher	['creuser', 'fouiller', 'extraire', 'prélever', 'retirer']	0.1383774856775427	0.38736414909362793
+retentir	['résonner', 'sonner', 'retentir', 'vibrer', 'retentir', 'éclater', 'tonner', 'retentir']	0.1383774856775427	0.5290250778198242
+confesser	['avouer', 'déclarer', 'reconnaître', 'dévoiler', 'révéler']	0.1383774856775427	0.4677698612213135
+barrer	['bloquer', 'obstruer', 'interdire', 'entraver', 'empêcher', 'fermer', 'stopper']	0.1383774856775427	0.4393467903137207
+commenter	['discuter', 'débattre', 'échanger', 'exprimer un avis', 'analyser', 'critiquer', 'donner son point de vue', 'partager une opinion']	0.1369890828112129	0.5550611019134521
+liquider	['terminer', 'régler', 'clore', 'solder', 'achever', 'finaliser', 'éliminer', 'écarter', 'liquéfier']	0.1351806460744312	0.8226871490478516
+instituer	['établir', 'fonder', 'créer', 'mettre en place', 'instaurer', 'organiser']	0.1325557791603646	0.43920207023620605
+inventer	['créer', 'concevoir', 'imaginer', 'fabriquer', 'forger']	0.1302376335788637	0.44750094413757324
+discuter	['parler', 'échanger', 'converser', 'débattre', 'dialoguer']	0.1298934537861078	0.4148561954498291
+braver	['affronter', 'défier', 'défendre', 'oser', 'résister', 'supporter']	0.1296194169637742	0.45772790908813477
+effondrer	"[""s'effondrer"", 'écrouler', 'tomber', 'ruiner', 'chuter']"	0.1272041483246977	0.4358649253845215
+orienter	['diriger', 'guider', 'conduire', 'aiguiller', 'orientaliser']	0.1256433612286891	0.46625518798828125
+souvenir	['mémoire', 'réminiscence', 'souvenir', 'évocation', 'reminiscence', 'réminiscence']	0.1245481525254997	0.4497530460357666
+imaginer	['concevoir', 'penser', 'supposer', 'inventer', 'rêver', 'projeter', 'spéculer']	0.1220336881565731	0.535764217376709
+coller	['adhérer', 'fixer', 'coller', 'adhésif', 'tenir', 'attacher']	0.1207361407827639	0.43581104278564453
+compliquer	['complexifier', 'embrouiller', 'envenimer', 'embroussailler', 'embrouiller', 'enchevêtrer', 'embrouiller', 'envenimer', 'mélanger']	0.1201165271570459	0.5740959644317627
+cacher	['dissimuler', 'dissimuler', 'masquer', 'dissimuler', 'dissimuler', 'dissimuler', 'dissimuler', 'dissimuler', 'dissimuler']	0.1182830653151273	0.6211230754852295
+fuir	"['échapper', ""s'enfuir"", ""s'évader"", ""s'éloigner"", 'détaler', 'décamper', ""s'en aller"", 'partir', 'traverser', 'déserter', 'quitter', ""s'en aller"", 'se sauver', ""s'échapper"", 'filer']"	0.1174192138381824	0.7055578231811523
+participer	"['prendre part', ""s'impliquer"", 'contribuer', 'collaborer', ""s'associer"", 'jouer un rôle']"	0.1095180100549536	0.5380258560180664
+raconter	['dire', 'narrer', 'relater', 'décrire', 'exposer', 'exposer', 'dévoiler', 'raconter']	0.1045187473334204	0.4610629081726074
+trancher	['couper', 'décider', 'déterminer', 'distinguer', 'diviser', 'partager', 'choisir', 'découper', 'scinder', 'décider', 'arbitrer', 'définir', 'discerner', 'séparer.']	0.1004735954878642	0.6600131988525391
+interroger	['questionner', 'enquêter', 'sonder', 'interroger', 'interrogation', 'demander', 'discuter', 'informer', 'sondage', 'débattre.']	0.0966791560044516	0.5375161170959473
+ruiner	['détruire', 'anéantir', 'démolir', 'dévaster', 'saccager']	0.0959244397202638	0.469235897064209
+endormir	['assoupir', 'bercer', 'engourdir', 'assommer', 'anesthésier', 'somnoler']	0.0950341896996581	0.5313570499420166
+investir	['placer', 'engager', 'consacrer', 'affecter', 'allouer', 'injecter']	0.093944348074662	0.47464799880981445
+regagner	['rejoindre', 'retrouver', 'rallier', 'reprendre', 'récupérer', 'rentrer']	0.0915301357777713	0.45769381523132324
+haïr	['abominer', 'détester', 'exécrer', 'maudire', 'mépriser', 'repousser', 'souhaiter du mal.']	0.0912243558141484	0.5102760791778564
+formuler	['exprimer', 'rédiger', 'articuler', 'énoncer', 'dire', 'communiquer', 'verbaliser']	0.0889462231499514	0.5919339656829834
+aider	['assister', 'soutenir', 'secourir', 'accompagner', 'servir', 'appuyer', 'soutien', 'succourir', 'épauler', 'contribuer', 'apporter son aide', 'prêter main-forte', 'serv']	0.0865773319817219	0.8289980888366699
+cataloguer	['classer', 'répertorier', 'répertorier', 'indexer']	0.0863218877988464	0.3267841339111328
+illustrer	['démontrer', 'décrire', 'exemplifier', 'dépeindre', 'montrer', 'expliquer', 'détailler', 'développer', 'clarifier', 'éclairer']	0.0851553758015647	0.556128978729248
+capter	['absorber', 'attraper', 'saisir', 'capter', 'prendre', 'retenir']	0.0851553758015647	0.45531415939331055
+relire	['corriger', 'réviser', 'revoir', 'relire', 'refeuilleter']	0.0851553758015647	0.5276968479156494
+jouer	['exécuter', 'pratiquer', 'interpréter', 'divertir', 'expérimenter']	0.0838265249640371	0.482745885848999
+vinaigrer	['aciduler', 'aigrir', 'acidifier', 'aciduler', 'aigrir', 'acidifier']	0.0829144448594183	0.43349504470825195
+combiner	['unir', 'fusionner', 'joindre', 'associer', 'agréger', 'mélanger', 'relier', 'entremêler', 'harmoniser', 'conjuguer', 'synthétiser', 'intégrer', 'allier', 'concaténer', 'as']	0.081430886203882	0.727625846862793
+murmurer	['chuchoter', 'murmurer', 'babiller', 'bruisser', 'susurrer', 'parler bas', 'ronronner', 'glousser', 'psalmodier', 'bredouiller.']	0.0807884334527665	0.5738019943237305
+triompher	"['gagner', 'remporter', 'vaincre', 'réussir', ""l'emporter"", 'être victorieux']"	0.0807884334527665	0.4926590919494629
+moquer	['railler', 'ridiculiser', 'plaisanter', 'tourner en dérision', 'taquiner']	0.0793793328692881	0.4504077434539795
+blonder	['éclaircir', 'décolorer', 'décolorer', 'éclaircir', 'décolorer', 'décolorer', 'éclaircir']	0.0786779403775502	0.5691850185394287
+asseoir	"['installer', 'poser', 'placer', 'caler', 'reposer', ""s'asseoir""]"	0.0747440433586727	0.4653511047363281
+baisser	['abaisser', 'diminuer', 'réduire', 'descendre', 'amoindrir', 'faiblir', 'décliner', 'rabaisser', 'baisser', 'abattre', 'minuer', 'reculer', 'amenuiser.']	0.0743033755293472	0.7453579902648926
+basculer	['chavirer', 'tomber', 'renverser', 'culbuter', 'vaciller', 'déverser', 'déverser', 'balancer', 'renverser', 'verser', 'renverser.']	0.0702568366390268	0.6216340065002441
+duper	['tromper', 'tromperie', 'abuser', 'escroquer', 'arnaquer', 'leurrer', 'berner', 'rouler']	0.0680394281736755	0.5235950946807861
+concilier	"['accorder', 'réconcilier', 'harmoniser', 'concorder', ""mettre d'accord"", 'arranger', 'marier.']"	0.0633071650085821	0.5389788150787354
+revivre	['ressusciter', 'renaître', 'renaître', 'regagner', 'retrouver', 'revigorer']	0.0627254758967115	0.7802450656890869
+emmener	['transporter', 'conduire', 'amener', 'mener', 'déplacer']	0.0579345626033276	0.3947629928588867
+chanter	['vocaliser', 'hurler', 'entonner', 'interpréter', 'entonner', 'entonner', 'entonner', 'entonner', 'entonner', 'entonner', 'entonner', 'entonner', 'entonner', 'entonner', 'entonner', 'entonner']	0.0538707616315905	0.6718330383300781
+routiner	['habituer', 'banaliser', 'normaliser', 'standardiser', 'automatiser']	0.0520454075737644	0.3898148536682129
+compter	['calculer', 'dénombrer', 'énumérer', 'totaliser', 'évaluer', 'décompter', 'numérer', 'additionner.']	0.0515949536195502	0.5863711833953857
+beurrer	['enduire', 'tartiner', 'graisser', 'badigeonner', 'lustrer']	0.0508185307202886	0.39615607261657715
+dater	['écrire', 'enregistrer', 'enregistrer', 'chronométrer', 'chronométrer', 'fixer', 'fixer', 'temporiser', 'temporiser', 'ancrer', 'ancrer', 'marquer', 'marquer', 'mentionner', 'mentionner', 'est']	0.0472197217265923	0.7530758380889893
+attraper	['capturer', 'saisir', 'prendre', 'agripper', 'arrêter', 'arriver à attraper', 'enrôler', 'se saisir de', 'trouver', 'accrocher', 'gagner', 'atteindre.']	0.0465981066672954	1.0869472026824951
+ronder	['circuler', 'tourner', 'déambuler', 'arpenter', 'vagabonder', 'errer', 'flâner']	0.0453763690109519	0.518273115158081
+couronner	['sacrer', 'consacrer', 'glorifier', 'récompenser', 'honorer']	0.0453596187824503	0.4082973003387451
+rattraper	['rattraper', 'attraper', 'rejoindre', 'reprendre', 'retrouver']	0.0417530435887386	0.4499318599700928
+guider	['diriger', 'conduire', 'orienter', 'mener', 'accompagner']	0.0411448877554521	0.38846325874328613
+garder	['conserver', 'préserver', 'protéger', 'surveiller', 'maintenir', 'tenir']	0.0366574805439817	0.450106143951416
+baiser	['embrasser', 'rouler une pelle', 'bisou', 'smack', 'galocher', 'osculer', 'becqueter', 'bécoter']	0.0345214797813338	0.6777839660644531
+identifier	['reconnaître', 'déterminer', 'repérer', 'distinguer', 'attribuer', 'désigner', 'découvrir', 'définir', 'localiser', 'classer', 'associer.']	0.0342759295067386	0.5627100467681885
+ombrer	['assombrir', 'obscurcir', 'voiler', 'couvrir']	0.0340508236433225	0.4763357639312744
+presser	['hâter', 'dépêcher', 'précipiter', 'accélérer', 'pressurer', 'forcer', 'pousser', 'comprimer', 'courir']	0.0303236985086453	0.6021051406860352
+moyenner	"['intervenir', 'arranger', 'résoudre', 'concilier', 'arbitrer', 'négocier', 'concéder', 'entremettre', 'harmoniser', 'composer', ""s'interposer"", 'corréler.']"	0.0298322911584505	0.6181759834289551
+durer	"['continuer', 'persister', 'survivre', ""s'étendre"", 'soutenir', 'endurer', 'subsister', 'perdurer', 'tenir.']"	0.0277066983724144	0.5483922958374023
+boucher	['charcutier', 'bouvier', 'égorger', 'égorgeur', 'macérateur', 'équarrisseur.']	0.0247723689164017	0.526097297668457
+charmer	['enchanter', 'ravir', 'séduire', 'captiver', 'ensorceler', 'fasciner', 'enivrer', 'enjôler', 'hypnotiser', 'plaire.']	0.0244901260152781	0.5554659366607666
+rire	"['sourire', ""s'amuser"", 'rigoler', 'pouffer', 'éclater', 'glousser']"	0.0238207244899986	0.47516632080078125
+plancher	['sol', 'parquet', 'planche', 'revêtement', 'planchéier', 'étage']	0.0212888439503911	0.42215514183044434
+mesurer	['calculer', 'dimensionner', 'évaluer', 'quantifier', 'juger', 'apprécier', 'déterminer.']	0.0179569205438635	0.4544241428375244
+livrer	['transmettre', 'remettre', 'fournir', 'céder', 'confier', 'expédier', 'donner', 'apporter', 'expérimenter']	0.0172546805141694	0.4947657585144043
+troubler	['inquiéter', 'déranger', 'désarçonner', 'chagriner', 'embarrasser', 'agiter', 'déstabiliser', 'désoler', 'ébranler', 'perturber.']	0.0164827910505242	0.6701869964599609
+venter	['souffler', 'siffler', 'hurler', 'rafaler', 'déferler', 'dévaler', 'égorger', 'gonfler', 'dégonfler', 'rafraîchir', 'rafraîchir', 'rafraî']	0.0162732362973987	0.713634729385376
+bouger	['remuer', 'déplacer', 'danser', 'déambuler', 'déménager', 'déguerpir', 'déplacer', 'se mouvoir', 'se déplacer', 'défiler', 'marcher', 'agiter', 'osciller', 'remuer', 'bran']	0.0162345365677973	0.7054378986358643
+nuer	['assombrir', 'obscurcir', 'assombrir', 'ternir', 'enténébrer']	0.0133942889995267	0.46381711959838867
+sourire	['rire', 'rictus', 'rieur', 'souriant', 'risette', 'sourire en coin', 'sourire béat', 'sourire narquois']	0.0129251296183504	0.5592832565307617
+douter	"['méfier', ""s'interroger"", 'hésiter', 'suspecter', 'soupçonner', 'craindre', 'se méfier', 'avoir des doutes.']"	0.0097656045750636	0.6086680889129639
+signer	['apposer', 'parapher', 'souscrire', 'endosser', 'ratifier', 'approuver']	0.0080836265562566	0.48094701766967773
+lutter	['combattre', 'batailler', 'lutter', 'se battre', 'résister', 'affronter']	0.0076804304820087	0.5037319660186768
+grouper	['regrouper', 'rassembler', 'réunir', 'combiner', 'associer', 'fusionner']	0.0027865661446732	0.4063248634338379
+ruer	['précipiter', 'foncer', 'se jeter', 'se précipiter', 'se ruer', 'se précipiter', 'se précipiter', 'se précipiter', 'se précipiter', 'se précipiter', 'se précipiter']	0.0015902370524732	0.716789960861206
