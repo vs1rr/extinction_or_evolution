@@ -1,6 +1,6 @@
 # Domain Specificity Benchmark
 
-Anonymised Code for Paper submitted to ACL ARR 2025 (February) 
+Anonymised Code for paper "Lexical Sensitivity in LLMs: A Benchmark for Simplification, Substitution and Domain-Specific Vocabulary"
 
 ## Table of Contents
 
